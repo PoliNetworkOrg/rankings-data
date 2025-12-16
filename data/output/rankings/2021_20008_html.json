@@ -1,0 +1,2748 @@
+{
+	"id": "2021_20008_html",
+	"school": "Urbanistica",
+	"year": 2021,
+	"phase": {
+		"raw": "Urbanistica - Anticipata",
+		"stripped": "Anticipata",
+		"primary": 0,
+		"secondary": 1,
+		"language": "IT",
+		"isExtraEu": false
+	},
+	"courses": {
+		"URBANISTICA: CITTA' AMBIENTE PAESAGGIO": []
+	},
+	"rows": [
+		{
+			"id": "515d3de61a08b815ec4c",
+			"birthDate": "02/02/2003",
+			"position": 1,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 94,
+			"sectionsResults": {
+				"Colloquio": 50,
+				"Elaborato": 27,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "daa7df896b50387e25e6",
+			"birthDate": "20/06/1999",
+			"position": 2,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 2,
+					"canEnroll": true
+				}
+			],
+			"result": 93,
+			"sectionsResults": {
+				"Colloquio": 47,
+				"Elaborato": 27,
+				"Lettera Motivazionale": 19
+			},
+			"ofa": {}
+		},
+		{
+			"id": "5fd412c7288d7c8ae5b4",
+			"birthDate": "29/03/2001",
+			"position": 3,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 3,
+					"canEnroll": true
+				}
+			],
+			"result": 92,
+			"sectionsResults": {
+				"Colloquio": 49,
+				"Elaborato": 25,
+				"Lettera Motivazionale": 18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "370c9de727039e83e596",
+			"birthDate": "17/09/2002",
+			"position": 4,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 4,
+					"canEnroll": true
+				}
+			],
+			"result": 91,
+			"sectionsResults": {
+				"Colloquio": 47,
+				"Elaborato": 26,
+				"Lettera Motivazionale": 18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "a9325d27907c2d6b56b5",
+			"birthDate": "02/05/1996",
+			"position": 5,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 5,
+					"canEnroll": true
+				}
+			],
+			"result": 90,
+			"sectionsResults": {
+				"Colloquio": 46,
+				"Elaborato": 26,
+				"Lettera Motivazionale": 18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "b9c8a1e8f0836e6b4f56",
+			"birthDate": "17/04/2000",
+			"position": 6,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 6,
+					"canEnroll": true
+				}
+			],
+			"result": 90,
+			"sectionsResults": {
+				"Colloquio": 45,
+				"Elaborato": 27,
+				"Lettera Motivazionale": 18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "c0349794ed079e5f3d56",
+			"birthDate": "31/01/2000",
+			"position": 7,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 7,
+					"canEnroll": true
+				}
+			],
+			"result": 89,
+			"sectionsResults": {
+				"Colloquio": 49,
+				"Elaborato": 23,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "0948e73f664cdac4123f",
+			"birthDate": "03/03/2002",
+			"position": 8,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 8,
+					"canEnroll": true
+				}
+			],
+			"result": 88,
+			"sectionsResults": {
+				"Colloquio": 45,
+				"Elaborato": 25,
+				"Lettera Motivazionale": 18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "9dec94fd6cee32fd3b33",
+			"birthDate": "21/01/2003",
+			"position": 9,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 9,
+					"canEnroll": true
+				}
+			],
+			"result": 87,
+			"sectionsResults": {
+				"Colloquio": 48,
+				"Elaborato": 24,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "758a4bb24da9abea79e7",
+			"birthDate": "02/03/2002",
+			"position": 10,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 10,
+					"canEnroll": true
+				}
+			],
+			"result": 87,
+			"sectionsResults": {
+				"Colloquio": 47,
+				"Elaborato": 24,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "41a7bce2d78c99a57839",
+			"birthDate": "12/07/2002",
+			"position": 11,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 11,
+					"canEnroll": true
+				}
+			],
+			"result": 87,
+			"sectionsResults": {
+				"Colloquio": 46,
+				"Elaborato": 23,
+				"Lettera Motivazionale": 18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "be4a66e0800230c79792",
+			"birthDate": "30/08/2002",
+			"position": 12,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 12,
+					"canEnroll": true
+				}
+			],
+			"result": 87,
+			"sectionsResults": {
+				"Colloquio": 44,
+				"Elaborato": 24,
+				"Lettera Motivazionale": 19
+			},
+			"ofa": {}
+		},
+		{
+			"id": "19267cd078be46a206d3",
+			"birthDate": "20/06/2002",
+			"position": 13,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 13,
+					"canEnroll": true
+				}
+			],
+			"result": 86,
+			"sectionsResults": {
+				"Colloquio": 42,
+				"Elaborato": 26,
+				"Lettera Motivazionale": 18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "22d08c7b9acd960fa554",
+			"birthDate": "18/01/2003",
+			"position": 14,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 14,
+					"canEnroll": true
+				}
+			],
+			"result": 86,
+			"sectionsResults": {
+				"Colloquio": 40,
+				"Elaborato": 26,
+				"Lettera Motivazionale": 20
+			},
+			"ofa": {}
+		},
+		{
+			"id": "732044909aa5175856f4",
+			"birthDate": "05/04/2002",
+			"position": 15,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 15,
+					"canEnroll": true
+				}
+			],
+			"result": 84,
+			"sectionsResults": {
+				"Colloquio": 45,
+				"Elaborato": 23,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "c0a8f2b75dd5f531cfae",
+			"birthDate": "21/01/2003",
+			"position": 16,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 16,
+					"canEnroll": true
+				}
+			],
+			"result": 84,
+			"sectionsResults": {
+				"Colloquio": 45,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "a7ac45a0e83be0a5dde5",
+			"birthDate": "09/05/2000",
+			"position": 17,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 17,
+					"canEnroll": true
+				}
+			],
+			"result": 84,
+			"sectionsResults": {
+				"Colloquio": 43,
+				"Elaborato": 25,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "0659dc943386641895ad",
+			"birthDate": "10/03/2002",
+			"position": 18,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 18,
+					"canEnroll": true
+				}
+			],
+			"result": 84,
+			"sectionsResults": {
+				"Colloquio": 43,
+				"Elaborato": 24,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "e735d5ce3f610c5d20ea",
+			"birthDate": "23/07/2001",
+			"position": 19,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 19,
+					"canEnroll": true
+				}
+			],
+			"result": 84,
+			"sectionsResults": {
+				"Colloquio": 41,
+				"Elaborato": 26,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "4363a59125ab078eee1b",
+			"birthDate": "26/02/2002",
+			"position": 20,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 20,
+					"canEnroll": true
+				}
+			],
+			"result": 83,
+			"sectionsResults": {
+				"Colloquio": 38,
+				"Elaborato": 25,
+				"Lettera Motivazionale": 20
+			},
+			"ofa": {}
+		},
+		{
+			"id": "f763e05436c881a5bf9d",
+			"birthDate": "26/03/2002",
+			"position": 21,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 21,
+					"canEnroll": true
+				}
+			],
+			"result": 82,
+			"sectionsResults": {
+				"Colloquio": 46,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "e5b25f2ebf0a965f2dcc",
+			"birthDate": "26/01/2002",
+			"position": 22,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 22,
+					"canEnroll": true
+				}
+			],
+			"result": 82,
+			"sectionsResults": {
+				"Colloquio": 45,
+				"Elaborato": 22,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "7f128a2055bcee568bce",
+			"birthDate": "10/09/2002",
+			"position": 23,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 23,
+					"canEnroll": true
+				}
+			],
+			"result": 82,
+			"sectionsResults": {
+				"Colloquio": 44,
+				"Elaborato": 22,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "61b2180890f41e27171a",
+			"birthDate": "05/05/2001",
+			"position": 24,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 24,
+					"canEnroll": true
+				}
+			],
+			"result": 82,
+			"sectionsResults": {
+				"Colloquio": 44,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "e1f28a2fc1f2f9a2d4c8",
+			"birthDate": "03/02/2002",
+			"position": 25,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 25,
+					"canEnroll": true
+				}
+			],
+			"result": 82,
+			"sectionsResults": {
+				"Colloquio": 44,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "96ef5309d21e263695f1",
+			"birthDate": "02/08/2002",
+			"position": 26,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 26,
+					"canEnroll": true
+				}
+			],
+			"result": 82,
+			"sectionsResults": {
+				"Colloquio": 42,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 20
+			},
+			"ofa": {}
+		},
+		{
+			"id": "a37e08998514bfce5002",
+			"birthDate": "18/04/2002",
+			"position": 27,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 27,
+					"canEnroll": true
+				}
+			],
+			"result": 81,
+			"sectionsResults": {
+				"Colloquio": 42,
+				"Elaborato": 23,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "cabc241a9c18ddf967d1",
+			"birthDate": "14/12/2002",
+			"position": 28,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 28,
+					"canEnroll": true
+				}
+			],
+			"result": 81,
+			"sectionsResults": {
+				"Colloquio": 41,
+				"Elaborato": 23,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "64bf6cb1cde92c5b38d5",
+			"birthDate": "08/02/2002",
+			"position": 29,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 29,
+					"canEnroll": true
+				}
+			],
+			"result": 80,
+			"sectionsResults": {
+				"Colloquio": 43,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "2e2abd6473698928be6d",
+			"birthDate": "28/08/1998",
+			"position": 30,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 30,
+					"canEnroll": true
+				}
+			],
+			"result": 80,
+			"sectionsResults": {
+				"Colloquio": 37,
+				"Elaborato": 27,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "d6af5651f975d20cbee5",
+			"birthDate": "14/02/2001",
+			"position": 31,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 31,
+					"canEnroll": true
+				}
+			],
+			"result": 80,
+			"sectionsResults": {
+				"Colloquio": 36,
+				"Elaborato": 25,
+				"Lettera Motivazionale": 19
+			},
+			"ofa": {}
+		},
+		{
+			"id": "96ce3f87ec742cdb0332",
+			"birthDate": "30/12/2002",
+			"position": 32,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 32,
+					"canEnroll": true
+				}
+			],
+			"result": 79,
+			"sectionsResults": {
+				"Colloquio": 45,
+				"Elaborato": 19,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "6bebb70c1ec310a6ac70",
+			"birthDate": "04/10/2002",
+			"position": 33,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 33,
+					"canEnroll": true
+				}
+			],
+			"result": 79,
+			"sectionsResults": {
+				"Colloquio": 40,
+				"Elaborato": 23,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "eec611c8835723619fdd",
+			"birthDate": "26/11/2002",
+			"position": 34,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 34,
+					"canEnroll": true
+				}
+			],
+			"result": 79,
+			"sectionsResults": {
+				"Colloquio": 38,
+				"Elaborato": 24,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "5bdc4deabfb020c00ab9",
+			"birthDate": "23/04/1996",
+			"position": 35,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 35,
+					"canEnroll": true
+				}
+			],
+			"result": 78,
+			"sectionsResults": {
+				"Colloquio": 45,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 13
+			},
+			"ofa": {}
+		},
+		{
+			"id": "5dbc2fb2587c36fc56e6",
+			"birthDate": "10/08/2002",
+			"position": 36,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 36,
+					"canEnroll": true
+				}
+			],
+			"result": 78,
+			"sectionsResults": {
+				"Colloquio": 43,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "5289b6e14c1742da4596",
+			"birthDate": "10/06/2002",
+			"position": 37,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 37,
+					"canEnroll": true
+				}
+			],
+			"result": 78,
+			"sectionsResults": {
+				"Colloquio": 41,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "9da00771425703eb3be7",
+			"birthDate": "01/02/2002",
+			"position": 38,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 38,
+					"canEnroll": true
+				}
+			],
+			"result": 78,
+			"sectionsResults": {
+				"Colloquio": 41,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "cc097785253f8a737439",
+			"birthDate": "03/06/2002",
+			"position": 39,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 39,
+					"canEnroll": true
+				}
+			],
+			"result": 78,
+			"sectionsResults": {
+				"Colloquio": 41,
+				"Elaborato": 19,
+				"Lettera Motivazionale": 18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "edeb5f44e613704eeb12",
+			"birthDate": "20/02/2000",
+			"position": 40,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 40,
+					"canEnroll": true
+				}
+			],
+			"result": 78,
+			"sectionsResults": {
+				"Colloquio": 36,
+				"Elaborato": 25,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "918ce99c4ca990a543b1",
+			"birthDate": "22/05/2002",
+			"position": 41,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 41,
+					"canEnroll": true
+				}
+			],
+			"result": 77,
+			"sectionsResults": {
+				"Colloquio": 39,
+				"Elaborato": 22,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "a5ead1a38e556530e1d9",
+			"birthDate": "30/05/1996",
+			"position": 42,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 42,
+					"canEnroll": true
+				}
+			],
+			"result": 77,
+			"sectionsResults": {
+				"Colloquio": 38,
+				"Elaborato": 22,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "7e302acee116730e5f24",
+			"birthDate": "01/09/2000",
+			"position": 43,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 43,
+					"canEnroll": true
+				}
+			],
+			"result": 77,
+			"sectionsResults": {
+				"Colloquio": 38,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 19
+			},
+			"ofa": {}
+		},
+		{
+			"id": "f635349d49d047c9a034",
+			"birthDate": "23/01/2001",
+			"position": 44,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 44,
+					"canEnroll": true
+				}
+			],
+			"result": 77,
+			"sectionsResults": {
+				"Colloquio": 35,
+				"Elaborato": 24,
+				"Lettera Motivazionale": 18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "4a5dd4e1ad5360d7cfe8",
+			"birthDate": "05/09/2002",
+			"position": 45,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 45,
+					"canEnroll": true
+				}
+			],
+			"result": 76,
+			"sectionsResults": {
+				"Colloquio": 40,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "82bb0a2c983655d1bad5",
+			"birthDate": "16/12/2002",
+			"position": 46,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 46,
+					"canEnroll": true
+				}
+			],
+			"result": 76,
+			"sectionsResults": {
+				"Colloquio": 38,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "dc0ab74ee76fd2540212",
+			"birthDate": "21/08/2002",
+			"position": 47,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 47,
+					"canEnroll": true
+				}
+			],
+			"result": 76,
+			"sectionsResults": {
+				"Colloquio": 36,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 19
+			},
+			"ofa": {}
+		},
+		{
+			"id": "6e5e9e73dc51e79d9840",
+			"birthDate": "03/07/2002",
+			"position": 48,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 48,
+					"canEnroll": true
+				}
+			],
+			"result": 76,
+			"sectionsResults": {
+				"Colloquio": 33,
+				"Elaborato": 26,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "3978d6bf270341d66874",
+			"birthDate": "15/12/2002",
+			"position": 49,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 49,
+					"canEnroll": true
+				}
+			],
+			"result": 75,
+			"sectionsResults": {
+				"Colloquio": 39,
+				"Elaborato": 22,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "b01c1f3124dac71326aa",
+			"birthDate": "07/08/2000",
+			"position": 50,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 50,
+					"canEnroll": true
+				}
+			],
+			"result": 75,
+			"sectionsResults": {
+				"Colloquio": 38,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "3b0b0aac9605dbd23a81",
+			"birthDate": "18/01/2001",
+			"position": 51,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 51,
+					"canEnroll": true
+				}
+			],
+			"result": 75,
+			"sectionsResults": {
+				"Colloquio": 36,
+				"Elaborato": 25,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "2f550e4012ed9ac8dcaf",
+			"birthDate": "08/09/2003",
+			"position": 52,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 52,
+					"canEnroll": true
+				}
+			],
+			"result": 73,
+			"sectionsResults": {
+				"Colloquio": 36,
+				"Elaborato": 23,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "4d03d5b17995c0ccc608",
+			"birthDate": "30/10/2002",
+			"position": 53,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 53,
+					"canEnroll": true
+				}
+			],
+			"result": 72,
+			"sectionsResults": {
+				"Colloquio": 40,
+				"Elaborato": 18,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "98f7fb8b779fc1af9232",
+			"birthDate": "31/12/2002",
+			"position": 54,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 54,
+					"canEnroll": true
+				}
+			],
+			"result": 72,
+			"sectionsResults": {
+				"Colloquio": 39,
+				"Elaborato": 18,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "f047522c3bda426478bc",
+			"birthDate": "08/08/2002",
+			"position": 55,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 55,
+					"canEnroll": true
+				}
+			],
+			"result": 72,
+			"sectionsResults": {
+				"Colloquio": 37,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "2f59785b75ad291ac444",
+			"birthDate": "15/09/2000",
+			"position": 56,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 56,
+					"canEnroll": true
+				}
+			],
+			"result": 72,
+			"sectionsResults": {
+				"Colloquio": 36,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "468469aba4d3c649f41a",
+			"birthDate": "02/07/2002",
+			"position": 57,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 57,
+					"canEnroll": true
+				}
+			],
+			"result": 72,
+			"sectionsResults": {
+				"Colloquio": 36,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "e9a7dee68d832f3be536",
+			"birthDate": "12/10/2000",
+			"position": 58,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 58,
+					"canEnroll": true
+				}
+			],
+			"result": 72,
+			"sectionsResults": {
+				"Colloquio": 36,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "2a7517a8f451b01aa638",
+			"birthDate": "17/07/2002",
+			"position": 59,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 59,
+					"canEnroll": true
+				}
+			],
+			"result": 72,
+			"sectionsResults": {
+				"Colloquio": 35,
+				"Elaborato": 23,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "03f367769ccf414599a9",
+			"birthDate": "06/07/1993",
+			"position": 60,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 60,
+					"canEnroll": true
+				}
+			],
+			"result": 71,
+			"sectionsResults": {
+				"Colloquio": 43,
+				"Elaborato": 17,
+				"Lettera Motivazionale": 11
+			},
+			"ofa": {}
+		},
+		{
+			"id": "2396a6f12b0329f192a6",
+			"birthDate": "21/05/2002",
+			"position": 61,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 61,
+					"canEnroll": true
+				}
+			],
+			"result": 71,
+			"sectionsResults": {
+				"Colloquio": 36,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "09f5c4244faea4f81ac6",
+			"birthDate": "26/03/2002",
+			"position": 62,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 62,
+					"canEnroll": true
+				}
+			],
+			"result": 71,
+			"sectionsResults": {
+				"Colloquio": 35,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ca8cc6f0843a157ec58f",
+			"birthDate": "19/06/2002",
+			"position": 63,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 63,
+					"canEnroll": true
+				}
+			],
+			"result": 71,
+			"sectionsResults": {
+				"Colloquio": 35,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "8bb4a6e2e458064938e2",
+			"birthDate": "03/01/1999",
+			"position": 64,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 64,
+					"canEnroll": true
+				}
+			],
+			"result": 71,
+			"sectionsResults": {
+				"Colloquio": 33,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "588f06290cca7d0c1578",
+			"birthDate": "01/10/2001",
+			"position": 65,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 65,
+					"canEnroll": true
+				}
+			],
+			"result": 70,
+			"sectionsResults": {
+				"Colloquio": 39,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 11
+			},
+			"ofa": {}
+		},
+		{
+			"id": "9144c09f2a73343a006a",
+			"birthDate": "01/07/2002",
+			"position": 66,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 66,
+					"canEnroll": true
+				}
+			],
+			"result": 70,
+			"sectionsResults": {
+				"Colloquio": 39,
+				"Elaborato": 17,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "b0d90b8baf3b8a777acb",
+			"birthDate": "12/08/2002",
+			"position": 67,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 67,
+					"canEnroll": true
+				}
+			],
+			"result": 70,
+			"sectionsResults": {
+				"Colloquio": 38,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 12
+			},
+			"ofa": {}
+		},
+		{
+			"id": "49ce1bfcbfe0b7319af3",
+			"birthDate": "06/12/2002",
+			"position": 68,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 68,
+					"canEnroll": true
+				}
+			],
+			"result": 70,
+			"sectionsResults": {
+				"Colloquio": 38,
+				"Elaborato": 17,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ceca636aaa9ea077a4aa",
+			"birthDate": "06/11/2002",
+			"position": 69,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 69,
+					"canEnroll": true
+				}
+			],
+			"result": 70,
+			"sectionsResults": {
+				"Colloquio": 37,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 12
+			},
+			"ofa": {}
+		},
+		{
+			"id": "20c3bbc2f4c77414a037",
+			"birthDate": "16/01/2002",
+			"position": 70,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 70,
+					"canEnroll": true
+				}
+			],
+			"result": 70,
+			"sectionsResults": {
+				"Colloquio": 35,
+				"Elaborato": 19,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ea855839f1d3022d0842",
+			"birthDate": "11/02/2002",
+			"position": 71,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 71,
+					"canEnroll": true
+				}
+			],
+			"result": 69,
+			"sectionsResults": {
+				"Colloquio": 36,
+				"Elaborato": 19,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "08b70b4fa4fd2a96dee3",
+			"birthDate": "26/02/2002",
+			"position": 72,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 72,
+					"canEnroll": true
+				}
+			],
+			"result": 69,
+			"sectionsResults": {
+				"Colloquio": 36,
+				"Elaborato": 18,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "fe32cf2b8b93f9110216",
+			"birthDate": "23/05/2002",
+			"position": 73,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 73,
+					"canEnroll": true
+				}
+			],
+			"result": 68,
+			"sectionsResults": {
+				"Colloquio": 35,
+				"Elaborato": 18,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "73d635e252635022462c",
+			"birthDate": "06/09/2002",
+			"position": 74,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 74,
+					"canEnroll": true
+				}
+			],
+			"result": 68,
+			"sectionsResults": {
+				"Colloquio": 34,
+				"Elaborato": 19,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "e8c250cba8e3f04b2f18",
+			"birthDate": "02/07/2002",
+			"position": 75,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 75,
+					"canEnroll": true
+				}
+			],
+			"result": 68,
+			"sectionsResults": {
+				"Colloquio": 32,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "6f6de69f38cd55aa43e7",
+			"birthDate": "03/01/2003",
+			"position": 76,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 76,
+					"canEnroll": true
+				}
+			],
+			"result": 67,
+			"sectionsResults": {
+				"Colloquio": 40,
+				"Elaborato": 16,
+				"Lettera Motivazionale": 11
+			},
+			"ofa": {}
+		},
+		{
+			"id": "71ca879efb7e39d6f3fc",
+			"birthDate": "27/06/2002",
+			"position": 77,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 77,
+					"canEnroll": true
+				}
+			],
+			"result": 67,
+			"sectionsResults": {
+				"Colloquio": 39,
+				"Elaborato": 15,
+				"Lettera Motivazionale": 13
+			},
+			"ofa": {}
+		},
+		{
+			"id": "dee46d9bb2399c2b0021",
+			"birthDate": "14/09/1990",
+			"position": 78,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 78,
+					"canEnroll": true
+				}
+			],
+			"result": 67,
+			"sectionsResults": {
+				"Colloquio": 32,
+				"Elaborato": 19,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "306eba4b8baac3d5eec5",
+			"birthDate": "17/08/2000",
+			"position": 79,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 79,
+					"canEnroll": true
+				}
+			],
+			"result": 67,
+			"sectionsResults": {
+				"Colloquio": 27,
+				"Elaborato": 22,
+				"Lettera Motivazionale": 18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "0a97c5d4fa464cd647ea",
+			"birthDate": "24/12/2001",
+			"position": 80,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 80,
+					"canEnroll": true
+				}
+			],
+			"result": 66,
+			"sectionsResults": {
+				"Colloquio": 33,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 13
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ed37def2ca6ff057ebc3",
+			"birthDate": "23/07/1999",
+			"position": 81,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 81,
+					"canEnroll": true
+				}
+			],
+			"result": 66,
+			"sectionsResults": {
+				"Colloquio": 30,
+				"Elaborato": 22,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "4fbe53336f08441bfe31",
+			"birthDate": "23/04/2002",
+			"position": 82,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 82,
+					"canEnroll": true
+				}
+			],
+			"result": 65,
+			"sectionsResults": {
+				"Colloquio": 40,
+				"Elaborato": 15,
+				"Lettera Motivazionale": 10
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ea5bac828a3feb57e384",
+			"birthDate": "20/11/2002",
+			"position": 83,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 83,
+					"canEnroll": true
+				}
+			],
+			"result": 65,
+			"sectionsResults": {
+				"Colloquio": 34,
+				"Elaborato": 17,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "045a32846563b4eea225",
+			"birthDate": "12/11/2000",
+			"position": 84,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 84,
+					"canEnroll": true
+				}
+			],
+			"result": 65,
+			"sectionsResults": {
+				"Colloquio": 33,
+				"Elaborato": 19,
+				"Lettera Motivazionale": 13
+			},
+			"ofa": {}
+		},
+		{
+			"id": "62fa5621cb6c49f0ae91",
+			"birthDate": "07/02/2002",
+			"position": 85,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 85,
+					"canEnroll": true
+				}
+			],
+			"result": 65,
+			"sectionsResults": {
+				"Colloquio": 32,
+				"Elaborato": 17,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "c2eac2ea0f423cbca2a6",
+			"birthDate": "18/02/2002",
+			"position": 86,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 86,
+					"canEnroll": true
+				}
+			],
+			"result": 65,
+			"sectionsResults": {
+				"Colloquio": 31,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "173e616acf9da61801be",
+			"birthDate": "09/01/2003",
+			"position": 87,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 87,
+					"canEnroll": true
+				}
+			],
+			"result": 64,
+			"sectionsResults": {
+				"Colloquio": 34,
+				"Elaborato": 17,
+				"Lettera Motivazionale": 13
+			},
+			"ofa": {}
+		},
+		{
+			"id": "b46e158bf3fc3244fec6",
+			"birthDate": "22/02/2002",
+			"position": 88,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 88,
+					"canEnroll": true
+				}
+			],
+			"result": 64,
+			"sectionsResults": {
+				"Colloquio": 32,
+				"Elaborato": 18,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "1b8057bca40d0aa6a2d6",
+			"birthDate": "08/06/2001",
+			"position": 89,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 89,
+					"canEnroll": true
+				}
+			],
+			"result": 64,
+			"sectionsResults": {
+				"Colloquio": 32,
+				"Elaborato": 18,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "bc9b89de9c0a5a9ae513",
+			"birthDate": "31/08/2000",
+			"position": 90,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 90,
+					"canEnroll": true
+				}
+			],
+			"result": 63,
+			"sectionsResults": {
+				"Colloquio": 32,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 11
+			},
+			"ofa": {}
+		},
+		{
+			"id": "01e98aef6849fdb581cd",
+			"birthDate": "30/03/2002",
+			"position": 91,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 91,
+					"canEnroll": true
+				}
+			],
+			"result": 63,
+			"sectionsResults": {
+				"Colloquio": 31,
+				"Elaborato": 18,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "40260ae3c324dbc4234d",
+			"birthDate": "12/02/2001",
+			"position": 92,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 92,
+					"canEnroll": true
+				}
+			],
+			"result": 62,
+			"sectionsResults": {
+				"Colloquio": 30,
+				"Elaborato": 18,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "0004219368ca1520d721",
+			"birthDate": "03/07/2002",
+			"position": 93,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 93,
+					"canEnroll": true
+				}
+			],
+			"result": 61,
+			"sectionsResults": {
+				"Colloquio": 31,
+				"Elaborato": 17,
+				"Lettera Motivazionale": 13
+			},
+			"ofa": {}
+		},
+		{
+			"id": "4d7bf9c2b003ab3b7b37",
+			"birthDate": "11/04/2002",
+			"position": 94,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 94,
+					"canEnroll": true
+				}
+			],
+			"result": 61,
+			"sectionsResults": {
+				"Colloquio": 31,
+				"Elaborato": 15,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "19c7037db1d77497e5c1",
+			"birthDate": "12/05/2002",
+			"position": 95,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 95,
+					"canEnroll": true
+				}
+			],
+			"result": 61,
+			"sectionsResults": {
+				"Colloquio": 30,
+				"Elaborato": 17,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "c50efa55c4f2334cc587",
+			"birthDate": "05/11/2002",
+			"position": 96,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 96,
+					"canEnroll": true
+				}
+			],
+			"result": 61,
+			"sectionsResults": {
+				"Colloquio": 30,
+				"Elaborato": 16,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "7180970d0d74d53a7d0a",
+			"birthDate": "07/02/2002",
+			"position": 97,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 97,
+					"canEnroll": true
+				}
+			],
+			"result": 60,
+			"sectionsResults": {
+				"Colloquio": 32,
+				"Elaborato": 15,
+				"Lettera Motivazionale": 13
+			},
+			"ofa": {}
+		},
+		{
+			"id": "5a68a7d80d591081f44f",
+			"birthDate": "09/06/2001",
+			"position": 98,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 98,
+					"canEnroll": true
+				}
+			],
+			"result": 60,
+			"sectionsResults": {
+				"Colloquio": 32,
+				"Elaborato": 15,
+				"Lettera Motivazionale": 13
+			},
+			"ofa": {}
+		},
+		{
+			"id": "6683110f444f70c29a55",
+			"birthDate": "03/09/2002",
+			"position": 99,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 99,
+					"canEnroll": true
+				}
+			],
+			"result": 60,
+			"sectionsResults": {
+				"Colloquio": 30,
+				"Elaborato": 18,
+				"Lettera Motivazionale": 12
+			},
+			"ofa": {}
+		},
+		{
+			"id": "cb7c62472f73518ced47",
+			"birthDate": "03/03/2001",
+			"position": 100,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 100,
+					"canEnroll": true
+				}
+			],
+			"result": 60,
+			"sectionsResults": {
+				"Colloquio": 29,
+				"Elaborato": 17,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "36606855a9e3a5043a39",
+			"birthDate": "24/07/2002",
+			"position": 101,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 101,
+					"canEnroll": true
+				}
+			],
+			"result": 59,
+			"sectionsResults": {
+				"Colloquio": 28,
+				"Elaborato": 17,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "0974cf88fb7c6dc04e70",
+			"birthDate": "27/08/2002",
+			"position": 102,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 102,
+					"canEnroll": true
+				}
+			],
+			"result": 58,
+			"sectionsResults": {
+				"Colloquio": 29,
+				"Elaborato": 17,
+				"Lettera Motivazionale": 12
+			},
+			"ofa": {}
+		},
+		{
+			"id": "cae4e89b1686a2bb1006",
+			"birthDate": "15/05/2002",
+			"position": 103,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 103,
+					"canEnroll": true
+				}
+			],
+			"result": 58,
+			"sectionsResults": {
+				"Colloquio": 25,
+				"Elaborato": 17,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "f84265a5e2c040ab829a",
+			"birthDate": "02/08/2002",
+			"position": 104,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 104,
+					"canEnroll": true
+				}
+			],
+			"result": 56,
+			"sectionsResults": {
+				"Colloquio": 23,
+				"Elaborato": 18,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "5edae983676ce7f6dc40",
+			"birthDate": "28/03/2002",
+			"position": 105,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 105,
+					"canEnroll": true
+				}
+			],
+			"result": 55,
+			"sectionsResults": {
+				"Colloquio": 32,
+				"Elaborato": 13,
+				"Lettera Motivazionale": 10
+			},
+			"ofa": {}
+		},
+		{
+			"id": "79b2576adc38b8cdc0c2",
+			"birthDate": "15/05/2002",
+			"position": 106,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 106,
+					"canEnroll": true
+				}
+			],
+			"result": 54,
+			"sectionsResults": {
+				"Colloquio": 29,
+				"Elaborato": 13,
+				"Lettera Motivazionale": 12
+			},
+			"ofa": {}
+		},
+		{
+			"id": "730950f2bf7594e6aec5",
+			"birthDate": "07/12/1984",
+			"position": 107,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 107,
+					"canEnroll": true
+				}
+			],
+			"result": 54,
+			"sectionsResults": {
+				"Colloquio": 29,
+				"Elaborato": 11,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "1b74a36246ff507f7381",
+			"birthDate": "26/05/2001",
+			"position": 108,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 108,
+					"canEnroll": true
+				}
+			],
+			"result": 54,
+			"sectionsResults": {
+				"Colloquio": 26,
+				"Elaborato": 18,
+				"Lettera Motivazionale": 10
+			},
+			"ofa": {}
+		},
+		{
+			"id": "565acd33287fc41509d6",
+			"birthDate": "18/03/2002",
+			"position": 109,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 109,
+					"canEnroll": true
+				}
+			],
+			"result": 54,
+			"sectionsResults": {
+				"Colloquio": 25,
+				"Elaborato": 16,
+				"Lettera Motivazionale": 13
+			},
+			"ofa": {}
+		},
+		{
+			"id": "272d442b1967f46eaba8",
+			"birthDate": "26/01/2002",
+			"position": 110,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 110,
+					"canEnroll": true
+				}
+			],
+			"result": 53,
+			"sectionsResults": {
+				"Colloquio": 28,
+				"Elaborato": 14,
+				"Lettera Motivazionale": 11
+			},
+			"ofa": {}
+		},
+		{
+			"id": "e8bcaa4106609351163f",
+			"birthDate": "22/09/2001",
+			"position": 111,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 111,
+					"canEnroll": false
+				}
+			],
+			"result": 53,
+			"sectionsResults": {
+				"Colloquio": 25,
+				"Elaborato": 16,
+				"Lettera Motivazionale": 12
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ea18f150ab0b9c687741",
+			"birthDate": "24/05/2001",
+			"position": 112,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 112,
+					"canEnroll": false
+				}
+			],
+			"result": 53,
+			"sectionsResults": {
+				"Colloquio": 24,
+				"Elaborato": 17,
+				"Lettera Motivazionale": 12
+			},
+			"ofa": {}
+		},
+		{
+			"id": "be4bae9afccb42ef428b",
+			"birthDate": "22/04/2002",
+			"position": 113,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 113,
+					"canEnroll": false
+				}
+			],
+			"result": 53,
+			"sectionsResults": {
+				"Colloquio": 22,
+				"Elaborato": 17,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "a6d6a84bc7733cd61caa",
+			"birthDate": "25/02/2002",
+			"position": 114,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 114,
+					"canEnroll": false
+				}
+			],
+			"result": 52,
+			"sectionsResults": {
+				"Colloquio": 26,
+				"Elaborato": 13,
+				"Lettera Motivazionale": 13
+			},
+			"ofa": {}
+		},
+		{
+			"id": "6d316eb4cb91e0fbfdf4",
+			"birthDate": "08/10/2001",
+			"position": 115,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 115,
+					"canEnroll": false
+				}
+			],
+			"result": 52,
+			"sectionsResults": {
+				"Colloquio": 24,
+				"Elaborato": 16,
+				"Lettera Motivazionale": 12
+			},
+			"ofa": {}
+		},
+		{
+			"id": "c51a64a1bde72e29a4bd",
+			"birthDate": "06/08/2002",
+			"position": 116,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 116,
+					"canEnroll": false
+				}
+			],
+			"result": 51,
+			"sectionsResults": {
+				"Colloquio": 22,
+				"Elaborato": 17,
+				"Lettera Motivazionale": 12
+			},
+			"ofa": {}
+		},
+		{
+			"id": "a62a38020329b3e68669",
+			"birthDate": "06/06/2001",
+			"position": 117,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 117,
+					"canEnroll": false
+				}
+			],
+			"result": 49,
+			"sectionsResults": {
+				"Colloquio": 22,
+				"Elaborato": 17,
+				"Lettera Motivazionale": 10
+			},
+			"ofa": {}
+		},
+		{
+			"id": "9fe6b552193797b23f9a",
+			"birthDate": "11/09/2002",
+			"position": 118,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 118,
+					"canEnroll": false
+				}
+			],
+			"result": 47,
+			"sectionsResults": {
+				"Colloquio": 22,
+				"Elaborato": 15,
+				"Lettera Motivazionale": 10
+			},
+			"ofa": {}
+		},
+		{
+			"id": "a78c1999f468b6d3257f",
+			"birthDate": "10/10/2000",
+			"position": 119,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 119,
+					"canEnroll": false
+				}
+			],
+			"result": 45,
+			"sectionsResults": {
+				"Colloquio": 24,
+				"Elaborato": 11,
+				"Lettera Motivazionale": 10
+			},
+			"ofa": {}
+		},
+		{
+			"id": "b4d355daeba220a6935a",
+			"birthDate": "18/09/2002",
+			"position": 120,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 120,
+					"canEnroll": false
+				}
+			],
+			"result": 43,
+			"sectionsResults": {
+				"Colloquio": 22,
+				"Elaborato": 12,
+				"Lettera Motivazionale": 9
+			},
+			"ofa": {}
+		},
+		{
+			"id": "51806117eee8d593c4d7",
+			"birthDate": "19/01/2002",
+			"position": 121,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 121,
+					"canEnroll": false
+				}
+			],
+			"result": 43,
+			"sectionsResults": {
+				"Colloquio": 22,
+				"Elaborato": 10,
+				"Lettera Motivazionale": 11
+			},
+			"ofa": {}
+		},
+		{
+			"id": "7f9e4f02b0104d5e44fb",
+			"birthDate": "21/10/2002",
+			"position": 122,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 122,
+					"canEnroll": false
+				}
+			],
+			"result": 43,
+			"sectionsResults": {
+				"Colloquio": 21,
+				"Elaborato": 13,
+				"Lettera Motivazionale": 9
+			},
+			"ofa": {}
+		},
+		{
+			"id": "30efad6a34d3d8190090",
+			"birthDate": "18/03/2001",
+			"position": 123,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 123,
+					"canEnroll": false
+				}
+			],
+			"result": 43,
+			"sectionsResults": {
+				"Colloquio": 18,
+				"Elaborato": 14,
+				"Lettera Motivazionale": 11
+			},
+			"ofa": {}
+		},
+		{
+			"id": "79d26d3786a8d68fc9bc",
+			"birthDate": "26/06/2002",
+			"position": 124,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 124,
+					"canEnroll": false
+				}
+			],
+			"result": 43,
+			"sectionsResults": {
+				"Colloquio": 17,
+				"Elaborato": 13,
+				"Lettera Motivazionale": 13
+			},
+			"ofa": {}
+		},
+		{
+			"id": "d8696b1c3dac8a67537d",
+			"birthDate": "15/12/2001",
+			"position": 125,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 125,
+					"canEnroll": false
+				}
+			],
+			"result": 41,
+			"sectionsResults": {
+				"Colloquio": 24,
+				"Elaborato": 11,
+				"Lettera Motivazionale": 6
+			},
+			"ofa": {}
+		},
+		{
+			"id": "b2049a2c5004536eb546",
+			"birthDate": "02/11/2002",
+			"position": 126,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 126,
+					"canEnroll": false
+				}
+			],
+			"result": 39,
+			"sectionsResults": {
+				"Colloquio": 18,
+				"Elaborato": 13,
+				"Lettera Motivazionale": 8
+			},
+			"ofa": {}
+		},
+		{
+			"id": "6c104237d7fd380ef68f",
+			"birthDate": "29/11/2002",
+			"position": 127,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 127,
+					"canEnroll": false
+				}
+			],
+			"result": 39,
+			"sectionsResults": {
+				"Colloquio": 9,
+				"Elaborato": 17,
+				"Lettera Motivazionale": 13
+			},
+			"ofa": {}
+		},
+		{
+			"id": "0bc8ec45af3b289f42bc",
+			"birthDate": "06/02/2002",
+			"position": 128,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 128,
+					"canEnroll": false
+				}
+			],
+			"result": 39,
+			"sectionsResults": {
+				"Colloquio": 9,
+				"Elaborato": 16,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "7c5528d3df4b4d3e02c7",
+			"birthDate": "20/03/2000",
+			"position": 129,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 129,
+					"canEnroll": false
+				}
+			],
+			"result": 38,
+			"sectionsResults": {
+				"Colloquio": 21,
+				"Elaborato": 7,
+				"Lettera Motivazionale": 10
+			},
+			"ofa": {}
+		},
+		{
+			"id": "4aabb0a87305ddb1b52e",
+			"birthDate": "31/10/1996",
+			"position": 130,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 130,
+					"canEnroll": false
+				}
+			],
+			"result": 31,
+			"sectionsResults": {
+				"Colloquio": 8,
+				"Elaborato": 12,
+				"Lettera Motivazionale": 11
+			},
+			"ofa": {}
+		}
+	]
+}

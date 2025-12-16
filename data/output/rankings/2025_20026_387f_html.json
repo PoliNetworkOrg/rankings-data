@@ -1,0 +1,6779 @@
+{
+	"id": "2025_20026_387f_html",
+	"school": "Architettura",
+	"year": 2025,
+	"phase": {
+		"raw": "Terza Graduatoria",
+		"stripped": "Terza Graduatoria",
+		"primary": 0,
+		"secondary": 3,
+		"language": "EN",
+		"isExtraEu": false
+	},
+	"courses": {
+		"PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH": [
+			"PIACENZA",
+			"MI LEONARDO"
+		]
+	},
+	"rows": [
+		{
+			"id": "2582f9b4068c64ec17cf",
+			"birthDate": "31/01/2006",
+			"position": 1,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 40,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 8.75,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 8.75,
+				"Ragionamento Logico": 7.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ae4b2da2880c5c494d3d",
+			"birthDate": "19/09/2005",
+			"position": 2,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 2,
+					"canEnroll": true
+				}
+			],
+			"result": 40,
+			"sectionsResults": {
+				"Comprensione del Testo": 8.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 8.75,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 7.5,
+				"Ragionamento Logico": 6.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "f2ab1383cb3b60a831f7",
+			"birthDate": "04/12/2006",
+			"position": 3,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 3,
+					"canEnroll": false
+				}
+			],
+			"result": 39.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 10,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 9,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 4.25,
+				"Ragionamento Logico": 6.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "241bfe89b510e5110d90",
+			"birthDate": "11/02/2007",
+			"position": 4,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 4,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 39.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 9,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.75,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 7.75,
+				"Ragionamento Logico": 8
+			},
+			"ofa": {}
+		},
+		{
+			"id": "fc2a9d8f6c2e892499b4",
+			"birthDate": "06/10/2004",
+			"position": 5,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 5,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 2,
+					"canEnroll": true
+				}
+			],
+			"result": 39.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 8.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3.25,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 10,
+				"Ragionamento Logico": 7.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "481eb70fae3a795afdd8",
+			"birthDate": "25/05/2002",
+			"position": 6,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 6,
+					"canEnroll": false
+				}
+			],
+			"result": 39.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 8.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6.5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 5.25,
+				"Ragionamento Logico": 10
+			},
+			"ofa": {}
+		},
+		{
+			"id": "930b1a9f6cc7c2e5a39a",
+			"birthDate": "28/01/2006",
+			"position": 7,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 7,
+					"canEnroll": false
+				}
+			],
+			"result": 39.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 8.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 7,
+				"Disegno e Rappresentazione": 6,
+				"Fisica e Matematica": 7.5,
+				"Ragionamento Logico": 10
+			},
+			"ofa": {}
+		},
+		{
+			"id": "7fbfbbc6fe63041f2faa",
+			"birthDate": "26/11/2007",
+			"position": 8,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 8,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 3,
+					"canEnroll": true
+				}
+			],
+			"result": 39.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 10,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.75,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 5.75,
+				"Ragionamento Logico": 9
+			},
+			"ofa": {}
+		},
+		{
+			"id": "30071da25a13a91e88e7",
+			"birthDate": "14/02/2006",
+			"position": 9,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 9,
+					"canEnroll": false
+				}
+			],
+			"result": 39.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 8.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.25,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 8.75,
+				"Ragionamento Logico": 8.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "d1d348ac2f2ffc966867",
+			"birthDate": "20/02/2007",
+			"position": 10,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 10,
+					"canEnroll": false
+				}
+			],
+			"result": 39.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 8.75,
+				"Ragionamento Logico": 7.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ab17fcefa0f80dde4e74",
+			"birthDate": "28/06/2006",
+			"position": 11,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 11,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 4,
+					"canEnroll": true
+				}
+			],
+			"result": 39,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 7.5,
+				"Ragionamento Logico": 10
+			},
+			"ofa": {}
+		},
+		{
+			"id": "77f933cb8856638e6135",
+			"birthDate": "23/06/2006",
+			"position": 12,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 12,
+					"canEnroll": false
+				}
+			],
+			"result": 39,
+			"sectionsResults": {
+				"Comprensione del Testo": 8,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 7.75,
+				"Ragionamento Logico": 7.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "5c063f9a61f21756fa49",
+			"birthDate": "01/08/2005",
+			"position": 13,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 13,
+					"canEnroll": false
+				}
+			],
+			"result": 39,
+			"sectionsResults": {
+				"Comprensione del Testo": 9,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 10,
+				"Disegno e Rappresentazione": 5,
+				"Fisica e Matematica": 8.75,
+				"Ragionamento Logico": 6.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "0aacbb5d0254658a005c",
+			"birthDate": "08/11/2006",
+			"position": 14,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 14,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 5,
+					"canEnroll": true
+				}
+			],
+			"result": 38.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 7,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 8.75,
+				"Ragionamento Logico": 10
+			},
+			"ofa": {}
+		},
+		{
+			"id": "56fb70a99dc8c06720e1",
+			"birthDate": "13/01/2006",
+			"position": 15,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 15,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 6,
+					"canEnroll": true
+				}
+			],
+			"result": 38.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 10,
+				"Disegno e Rappresentazione": 5,
+				"Fisica e Matematica": 8.75,
+				"Ragionamento Logico": 10
+			},
+			"ofa": {}
+		},
+		{
+			"id": "53dbbe6b884e78c3da56",
+			"birthDate": "19/04/2005",
+			"position": 16,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 16,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 7,
+					"canEnroll": true
+				}
+			],
+			"result": 38.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 8.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 7.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 3.75,
+				"Ragionamento Logico": 8.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "63b389b5e03dd31e29ca",
+			"birthDate": "07/12/2007",
+			"position": 17,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 17,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 8,
+					"canEnroll": true
+				}
+			],
+			"result": 38.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 10,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 10,
+				"Disegno e Rappresentazione": 3.75,
+				"Fisica e Matematica": 8.75,
+				"Ragionamento Logico": 6.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "004f028fefd345f5c51a",
+			"birthDate": "06/06/2005",
+			"position": 18,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 18,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 9,
+					"canEnroll": true
+				}
+			],
+			"result": 38.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 8.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 10,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 5,
+				"Ragionamento Logico": 6.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "23f812539f5d127159a8",
+			"birthDate": "20/10/2006",
+			"position": 19,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 19,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 10,
+					"canEnroll": true
+				}
+			],
+			"result": 38.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 8.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 10,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 3.25,
+				"Ragionamento Logico": 7.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "9aff12535e3279b384a8",
+			"birthDate": "22/12/2006",
+			"position": 20,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 20,
+					"canEnroll": false
+				}
+			],
+			"result": 38.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 9,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 7.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 6.25,
+				"Ragionamento Logico": 5.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "4ec6cbe7302246c79400",
+			"birthDate": "28/10/2005",
+			"position": 21,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 21,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 11,
+					"canEnroll": false
+				}
+			],
+			"result": 38,
+			"sectionsResults": {
+				"Comprensione del Testo": 3.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 7.75,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 10,
+				"Ragionamento Logico": 6.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "557eecb351047b57120b",
+			"birthDate": "05/07/2007",
+			"position": 22,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 22,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 12,
+					"canEnroll": false
+				}
+			],
+			"result": 38,
+			"sectionsResults": {
+				"Comprensione del Testo": 8.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 7.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 5.5,
+				"Ragionamento Logico": 6.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "c1311ebea3c643241826",
+			"birthDate": "14/07/2000",
+			"position": 23,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 23,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 13,
+					"canEnroll": false
+				}
+			],
+			"result": 38,
+			"sectionsResults": {
+				"Comprensione del Testo": 10,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 9,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 5.25,
+				"Ragionamento Logico": 3.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "c61e91ff4714ab7a0b6e",
+			"birthDate": "18/08/2001",
+			"position": 24,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 24,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 14,
+					"canEnroll": false
+				}
+			],
+			"result": 37.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 10,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.25,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 2.5,
+				"Ragionamento Logico": 10
+			},
+			"ofa": {}
+		},
+		{
+			"id": "3971950bdf578971a6ee",
+			"birthDate": "14/09/2006",
+			"position": 25,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 25,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 15,
+					"canEnroll": false
+				}
+			],
+			"result": 37.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 5.25,
+				"Ragionamento Logico": 10
+			},
+			"ofa": {}
+		},
+		{
+			"id": "d94c0695f93de51bc533",
+			"birthDate": "01/06/2006",
+			"position": 26,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 26,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 16,
+					"canEnroll": false
+				}
+			],
+			"result": 37.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 8.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 6.75,
+				"Ragionamento Logico": 6.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "0695b5f574f76eaa2f95",
+			"birthDate": "25/08/2004",
+			"position": 27,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 27,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 17,
+					"canEnroll": false
+				}
+			],
+			"result": 37.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 8.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6.75,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 6.75,
+				"Ragionamento Logico": 5.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "3e35ba4fc6388b916e79",
+			"birthDate": "01/12/2006",
+			"position": 28,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 28,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 18,
+					"canEnroll": false
+				}
+			],
+			"result": 37.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 10,
+				"Disegno e Rappresentazione": 6.25,
+				"Fisica e Matematica": 10,
+				"Ragionamento Logico": 6.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "06f3ae560cbc5970335d",
+			"birthDate": "28/01/2004",
+			"position": 29,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 29,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 19,
+					"canEnroll": false
+				}
+			],
+			"result": 37.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 9,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 7,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 5.75,
+				"Ragionamento Logico": 6.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "db4cf31e0626e86c5121",
+			"birthDate": "08/02/2005",
+			"position": 30,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 30,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 20,
+					"canEnroll": false
+				}
+			],
+			"result": 37.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6.75,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 10,
+				"Ragionamento Logico": 5.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "142dcf37d1236e2bf28b",
+			"birthDate": "29/06/2006",
+			"position": 31,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 31,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 21,
+					"canEnroll": false
+				}
+			],
+			"result": 37.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 9,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 6.25,
+				"Ragionamento Logico": 5.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "6547e59f1110656b7953",
+			"birthDate": "16/06/2006",
+			"position": 32,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 32,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 22,
+					"canEnroll": false
+				}
+			],
+			"result": 37,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 6,
+				"Ragionamento Logico": 9
+			},
+			"ofa": {}
+		},
+		{
+			"id": "23b85604d9639f00b0ac",
+			"birthDate": "30/08/2006",
+			"position": 33,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 33,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 23,
+					"canEnroll": false
+				}
+			],
+			"result": 37,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 8,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 5.75,
+				"Ragionamento Logico": 6.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "fd74a8934806ec53b927",
+			"birthDate": "19/07/2004",
+			"position": 34,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 34,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 24,
+					"canEnroll": false
+				}
+			],
+			"result": 37,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 7.75,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 6.5,
+				"Ragionamento Logico": 6.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "7353001237079219ea5a",
+			"birthDate": "07/02/2006",
+			"position": 35,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 35,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 25,
+					"canEnroll": false
+				}
+			],
+			"result": 37,
+			"sectionsResults": {
+				"Comprensione del Testo": 8,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 9,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 4.5,
+				"Ragionamento Logico": 5.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "54d3ad9c7fb453653752",
+			"birthDate": "10/08/2007",
+			"position": 36,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 36,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 26,
+					"canEnroll": false
+				}
+			],
+			"result": 36.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 8.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6.5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 5,
+				"Ragionamento Logico": 7.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "8d100f9a2d7168b7c7b5",
+			"birthDate": "10/09/2005",
+			"position": 37,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 37,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 27,
+					"canEnroll": false
+				}
+			],
+			"result": 36.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 8.75,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 2,
+				"Ragionamento Logico": 8
+			},
+			"ofa": {}
+		},
+		{
+			"id": "f584f8abb91dbe6a000c",
+			"birthDate": "28/07/2005",
+			"position": 38,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 38,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 28,
+					"canEnroll": false
+				}
+			],
+			"result": 36.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.75,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 8.75,
+				"Ragionamento Logico": 6.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "9a77718657483aeb1816",
+			"birthDate": "18/10/2007",
+			"position": 39,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 39,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 29,
+					"canEnroll": false
+				}
+			],
+			"result": 36.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 7.75,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 9,
+				"Ragionamento Logico": 3.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "f67484ca5aa19b327e8b",
+			"birthDate": "06/04/2006",
+			"position": 40,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 40,
+					"canEnroll": false
+				}
+			],
+			"result": 36,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 9,
+				"Disegno e Rappresentazione": 5.25,
+				"Fisica e Matematica": 7.75,
+				"Ragionamento Logico": 7.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "0f9a1583dff5b733d385",
+			"birthDate": "14/07/2006",
+			"position": 41,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 41,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 30,
+					"canEnroll": false
+				}
+			],
+			"result": 36,
+			"sectionsResults": {
+				"Comprensione del Testo": 8.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 4.25,
+				"Ragionamento Logico": 7.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "0431742cbfcef73d6e41",
+			"birthDate": "11/07/2007",
+			"position": 42,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 42,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 31,
+					"canEnroll": false
+				}
+			],
+			"result": 35.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 9,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 8,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 2,
+				"Ragionamento Logico": 6.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "d40618e8dfe7756c04fe",
+			"birthDate": "08/08/2006",
+			"position": 43,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 43,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 32,
+					"canEnroll": false
+				}
+			],
+			"result": 35.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 5.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6.75,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 6.75,
+				"Ragionamento Logico": 6.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "9f0ad8b79bb66f0697de",
+			"birthDate": "22/07/2007",
+			"position": 44,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 44,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 33,
+					"canEnroll": false
+				}
+			],
+			"result": 35.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 8,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 4.5,
+				"Ragionamento Logico": 5.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "09ae1ad9f983c60c9f05",
+			"birthDate": "21/12/2004",
+			"position": 45,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 45,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 34,
+					"canEnroll": false
+				}
+			],
+			"result": 35.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 10,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 5.5,
+				"Ragionamento Logico": 3.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "e35bde4d925b8ba8d152",
+			"birthDate": "02/04/2005",
+			"position": 46,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 46,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 35,
+					"canEnroll": false
+				}
+			],
+			"result": 35.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3.25,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 4.5,
+				"Ragionamento Logico": 10
+			},
+			"ofa": {}
+		},
+		{
+			"id": "593c803812ff0c29170f",
+			"birthDate": "26/02/2007",
+			"position": 47,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 47,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 36,
+					"canEnroll": false
+				}
+			],
+			"result": 35.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 4.25,
+				"Ragionamento Logico": 9
+			},
+			"ofa": {}
+		},
+		{
+			"id": "28cf396a2e413561596e",
+			"birthDate": "14/05/2007",
+			"position": 48,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 48,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 37,
+					"canEnroll": false
+				}
+			],
+			"result": 35.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 7,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 4.5,
+				"Ragionamento Logico": 7.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "98145f03b9b3df2afbd6",
+			"birthDate": "13/09/2007",
+			"position": 49,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 49,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 38,
+					"canEnroll": false
+				}
+			],
+			"result": 35.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 7.5,
+				"Ragionamento Logico": 6.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "564e117b835081e791db",
+			"birthDate": "26/07/2006",
+			"position": 50,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 50,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 39,
+					"canEnroll": false
+				}
+			],
+			"result": 35.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 8.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 10,
+				"Disegno e Rappresentazione": 2.75,
+				"Fisica e Matematica": 7.5,
+				"Ragionamento Logico": 6.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "eb69ccf86309286249d9",
+			"birthDate": "12/08/2006",
+			"position": 51,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 51,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 40,
+					"canEnroll": false
+				}
+			],
+			"result": 35.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 10,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 6.75,
+				"Ragionamento Logico": 4.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "f3dc3db3a3bd63fa83db",
+			"birthDate": "26/09/2005",
+			"position": 52,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 52,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 41,
+					"canEnroll": false
+				}
+			],
+			"result": 35,
+			"sectionsResults": {
+				"Comprensione del Testo": 4.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 7,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 7,
+				"Ragionamento Logico": 6.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "bb133a662b37a013bebb",
+			"birthDate": "15/11/2006",
+			"position": 53,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 53,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 42,
+					"canEnroll": false
+				}
+			],
+			"result": 35,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 7.75,
+				"Ragionamento Logico": 5.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "e49081ce9629a655ad3e",
+			"birthDate": "28/12/2006",
+			"position": 54,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 54,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 43,
+					"canEnroll": false
+				}
+			],
+			"result": 34.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 4.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 2.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 10,
+				"Ragionamento Logico": 8
+			},
+			"ofa": {}
+		},
+		{
+			"id": "57302618947804aba4e0",
+			"birthDate": "02/03/2006",
+			"position": 55,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 55,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 44,
+					"canEnroll": false
+				}
+			],
+			"result": 34.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 10,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 4.5,
+				"Ragionamento Logico": 5.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "f65d822510b561c488ba",
+			"birthDate": "04/03/2006",
+			"position": 56,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 56,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 45,
+					"canEnroll": false
+				}
+			],
+			"result": 34.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 7,
+				"Ragionamento Logico": 4.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "11ef2e68fffc458308aa",
+			"birthDate": "21/10/2004",
+			"position": 57,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 57,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 46,
+					"canEnroll": false
+				}
+			],
+			"result": 34.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 4.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 10,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 8.75,
+				"Ragionamento Logico": 4
+			},
+			"ofa": {}
+		},
+		{
+			"id": "271feb03be2896cf87cc",
+			"birthDate": "25/04/2007",
+			"position": 58,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 58,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 47,
+					"canEnroll": false
+				}
+			],
+			"result": 34.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6.5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 5.75,
+				"Ragionamento Logico": 6.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "39fdc1548b57dfec1921",
+			"birthDate": "04/11/2006",
+			"position": 59,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 59,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 48,
+					"canEnroll": false
+				}
+			],
+			"result": 34.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 6.75,
+				"Ragionamento Logico": 5.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ef5347a5ac6b96246b62",
+			"birthDate": "05/12/2006",
+			"position": 60,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 60,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 49,
+					"canEnroll": false
+				}
+			],
+			"result": 34.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 4.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 0,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 10,
+				"Ragionamento Logico": 10
+			},
+			"ofa": {}
+		},
+		{
+			"id": "60654b47da11802f39cd",
+			"birthDate": "22/06/2004",
+			"position": 61,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 61,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 50,
+					"canEnroll": false
+				}
+			],
+			"result": 34,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 8,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 5.25,
+				"Ragionamento Logico": 4.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "e390ac49cdc36b32e0b5",
+			"birthDate": "23/04/2006",
+			"position": 62,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 62,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 51,
+					"canEnroll": false
+				}
+			],
+			"result": 33.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 2.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 7.75,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 6.5,
+				"Ragionamento Logico": 7
+			},
+			"ofa": {}
+		},
+		{
+			"id": "b3b09403b0568e589f7d",
+			"birthDate": "07/10/2006",
+			"position": 63,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 63,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 52,
+					"canEnroll": false
+				}
+			],
+			"result": 33.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.25,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 6.75,
+				"Ragionamento Logico": 6.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "66ecf17e0dc4662c892b",
+			"birthDate": "28/06/2006",
+			"position": 64,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 64,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 53,
+					"canEnroll": false
+				}
+			],
+			"result": 33.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 7.75,
+				"Ragionamento Logico": 6.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "5398c8554a317a2b85af",
+			"birthDate": "09/12/2004",
+			"position": 65,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 65,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 54,
+					"canEnroll": false
+				}
+			],
+			"result": 33.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 10,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 5,
+				"Ragionamento Logico": 6.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "b038e8dc759b3dc82fde",
+			"birthDate": "29/03/2006",
+			"position": 66,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 66,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 55,
+					"canEnroll": false
+				}
+			],
+			"result": 33.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 5.5,
+				"Ragionamento Logico": 5.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "5d8c1793d88a228d9299",
+			"birthDate": "03/06/2005",
+			"position": 67,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 67,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 56,
+					"canEnroll": false
+				}
+			],
+			"result": 33.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 4,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 7.75,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 6.75,
+				"Ragionamento Logico": 5.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "31232c6492a0b53af46c",
+			"birthDate": "22/04/2005",
+			"position": 68,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 68,
+					"canEnroll": false
+				}
+			],
+			"result": 33.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 10,
+				"Disegno e Rappresentazione": 5,
+				"Fisica e Matematica": 7.5,
+				"Ragionamento Logico": 3.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "90d2c43a6d2cf0f39bc3",
+			"birthDate": "13/04/2004",
+			"position": 69,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 69,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 57,
+					"canEnroll": false
+				}
+			],
+			"result": 33.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 4.25,
+				"Ragionamento Logico": 6.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "31b2236abcaaae1fc300",
+			"birthDate": "29/03/2006",
+			"position": 70,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 70,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 58,
+					"canEnroll": false
+				}
+			],
+			"result": 33.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 9,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.75,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 3.25,
+				"Ragionamento Logico": 5.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "4de94746a8869247973d",
+			"birthDate": "11/07/2006",
+			"position": 71,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 71,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 59,
+					"canEnroll": false
+				}
+			],
+			"result": 33,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.25,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 5,
+				"Ragionamento Logico": 7.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "fd8c7a35bb7db1ebf059",
+			"birthDate": "15/08/2006",
+			"position": 72,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 72,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 60,
+					"canEnroll": false
+				}
+			],
+			"result": 33,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3.75,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 5.5,
+				"Ragionamento Logico": 7.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "94c4288ffd50b3b1ee23",
+			"birthDate": "14/05/2004",
+			"position": 73,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 73,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 61,
+					"canEnroll": false
+				}
+			],
+			"result": 33,
+			"sectionsResults": {
+				"Comprensione del Testo": 4,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6.75,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 6.75,
+				"Ragionamento Logico": 5.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "02bcd12b0ee7d7d60aa7",
+			"birthDate": "29/03/2006",
+			"position": 74,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 74,
+					"canEnroll": false
+				}
+			],
+			"result": 32.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 8.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 2.5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 6.25,
+				"Ragionamento Logico": 6.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "5acc24310de7a49f8ab9",
+			"birthDate": "22/10/2005",
+			"position": 75,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 75,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 62,
+					"canEnroll": false
+				}
+			],
+			"result": 32.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 8.75,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 2.5,
+				"Ragionamento Logico": 6.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "0322f13290492be92400",
+			"birthDate": "11/09/1993",
+			"position": 76,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 76,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 63,
+					"canEnroll": false
+				}
+			],
+			"result": 32.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 8.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6.25,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 5,
+				"Ragionamento Logico": 3.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "f117c94ab9508a079ede",
+			"birthDate": "06/08/2006",
+			"position": 77,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 77,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 64,
+					"canEnroll": false
+				}
+			],
+			"result": 32.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 5.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 9,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 5.75,
+				"Ragionamento Logico": 2.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "6c1b2048b909af6569b3",
+			"birthDate": "07/01/2004",
+			"position": 78,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 78,
+					"canEnroll": false
+				}
+			],
+			"result": 32.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 3.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 6.5,
+				"Ragionamento Logico": 7.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "cc04c4ba24ce9070be04",
+			"birthDate": "16/06/2004",
+			"position": 79,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 79,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 65,
+					"canEnroll": false
+				}
+			],
+			"result": 32,
+			"sectionsResults": {
+				"Comprensione del Testo": 5.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5,
+				"Disegno e Rappresentazione": 9,
+				"Fisica e Matematica": 6,
+				"Ragionamento Logico": 6.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "0a13dd3619793371fc5f",
+			"birthDate": "20/02/2006",
+			"position": 80,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 80,
+					"canEnroll": false
+				}
+			],
+			"result": 31.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 6,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 3.5,
+				"Ragionamento Logico": 7.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "bfee6907675f918f1aa9",
+			"birthDate": "07/04/2006",
+			"position": 81,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 81,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 66,
+					"canEnroll": false
+				}
+			],
+			"result": 31.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 5.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 5.75,
+				"Ragionamento Logico": 6.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "798c530ad4ffbd0711dc",
+			"birthDate": "13/02/2006",
+			"position": 82,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 82,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 67,
+					"canEnroll": false
+				}
+			],
+			"result": 31.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 7.5,
+				"Ragionamento Logico": 6.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "83eef8ff30fe6786ff43",
+			"birthDate": "07/01/2004",
+			"position": 83,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 83,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 68,
+					"canEnroll": false
+				}
+			],
+			"result": 31.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 7,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 1.25,
+				"Ragionamento Logico": 5.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "6c573bd631fb52422c9c",
+			"birthDate": "20/06/2007",
+			"position": 84,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 84,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 69,
+					"canEnroll": false
+				}
+			],
+			"result": 31.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 5.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.75,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 6.75,
+				"Ragionamento Logico": 3.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "2986b3bdc15a6646245e",
+			"birthDate": "08/12/2006",
+			"position": 85,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 85,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 70,
+					"canEnroll": false
+				}
+			],
+			"result": 31.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 8.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 3.75,
+				"Ragionamento Logico": 5.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "cb5f52cc42486c50dcac",
+			"birthDate": "10/04/2005",
+			"position": 86,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 86,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 71,
+					"canEnroll": false
+				}
+			],
+			"result": 31.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 8,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 6.75,
+				"Ragionamento Logico": 1.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "05566f2580b4ca93e996",
+			"birthDate": "08/02/2006",
+			"position": 87,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 87,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 72,
+					"canEnroll": false
+				}
+			],
+			"result": 31.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 6.25,
+				"Ragionamento Logico": 6.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "fcb2befcf1ed850a5f53",
+			"birthDate": "21/03/2007",
+			"position": 88,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 88,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 73,
+					"canEnroll": false
+				}
+			],
+			"result": 31.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 4.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 8,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 4,
+				"Ragionamento Logico": 4.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "b277284ac061729382c2",
+			"birthDate": "31/03/2005",
+			"position": 89,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 89,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 74,
+					"canEnroll": false
+				}
+			],
+			"result": 31.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 5.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 6.5,
+				"Ragionamento Logico": 3
+			},
+			"ofa": {}
+		},
+		{
+			"id": "3ef8b7f6a34437e62b30",
+			"birthDate": "05/08/2006",
+			"position": 90,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 90,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 75,
+					"canEnroll": false
+				}
+			],
+			"result": 31.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 5.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6.5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 7.75,
+				"Ragionamento Logico": 3
+			},
+			"ofa": {}
+		},
+		{
+			"id": "65c5b15a4ff6668982a4",
+			"birthDate": "26/11/2006",
+			"position": 91,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 91,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 76,
+					"canEnroll": false
+				}
+			],
+			"result": 31,
+			"sectionsResults": {
+				"Comprensione del Testo": 3.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 5.75,
+				"Ragionamento Logico": 6.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "c1f688c7e8e4a7e61e15",
+			"birthDate": "26/02/2006",
+			"position": 92,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 92,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 77,
+					"canEnroll": false
+				}
+			],
+			"result": 31,
+			"sectionsResults": {
+				"Comprensione del Testo": 8.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 2,
+				"Ragionamento Logico": 6.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ff94ecc475a36bf9b52a",
+			"birthDate": "08/11/2006",
+			"position": 93,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 93,
+					"canEnroll": false
+				}
+			],
+			"result": 31,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 8.75,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 1.75,
+				"Ragionamento Logico": 5.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "26473fb75a05218febff",
+			"birthDate": "08/04/2007",
+			"position": 94,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 94,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 78,
+					"canEnroll": false
+				}
+			],
+			"result": 30.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 9,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 7,
+				"Disegno e Rappresentazione": 6,
+				"Fisica e Matematica": 3.75,
+				"Ragionamento Logico": 5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "12b5db348920800fe49c",
+			"birthDate": "27/03/2007",
+			"position": 95,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 95,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 79,
+					"canEnroll": false
+				}
+			],
+			"result": 30.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 4.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 6,
+				"Ragionamento Logico": 5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "7695e88fc9e111147e18",
+			"birthDate": "24/10/2006",
+			"position": 96,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 96,
+					"canEnroll": false
+				}
+			],
+			"result": 30.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 7.5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 4,
+				"Ragionamento Logico": 4
+			},
+			"ofa": {}
+		},
+		{
+			"id": "d8c02ae7f72d4106fb6f",
+			"birthDate": "06/02/2006",
+			"position": 97,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 97,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 80,
+					"canEnroll": false
+				}
+			],
+			"result": 30.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 10,
+				"Disegno e Rappresentazione": 6.25,
+				"Fisica e Matematica": 1.75,
+				"Ragionamento Logico": 7.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "1bf7f5b6bdd1b1cc279c",
+			"birthDate": "10/03/2006",
+			"position": 98,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 98,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 81,
+					"canEnroll": false
+				}
+			],
+			"result": 30.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 5.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.75,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 5.75,
+				"Ragionamento Logico": 4.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "43f97852a0a638aa55f9",
+			"birthDate": "06/08/2006",
+			"position": 99,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 99,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 82,
+					"canEnroll": false
+				}
+			],
+			"result": 30.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3.25,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 5.5,
+				"Ragionamento Logico": 4.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "83ee8a7db21080c758ed",
+			"birthDate": "31/07/2006",
+			"position": 100,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 100,
+					"canEnroll": false
+				}
+			],
+			"result": 30.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 5.5,
+				"Ragionamento Logico": 4.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "f6293b372077fb1fa607",
+			"birthDate": "09/12/2004",
+			"position": 101,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 101,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 83,
+					"canEnroll": false
+				}
+			],
+			"result": 30.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 4.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 3.75,
+				"Ragionamento Logico": 8.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "3bbdcc25741795068c48",
+			"birthDate": "19/04/2004",
+			"position": 102,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 102,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 84,
+					"canEnroll": false
+				}
+			],
+			"result": 30.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6,
+				"Disegno e Rappresentazione": 6.25,
+				"Fisica e Matematica": 5.25,
+				"Ragionamento Logico": 5.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "04ffb26e547ef7f965c5",
+			"birthDate": "06/07/2007",
+			"position": 103,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 103,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 85,
+					"canEnroll": false
+				}
+			],
+			"result": 30.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 7.5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 3.75,
+				"Ragionamento Logico": 5.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "d3b353dbacb17d7f792b",
+			"birthDate": "19/08/2006",
+			"position": 104,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 104,
+					"canEnroll": false
+				}
+			],
+			"result": 30.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 7,
+				"Disegno e Rappresentazione": 6.25,
+				"Fisica e Matematica": 6.5,
+				"Ragionamento Logico": 3
+			},
+			"ofa": {}
+		},
+		{
+			"id": "1d9d2bf98027364f57e0",
+			"birthDate": "14/07/2007",
+			"position": 105,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 105,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 86,
+					"canEnroll": false
+				}
+			],
+			"result": 30,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 2.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 3.75,
+				"Ragionamento Logico": 6.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "0343deee526b868af1f7",
+			"birthDate": "31/12/1998",
+			"position": 106,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 106,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 87,
+					"canEnroll": false
+				}
+			],
+			"result": 30,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6.25,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 2.5,
+				"Ragionamento Logico": 5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "a3616589e78aad019928",
+			"birthDate": "06/11/2007",
+			"position": 107,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 107,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 88,
+					"canEnroll": false
+				}
+			],
+			"result": 30,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 5.25,
+				"Ragionamento Logico": 4.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "a8de2f3ff1a3c813231a",
+			"birthDate": "16/12/2006",
+			"position": 108,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 108,
+					"canEnroll": false
+				}
+			],
+			"result": 29.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.25,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 2.5,
+				"Ragionamento Logico": 5.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "c6d13d414ac10e58d6ba",
+			"birthDate": "24/07/2006",
+			"position": 109,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 109,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 89,
+					"canEnroll": false
+				}
+			],
+			"result": 29.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 8.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": -0.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 6.25,
+				"Ragionamento Logico": 5.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "7d27f4fa9e7ef854b352",
+			"birthDate": "15/11/2002",
+			"position": 110,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 110,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 90,
+					"canEnroll": false
+				}
+			],
+			"result": 29.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6.5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 1.75,
+				"Ragionamento Logico": 5.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "f26f46f39018f2533520",
+			"birthDate": "16/01/2007",
+			"position": 111,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 111,
+					"canEnroll": false
+				}
+			],
+			"result": 29.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 9,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.5,
+				"Disegno e Rappresentazione": 6.25,
+				"Fisica e Matematica": 3.25,
+				"Ragionamento Logico": 6.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "e1003f592304960ef815",
+			"birthDate": "19/02/1981",
+			"position": 112,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 112,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 91,
+					"canEnroll": false
+				}
+			],
+			"result": 29.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3.75,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 4.25,
+				"Ragionamento Logico": 6.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "7f41156acba2490e37c1",
+			"birthDate": "20/04/2006",
+			"position": 113,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 113,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 92,
+					"canEnroll": false
+				}
+			],
+			"result": 29.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 4.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.25,
+				"Disegno e Rappresentazione": 9,
+				"Fisica e Matematica": 6.75,
+				"Ragionamento Logico": 3.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "5c68a0b9a1b2cb441fed",
+			"birthDate": "16/10/2006",
+			"position": 114,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 114,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 93,
+					"canEnroll": false
+				}
+			],
+			"result": 29.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 4,
+				"Ragionamento Logico": 3.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "c6a2e14c3948d5a4dc66",
+			"birthDate": "04/09/2006",
+			"position": 115,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 115,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 94,
+					"canEnroll": false
+				}
+			],
+			"result": 29.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 4.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.25,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 7.75,
+				"Ragionamento Logico": 1.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "88fe8408ec7c3c30a4d9",
+			"birthDate": "11/07/2006",
+			"position": 116,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 116,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 95,
+					"canEnroll": false
+				}
+			],
+			"result": 29.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6.75,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 1.25,
+				"Ragionamento Logico": 4.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "dd478babf93742473724",
+			"birthDate": "03/08/2006",
+			"position": 117,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 117,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 96,
+					"canEnroll": false
+				}
+			],
+			"result": 29.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6.5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 4.5,
+				"Ragionamento Logico": 3.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "a35304890027c84f93f5",
+			"birthDate": "01/03/2008",
+			"position": 118,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 118,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 97,
+					"canEnroll": false
+				}
+			],
+			"result": 29,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 10,
+				"Disegno e Rappresentazione": 0.25,
+				"Fisica e Matematica": 6.25,
+				"Ragionamento Logico": 6.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "284d6ce1ca28cf4fe630",
+			"birthDate": "20/03/2005",
+			"position": 119,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 119,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 98,
+					"canEnroll": false
+				}
+			],
+			"result": 29,
+			"sectionsResults": {
+				"Comprensione del Testo": 8.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3.75,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 4,
+				"Ragionamento Logico": 3.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "47f501aaa5618a2ad60c",
+			"birthDate": "08/08/2007",
+			"position": 120,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 120,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 99,
+					"canEnroll": false
+				}
+			],
+			"result": 28.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6.75,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 4,
+				"Ragionamento Logico": 3
+			},
+			"ofa": {}
+		},
+		{
+			"id": "8f5362ce88d00428df4d",
+			"birthDate": "10/07/2003",
+			"position": 121,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 121,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 100,
+					"canEnroll": false
+				}
+			],
+			"result": 28.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 5.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 2,
+				"Ragionamento Logico": 4.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "6b3699a5f56fe535e617",
+			"birthDate": "25/07/2005",
+			"position": 122,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 122,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 101,
+					"canEnroll": false
+				}
+			],
+			"result": 28.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.25,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 2.25,
+				"Ragionamento Logico": 5.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "afe695f7abfee4019f63",
+			"birthDate": "08/08/2007",
+			"position": 123,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 123,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 102,
+					"canEnroll": false
+				}
+			],
+			"result": 28.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.75,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 2.5,
+				"Ragionamento Logico": 5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "bcfd329ecd96154655db",
+			"birthDate": "13/04/2006",
+			"position": 124,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 124,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 103,
+					"canEnroll": false
+				}
+			],
+			"result": 28,
+			"sectionsResults": {
+				"Comprensione del Testo": 4.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.75,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 5.25,
+				"Ragionamento Logico": 3.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "c4693935e04604be954a",
+			"birthDate": "05/05/2006",
+			"position": 125,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 125,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 104,
+					"canEnroll": false
+				}
+			],
+			"result": 28,
+			"sectionsResults": {
+				"Comprensione del Testo": 4,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 7.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 3.25,
+				"Ragionamento Logico": 3.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "b9c794896ee6efb8187e",
+			"birthDate": "16/05/2006",
+			"position": 126,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 126,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 105,
+					"canEnroll": false
+				}
+			],
+			"result": 28,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 7,
+				"Disegno e Rappresentazione": 6.25,
+				"Fisica e Matematica": 5.25,
+				"Ragionamento Logico": 3
+			},
+			"ofa": {}
+		},
+		{
+			"id": "79d7b269c2e552613348",
+			"birthDate": "02/12/2007",
+			"position": 127,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 127,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 106,
+					"canEnroll": false
+				}
+			],
+			"result": 28,
+			"sectionsResults": {
+				"Comprensione del Testo": 7,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6.75,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 4.25,
+				"Ragionamento Logico": 2.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "555af91aa9b340f2c8e8",
+			"birthDate": "02/07/2006",
+			"position": 128,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 128,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 107,
+					"canEnroll": false
+				}
+			],
+			"result": 27.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 4,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 7,
+				"Disegno e Rappresentazione": 6.25,
+				"Fisica e Matematica": 3.75,
+				"Ragionamento Logico": 6.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "419fc4048ee0e0139af3",
+			"birthDate": "01/11/2005",
+			"position": 129,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 129,
+					"canEnroll": false
+				}
+			],
+			"result": 27.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 8.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 1.75,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 2.25,
+				"Ragionamento Logico": 5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "9ef292f90928bd074120",
+			"birthDate": "07/06/2006",
+			"position": 130,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 130,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 108,
+					"canEnroll": false
+				}
+			],
+			"result": 27.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.75,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 4,
+				"Ragionamento Logico": 4.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "9bacd5d399e63fbc31c2",
+			"birthDate": "05/11/2004",
+			"position": 131,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 131,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 109,
+					"canEnroll": false
+				}
+			],
+			"result": 27.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.25,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 3,
+				"Ragionamento Logico": 6.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "f34ead75bc177855f5dc",
+			"birthDate": "28/12/2007",
+			"position": 132,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 132,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 110,
+					"canEnroll": false
+				}
+			],
+			"result": 27.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3.75,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 3.75,
+				"Ragionamento Logico": 6.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "34c5f1144a13054ff8d6",
+			"birthDate": "21/07/2005",
+			"position": 133,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 133,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 111,
+					"canEnroll": false
+				}
+			],
+			"result": 27.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.25,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 2.25,
+				"Ragionamento Logico": 4.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "1030f4ea6d514a682059",
+			"birthDate": "26/02/2006",
+			"position": 134,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 134,
+					"canEnroll": false
+				}
+			],
+			"result": 27.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.75,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 4.5,
+				"Ragionamento Logico": 2
+			},
+			"ofa": {}
+		},
+		{
+			"id": "919356383d83df61bea2",
+			"birthDate": "27/09/2005",
+			"position": 135,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 135,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 112,
+					"canEnroll": false
+				}
+			],
+			"result": 27.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 3.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3.25,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 4,
+				"Ragionamento Logico": 7.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "d39cd0ad2e8b8a724440",
+			"birthDate": "28/10/2005",
+			"position": 136,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 136,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 113,
+					"canEnroll": false
+				}
+			],
+			"result": 27,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.25,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 1,
+				"Ragionamento Logico": 5.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "45ab33830a70a7402f52",
+			"birthDate": "15/09/2005",
+			"position": 137,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 137,
+					"canEnroll": false
+				}
+			],
+			"result": 27,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 3,
+				"Ragionamento Logico": 3.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "c1d0b0becbd435a0a0af",
+			"birthDate": "30/06/2005",
+			"position": 138,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 138,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 114,
+					"canEnroll": false
+				}
+			],
+			"result": 26.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 2.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 2.5,
+				"Ragionamento Logico": 7
+			},
+			"ofa": {}
+		},
+		{
+			"id": "f6e7f4034dc1353c501b",
+			"birthDate": "23/02/2006",
+			"position": 139,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 139,
+					"canEnroll": false
+				}
+			],
+			"result": 26.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 6,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.75,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 2.5,
+				"Ragionamento Logico": 2.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "4da3fc0ade74ad5d200c",
+			"birthDate": "19/03/2002",
+			"position": 140,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 140,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 115,
+					"canEnroll": false
+				}
+			],
+			"result": 26.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 5.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 4.5,
+				"Ragionamento Logico": 1.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "74ce50a13d15b07e1eb3",
+			"birthDate": "06/02/2006",
+			"position": 141,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 141,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 116,
+					"canEnroll": false
+				}
+			],
+			"result": 26.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 2.5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 3.75,
+				"Ragionamento Logico": 6.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "843ad87444eb6af021b9",
+			"birthDate": "29/03/2006",
+			"position": 142,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 142,
+					"canEnroll": false
+				}
+			],
+			"result": 26.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 3,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 7.75,
+				"Disegno e Rappresentazione": 6.25,
+				"Fisica e Matematica": 4,
+				"Ragionamento Logico": 5.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "69216c502bd4afce7e3c",
+			"birthDate": "10/10/2006",
+			"position": 143,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 143,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 117,
+					"canEnroll": false
+				}
+			],
+			"result": 26.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 2.5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 3.75,
+				"Ragionamento Logico": 5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "98568df325c9e54c8e1a",
+			"birthDate": "11/10/2006",
+			"position": 144,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 144,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 118,
+					"canEnroll": false
+				}
+			],
+			"result": 26.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 7,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 0.75,
+				"Ragionamento Logico": 4.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "1b8411604051dd824246",
+			"birthDate": "08/11/2006",
+			"position": 145,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 145,
+					"canEnroll": false
+				}
+			],
+			"result": 26.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.25,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 4.25,
+				"Ragionamento Logico": 4
+			},
+			"ofa": {}
+		},
+		{
+			"id": "bd3f13f430d0277aee21",
+			"birthDate": "01/01/2005",
+			"position": 146,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 146,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 119,
+					"canEnroll": false
+				}
+			],
+			"result": 26.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 1.25,
+				"Ragionamento Logico": 2.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "bae4c143acb5a9125e93",
+			"birthDate": "11/07/2006",
+			"position": 147,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 147,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 120,
+					"canEnroll": false
+				}
+			],
+			"result": 26.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 2.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 8.75,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 6.25,
+				"Ragionamento Logico": 1.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ea078b1e5ca942c3bc8b",
+			"birthDate": "22/12/2006",
+			"position": 148,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 148,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 121,
+					"canEnroll": false
+				}
+			],
+			"result": 26,
+			"sectionsResults": {
+				"Comprensione del Testo": 5.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.75,
+				"Disegno e Rappresentazione": 7.75,
+				"Fisica e Matematica": 5.5,
+				"Ragionamento Logico": 1.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "e7403a3bec56eef258a8",
+			"birthDate": "28/02/2004",
+			"position": 149,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 149,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 122,
+					"canEnroll": false
+				}
+			],
+			"result": 26,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 8,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 0.75,
+				"Ragionamento Logico": 1
+			},
+			"ofa": {}
+		},
+		{
+			"id": "4e7c4d8b7f60b9f5655d",
+			"birthDate": "17/06/2004",
+			"position": 150,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 150,
+					"canEnroll": false
+				}
+			],
+			"result": 25.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 3.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 7,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 2,
+				"Ragionamento Logico": 4.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "716397e6f73fc3bb2ee9",
+			"birthDate": "02/05/2006",
+			"position": 151,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 151,
+					"canEnroll": false
+				}
+			],
+			"result": 25.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.75,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 4.75,
+				"Ragionamento Logico": -0.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "cf0abdd779a9995fb628",
+			"birthDate": "05/01/2007",
+			"position": 152,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 152,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 123,
+					"canEnroll": false
+				}
+			],
+			"result": 25.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 2.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.75,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 4.5,
+				"Ragionamento Logico": 3.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "81b851c9d58672c4ec28",
+			"birthDate": "13/02/2006",
+			"position": 153,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 153,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 124,
+					"canEnroll": false
+				}
+			],
+			"result": 25.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 5.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 4.5,
+				"Ragionamento Logico": 3.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "87127efa5aa7152f5a3a",
+			"birthDate": "14/11/2007",
+			"position": 154,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 154,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 125,
+					"canEnroll": false
+				}
+			],
+			"result": 25.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 3.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 1.75,
+				"Ragionamento Logico": 5.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "10577119f3356516e0b8",
+			"birthDate": "21/01/2005",
+			"position": 155,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 155,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 126,
+					"canEnroll": false
+				}
+			],
+			"result": 25.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 3.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 0.75,
+				"Ragionamento Logico": 5.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "401fc85257d643579b0e",
+			"birthDate": "30/01/2006",
+			"position": 156,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 156,
+					"canEnroll": false
+				}
+			],
+			"result": 25.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6.25,
+				"Disegno e Rappresentazione": 5,
+				"Fisica e Matematica": 3.75,
+				"Ragionamento Logico": 4
+			},
+			"ofa": {}
+		},
+		{
+			"id": "04c8cec8abcaef4b8ed6",
+			"birthDate": "21/09/2006",
+			"position": 157,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 157,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 127,
+					"canEnroll": false
+				}
+			],
+			"result": 25.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3.75,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 5.5,
+				"Ragionamento Logico": 2
+			},
+			"ofa": {}
+		},
+		{
+			"id": "629ce19db107bdf5e0e8",
+			"birthDate": "09/05/2006",
+			"position": 158,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 158,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 128,
+					"canEnroll": false
+				}
+			],
+			"result": 25,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 1.5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 1.5,
+				"Ragionamento Logico": 6.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "7744dda1bcfc43c92701",
+			"birthDate": "28/12/2006",
+			"position": 159,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 159,
+					"canEnroll": false
+				}
+			],
+			"result": 25,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.25,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 0.25,
+				"Ragionamento Logico": 4.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "96154b7dce77ad393d2f",
+			"birthDate": "06/09/2000",
+			"position": 160,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 160,
+					"canEnroll": false
+				}
+			],
+			"result": 24.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 4.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3.75,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 2.75,
+				"Ragionamento Logico": 4
+			},
+			"ofa": {}
+		},
+		{
+			"id": "331703995dd05a3bd379",
+			"birthDate": "11/12/2006",
+			"position": 161,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 161,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 129,
+					"canEnroll": false
+				}
+			],
+			"result": 24.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6.5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 2.25,
+				"Ragionamento Logico": -0.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "45d54703550f46261228",
+			"birthDate": "22/10/2006",
+			"position": 162,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 162,
+					"canEnroll": false
+				}
+			],
+			"result": 24.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 2.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 0.75,
+				"Ragionamento Logico": 6.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "545c5eeca01161fe98e9",
+			"birthDate": "01/07/2006",
+			"position": 163,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 163,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 130,
+					"canEnroll": false
+				}
+			],
+			"result": 24.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 5.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 1,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 5.25,
+				"Ragionamento Logico": 5.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "16dae999f4b3a1dd86b2",
+			"birthDate": "27/04/2005",
+			"position": 164,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 164,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 131,
+					"canEnroll": false
+				}
+			],
+			"result": 24.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.5,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 2.25,
+				"Ragionamento Logico": 4.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "044fbc1827c15d9c700e",
+			"birthDate": "21/10/2005",
+			"position": 165,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 165,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 132,
+					"canEnroll": false
+				}
+			],
+			"result": 24.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 3.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 3.75,
+				"Ragionamento Logico": 4.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "053ba15b34c2c73f0879",
+			"birthDate": "30/08/2006",
+			"position": 166,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 166,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 133,
+					"canEnroll": false
+				}
+			],
+			"result": 24.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3.75,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 4,
+				"Ragionamento Logico": 1.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "d7c62427a78fa7a870c1",
+			"birthDate": "13/06/2006",
+			"position": 167,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 167,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 134,
+					"canEnroll": false
+				}
+			],
+			"result": 24.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 4.75,
+				"Ragionamento Logico": 1.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "dd68b40946a3acc77741",
+			"birthDate": "10/08/2006",
+			"position": 168,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 168,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 135,
+					"canEnroll": false
+				}
+			],
+			"result": 24.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 4.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.25,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 0.5,
+				"Ragionamento Logico": 5.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "417eb98c9fffd5cd9bf0",
+			"birthDate": "20/01/2006",
+			"position": 169,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 169,
+					"canEnroll": false
+				}
+			],
+			"result": 24,
+			"sectionsResults": {
+				"Comprensione del Testo": 3.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.25,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 3.25,
+				"Ragionamento Logico": 2
+			},
+			"ofa": {}
+		},
+		{
+			"id": "7137286233ae2bcafe00",
+			"birthDate": "07/11/2006",
+			"position": 170,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 170,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 136,
+					"canEnroll": false
+				}
+			],
+			"result": 24,
+			"sectionsResults": {
+				"Comprensione del Testo": 5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 7.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 1.5,
+				"Ragionamento Logico": 0
+			},
+			"ofa": {}
+		},
+		{
+			"id": "f42c7a52af4a8ba04d73",
+			"birthDate": "22/01/2007",
+			"position": 171,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 171,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 137,
+					"canEnroll": false
+				}
+			],
+			"result": 23.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 1.5,
+				"Disegno e Rappresentazione": 7.75,
+				"Fisica e Matematica": 2.75,
+				"Ragionamento Logico": 5.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "5da8b6278a19b8446325",
+			"birthDate": "28/07/2006",
+			"position": 172,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 172,
+					"canEnroll": false
+				}
+			],
+			"result": 23.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 2.5,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 2.5,
+				"Ragionamento Logico": 5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "cbd2ae78b48aa9199154",
+			"birthDate": "22/01/2005",
+			"position": 173,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 173,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 138,
+					"canEnroll": false
+				}
+			],
+			"result": 23.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 1.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 10,
+				"Disegno e Rappresentazione": 1.25,
+				"Fisica e Matematica": 6.25,
+				"Ragionamento Logico": 5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "651c8250a8b7e841f0d7",
+			"birthDate": "29/01/2006",
+			"position": 174,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 174,
+					"canEnroll": false
+				}
+			],
+			"result": 23.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6.25,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 0,
+				"Ragionamento Logico": 3.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "6ecb549fb45c50cf72df",
+			"birthDate": "01/08/2006",
+			"position": 175,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 175,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 139,
+					"canEnroll": false
+				}
+			],
+			"result": 23.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.5,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 4.75,
+				"Ragionamento Logico": 1
+			},
+			"ofa": {}
+		},
+		{
+			"id": "2899c6f4111718f3f514",
+			"birthDate": "06/09/2005",
+			"position": 176,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 176,
+					"canEnroll": false
+				}
+			],
+			"result": 23.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 5.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 0.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 1.75,
+				"Ragionamento Logico": 5.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "d5ab438bf619632531dc",
+			"birthDate": "28/04/2006",
+			"position": 177,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 177,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 140,
+					"canEnroll": false
+				}
+			],
+			"result": 23.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 3.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3.25,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 3.5,
+				"Ragionamento Logico": 3
+			},
+			"ofa": {}
+		},
+		{
+			"id": "196b6280a613ea5f72d3",
+			"birthDate": "13/07/2006",
+			"position": 178,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 178,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 141,
+					"canEnroll": false
+				}
+			],
+			"result": 23.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 3,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 4.25,
+				"Ragionamento Logico": 2.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "9a4e9ba84bf916f8fea4",
+			"birthDate": "10/11/2007",
+			"position": 179,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 179,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 142,
+					"canEnroll": false
+				}
+			],
+			"result": 23.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 5.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.25,
+				"Disegno e Rappresentazione": 7.75,
+				"Fisica e Matematica": 3.75,
+				"Ragionamento Logico": 2.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "82f7aac1e8b5839449e5",
+			"birthDate": "07/08/2006",
+			"position": 180,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 180,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 143,
+					"canEnroll": false
+				}
+			],
+			"result": 23.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 4,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 3,
+				"Ragionamento Logico": 3
+			},
+			"ofa": {}
+		},
+		{
+			"id": "2c398316142ef3fd3346",
+			"birthDate": "26/11/2005",
+			"position": 181,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 181,
+					"canEnroll": false
+				}
+			],
+			"result": 23,
+			"sectionsResults": {
+				"Comprensione del Testo": 2.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 0.5,
+				"Ragionamento Logico": 5.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "8948ab8843261fb176b2",
+			"birthDate": "02/07/2005",
+			"position": 182,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 182,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 144,
+					"canEnroll": false
+				}
+			],
+			"result": 23,
+			"sectionsResults": {
+				"Comprensione del Testo": 5.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 1,
+				"Ragionamento Logico": 2
+			},
+			"ofa": {}
+		},
+		{
+			"id": "c4e406332e719e990cd0",
+			"birthDate": "18/06/2006",
+			"position": 183,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 183,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 145,
+					"canEnroll": false
+				}
+			],
+			"result": 23,
+			"sectionsResults": {
+				"Comprensione del Testo": 5.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4,
+				"Disegno e Rappresentazione": 7.75,
+				"Fisica e Matematica": 4.25,
+				"Ragionamento Logico": 1.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "70c2cd62b53aa07e07f8",
+			"birthDate": "06/05/2007",
+			"position": 184,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 184,
+					"canEnroll": false
+				}
+			],
+			"result": 23,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3.75,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 3.5,
+				"Ragionamento Logico": -0.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "25595768cd496ae79651",
+			"birthDate": "16/02/2007",
+			"position": 185,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 185,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 146,
+					"canEnroll": false
+				}
+			],
+			"result": 22.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 8,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 2.5,
+				"Disegno e Rappresentazione": 6.75,
+				"Fisica e Matematica": 0.75,
+				"Ragionamento Logico": 4.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "504d668ec5a566f6322c",
+			"birthDate": "26/12/2007",
+			"position": 186,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 186,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 147,
+					"canEnroll": false
+				}
+			],
+			"result": 22.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.25,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": -1.5,
+				"Ragionamento Logico": 3.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "0c4e25553f4037696eda",
+			"birthDate": "15/02/2006",
+			"position": 187,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 187,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 148,
+					"canEnroll": false
+				}
+			],
+			"result": 22.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 3.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 2.25,
+				"Ragionamento Logico": 3.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "cc30ab426efa5dfc61cc",
+			"birthDate": "25/07/2006",
+			"position": 188,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 188,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 149,
+					"canEnroll": false
+				}
+			],
+			"result": 22.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 0.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6,
+				"Disegno e Rappresentazione": 7.75,
+				"Fisica e Matematica": 5.5,
+				"Ragionamento Logico": 2.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "e2244d2220f8ad7250de",
+			"birthDate": "26/08/2007",
+			"position": 189,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 189,
+					"canEnroll": false
+				}
+			],
+			"result": 22.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5,
+				"Disegno e Rappresentazione": 6.25,
+				"Fisica e Matematica": 2.5,
+				"Ragionamento Logico": 2.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "9613ec011bdcac6bf3c2",
+			"birthDate": "28/04/2007",
+			"position": 190,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 190,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 150,
+					"canEnroll": false
+				}
+			],
+			"result": 22.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 1.25,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 6.25,
+				"Ragionamento Logico": 2.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "e80d36297f0eb98cead8",
+			"birthDate": "27/04/2000",
+			"position": 191,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 191,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 151,
+					"canEnroll": false
+				}
+			],
+			"result": 22.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 5.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 7,
+				"Disegno e Rappresentazione": 6.25,
+				"Fisica e Matematica": 3.5,
+				"Ragionamento Logico": 0.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "d666a7ce8e780af54cf1",
+			"birthDate": "13/09/2005",
+			"position": 192,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 192,
+					"canEnroll": false
+				}
+			],
+			"result": 22.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 3.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 2.75,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 2,
+				"Ragionamento Logico": 3.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "577d72cbe04d8175a4dd",
+			"birthDate": "19/08/2005",
+			"position": 193,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 193,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 152,
+					"canEnroll": false
+				}
+			],
+			"result": 22.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 3.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": -1,
+				"Ragionamento Logico": 3
+			},
+			"ofa": {}
+		},
+		{
+			"id": "94f10b40729ddf74a07a",
+			"birthDate": "28/01/2007",
+			"position": 194,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 194,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 153,
+					"canEnroll": false
+				}
+			],
+			"result": 22.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.25,
+				"Disegno e Rappresentazione": 7.75,
+				"Fisica e Matematica": 2.5,
+				"Ragionamento Logico": 2.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "0049d33b4b4caff7481d",
+			"birthDate": "29/10/2005",
+			"position": 195,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 195,
+					"canEnroll": false
+				}
+			],
+			"result": 22.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 4.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.25,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 2.25,
+				"Ragionamento Logico": 0.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "133cd4e0f78b73b6bdb3",
+			"birthDate": "10/10/2006",
+			"position": 196,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 196,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 154,
+					"canEnroll": false
+				}
+			],
+			"result": 22.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6.75,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 1.25,
+				"Ragionamento Logico": -0.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "fead053f08418716899c",
+			"birthDate": "16/02/2006",
+			"position": 197,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 197,
+					"canEnroll": false
+				}
+			],
+			"result": 21.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 1.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 1.75,
+				"Ragionamento Logico": 5.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "adf6213e8a8a8f5a4547",
+			"birthDate": "28/06/2007",
+			"position": 198,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 198,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 155,
+					"canEnroll": false
+				}
+			],
+			"result": 21.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 3.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.5,
+				"Disegno e Rappresentazione": 6.5,
+				"Fisica e Matematica": 2.5,
+				"Ragionamento Logico": 4.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "9e3f5f903762293b3da6",
+			"birthDate": "05/08/2004",
+			"position": 199,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 199,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 156,
+					"canEnroll": false
+				}
+			],
+			"result": 21.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 2.75,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 0.75,
+				"Ragionamento Logico": 2.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "39292878155a5a7ad510",
+			"birthDate": "28/01/2004",
+			"position": 200,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 200,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 157,
+					"canEnroll": false
+				}
+			],
+			"result": 21.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4,
+				"Disegno e Rappresentazione": 6.25,
+				"Fisica e Matematica": 1.5,
+				"Ragionamento Logico": 2.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "b82cb0b7dd5a0564c3a4",
+			"birthDate": "17/10/2006",
+			"position": 201,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 201,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 158,
+					"canEnroll": false
+				}
+			],
+			"result": 21.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 3.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6.5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 1.75,
+				"Ragionamento Logico": 0.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "8444f42c041bfd8120a4",
+			"birthDate": "05/11/2006",
+			"position": 202,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 202,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 159,
+					"canEnroll": false
+				}
+			],
+			"result": 21.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 3.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 2.5,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 3.75,
+				"Ragionamento Logico": 3.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ae08fde5ce5e37d2c43d",
+			"birthDate": "16/12/2006",
+			"position": 203,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 203,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 160,
+					"canEnroll": false
+				}
+			],
+			"result": 21.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3.75,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 0,
+				"Ragionamento Logico": 2.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "aa7dcaeb632132174604",
+			"birthDate": "19/06/2007",
+			"position": 204,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 204,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 161,
+					"canEnroll": false
+				}
+			],
+			"result": 21.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 4,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 0.75,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 4,
+				"Ragionamento Logico": 2.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "1ea48055520a8373013e",
+			"birthDate": "16/03/2006",
+			"position": 205,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 205,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 162,
+					"canEnroll": false
+				}
+			],
+			"result": 21.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 3.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 3.75,
+				"Ragionamento Logico": 2
+			},
+			"ofa": {}
+		},
+		{
+			"id": "214492957c5139d021e0",
+			"birthDate": "12/11/2005",
+			"position": 206,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 206,
+					"canEnroll": false
+				}
+			],
+			"result": 21.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.25,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 0.5,
+				"Ragionamento Logico": 0.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "8c70d8bb8b6452a7531e",
+			"birthDate": "24/07/2006",
+			"position": 207,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 207,
+					"canEnroll": false
+				}
+			],
+			"result": 21,
+			"sectionsResults": {
+				"Comprensione del Testo": 1.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.25,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 3.75,
+				"Ragionamento Logico": 2.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "bbd69a9f334148521cf9",
+			"birthDate": "22/11/2006",
+			"position": 208,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 208,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 163,
+					"canEnroll": false
+				}
+			],
+			"result": 21,
+			"sectionsResults": {
+				"Comprensione del Testo": 5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 1.75,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 5,
+				"Ragionamento Logico": 0.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "7e92b835824aa0945b51",
+			"birthDate": "13/10/2003",
+			"position": 209,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 209,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 164,
+					"canEnroll": false
+				}
+			],
+			"result": 20.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 3.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.5,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 4.5,
+				"Ragionamento Logico": 0.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "d362f5169be1852d2ab6",
+			"birthDate": "05/05/2006",
+			"position": 210,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 210,
+					"canEnroll": false
+				}
+			],
+			"result": 20.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 6,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 1.5,
+				"Ragionamento Logico": 2.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "c6eae55a6cd0b4993436",
+			"birthDate": "07/05/2007",
+			"position": 211,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 211,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 165,
+					"canEnroll": false
+				}
+			],
+			"result": 20.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 3,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.75,
+				"Disegno e Rappresentazione": 6.25,
+				"Fisica e Matematica": 1,
+				"Ragionamento Logico": 5.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "2bd94c25167828913f3e",
+			"birthDate": "14/09/2006",
+			"position": 212,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 212,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 166,
+					"canEnroll": false
+				}
+			],
+			"result": 20.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 4.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 2.75,
+				"Disegno e Rappresentazione": 8,
+				"Fisica e Matematica": 1,
+				"Ragionamento Logico": 4
+			},
+			"ofa": {}
+		},
+		{
+			"id": "f13ed6934ecbd3db0a38",
+			"birthDate": "18/05/2006",
+			"position": 213,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 213,
+					"canEnroll": false
+				}
+			],
+			"result": 20.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 2,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 3.25,
+				"Ragionamento Logico": 1.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "bed040d53a45633112e5",
+			"birthDate": "22/12/2005",
+			"position": 214,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 214,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 167,
+					"canEnroll": false
+				}
+			],
+			"result": 20.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 1.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 8,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 1,
+				"Ragionamento Logico": -0.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "22473e5331e09b94782a",
+			"birthDate": "12/10/2005",
+			"position": 215,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 215,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 168,
+					"canEnroll": false
+				}
+			],
+			"result": 20,
+			"sectionsResults": {
+				"Comprensione del Testo": 1.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.5,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 3,
+				"Ragionamento Logico": 0
+			},
+			"ofa": {}
+		},
+		{
+			"id": "3aedf19e761029958809",
+			"birthDate": "01/01/2006",
+			"position": 216,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 216,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 169,
+					"canEnroll": false
+				}
+			],
+			"result": 19.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 3.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": -2,
+				"Ragionamento Logico": 5.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "606e2ec5ead337cf5417",
+			"birthDate": "30/11/2006",
+			"position": 217,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 217,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 170,
+					"canEnroll": false
+				}
+			],
+			"result": 19.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6.5,
+				"Disegno e Rappresentazione": 5,
+				"Fisica e Matematica": 0.5,
+				"Ragionamento Logico": 2.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "30be307400120eae6378",
+			"birthDate": "18/05/2005",
+			"position": 218,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 218,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 171,
+					"canEnroll": false
+				}
+			],
+			"result": 19.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 8.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3.75,
+				"Disegno e Rappresentazione": 6.25,
+				"Fisica e Matematica": 1.5,
+				"Ragionamento Logico": -0.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "bb20c95225f48a7dfe4b",
+			"birthDate": "23/07/2006",
+			"position": 219,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 172,
+					"canEnroll": false
+				}
+			],
+			"result": 19.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 2.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 1.75,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 4.5,
+				"Ragionamento Logico": 1
+			},
+			"ofa": {}
+		},
+		{
+			"id": "96c5f6818fc9b7f23760",
+			"birthDate": "08/05/2006",
+			"position": 220,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 219,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 173,
+					"canEnroll": false
+				}
+			],
+			"result": 19.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 2.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 2,
+				"Ragionamento Logico": 1.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "1d6cecab157965540fd9",
+			"birthDate": "07/08/2006",
+			"position": 221,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 220,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 174,
+					"canEnroll": false
+				}
+			],
+			"result": 19,
+			"sectionsResults": {
+				"Comprensione del Testo": 5.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 1.25,
+				"Disegno e Rappresentazione": 9,
+				"Fisica e Matematica": 2,
+				"Ragionamento Logico": 1
+			},
+			"ofa": {}
+		},
+		{
+			"id": "c4eab7f7a21df842c07f",
+			"birthDate": "06/06/2005",
+			"position": 222,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 221,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 175,
+					"canEnroll": false
+				}
+			],
+			"result": 18.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 1.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3.75,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 2.25,
+				"Ragionamento Logico": 1
+			},
+			"ofa": {}
+		},
+		{
+			"id": "1ddccf64c88352b8b0df",
+			"birthDate": "11/10/2006",
+			"position": 223,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 222,
+					"canEnroll": false
+				}
+			],
+			"result": 18.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 3.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 7.5,
+				"Disegno e Rappresentazione": 6.25,
+				"Fisica e Matematica": 1.25,
+				"Ragionamento Logico": 0
+			},
+			"ofa": {}
+		},
+		{
+			"id": "afcd4b7e74885ab10b9a",
+			"birthDate": "25/12/2006",
+			"position": 224,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 223,
+					"canEnroll": false
+				}
+			],
+			"result": 18.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.25,
+				"Disegno e Rappresentazione": 4,
+				"Fisica e Matematica": 1,
+				"Ragionamento Logico": 0.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "8f3c60f0c9b63dc8a9ae",
+			"birthDate": "30/08/2006",
+			"position": 225,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 224,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 176,
+					"canEnroll": false
+				}
+			],
+			"result": 18.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 5.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 1.25,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 1.25,
+				"Ragionamento Logico": 0.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "abb626f85fc4286bb9ff",
+			"birthDate": "13/03/2006",
+			"position": 226,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 225,
+					"canEnroll": false
+				}
+			],
+			"result": 18,
+			"sectionsResults": {
+				"Comprensione del Testo": 4.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.75,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 0.25,
+				"Ragionamento Logico": 1
+			},
+			"ofa": {}
+		},
+		{
+			"id": "d1d570cb7d65dce35ef0",
+			"birthDate": "09/08/2005",
+			"position": 227,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 226,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 177,
+					"canEnroll": false
+				}
+			],
+			"result": 17.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 2.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 2,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 3.25,
+				"Ragionamento Logico": 2.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "df0c2fd983e89893f215",
+			"birthDate": "20/10/2006",
+			"position": 228,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 227,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 178,
+					"canEnroll": false
+				}
+			],
+			"result": 17.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 2.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.75,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": -0.25,
+				"Ragionamento Logico": 0.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "97fc10a48f19ffb31473",
+			"birthDate": "24/02/2003",
+			"position": 229,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 228,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 179,
+					"canEnroll": false
+				}
+			],
+			"result": 17.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 2,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3.75,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 2,
+				"Ragionamento Logico": 0.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "4711003772ee553f2654",
+			"birthDate": "30/07/2007",
+			"position": 230,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 229,
+					"canEnroll": false
+				}
+			],
+			"result": 17,
+			"sectionsResults": {
+				"Comprensione del Testo": 2,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 2,
+				"Ragionamento Logico": 1.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "8c4fff48c59ed5b7f00b",
+			"birthDate": "16/01/2006",
+			"position": 231,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 230,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 180,
+					"canEnroll": false
+				}
+			],
+			"result": 16.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 3.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 0.25,
+				"Ragionamento Logico": 2.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "187ef9aac4c7b8806485",
+			"birthDate": "27/08/2007",
+			"position": 232,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 231,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 181,
+					"canEnroll": false
+				}
+			],
+			"result": 16.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 0.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 2,
+				"Disegno e Rappresentazione": 9,
+				"Fisica e Matematica": 4.5,
+				"Ragionamento Logico": 0.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "2de81a190b78d6b97605",
+			"birthDate": "02/02/2007",
+			"position": 233,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 232,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 182,
+					"canEnroll": false
+				}
+			],
+			"result": 16,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": -0.25,
+				"Disegno e Rappresentazione": 6.5,
+				"Fisica e Matematica": 3.25,
+				"Ragionamento Logico": 0.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "46a79888027dbbb3ec8e",
+			"birthDate": "16/04/2007",
+			"position": 234,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 233,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 183,
+					"canEnroll": false
+				}
+			],
+			"result": 15.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 4,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 2.75,
+				"Disegno e Rappresentazione": 2.5,
+				"Fisica e Matematica": 2.75,
+				"Ragionamento Logico": 3.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "11c50f0e4da8263aa43e",
+			"birthDate": "28/04/2005",
+			"position": 235,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 234,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 184,
+					"canEnroll": false
+				}
+			],
+			"result": 15.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 0,
+				"Disegno e Rappresentazione": 6.25,
+				"Fisica e Matematica": 1.25,
+				"Ragionamento Logico": 1.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "2481ede4c8d0106c6ee2",
+			"birthDate": "01/09/2006",
+			"position": 236,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 235,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 185,
+					"canEnroll": false
+				}
+			],
+			"result": 14.75,
+			"sectionsResults": {
+				"Comprensione del Testo": 2.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 8,
+				"Disegno e Rappresentazione": 3,
+				"Fisica e Matematica": 2.75,
+				"Ragionamento Logico": -1.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "5e91e4d4958f075a40df",
+			"birthDate": "16/09/2004",
+			"position": 237,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 236,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 186,
+					"canEnroll": false
+				}
+			],
+			"result": 14.5,
+			"sectionsResults": {
+				"Comprensione del Testo": 2.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5,
+				"Disegno e Rappresentazione": 4,
+				"Fisica e Matematica": 0.75,
+				"Ragionamento Logico": 2
+			},
+			"ofa": {}
+		},
+		{
+			"id": "8a2b3a3dd7f2e32c0226",
+			"birthDate": "15/01/1995",
+			"position": 238,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 237,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 187,
+					"canEnroll": false
+				}
+			],
+			"result": 14,
+			"sectionsResults": {
+				"Comprensione del Testo": -1.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 1,
+				"Ragionamento Logico": 0
+			},
+			"ofa": {}
+		},
+		{
+			"id": "7da84a0241bdae3c2305",
+			"birthDate": "22/09/2006",
+			"position": 239,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 238,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 188,
+					"canEnroll": false
+				}
+			],
+			"result": 13.25,
+			"sectionsResults": {
+				"Comprensione del Testo": 1.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 1.5,
+				"Disegno e Rappresentazione": 5.25,
+				"Fisica e Matematica": 3.5,
+				"Ragionamento Logico": 1.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "4bf835d7902a74015652",
+			"birthDate": "11/07/2005",
+			"position": 240,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 239,
+					"canEnroll": false
+				}
+			],
+			"result": 13,
+			"sectionsResults": {
+				"Comprensione del Testo": 0,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3.5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 1.5,
+				"Ragionamento Logico": -0.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "03a264fcfb2a87c41454",
+			"birthDate": "10/02/2006",
+			"position": 241,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 240,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 189,
+					"canEnroll": false
+				}
+			],
+			"result": 12,
+			"sectionsResults": {
+				"Comprensione del Testo": 5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 1.25,
+				"Disegno e Rappresentazione": 5,
+				"Fisica e Matematica": -1.25,
+				"Ragionamento Logico": 2
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ba0335048e5abdd392a9",
+			"birthDate": "05/10/2006",
+			"position": 242,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 241,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 190,
+					"canEnroll": false
+				}
+			],
+			"result": 12,
+			"sectionsResults": {
+				"Comprensione del Testo": 3.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 0.5,
+				"Disegno e Rappresentazione": 4.25,
+				"Fisica e Matematica": 2.5,
+				"Ragionamento Logico": 1
+			},
+			"ofa": {}
+		},
+		{
+			"id": "8eb2f530e08aaf791f03",
+			"birthDate": "22/01/2005",
+			"position": 243,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 242,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 191,
+					"canEnroll": false
+				}
+			],
+			"result": 10,
+			"sectionsResults": {
+				"Comprensione del Testo": 3,
+				"Conoscenze acquisite negli studi, storia e cultura generale": -0.75,
+				"Disegno e Rappresentazione": 1.75,
+				"Fisica e Matematica": 2.25,
+				"Ragionamento Logico": 3.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ceeec787ac482bc4938b",
+			"birthDate": "24/08/2006",
+			"position": 244,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 243,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "PIACENZA",
+					"position": 192,
+					"canEnroll": false
+				}
+			],
+			"result": 10,
+			"sectionsResults": {
+				"Comprensione del Testo": -0.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 1,
+				"Disegno e Rappresentazione": 6.25,
+				"Fisica e Matematica": 1.75,
+				"Ragionamento Logico": 1.5
+			},
+			"ofa": {}
+		}
+	]
+}

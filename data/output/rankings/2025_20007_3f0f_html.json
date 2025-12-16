@@ -1,0 +1,83 @@
+{
+	"id": "2025_20007_3f0f_html",
+	"school": "Urbanistica",
+	"year": 2025,
+	"phase": {
+		"raw": "Graduatoria Standard",
+		"stripped": "Graduatoria Standard",
+		"primary": 0,
+		"secondary": 2,
+		"language": "IT",
+		"isExtraEu": true
+	},
+	"courses": {
+		"URBANISTICA: CITTA' AMBIENTE PAESAGGIO": [
+			"MILANO LEONARDO"
+		]
+	},
+	"rows": [
+		{
+			"id": "bce320c794c7e6ae37ab",
+			"birthDate": "21/09/1992",
+			"position": 1,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 73,
+			"sectionsResults": {
+				"Colloquio": 33,
+				"Elaborato": 24,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "da53665681e20bc53949",
+			"birthDate": "05/08/2006",
+			"position": 2,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 2,
+					"canEnroll": true
+				}
+			],
+			"result": 72,
+			"sectionsResults": {
+				"Colloquio": 38,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "4641ec6d6fba69583dd8",
+			"birthDate": "21/04/2007",
+			"position": 3,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 3,
+					"canEnroll": true
+				}
+			],
+			"result": 62,
+			"sectionsResults": {
+				"Colloquio": 33,
+				"Elaborato": 13,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		}
+	]
+}

@@ -1,0 +1,1369 @@
+{
+	"id": "2024_20005_5185_html",
+	"school": "Architettura",
+	"year": 2024,
+	"phase": {
+		"raw": "Prima Graduatoria",
+		"stripped": "Prima Graduatoria",
+		"primary": 0,
+		"secondary": 1,
+		"language": "IT",
+		"isExtraEu": true
+	},
+	"courses": {
+		"INGEGNERIA EDILE - ARCHITETTURA": [
+			"LECCO"
+		],
+		"PROGETTAZIONE DELL'ARCHITETTURA": [
+			"MANTOVA",
+			"PIACENZA",
+			"MILANO LEONARDO"
+		]
+	},
+	"rows": [
+		{
+			"id": "9c86f7792df65fb87412",
+			"birthDate": "13/10/2004",
+			"position": 1,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 47.5,
+			"englishResult": 7,
+			"sectionsResults": {
+				"Comprensione del Testo": 8.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 10,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 10,
+				"Ragionamento Logico": 10
+			},
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "f2ad954b50ae6117f2f6",
+			"birthDate": "21/06/2004",
+			"position": 2,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 2,
+					"canEnroll": true
+				}
+			],
+			"result": 47.5,
+			"englishResult": 10,
+			"sectionsResults": {
+				"Comprensione del Testo": 8.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 10,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 10,
+				"Ragionamento Logico": 10
+			},
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "797eccaa2e790e6a0d53",
+			"birthDate": "19/03/1997",
+			"position": 3,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 3,
+					"canEnroll": true
+				}
+			],
+			"result": 44,
+			"englishResult": 28,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 10,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 9,
+				"Ragionamento Logico": 7.5
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "7640dcf8f02c74ed5db5",
+			"birthDate": "14/11/2000",
+			"position": 4,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 42.5,
+			"englishResult": 29,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 10,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 10,
+				"Ragionamento Logico": 8.75
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "eb1d9b7de2f34d62fd38",
+			"birthDate": "12/02/2002",
+			"position": 5,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 4,
+					"canEnroll": true
+				}
+			],
+			"result": 40,
+			"englishResult": 25,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 10,
+				"Disegno e Rappresentazione": 6.25,
+				"Fisica e Matematica": 10,
+				"Ragionamento Logico": 6.25
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "57ef50b7759c17bcafab",
+			"birthDate": "15/05/2006",
+			"position": 6,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 38.75,
+			"englishResult": 25,
+			"sectionsResults": {
+				"Comprensione del Testo": 5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 10,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 8.75,
+				"Ragionamento Logico": 6.25
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "56faeebd9c71ffe34f13",
+			"birthDate": "19/03/1997",
+			"position": 7,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 5,
+					"canEnroll": true
+				}
+			],
+			"result": 37.75,
+			"englishResult": 26,
+			"sectionsResults": {
+				"Comprensione del Testo": 3.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.25,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 10,
+				"Ragionamento Logico": 10
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "90042f4a2763f08ab41a",
+			"birthDate": "18/12/2001",
+			"position": 8,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 1,
+					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 6,
+					"canEnroll": false
+				}
+			],
+			"result": 37.5,
+			"englishResult": 23,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 8.75,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 8,
+				"Ragionamento Logico": 5.75
+			},
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "9e48820b64dfa5fff5e3",
+			"birthDate": "14/04/2004",
+			"position": 9,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 7,
+					"canEnroll": false
+				}
+			],
+			"result": 36.5,
+			"englishResult": 25,
+			"sectionsResults": {
+				"Comprensione del Testo": 8.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 8.75,
+				"Disegno e Rappresentazione": 2.75,
+				"Fisica e Matematica": 10,
+				"Ragionamento Logico": 6.25
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "c4b63a4395bb06fec552",
+			"birthDate": "16/09/1999",
+			"position": 10,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 8,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 2,
+					"canEnroll": true
+				}
+			],
+			"result": 33.25,
+			"englishResult": 25,
+			"sectionsResults": {
+				"Comprensione del Testo": -0.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 8,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 10,
+				"Ragionamento Logico": 8
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "a294964580b620129152",
+			"birthDate": "06/09/2004",
+			"position": 11,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 3,
+					"canEnroll": true
+				}
+			],
+			"result": 32,
+			"englishResult": 22,
+			"sectionsResults": {
+				"Comprensione del Testo": 0.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 7,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 10,
+				"Ragionamento Logico": 4.5
+			},
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "2019383a3b9ebea47bb1",
+			"birthDate": "24/06/2005",
+			"position": 12,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 9,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 4,
+					"canEnroll": true
+				}
+			],
+			"result": 31.75,
+			"englishResult": 24,
+			"sectionsResults": {
+				"Comprensione del Testo": 2.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 10,
+				"Ragionamento Logico": 7.5
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "551d3af9486265a8f86e",
+			"birthDate": "16/05/1994",
+			"position": 13,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 2,
+					"canEnroll": true
+				}
+			],
+			"result": 31.5,
+			"englishResult": 28,
+			"sectionsResults": {
+				"Comprensione del Testo": 3.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6.5,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 9,
+				"Ragionamento Logico": 4.75
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "2b364cf2216e16da22d2",
+			"birthDate": "25/05/2005",
+			"position": 14,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 5,
+					"canEnroll": true
+				}
+			],
+			"result": 31.25,
+			"englishResult": 26,
+			"sectionsResults": {
+				"Comprensione del Testo": 2,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.5,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 10,
+				"Ragionamento Logico": 6.25
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "34041e2e1fe1fe6b653e",
+			"birthDate": "24/11/2001",
+			"position": 15,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 10,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 6,
+					"canEnroll": true
+				}
+			],
+			"result": 31.25,
+			"englishResult": 20,
+			"sectionsResults": {
+				"Comprensione del Testo": 5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 10,
+				"Disegno e Rappresentazione": 2.5,
+				"Fisica e Matematica": 10,
+				"Ragionamento Logico": 3.75
+			},
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "2511731d70b874bf384e",
+			"birthDate": "01/12/1999",
+			"position": 16,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 11,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 7,
+					"canEnroll": true
+				}
+			],
+			"result": 29.5,
+			"englishResult": 25,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5.5,
+				"Disegno e Rappresentazione": 6.75,
+				"Fisica e Matematica": 3,
+				"Ragionamento Logico": 6.75
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "7a9f9a1d0549256bc770",
+			"birthDate": "15/01/2006",
+			"position": 17,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 3,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 12,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 8,
+					"canEnroll": true
+				}
+			],
+			"result": 28.75,
+			"englishResult": 27,
+			"sectionsResults": {
+				"Comprensione del Testo": 5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 10,
+				"Disegno e Rappresentazione": 3,
+				"Fisica e Matematica": 5.75,
+				"Ragionamento Logico": 5
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "4ac9a1b7215aa404da47",
+			"birthDate": "28/04/2005",
+			"position": 18,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 13,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 9,
+					"canEnroll": true
+				}
+			],
+			"result": 28.5,
+			"englishResult": 28,
+			"sectionsResults": {
+				"Comprensione del Testo": 2.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5,
+				"Disegno e Rappresentazione": 8,
+				"Fisica e Matematica": 3.75,
+				"Ragionamento Logico": 9
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "d02a1c46772a1136653e",
+			"birthDate": "29/10/2006",
+			"position": 19,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 4,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 14,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 10,
+					"canEnroll": true
+				}
+			],
+			"result": 28.5,
+			"englishResult": 29,
+			"sectionsResults": {
+				"Comprensione del Testo": 5.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 1.75,
+				"Disegno e Rappresentazione": 8,
+				"Fisica e Matematica": 6,
+				"Ragionamento Logico": 7
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "527e09d4b4b67cf7cc8e",
+			"birthDate": "25/04/2005",
+			"position": 20,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 11,
+					"canEnroll": true
+				}
+			],
+			"result": 28,
+			"englishResult": 19,
+			"sectionsResults": {
+				"Comprensione del Testo": 2,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 7.5,
+				"Ragionamento Logico": 5.25
+			},
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "6de1b1ab5a9d7ab55058",
+			"birthDate": "17/01/2002",
+			"position": 21,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 15,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 12,
+					"canEnroll": true
+				}
+			],
+			"result": 27.5,
+			"englishResult": 27,
+			"sectionsResults": {
+				"Comprensione del Testo": 7.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3.5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 1.25,
+				"Ragionamento Logico": 6.5
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "4d8b0c25e8b49e92b826",
+			"birthDate": "12/01/2003",
+			"position": 22,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 2,
+					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 5,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 16,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 13,
+					"canEnroll": false
+				}
+			],
+			"result": 26.25,
+			"englishResult": 17,
+			"sectionsResults": {
+				"Comprensione del Testo": -0.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 10,
+				"Disegno e Rappresentazione": 7.75,
+				"Fisica e Matematica": 6.75,
+				"Ragionamento Logico": 2.5
+			},
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "681982bf1091cbaead30",
+			"birthDate": "27/10/2005",
+			"position": 23,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 3,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 6,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 17,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 14,
+					"canEnroll": false
+				}
+			],
+			"result": 25.25,
+			"englishResult": 26,
+			"sectionsResults": {
+				"Comprensione del Testo": 4.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 3,
+				"Ragionamento Logico": 3.5
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "427e0d9b6659c175c973",
+			"birthDate": "04/03/2005",
+			"position": 24,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 4,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 7,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 18,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 15,
+					"canEnroll": false
+				}
+			],
+			"result": 25,
+			"englishResult": 25,
+			"sectionsResults": {
+				"Comprensione del Testo": 3.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6.75,
+				"Disegno e Rappresentazione": 4.5,
+				"Fisica e Matematica": 4.75,
+				"Ragionamento Logico": 5.75
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "bb85dfbd7af135c9e3bc",
+			"birthDate": "03/06/2005",
+			"position": 25,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 8,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 19,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 16,
+					"canEnroll": false
+				}
+			],
+			"result": 22.5,
+			"englishResult": 25,
+			"sectionsResults": {
+				"Comprensione del Testo": 0.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 5,
+				"Disegno e Rappresentazione": 6.5,
+				"Fisica e Matematica": 6,
+				"Ragionamento Logico": 4.75
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "749d7e2445e6ff4604c4",
+			"birthDate": "07/03/2005",
+			"position": 26,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 9,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 20,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 17,
+					"canEnroll": false
+				}
+			],
+			"result": 21.75,
+			"englishResult": 26,
+			"sectionsResults": {
+				"Comprensione del Testo": 3.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 4.5,
+				"Disegno e Rappresentazione": 6.75,
+				"Fisica e Matematica": 2.75,
+				"Ragionamento Logico": 4.25
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "2005881fce7cfd1fbc03",
+			"birthDate": "07/06/2006",
+			"position": 27,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 5,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 10,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 21,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 18,
+					"canEnroll": false
+				}
+			],
+			"result": 21,
+			"englishResult": 24,
+			"sectionsResults": {
+				"Comprensione del Testo": 1.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 0.25,
+				"Disegno e Rappresentazione": 10,
+				"Fisica e Matematica": 7.75,
+				"Ragionamento Logico": 1.25
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "2c777075e99b7f153e9b",
+			"birthDate": "04/08/2001",
+			"position": 28,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 22,
+					"canEnroll": false
+				}
+			],
+			"result": 19.5,
+			"englishResult": 22,
+			"sectionsResults": {
+				"Comprensione del Testo": 0.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 1.5,
+				"Disegno e Rappresentazione": 8.75,
+				"Fisica e Matematica": 6.5,
+				"Ragionamento Logico": 2.25
+			},
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "71a6a2b4bc2dadb05f30",
+			"birthDate": "25/07/2004",
+			"position": 29,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 11,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 23,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 19,
+					"canEnroll": false
+				}
+			],
+			"result": 19.25,
+			"englishResult": 18,
+			"sectionsResults": {
+				"Comprensione del Testo": 0.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3,
+				"Disegno e Rappresentazione": 7.5,
+				"Fisica e Matematica": 4.25,
+				"Ragionamento Logico": 4
+			},
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "be628f939302b86e816f",
+			"birthDate": "17/01/2005",
+			"position": 30,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 6,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 12,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 24,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 20,
+					"canEnroll": false
+				}
+			],
+			"result": 18.75,
+			"englishResult": 27,
+			"sectionsResults": {
+				"Comprensione del Testo": 1.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 3.5,
+				"Disegno e Rappresentazione": 6.25,
+				"Fisica e Matematica": 6.75,
+				"Ragionamento Logico": 1
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "7334e28d6c48fc4dd21e",
+			"birthDate": "10/12/2005",
+			"position": 31,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 7,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 13,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 25,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 21,
+					"canEnroll": false
+				}
+			],
+			"result": 17.75,
+			"englishResult": 28,
+			"sectionsResults": {
+				"Comprensione del Testo": 5.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6,
+				"Disegno e Rappresentazione": 3.25,
+				"Fisica e Matematica": -1,
+				"Ragionamento Logico": 4.25
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "02b5a9b83cb5bae4ef60",
+			"birthDate": "09/09/2001",
+			"position": 32,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 8,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 14,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 26,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 22,
+					"canEnroll": false
+				}
+			],
+			"result": 15.75,
+			"englishResult": 21,
+			"sectionsResults": {
+				"Comprensione del Testo": 0.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 2,
+				"Disegno e Rappresentazione": 6.5,
+				"Fisica e Matematica": 4.5,
+				"Ragionamento Logico": 2.25
+			},
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "9ab9d77f5773dfc3f2f7",
+			"birthDate": "01/05/2002",
+			"position": 33,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 9,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 27,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 23,
+					"canEnroll": false
+				}
+			],
+			"result": 15,
+			"englishResult": 24,
+			"sectionsResults": {
+				"Comprensione del Testo": 2.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 2.5,
+				"Disegno e Rappresentazione": 5,
+				"Fisica e Matematica": 3.75,
+				"Ragionamento Logico": 1.25
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "843b8987b0591e491c0c",
+			"birthDate": "17/11/2005",
+			"position": 34,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 15,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 28,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 24,
+					"canEnroll": false
+				}
+			],
+			"result": 15,
+			"englishResult": 17,
+			"sectionsResults": {
+				"Comprensione del Testo": 0.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": -0.75,
+				"Disegno e Rappresentazione": 6.5,
+				"Fisica e Matematica": 8.75,
+				"Ragionamento Logico": 0.25
+			},
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "efe41f69c79f05c95e12",
+			"birthDate": "02/06/2006",
+			"position": 35,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 10,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 16,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 29,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 25,
+					"canEnroll": false
+				}
+			],
+			"result": 13.75,
+			"englishResult": 19,
+			"sectionsResults": {
+				"Comprensione del Testo": -0.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 0.5,
+				"Disegno e Rappresentazione": 3.5,
+				"Fisica e Matematica": 4.5,
+				"Ragionamento Logico": 5.75
+			},
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "1f003cb50d0b06ee379d",
+			"birthDate": "04/04/2005",
+			"position": 36,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 11,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 17,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 30,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 26,
+					"canEnroll": false
+				}
+			],
+			"result": 13.25,
+			"englishResult": 16,
+			"sectionsResults": {
+				"Comprensione del Testo": -0.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": -0.75,
+				"Disegno e Rappresentazione": 3,
+				"Fisica e Matematica": 8,
+				"Ragionamento Logico": 3.5
+			},
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "16d9572f719389c2a69c",
+			"birthDate": "01/06/2006",
+			"position": 37,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 18,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 31,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 27,
+					"canEnroll": false
+				}
+			],
+			"result": 12.5,
+			"englishResult": 25,
+			"sectionsResults": {
+				"Comprensione del Testo": -1.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 6.5,
+				"Disegno e Rappresentazione": 5.25,
+				"Fisica e Matematica": 3.25,
+				"Ragionamento Logico": -0.75
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "c96d5448c1b13112c6eb",
+			"birthDate": "08/11/1993",
+			"position": 38,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 12,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 32,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 28,
+					"canEnroll": false
+				}
+			],
+			"result": 9,
+			"englishResult": 10,
+			"sectionsResults": {
+				"Comprensione del Testo": -0.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 2,
+				"Disegno e Rappresentazione": 5,
+				"Fisica e Matematica": 2.5,
+				"Ragionamento Logico": 0
+			},
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "09b835726695b38bf89e",
+			"birthDate": "21/01/1998",
+			"position": 39,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 13,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 19,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 33,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 29,
+					"canEnroll": false
+				}
+			],
+			"result": 4.75,
+			"englishResult": 13,
+			"sectionsResults": {
+				"Comprensione del Testo": 1.75,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 2,
+				"Disegno e Rappresentazione": -0.25,
+				"Fisica e Matematica": 0.5,
+				"Ragionamento Logico": 0.75
+			},
+			"ofa": {
+				"ENG": true
+			}
+		}
+	]
+}

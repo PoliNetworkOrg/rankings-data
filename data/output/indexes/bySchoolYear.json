@@ -1,0 +1,1813 @@
+{
+	"Architettura": {
+		"2020": [
+			{
+				"id": "2020_20002_html",
+				"school": "Architettura",
+				"year": 2020,
+				"phase": {
+					"raw": "Architettura - Prima Graduatoria",
+					"stripped": "Prima Graduatoria",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2020_20005_html",
+				"school": "Architettura",
+				"year": 2020,
+				"phase": {
+					"raw": "Architettura - Extra-ue",
+					"stripped": "Extra-ue",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2020_20060_html",
+				"school": "Architettura",
+				"year": 2020,
+				"phase": {
+					"raw": "Architettura - Seconda Graduatoria",
+					"stripped": "Seconda Graduatoria",
+					"primary": 0,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2020_20104_html",
+				"school": "Architettura",
+				"year": 2020,
+				"phase": {
+					"raw": "Architettura - Extra-ue - Seconda Graduatoria",
+					"stripped": "Seconda Graduatoria",
+					"primary": 0,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2020_20069_html",
+				"school": "Architettura",
+				"year": 2020,
+				"phase": {
+					"raw": "Architettura - Terza Graduatoria",
+					"stripped": "Terza Graduatoria",
+					"primary": 0,
+					"secondary": 3,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			}
+		],
+		"2021": [
+			{
+				"id": "2021_20002_html",
+				"school": "Architettura",
+				"year": 2021,
+				"phase": {
+					"raw": "Architettura - Prima Graduatoria",
+					"stripped": "Prima Graduatoria",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2021_20005_html",
+				"school": "Architettura",
+				"year": 2021,
+				"phase": {
+					"raw": "Architettura - Extra-ue",
+					"stripped": "Extra-ue",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2021_20060_html",
+				"school": "Architettura",
+				"year": 2021,
+				"phase": {
+					"raw": "Architettura - Seconda Graduatoria",
+					"stripped": "Seconda Graduatoria",
+					"primary": 0,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2021_20104_html",
+				"school": "Architettura",
+				"year": 2021,
+				"phase": {
+					"raw": "Architettura - Extra-ue - Seconda Graduatoria",
+					"stripped": "Seconda Graduatoria",
+					"primary": 0,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2021_20069_html",
+				"school": "Architettura",
+				"year": 2021,
+				"phase": {
+					"raw": "Architettura - Terza Graduatoria",
+					"stripped": "Terza Graduatoria",
+					"primary": 0,
+					"secondary": 3,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			}
+		],
+		"2022": [
+			{
+				"id": "2022_20002_46h3_html",
+				"school": "Architettura",
+				"year": 2022,
+				"phase": {
+					"raw": "Architettura - Prima Graduatoria",
+					"stripped": "Prima Graduatoria",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2022_20005_fg14_html",
+				"school": "Architettura",
+				"year": 2022,
+				"phase": {
+					"raw": "Architettura - Extra-ue",
+					"stripped": "Extra-ue",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2022_20060_37e5_html",
+				"school": "Architettura",
+				"year": 2022,
+				"phase": {
+					"raw": "Architettura - Seconda Graduatoria",
+					"stripped": "Seconda Graduatoria",
+					"primary": 0,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2022_20104_47ef_html",
+				"school": "Architettura",
+				"year": 2022,
+				"phase": {
+					"raw": "Architettura - Extra-ue - Seconda Graduatoria",
+					"stripped": "Seconda Graduatoria",
+					"primary": 0,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2022_20069_65fc_html",
+				"school": "Architettura",
+				"year": 2022,
+				"phase": {
+					"raw": "Architettura - Terza Graduatoria",
+					"stripped": "Terza Graduatoria",
+					"primary": 0,
+					"secondary": 3,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			}
+		],
+		"2023": [
+			{
+				"id": "2023_20002_2fee_html",
+				"school": "Architettura",
+				"year": 2023,
+				"phase": {
+					"raw": "Architettura - Prima Graduatoria",
+					"stripped": "Prima Graduatoria",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2023_20005_59fc_html",
+				"school": "Architettura",
+				"year": 2023,
+				"phase": {
+					"raw": "Architettura - Extra-ue",
+					"stripped": "Extra-ue",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2023_20060_3d31_html",
+				"school": "Architettura",
+				"year": 2023,
+				"phase": {
+					"raw": "Architettura - Seconda Graduatoria",
+					"stripped": "Seconda Graduatoria",
+					"primary": 0,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2023_20104_2aa5_html",
+				"school": "Architettura",
+				"year": 2023,
+				"phase": {
+					"raw": "Architettura - Extra-ue - Seconda Graduatoria",
+					"stripped": "Seconda Graduatoria",
+					"primary": 0,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2023_20069_3b7f_html",
+				"school": "Architettura",
+				"year": 2023,
+				"phase": {
+					"raw": "Architettura - Terza Graduatoria",
+					"stripped": "Terza Graduatoria",
+					"primary": 0,
+					"secondary": 3,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2023_20017_5555_html",
+				"school": "Architettura",
+				"year": 2023,
+				"phase": {
+					"raw": "Architettura - Extra-ue - Terza Graduatoria",
+					"stripped": "Terza Graduatoria",
+					"primary": 0,
+					"secondary": 3,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			}
+		],
+		"2024": [
+			{
+				"id": "2024_20002_3795_html",
+				"school": "Architettura",
+				"year": 2024,
+				"phase": {
+					"raw": "Prima Graduatoria",
+					"stripped": "Prima Graduatoria",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2024_20005_5185_html",
+				"school": "Architettura",
+				"year": 2024,
+				"phase": {
+					"raw": "Prima Graduatoria",
+					"stripped": "Prima Graduatoria",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2024_20024_3947_html",
+				"school": "Architettura",
+				"year": 2024,
+				"phase": {
+					"raw": "Prima Graduatoria",
+					"stripped": "Prima Graduatoria",
+					"primary": 0,
+					"secondary": 1,
+					"language": "EN",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2024_20011_3f8f_html",
+				"school": "Architettura",
+				"year": 2024,
+				"phase": {
+					"raw": "Prima Graduatoria",
+					"stripped": "Prima Graduatoria",
+					"primary": 0,
+					"secondary": 1,
+					"language": "EN",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2024_20060_2b72_html",
+				"school": "Architettura",
+				"year": 2024,
+				"phase": {
+					"raw": "Seconda Graduatoria",
+					"stripped": "Seconda Graduatoria",
+					"primary": 0,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2024_20104_555c_html",
+				"school": "Architettura",
+				"year": 2024,
+				"phase": {
+					"raw": "Seconda Graduatoria",
+					"stripped": "Seconda Graduatoria",
+					"primary": 0,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2024_20025_49fd_html",
+				"school": "Architettura",
+				"year": 2024,
+				"phase": {
+					"raw": "Seconda Graduatoria",
+					"stripped": "Seconda Graduatoria",
+					"primary": 0,
+					"secondary": 2,
+					"language": "EN",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2024_20012_3238_html",
+				"school": "Architettura",
+				"year": 2024,
+				"phase": {
+					"raw": "Seconda Graduatoria",
+					"stripped": "Seconda Graduatoria",
+					"primary": 0,
+					"secondary": 2,
+					"language": "EN",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2024_20069_31b8_html",
+				"school": "Architettura",
+				"year": 2024,
+				"phase": {
+					"raw": "Terza Graduatoria",
+					"stripped": "Terza Graduatoria",
+					"primary": 0,
+					"secondary": 3,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2024_20017_4ed9_html",
+				"school": "Architettura",
+				"year": 2024,
+				"phase": {
+					"raw": "Terza Graduatoria",
+					"stripped": "Terza Graduatoria",
+					"primary": 0,
+					"secondary": 3,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2024_20026_2a2d_html",
+				"school": "Architettura",
+				"year": 2024,
+				"phase": {
+					"raw": "Terza Graduatoria",
+					"stripped": "Terza Graduatoria",
+					"primary": 0,
+					"secondary": 3,
+					"language": "EN",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2024_20013_6112_html",
+				"school": "Architettura",
+				"year": 2024,
+				"phase": {
+					"raw": "Terza Graduatoria",
+					"stripped": "Terza Graduatoria",
+					"primary": 0,
+					"secondary": 3,
+					"language": "EN",
+					"isExtraEu": true
+				}
+			}
+		],
+		"2025": [
+			{
+				"id": "2025_20002_3da3_html",
+				"school": "Architettura",
+				"year": 2025,
+				"phase": {
+					"raw": "Prima Graduatoria",
+					"stripped": "Prima Graduatoria",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2025_20005_434b_html",
+				"school": "Architettura",
+				"year": 2025,
+				"phase": {
+					"raw": "Prima Graduatoria",
+					"stripped": "Prima Graduatoria",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2025_20024_4d52_html",
+				"school": "Architettura",
+				"year": 2025,
+				"phase": {
+					"raw": "Prima Graduatoria",
+					"stripped": "Prima Graduatoria",
+					"primary": 0,
+					"secondary": 1,
+					"language": "EN",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2025_20011_505c_html",
+				"school": "Architettura",
+				"year": 2025,
+				"phase": {
+					"raw": "Prima Graduatoria",
+					"stripped": "Prima Graduatoria",
+					"primary": 0,
+					"secondary": 1,
+					"language": "EN",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2025_20104_4570_html",
+				"school": "Architettura",
+				"year": 2025,
+				"phase": {
+					"raw": "Seconda Graduatoria",
+					"stripped": "Seconda Graduatoria",
+					"primary": 0,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2025_20069_354c_html",
+				"school": "Architettura",
+				"year": 2025,
+				"phase": {
+					"raw": "Terza Graduatoria",
+					"stripped": "Terza Graduatoria",
+					"primary": 0,
+					"secondary": 3,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2025_20017_55b1_html",
+				"school": "Architettura",
+				"year": 2025,
+				"phase": {
+					"raw": "Terza Graduatoria",
+					"stripped": "Terza Graduatoria",
+					"primary": 0,
+					"secondary": 3,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2025_20026_387f_html",
+				"school": "Architettura",
+				"year": 2025,
+				"phase": {
+					"raw": "Terza Graduatoria",
+					"stripped": "Terza Graduatoria",
+					"primary": 0,
+					"secondary": 3,
+					"language": "EN",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2025_20013_5202_html",
+				"school": "Architettura",
+				"year": 2025,
+				"phase": {
+					"raw": "Terza Graduatoria",
+					"stripped": "Terza Graduatoria",
+					"primary": 0,
+					"secondary": 3,
+					"language": "EN",
+					"isExtraEu": true
+				}
+			}
+		]
+	},
+	"Design": {
+		"2020": [
+			{
+				"id": "2020_20040_html",
+				"school": "Design",
+				"year": 2020,
+				"phase": {
+					"raw": "Design - Anticipato",
+					"stripped": "Anticipato",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2020_20045_html",
+				"school": "Design",
+				"year": 2020,
+				"phase": {
+					"raw": "Design - Extra-ue",
+					"stripped": "Extra-ue",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2020_20041_html",
+				"school": "Design",
+				"year": 2020,
+				"phase": {
+					"raw": "Design - Standard",
+					"stripped": "Standard",
+					"primary": 0,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2020_20042_html",
+				"school": "Design",
+				"year": 2020,
+				"phase": {
+					"raw": "Design - Ripescaggio",
+					"stripped": "Ripescaggio",
+					"primary": 0,
+					"secondary": 3,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			}
+		],
+		"2021": [
+			{
+				"id": "2021_20040_htm",
+				"school": "Design",
+				"year": 2021,
+				"phase": {
+					"raw": "Design - Anticipato",
+					"stripped": "Anticipato",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2021_20045_html",
+				"school": "Design",
+				"year": 2021,
+				"phase": {
+					"raw": "Design - Extra-ue",
+					"stripped": "Extra-ue",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2021_20041_html",
+				"school": "Design",
+				"year": 2021,
+				"phase": {
+					"raw": "Design - Standard",
+					"stripped": "Standard",
+					"primary": 0,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2021_20042_html",
+				"school": "Design",
+				"year": 2021,
+				"phase": {
+					"raw": "Design - Ripescaggio",
+					"stripped": "Ripescaggio",
+					"primary": 0,
+					"secondary": 3,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			}
+		],
+		"2022": [
+			{
+				"id": "2022_20040_html",
+				"school": "Design",
+				"year": 2022,
+				"phase": {
+					"raw": "Design - Anticipato",
+					"stripped": "Anticipato",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2022_20045_html",
+				"school": "Design",
+				"year": 2022,
+				"phase": {
+					"raw": "Design - Extra-ue",
+					"stripped": "Extra-ue",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2022_20041_4a1b_html",
+				"school": "Design",
+				"year": 2022,
+				"phase": {
+					"raw": "Design - Standard",
+					"stripped": "Standard",
+					"primary": 0,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2022_20042_5f39_html",
+				"school": "Design",
+				"year": 2022,
+				"phase": {
+					"raw": "Design - Ripescaggio",
+					"stripped": "Ripescaggio",
+					"primary": 0,
+					"secondary": 3,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			}
+		],
+		"2023": [
+			{
+				"id": "2023_20040_32ea_html",
+				"school": "Design",
+				"year": 2023,
+				"phase": {
+					"raw": "Design - Anticipato",
+					"stripped": "Anticipato",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2023_20041_4bfd_html",
+				"school": "Design",
+				"year": 2023,
+				"phase": {
+					"raw": "Design - Standard",
+					"stripped": "Standard",
+					"primary": 0,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2023_20042_556d_html",
+				"school": "Design",
+				"year": 2023,
+				"phase": {
+					"raw": "Design - Ripescaggio",
+					"stripped": "Ripescaggio",
+					"primary": 0,
+					"secondary": 3,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			}
+		],
+		"2024": [
+			{
+				"id": "2024_20039_29f1_html",
+				"school": "Design",
+				"year": 2024,
+				"phase": {
+					"raw": "Prima Graduatoria",
+					"stripped": "Prima Graduatoria",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2024_20082_3728_html",
+				"school": "Design",
+				"year": 2024,
+				"phase": {
+					"raw": "Prima Graduatoria",
+					"stripped": "Prima Graduatoria",
+					"primary": 0,
+					"secondary": 1,
+					"language": "EN",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2024_20040_28c8_html",
+				"school": "Design",
+				"year": 2024,
+				"phase": {
+					"raw": "Seconda Graduatoria",
+					"stripped": "Seconda Graduatoria",
+					"primary": 0,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2024_20083_4b52_html",
+				"school": "Design",
+				"year": 2024,
+				"phase": {
+					"raw": "Seconda Graduatoria",
+					"stripped": "Seconda Graduatoria",
+					"primary": 0,
+					"secondary": 2,
+					"language": "EN",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2024_20041_338e_html",
+				"school": "Design",
+				"year": 2024,
+				"phase": {
+					"raw": "Terza Graduatoria",
+					"stripped": "Terza Graduatoria",
+					"primary": 0,
+					"secondary": 3,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2024_20042_4dc5_html",
+				"school": "Design",
+				"year": 2024,
+				"phase": {
+					"raw": "Quarta Graduatoria",
+					"stripped": "Quarta Graduatoria",
+					"primary": 0,
+					"secondary": 4,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2024_20043_5d35_html",
+				"school": "Design",
+				"year": 2024,
+				"phase": {
+					"raw": "Quinta Graduatoria",
+					"stripped": "Quinta Graduatoria",
+					"primary": 0,
+					"secondary": 5,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			}
+		],
+		"2025": [
+			{
+				"id": "2025_20045_4c0e_html",
+				"school": "Design",
+				"year": 2025,
+				"phase": {
+					"raw": "Prima Graduatoria",
+					"stripped": "Prima Graduatoria",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2025_20047_2dc7_html",
+				"school": "Design",
+				"year": 2025,
+				"phase": {
+					"raw": "Prima Graduatoria",
+					"stripped": "Prima Graduatoria",
+					"primary": 0,
+					"secondary": 1,
+					"language": "EN",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2025_20048_42f0_html",
+				"school": "Design",
+				"year": 2025,
+				"phase": {
+					"raw": "Seconda Graduatoria",
+					"stripped": "Seconda Graduatoria",
+					"primary": 0,
+					"secondary": 2,
+					"language": "EN",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2025_20042_5960_html",
+				"school": "Design",
+				"year": 2025,
+				"phase": {
+					"raw": "Quarta Graduatoria",
+					"stripped": "Quarta Graduatoria",
+					"primary": 0,
+					"secondary": 4,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2025_20087_61bc_html",
+				"school": "Design",
+				"year": 2025,
+				"phase": {
+					"raw": "Quarta Graduatoria",
+					"stripped": "Quarta Graduatoria",
+					"primary": 0,
+					"secondary": 4,
+					"language": "EN",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2025_20043_563c_html",
+				"school": "Design",
+				"year": 2025,
+				"phase": {
+					"raw": "Quinta Graduatoria",
+					"stripped": "Quinta Graduatoria",
+					"primary": 0,
+					"secondary": 5,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2025_20044_38fb_html",
+				"school": "Design",
+				"year": 2025,
+				"phase": {
+					"raw": "Seconda Fase",
+					"stripped": "Seconda Fase",
+					"primary": 2,
+					"secondary": 0,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			}
+		]
+	},
+	"Ingegneria": {
+		"2020": [
+			{
+				"id": "2020_20054_html",
+				"school": "Ingegneria",
+				"year": 2020,
+				"phase": {
+					"raw": "Ingegneria - Extra-ue",
+					"stripped": "Extra-ue",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2020_20064_html",
+				"school": "Ingegneria",
+				"year": 2020,
+				"phase": {
+					"raw": "Ingegneria - Prima Graduatoria Di Seconda Fase",
+					"stripped": "Prima Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2020_20102_html",
+				"school": "Ingegneria",
+				"year": 2020,
+				"phase": {
+					"raw": "Ingegneria - Seconda Graduatoria Di Seconda Fase",
+					"stripped": "Seconda Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2020_20103_html",
+				"school": "Ingegneria",
+				"year": 2020,
+				"phase": {
+					"raw": "Ingegneria - Terza Graduatoria Di Seconda Fase",
+					"stripped": "Terza Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 3,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2020_20091_html",
+				"school": "Ingegneria",
+				"year": 2020,
+				"phase": {
+					"raw": "Ingegneria - Terza Fase",
+					"stripped": "Terza Fase",
+					"primary": 3,
+					"secondary": 0,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			}
+		],
+		"2021": [
+			{
+				"id": "2021_20064_html",
+				"school": "Ingegneria",
+				"year": 2021,
+				"phase": {
+					"raw": "Ingegneria - Prima Graduatoria Di Seconda Fase",
+					"stripped": "Prima Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2021_20054_html",
+				"school": "Ingegneria",
+				"year": 2021,
+				"phase": {
+					"raw": "Ingegneria - Extra-ue - Prima Graduatoria Di Seconda Fase",
+					"stripped": "Prima Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2021_20102_html",
+				"school": "Ingegneria",
+				"year": 2021,
+				"phase": {
+					"raw": "Ingegneria - Seconda Graduatoria Di Seconda Fase",
+					"stripped": "Seconda Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2021_20103_html",
+				"school": "Ingegneria",
+				"year": 2021,
+				"phase": {
+					"raw": "Ingegneria - Terza Graduatoria Di Seconda Fase",
+					"stripped": "Terza Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 3,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2021_20091_html",
+				"school": "Ingegneria",
+				"year": 2021,
+				"phase": {
+					"raw": "Ingegneria - Terza Fase",
+					"stripped": "Terza Fase",
+					"primary": 3,
+					"secondary": 0,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			}
+		],
+		"2022": [
+			{
+				"id": "2022_20064_html",
+				"school": "Ingegneria",
+				"year": 2022,
+				"phase": {
+					"raw": "Ingegneria - Prima Graduatoria Di Seconda Fase",
+					"stripped": "Prima Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2022_20054_html",
+				"school": "Ingegneria",
+				"year": 2022,
+				"phase": {
+					"raw": "Ingegneria - Extra-ue - Prima Graduatoria Di Seconda Fase",
+					"stripped": "Prima Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2022_20102_ab23_html",
+				"school": "Ingegneria",
+				"year": 2022,
+				"phase": {
+					"raw": "Ingegneria - Seconda Graduatoria Di Seconda Fase",
+					"stripped": "Seconda Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2022_20103_355c_html",
+				"school": "Ingegneria",
+				"year": 2022,
+				"phase": {
+					"raw": "Ingegneria - Terza Graduatoria Di Seconda Fase",
+					"stripped": "Terza Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 3,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2022_20091_3bad_html",
+				"school": "Ingegneria",
+				"year": 2022,
+				"phase": {
+					"raw": "Ingegneria - Terza Fase",
+					"stripped": "Terza Fase",
+					"primary": 3,
+					"secondary": 0,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			}
+		],
+		"2023": [
+			{
+				"id": "2023_20064_27c1_html",
+				"school": "Ingegneria",
+				"year": 2023,
+				"phase": {
+					"raw": "Ingegneria - Prima Graduatoria Di Seconda Fase",
+					"stripped": "Prima Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2023_20054_2918_html",
+				"school": "Ingegneria",
+				"year": 2023,
+				"phase": {
+					"raw": "Ingegneria - Extra-ue - Prima Graduatoria Di Seconda Fase",
+					"stripped": "Prima Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2023_20102_4e6e_html",
+				"school": "Ingegneria",
+				"year": 2023,
+				"phase": {
+					"raw": "Ingegneria - Seconda Graduatoria Di Seconda Fase",
+					"stripped": "Seconda Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2023_20055_46ea_html",
+				"school": "Ingegneria",
+				"year": 2023,
+				"phase": {
+					"raw": "Ingegneria - Extra-ue - Seconda Graduatoria Di Seconda Fase",
+					"stripped": "Seconda Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2023_20103_3e40_html",
+				"school": "Ingegneria",
+				"year": 2023,
+				"phase": {
+					"raw": "Ingegneria - Terza Graduatoria Di Seconda Fase",
+					"stripped": "Terza Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 3,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2023_20091_59fd_html",
+				"school": "Ingegneria",
+				"year": 2023,
+				"phase": {
+					"raw": "Ingegneria - Terza Fase",
+					"stripped": "Terza Fase",
+					"primary": 3,
+					"secondary": 0,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			}
+		],
+		"2024": [
+			{
+				"id": "2024_20064_3a62_html",
+				"school": "Ingegneria",
+				"year": 2024,
+				"phase": {
+					"raw": "Prima Graduatoria Di Seconda Fase",
+					"stripped": "Prima Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2024_20019_4118_html",
+				"school": "Ingegneria",
+				"year": 2024,
+				"phase": {
+					"raw": "Prima Graduatoria Di Seconda Fase",
+					"stripped": "Prima Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 1,
+					"language": "EN",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2024_20056_34cf_html",
+				"school": "Ingegneria",
+				"year": 2024,
+				"phase": {
+					"raw": "Prima Graduatoria Di Seconda Fase",
+					"stripped": "Prima Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 1,
+					"language": "EN",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2024_20102_491d_html",
+				"school": "Ingegneria",
+				"year": 2024,
+				"phase": {
+					"raw": "Seconda Graduatoria Di Seconda Fase",
+					"stripped": "Seconda Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2024_20055_66d0_html",
+				"school": "Ingegneria",
+				"year": 2024,
+				"phase": {
+					"raw": "Seconda Graduatoria Di Seconda Fase",
+					"stripped": "Seconda Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2024_20020_27ba_html",
+				"school": "Ingegneria",
+				"year": 2024,
+				"phase": {
+					"raw": "Seconda Graduatoria Di Seconda Fase",
+					"stripped": "Seconda Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 2,
+					"language": "EN",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2024_20057_6475_html",
+				"school": "Ingegneria",
+				"year": 2024,
+				"phase": {
+					"raw": "Seconda Graduatoria Di Seconda Fase",
+					"stripped": "Seconda Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 2,
+					"language": "EN",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2024_20103_2d5d_html",
+				"school": "Ingegneria",
+				"year": 2024,
+				"phase": {
+					"raw": "Terza Graduatoria Di Seconda Fase",
+					"stripped": "Terza Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 3,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2024_20058_3aa3_html",
+				"school": "Ingegneria",
+				"year": 2024,
+				"phase": {
+					"raw": "Terza Graduatoria Di Seconda Fase",
+					"stripped": "Terza Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 3,
+					"language": "EN",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2024_20093_582b_html",
+				"school": "Ingegneria",
+				"year": 2024,
+				"phase": {
+					"raw": "Quinta Graduatoria Di Seconda Fase",
+					"stripped": "Quinta Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 5,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2024_20094_2c5b_html",
+				"school": "Ingegneria",
+				"year": 2024,
+				"phase": {
+					"raw": "Prima Graduatoria Di Terza Fase",
+					"stripped": "Prima Graduatoria Di Terza Fase",
+					"primary": 3,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2024_20095_2863_html",
+				"school": "Ingegneria",
+				"year": 2024,
+				"phase": {
+					"raw": "Seconda Graduatoria Di Terza Fase",
+					"stripped": "Seconda Graduatoria Di Terza Fase",
+					"primary": 3,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			}
+		],
+		"2025": [
+			{
+				"id": "2025_20019_4084_html",
+				"school": "Ingegneria",
+				"year": 2025,
+				"phase": {
+					"raw": "Prima Graduatoria Di Seconda Fase",
+					"stripped": "Prima Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 1,
+					"language": "EN",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2025_20102_5c05_html",
+				"school": "Ingegneria",
+				"year": 2025,
+				"phase": {
+					"raw": "Seconda Graduatoria Di Seconda Fase",
+					"stripped": "Seconda Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2025_20020_3239_html",
+				"school": "Ingegneria",
+				"year": 2025,
+				"phase": {
+					"raw": "Seconda Graduatoria Di Seconda Fase",
+					"stripped": "Seconda Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 2,
+					"language": "EN",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2025_20103_5788_html",
+				"school": "Ingegneria",
+				"year": 2025,
+				"phase": {
+					"raw": "Terza Graduatoria Di Seconda Fase",
+					"stripped": "Terza Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 3,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2025_20021_4eff_html",
+				"school": "Ingegneria",
+				"year": 2025,
+				"phase": {
+					"raw": "Terza Graduatoria Di Seconda Fase",
+					"stripped": "Terza Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 3,
+					"language": "EN",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2025_20058_551a_html",
+				"school": "Ingegneria",
+				"year": 2025,
+				"phase": {
+					"raw": "Terza Graduatoria Di Seconda Fase",
+					"stripped": "Terza Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 3,
+					"language": "EN",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2025_20091_31fb_html",
+				"school": "Ingegneria",
+				"year": 2025,
+				"phase": {
+					"raw": "Quarta Graduatoria Di Seconda Fase",
+					"stripped": "Quarta Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 4,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2025_20022_295a_html",
+				"school": "Ingegneria",
+				"year": 2025,
+				"phase": {
+					"raw": "Quarta Graduatoria Di Seconda Fase",
+					"stripped": "Quarta Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 4,
+					"language": "EN",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2025_20059_3bb8_html",
+				"school": "Ingegneria",
+				"year": 2025,
+				"phase": {
+					"raw": "Quarta Graduatoria Di Seconda Fase",
+					"stripped": "Quarta Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 4,
+					"language": "EN",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2025_20094_502e_html",
+				"school": "Ingegneria",
+				"year": 2025,
+				"phase": {
+					"raw": "Prima Graduatoria Di Terza Fase",
+					"stripped": "Prima Graduatoria Di Terza Fase",
+					"primary": 3,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2025_20095_5345_html",
+				"school": "Ingegneria",
+				"year": 2025,
+				"phase": {
+					"raw": "Seconda Graduatoria Di Terza Fase",
+					"stripped": "Seconda Graduatoria Di Terza Fase",
+					"primary": 3,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2025_20096_5ea0_html",
+				"school": "Ingegneria",
+				"year": 2025,
+				"phase": {
+					"raw": "Prima Graduatoria Di Quarta Fase",
+					"stripped": "Prima Graduatoria Di Quarta Fase",
+					"primary": 4,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			}
+		]
+	},
+	"Urbanistica": {
+		"2020": [
+			{
+				"id": "2020_20008_html",
+				"school": "Urbanistica",
+				"year": 2020,
+				"phase": {
+					"raw": "Urbanistica - Anticipata",
+					"stripped": "Anticipata",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2020_20007_html",
+				"school": "Urbanistica",
+				"year": 2020,
+				"phase": {
+					"raw": "Urbanistica - Extra-ue",
+					"stripped": "Extra-ue",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2020_20006_html",
+				"school": "Urbanistica",
+				"year": 2020,
+				"phase": {
+					"raw": "Urbanistica - Standard",
+					"stripped": "Standard",
+					"primary": 0,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			}
+		],
+		"2021": [
+			{
+				"id": "2021_20008_html",
+				"school": "Urbanistica",
+				"year": 2021,
+				"phase": {
+					"raw": "Urbanistica - Anticipata",
+					"stripped": "Anticipata",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2021_20007_html",
+				"school": "Urbanistica",
+				"year": 2021,
+				"phase": {
+					"raw": "Urbanistica - Extra-ue",
+					"stripped": "Extra-ue",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2021_20006_html",
+				"school": "Urbanistica",
+				"year": 2021,
+				"phase": {
+					"raw": "Urbanistica - Standard",
+					"stripped": "Standard",
+					"primary": 0,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			}
+		],
+		"2022": [
+			{
+				"id": "2022_20008_html",
+				"school": "Urbanistica",
+				"year": 2022,
+				"phase": {
+					"raw": "Urbanistica - Anticipata",
+					"stripped": "Anticipata",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2022_20007_html",
+				"school": "Urbanistica",
+				"year": 2022,
+				"phase": {
+					"raw": "Urbanistica - Extra-ue",
+					"stripped": "Extra-ue",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2022_20006_4fbc_html",
+				"school": "Urbanistica",
+				"year": 2022,
+				"phase": {
+					"raw": "Urbanistica - Standard",
+					"stripped": "Standard",
+					"primary": 0,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			}
+		],
+		"2023": [
+			{
+				"id": "2023_20008_5b48_html",
+				"school": "Urbanistica",
+				"year": 2023,
+				"phase": {
+					"raw": "Urbanistica - Anticipata",
+					"stripped": "Anticipata",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2023_20007_65df_html",
+				"school": "Urbanistica",
+				"year": 2023,
+				"phase": {
+					"raw": "Urbanistica - Extra-ue",
+					"stripped": "Extra-ue",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2023_20006_2e49_html",
+				"school": "Urbanistica",
+				"year": 2023,
+				"phase": {
+					"raw": "Urbanistica - Standard",
+					"stripped": "Standard",
+					"primary": 0,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2023_20009_43b5_html",
+				"school": "Urbanistica",
+				"year": 2023,
+				"phase": {
+					"raw": "Urbanistica - Ripescaggio",
+					"stripped": "Ripescaggio",
+					"primary": 0,
+					"secondary": 3,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			}
+		],
+		"2024": [
+			{
+				"id": "2024_20006_3ba7_html",
+				"school": "Urbanistica",
+				"year": 2024,
+				"phase": {
+					"raw": "Prima Graduatoria Di Prima Fase",
+					"stripped": "Prima Graduatoria Di Prima Fase",
+					"primary": 1,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2024_20010_6213_html",
+				"school": "Urbanistica",
+				"year": 2024,
+				"phase": {
+					"raw": "Seconda Graduatoria Di Prima Fase",
+					"stripped": "Seconda Graduatoria Di Prima Fase",
+					"primary": 1,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			}
+		],
+		"2025": [
+			{
+				"id": "2025_20007_3f0f_html",
+				"school": "Urbanistica",
+				"year": 2025,
+				"phase": {
+					"raw": "Graduatoria Standard",
+					"stripped": "Graduatoria Standard",
+					"primary": 0,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2025_20006_3083_html",
+				"school": "Urbanistica",
+				"year": 2025,
+				"phase": {
+					"raw": "Prima Graduatoria Di Prima Fase",
+					"stripped": "Prima Graduatoria Di Prima Fase",
+					"primary": 1,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2025_20010_2bbc_html",
+				"school": "Urbanistica",
+				"year": 2025,
+				"phase": {
+					"raw": "Seconda Graduatoria Di Prima Fase",
+					"stripped": "Seconda Graduatoria Di Prima Fase",
+					"primary": 1,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2025_20009_6221_html",
+				"school": "Urbanistica",
+				"year": 2025,
+				"phase": {
+					"raw": "Prima Graduatoria Di Seconda Fase",
+					"stripped": "Prima Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,39 @@
+{
+	"id": "2023_20009_43b5_html",
+	"school": "Urbanistica",
+	"year": 2023,
+	"phase": {
+		"raw": "Urbanistica - Ripescaggio",
+		"stripped": "Ripescaggio",
+		"primary": 0,
+		"secondary": 3,
+		"language": "IT",
+		"isExtraEu": false
+	},
+	"courses": {
+		"URBANISTICA: CITTA' AMBIENTE PAESAGGIO": []
+	},
+	"rows": [
+		{
+			"id": "0fb458f36f8b9e131268",
+			"birthDate": "29/10/2002",
+			"position": 1,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 50,
+			"sectionsResults": {
+				"Colloquio": 26,
+				"Elaborato": 14,
+				"Lettera Motivazionale": 10
+			},
+			"ofa": {}
+		}
+	]
+}

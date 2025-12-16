@@ -1,0 +1,109 @@
+{
+	"id": "2025_20017_55b1_html",
+	"school": "Architettura",
+	"year": 2025,
+	"phase": {
+		"raw": "Terza Graduatoria",
+		"stripped": "Terza Graduatoria",
+		"primary": 0,
+		"secondary": 3,
+		"language": "IT",
+		"isExtraEu": true
+	},
+	"courses": {
+		"INGEGNERIA EDILE - ARCHITETTURA": [
+			"LECCO"
+		],
+		"PROGETTAZIONE DELL'ARCHITETTURA": [
+			"PIACENZA",
+			"MANTOVA",
+			"MILANO LEONARDO"
+		]
+	},
+	"rows": [
+		{
+			"id": "e1f2a76d9b1959b1ab0d",
+			"birthDate": "25/04/2006",
+			"position": 1,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 20.5,
+			"englishResult": 25,
+			"sectionsResults": {
+				"Comprensione del Testo": 4,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 2.25,
+				"Disegno e Rappresentazione": 6.25,
+				"Fisica e Matematica": 1.5,
+				"Ragionamento Logico": 6.5
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "23b39bb98fd60a8d4fa9",
+			"birthDate": "24/11/2006",
+			"position": 2,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 2,
+					"canEnroll": true
+				}
+			],
+			"result": 17.25,
+			"englishResult": 20,
+			"sectionsResults": {
+				"Comprensione del Testo": 6.25,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 8.75,
+				"Disegno e Rappresentazione": 0.5,
+				"Fisica e Matematica": 1.75,
+				"Ragionamento Logico": 0
+			},
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "03a88a98fbfe9105eadc",
+			"birthDate": "14/11/2006",
+			"position": 3,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 3,
+					"canEnroll": false
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 9,
+			"englishResult": 18,
+			"sectionsResults": {
+				"Comprensione del Testo": -1.5,
+				"Conoscenze acquisite negli studi, storia e cultura generale": 0.25,
+				"Disegno e Rappresentazione": 4.5,
+				"Fisica e Matematica": 2.75,
+				"Ragionamento Logico": 3
+			},
+			"ofa": {
+				"ENG": true
+			}
+		}
+	]
+}

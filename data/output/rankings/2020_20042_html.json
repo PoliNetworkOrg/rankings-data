@@ -1,0 +1,6491 @@
+{
+	"id": "2020_20042_html",
+	"school": "Design",
+	"year": 2020,
+	"phase": {
+		"raw": "Design - Ripescaggio",
+		"stripped": "Ripescaggio",
+		"primary": 0,
+		"secondary": 3,
+		"language": "IT",
+		"isExtraEu": false
+	},
+	"courses": {},
+	"rows": [
+		{
+			"id": "",
+			"position": 1,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 76.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 2,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 74.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 3,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 73.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 4,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 73.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 5,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 72.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 6,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 72.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 7,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 72.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 8,
+			"canEnroll": false,
+			"courses": [],
+			"result": 72.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 9,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 72.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 10,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 72.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 11,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 72.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 12,
+			"canEnroll": false,
+			"courses": [],
+			"result": 71.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 13,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 71.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 14,
+			"canEnroll": false,
+			"courses": [],
+			"result": 71.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 15,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 71.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 16,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 71.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 17,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 71.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 18,
+			"canEnroll": false,
+			"courses": [],
+			"result": 71.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 19,
+			"canEnroll": false,
+			"courses": [],
+			"result": 71.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 20,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 70.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 21,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 70.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 22,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 70.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 23,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 70.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 24,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 70.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 25,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 70.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 26,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 70.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 27,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 70.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 28,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 70.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 29,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 30,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 31,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 32,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 33,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 34,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 35,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 36,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 37,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 38,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 39,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 40,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 41,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 42,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 43,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 44,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 45,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 46,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 47,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 48,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 49,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 50,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 51,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 52,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 53,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 54,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 55,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 56,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 57,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 58,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 59,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 60,
+			"canEnroll": false,
+			"courses": [],
+			"result": 70,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 61,
+			"canEnroll": false,
+			"courses": [],
+			"result": 69.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 62,
+			"canEnroll": false,
+			"courses": [],
+			"result": 69.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 63,
+			"canEnroll": false,
+			"courses": [],
+			"result": 69.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 64,
+			"canEnroll": false,
+			"courses": [],
+			"result": 69.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 65,
+			"canEnroll": false,
+			"courses": [],
+			"result": 69.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 66,
+			"canEnroll": false,
+			"courses": [],
+			"result": 69.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 67,
+			"canEnroll": false,
+			"courses": [],
+			"result": 69.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 68,
+			"canEnroll": false,
+			"courses": [],
+			"result": 69.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 69,
+			"canEnroll": false,
+			"courses": [],
+			"result": 69.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 70,
+			"canEnroll": false,
+			"courses": [],
+			"result": 69.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 71,
+			"canEnroll": false,
+			"courses": [],
+			"result": 69.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 72,
+			"canEnroll": false,
+			"courses": [],
+			"result": 69.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 73,
+			"canEnroll": false,
+			"courses": [],
+			"result": 69.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 74,
+			"canEnroll": false,
+			"courses": [],
+			"result": 69.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 75,
+			"canEnroll": false,
+			"courses": [],
+			"result": 69.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 76,
+			"canEnroll": false,
+			"courses": [],
+			"result": 69.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 77,
+			"canEnroll": false,
+			"courses": [],
+			"result": 68.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 78,
+			"canEnroll": false,
+			"courses": [],
+			"result": 68.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 79,
+			"canEnroll": false,
+			"courses": [],
+			"result": 68.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 80,
+			"canEnroll": false,
+			"courses": [],
+			"result": 68.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 81,
+			"canEnroll": false,
+			"courses": [],
+			"result": 68.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 82,
+			"canEnroll": false,
+			"courses": [],
+			"result": 68.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 83,
+			"canEnroll": false,
+			"courses": [],
+			"result": 68.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 84,
+			"canEnroll": false,
+			"courses": [],
+			"result": 68.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 85,
+			"canEnroll": false,
+			"courses": [],
+			"result": 68.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 86,
+			"canEnroll": false,
+			"courses": [],
+			"result": 68.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 87,
+			"canEnroll": false,
+			"courses": [],
+			"result": 68.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 88,
+			"canEnroll": false,
+			"courses": [],
+			"result": 68.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 89,
+			"canEnroll": false,
+			"courses": [],
+			"result": 68.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 90,
+			"canEnroll": false,
+			"courses": [],
+			"result": 68.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 91,
+			"canEnroll": false,
+			"courses": [],
+			"result": 68.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 92,
+			"canEnroll": false,
+			"courses": [],
+			"result": 68.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 93,
+			"canEnroll": false,
+			"courses": [],
+			"result": 68.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 94,
+			"canEnroll": false,
+			"courses": [],
+			"result": 68.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 95,
+			"canEnroll": false,
+			"courses": [],
+			"result": 68.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 96,
+			"canEnroll": false,
+			"courses": [],
+			"result": 68.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 97,
+			"canEnroll": false,
+			"courses": [],
+			"result": 68.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 98,
+			"canEnroll": false,
+			"courses": [],
+			"result": 68.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 99,
+			"canEnroll": false,
+			"courses": [],
+			"result": 68.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 100,
+			"canEnroll": false,
+			"courses": [],
+			"result": 68.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 101,
+			"canEnroll": false,
+			"courses": [],
+			"result": 68.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 102,
+			"canEnroll": false,
+			"courses": [],
+			"result": 68.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 103,
+			"canEnroll": false,
+			"courses": [],
+			"result": 67.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 104,
+			"canEnroll": false,
+			"courses": [],
+			"result": 67.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 105,
+			"canEnroll": false,
+			"courses": [],
+			"result": 67.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 106,
+			"canEnroll": false,
+			"courses": [],
+			"result": 67.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 107,
+			"canEnroll": false,
+			"courses": [],
+			"result": 67.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 108,
+			"canEnroll": false,
+			"courses": [],
+			"result": 67.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 109,
+			"canEnroll": false,
+			"courses": [],
+			"result": 67.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 110,
+			"canEnroll": false,
+			"courses": [],
+			"result": 67.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 111,
+			"canEnroll": false,
+			"courses": [],
+			"result": 67.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 112,
+			"canEnroll": false,
+			"courses": [],
+			"result": 67.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 113,
+			"canEnroll": false,
+			"courses": [],
+			"result": 67.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 114,
+			"canEnroll": false,
+			"courses": [],
+			"result": 67.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 115,
+			"canEnroll": false,
+			"courses": [],
+			"result": 67.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 116,
+			"canEnroll": false,
+			"courses": [],
+			"result": 67.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 117,
+			"canEnroll": false,
+			"courses": [],
+			"result": 67.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 118,
+			"canEnroll": false,
+			"courses": [],
+			"result": 67.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 119,
+			"canEnroll": false,
+			"courses": [],
+			"result": 67.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 120,
+			"canEnroll": false,
+			"courses": [],
+			"result": 67.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 121,
+			"canEnroll": false,
+			"courses": [],
+			"result": 67.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 122,
+			"canEnroll": false,
+			"courses": [],
+			"result": 67.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 123,
+			"canEnroll": false,
+			"courses": [],
+			"result": 67.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 124,
+			"canEnroll": false,
+			"courses": [],
+			"result": 67.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 125,
+			"canEnroll": false,
+			"courses": [],
+			"result": 67.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 126,
+			"canEnroll": false,
+			"courses": [],
+			"result": 67.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 127,
+			"canEnroll": false,
+			"courses": [],
+			"result": 67.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 128,
+			"canEnroll": false,
+			"courses": [],
+			"result": 67.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 161,
+			"canEnroll": false,
+			"courses": [],
+			"result": 66.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 162,
+			"canEnroll": false,
+			"courses": [],
+			"result": 66.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 163,
+			"canEnroll": false,
+			"courses": [],
+			"result": 66.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 164,
+			"canEnroll": false,
+			"courses": [],
+			"result": 66.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 165,
+			"canEnroll": false,
+			"courses": [],
+			"result": 66.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 166,
+			"canEnroll": false,
+			"courses": [],
+			"result": 66.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 167,
+			"canEnroll": false,
+			"courses": [],
+			"result": 66.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 168,
+			"canEnroll": false,
+			"courses": [],
+			"result": 66.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 169,
+			"canEnroll": false,
+			"courses": [],
+			"result": 66.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 170,
+			"canEnroll": false,
+			"courses": [],
+			"result": 66.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 171,
+			"canEnroll": false,
+			"courses": [],
+			"result": 66.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 172,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 173,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 174,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 175,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 176,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 177,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 178,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 179,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 180,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 181,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 182,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 183,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 184,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 185,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 186,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 187,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 188,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 189,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 190,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 191,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 192,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 193,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 194,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 195,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 196,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 197,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 198,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 199,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 200,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 201,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 202,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 203,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 204,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 205,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 206,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 207,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 208,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 209,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 210,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 211,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 212,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 213,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 214,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 215,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 216,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 217,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 218,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 219,
+			"canEnroll": false,
+			"courses": [],
+			"result": 65,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 220,
+			"canEnroll": false,
+			"courses": [],
+			"result": 64.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 221,
+			"canEnroll": false,
+			"courses": [],
+			"result": 64.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 222,
+			"canEnroll": false,
+			"courses": [],
+			"result": 64.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 223,
+			"canEnroll": false,
+			"courses": [],
+			"result": 64.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 224,
+			"canEnroll": false,
+			"courses": [],
+			"result": 64.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 257,
+			"canEnroll": false,
+			"courses": [],
+			"result": 63.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 258,
+			"canEnroll": false,
+			"courses": [],
+			"result": 63.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 259,
+			"canEnroll": false,
+			"courses": [],
+			"result": 63.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 260,
+			"canEnroll": false,
+			"courses": [],
+			"result": 63.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 261,
+			"canEnroll": false,
+			"courses": [],
+			"result": 63.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 262,
+			"canEnroll": false,
+			"courses": [],
+			"result": 63.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 263,
+			"canEnroll": false,
+			"courses": [],
+			"result": 63.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 264,
+			"canEnroll": false,
+			"courses": [],
+			"result": 63.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 265,
+			"canEnroll": false,
+			"courses": [],
+			"result": 63.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 266,
+			"canEnroll": false,
+			"courses": [],
+			"result": 63.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 267,
+			"canEnroll": false,
+			"courses": [],
+			"result": 63.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 268,
+			"canEnroll": false,
+			"courses": [],
+			"result": 63.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 269,
+			"canEnroll": false,
+			"courses": [],
+			"result": 63.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 270,
+			"canEnroll": false,
+			"courses": [],
+			"result": 63.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 271,
+			"canEnroll": false,
+			"courses": [],
+			"result": 63.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 272,
+			"canEnroll": false,
+			"courses": [],
+			"result": 63.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 273,
+			"canEnroll": false,
+			"courses": [],
+			"result": 63.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 274,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 275,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 276,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 277,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 278,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 279,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 280,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 281,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 282,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 283,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 284,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 285,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 286,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 287,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 288,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 289,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 290,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 291,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 292,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 293,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 294,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 295,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 296,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 297,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 298,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 299,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 300,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 301,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 302,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 303,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 304,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 305,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 306,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 307,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 308,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 309,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 310,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 311,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 312,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 313,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 314,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 315,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 316,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 317,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 318,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 319,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 320,
+			"canEnroll": false,
+			"courses": [],
+			"result": 61.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 321,
+			"canEnroll": false,
+			"courses": [],
+			"result": 61.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 322,
+			"canEnroll": false,
+			"courses": [],
+			"result": 61.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 323,
+			"canEnroll": false,
+			"courses": [],
+			"result": 61.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 324,
+			"canEnroll": false,
+			"courses": [],
+			"result": 61.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 325,
+			"canEnroll": false,
+			"courses": [],
+			"result": 61.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 326,
+			"canEnroll": false,
+			"courses": [],
+			"result": 61.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 327,
+			"canEnroll": false,
+			"courses": [],
+			"result": 61.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 328,
+			"canEnroll": false,
+			"courses": [],
+			"result": 61.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 329,
+			"canEnroll": false,
+			"courses": [],
+			"result": 61.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 330,
+			"canEnroll": false,
+			"courses": [],
+			"result": 61.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 331,
+			"canEnroll": false,
+			"courses": [],
+			"result": 61.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 332,
+			"canEnroll": false,
+			"courses": [],
+			"result": 61.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 333,
+			"canEnroll": false,
+			"courses": [],
+			"result": 61.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 334,
+			"canEnroll": false,
+			"courses": [],
+			"result": 61.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 335,
+			"canEnroll": false,
+			"courses": [],
+			"result": 61.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 336,
+			"canEnroll": false,
+			"courses": [],
+			"result": 61.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 337,
+			"canEnroll": false,
+			"courses": [],
+			"result": 61.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 338,
+			"canEnroll": false,
+			"courses": [],
+			"result": 61.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 339,
+			"canEnroll": false,
+			"courses": [],
+			"result": 61.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 340,
+			"canEnroll": false,
+			"courses": [],
+			"result": 61.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 341,
+			"canEnroll": false,
+			"courses": [],
+			"result": 61.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 342,
+			"canEnroll": false,
+			"courses": [],
+			"result": 61.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 343,
+			"canEnroll": false,
+			"courses": [],
+			"result": 61.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 344,
+			"canEnroll": false,
+			"courses": [],
+			"result": 60.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 345,
+			"canEnroll": false,
+			"courses": [],
+			"result": 60.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 346,
+			"canEnroll": false,
+			"courses": [],
+			"result": 60.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 347,
+			"canEnroll": false,
+			"courses": [],
+			"result": 60.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 348,
+			"canEnroll": false,
+			"courses": [],
+			"result": 60.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 349,
+			"canEnroll": false,
+			"courses": [],
+			"result": 60.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 350,
+			"canEnroll": false,
+			"courses": [],
+			"result": 60.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 351,
+			"canEnroll": false,
+			"courses": [],
+			"result": 60.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 352,
+			"canEnroll": false,
+			"courses": [],
+			"result": 60.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 385,
+			"canEnroll": false,
+			"courses": [],
+			"result": 59.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 386,
+			"canEnroll": false,
+			"courses": [],
+			"result": 59.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 387,
+			"canEnroll": false,
+			"courses": [],
+			"result": 59.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 388,
+			"canEnroll": false,
+			"courses": [],
+			"result": 59.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 389,
+			"canEnroll": false,
+			"courses": [],
+			"result": 59.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 390,
+			"canEnroll": false,
+			"courses": [],
+			"result": 59.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 391,
+			"canEnroll": false,
+			"courses": [],
+			"result": 59.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 392,
+			"canEnroll": false,
+			"courses": [],
+			"result": 59.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 393,
+			"canEnroll": false,
+			"courses": [],
+			"result": 59.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 394,
+			"canEnroll": false,
+			"courses": [],
+			"result": 59.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 395,
+			"canEnroll": false,
+			"courses": [],
+			"result": 59.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 396,
+			"canEnroll": false,
+			"courses": [],
+			"result": 59.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 397,
+			"canEnroll": false,
+			"courses": [],
+			"result": 59.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 398,
+			"canEnroll": false,
+			"courses": [],
+			"result": 59.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 399,
+			"canEnroll": false,
+			"courses": [],
+			"result": 58.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 400,
+			"canEnroll": false,
+			"courses": [],
+			"result": 58.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 401,
+			"canEnroll": false,
+			"courses": [],
+			"result": 58.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 402,
+			"canEnroll": false,
+			"courses": [],
+			"result": 58.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 403,
+			"canEnroll": false,
+			"courses": [],
+			"result": 58.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 404,
+			"canEnroll": false,
+			"courses": [],
+			"result": 58.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 405,
+			"canEnroll": false,
+			"courses": [],
+			"result": 58.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 406,
+			"canEnroll": false,
+			"courses": [],
+			"result": 58.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 407,
+			"canEnroll": false,
+			"courses": [],
+			"result": 58.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 408,
+			"canEnroll": false,
+			"courses": [],
+			"result": 58.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 409,
+			"canEnroll": false,
+			"courses": [],
+			"result": 58.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 410,
+			"canEnroll": false,
+			"courses": [],
+			"result": 58.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 411,
+			"canEnroll": false,
+			"courses": [],
+			"result": 58.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 412,
+			"canEnroll": false,
+			"courses": [],
+			"result": 58.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 413,
+			"canEnroll": false,
+			"courses": [],
+			"result": 58.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 414,
+			"canEnroll": false,
+			"courses": [],
+			"result": 58.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 415,
+			"canEnroll": false,
+			"courses": [],
+			"result": 58.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 416,
+			"canEnroll": false,
+			"courses": [],
+			"result": 58.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 417,
+			"canEnroll": false,
+			"courses": [],
+			"result": 58.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 418,
+			"canEnroll": false,
+			"courses": [],
+			"result": 57.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 419,
+			"canEnroll": false,
+			"courses": [],
+			"result": 57.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 420,
+			"canEnroll": false,
+			"courses": [],
+			"result": 57.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 421,
+			"canEnroll": false,
+			"courses": [],
+			"result": 57.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 422,
+			"canEnroll": false,
+			"courses": [],
+			"result": 57.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 423,
+			"canEnroll": false,
+			"courses": [],
+			"result": 57.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 424,
+			"canEnroll": false,
+			"courses": [],
+			"result": 57.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 425,
+			"canEnroll": false,
+			"courses": [],
+			"result": 57.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 426,
+			"canEnroll": false,
+			"courses": [],
+			"result": 57.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 427,
+			"canEnroll": false,
+			"courses": [],
+			"result": 57.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 428,
+			"canEnroll": false,
+			"courses": [],
+			"result": 57.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 429,
+			"canEnroll": false,
+			"courses": [],
+			"result": 57.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 430,
+			"canEnroll": false,
+			"courses": [],
+			"result": 57.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 431,
+			"canEnroll": false,
+			"courses": [],
+			"result": 57.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 432,
+			"canEnroll": false,
+			"courses": [],
+			"result": 57.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 433,
+			"canEnroll": false,
+			"courses": [],
+			"result": 57.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 434,
+			"canEnroll": false,
+			"courses": [],
+			"result": 57.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 435,
+			"canEnroll": false,
+			"courses": [],
+			"result": 57.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 436,
+			"canEnroll": false,
+			"courses": [],
+			"result": 57.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 437,
+			"canEnroll": false,
+			"courses": [],
+			"result": 57.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 438,
+			"canEnroll": false,
+			"courses": [],
+			"result": 57.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 439,
+			"canEnroll": false,
+			"courses": [],
+			"result": 57.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 440,
+			"canEnroll": false,
+			"courses": [],
+			"result": 57.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 441,
+			"canEnroll": false,
+			"courses": [],
+			"result": 57.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 442,
+			"canEnroll": false,
+			"courses": [],
+			"result": 57.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 443,
+			"canEnroll": false,
+			"courses": [],
+			"result": 56.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 444,
+			"canEnroll": false,
+			"courses": [],
+			"result": 56.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 445,
+			"canEnroll": false,
+			"courses": [],
+			"result": 56.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 446,
+			"canEnroll": false,
+			"courses": [],
+			"result": 56.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 447,
+			"canEnroll": false,
+			"courses": [],
+			"result": 56.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 448,
+			"canEnroll": false,
+			"courses": [],
+			"result": 56.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 449,
+			"canEnroll": false,
+			"courses": [],
+			"result": 56.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 450,
+			"canEnroll": false,
+			"courses": [],
+			"result": 56.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 451,
+			"canEnroll": false,
+			"courses": [],
+			"result": 56.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 452,
+			"canEnroll": false,
+			"courses": [],
+			"result": 56.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 453,
+			"canEnroll": false,
+			"courses": [],
+			"result": 56.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 454,
+			"canEnroll": false,
+			"courses": [],
+			"result": 56.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 455,
+			"canEnroll": false,
+			"courses": [],
+			"result": 56.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 456,
+			"canEnroll": false,
+			"courses": [],
+			"result": 56.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 457,
+			"canEnroll": false,
+			"courses": [],
+			"result": 56.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 458,
+			"canEnroll": false,
+			"courses": [],
+			"result": 56.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 459,
+			"canEnroll": false,
+			"courses": [],
+			"result": 56.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 460,
+			"canEnroll": false,
+			"courses": [],
+			"result": 56.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 461,
+			"canEnroll": false,
+			"courses": [],
+			"result": 56.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 462,
+			"canEnroll": false,
+			"courses": [],
+			"result": 56.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 463,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 464,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 465,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 466,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 467,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 468,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 469,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 470,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 471,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 472,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 473,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 474,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 475,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 476,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 477,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 478,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 479,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 480,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 481,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 482,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 483,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 484,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 485,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 486,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 487,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 488,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 489,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 490,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 491,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 492,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 493,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 494,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 495,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 496,
+			"canEnroll": false,
+			"courses": [],
+			"result": 54.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 497,
+			"canEnroll": false,
+			"courses": [],
+			"result": 54.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 498,
+			"canEnroll": false,
+			"courses": [],
+			"result": 54.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 499,
+			"canEnroll": false,
+			"courses": [],
+			"result": 54.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 500,
+			"canEnroll": false,
+			"courses": [],
+			"result": 54.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 501,
+			"canEnroll": false,
+			"courses": [],
+			"result": 54.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 502,
+			"canEnroll": false,
+			"courses": [],
+			"result": 54.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 503,
+			"canEnroll": false,
+			"courses": [],
+			"result": 54.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 504,
+			"canEnroll": false,
+			"courses": [],
+			"result": 54.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 505,
+			"canEnroll": false,
+			"courses": [],
+			"result": 54.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 506,
+			"canEnroll": false,
+			"courses": [],
+			"result": 54.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 507,
+			"canEnroll": false,
+			"courses": [],
+			"result": 54.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 508,
+			"canEnroll": false,
+			"courses": [],
+			"result": 54.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 509,
+			"canEnroll": false,
+			"courses": [],
+			"result": 54.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 510,
+			"canEnroll": false,
+			"courses": [],
+			"result": 54.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 511,
+			"canEnroll": false,
+			"courses": [],
+			"result": 54.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 512,
+			"canEnroll": false,
+			"courses": [],
+			"result": 54.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 609,
+			"canEnroll": false,
+			"courses": [],
+			"result": 48.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 610,
+			"canEnroll": false,
+			"courses": [],
+			"result": 48.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 611,
+			"canEnroll": false,
+			"courses": [],
+			"result": 48.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 612,
+			"canEnroll": false,
+			"courses": [],
+			"result": 48.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 613,
+			"canEnroll": false,
+			"courses": [],
+			"result": 48.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 614,
+			"canEnroll": false,
+			"courses": [],
+			"result": 48.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 615,
+			"canEnroll": false,
+			"courses": [],
+			"result": 47.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 616,
+			"canEnroll": false,
+			"courses": [],
+			"result": 47.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 617,
+			"canEnroll": false,
+			"courses": [],
+			"result": 47.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 618,
+			"canEnroll": false,
+			"courses": [],
+			"result": 47.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 619,
+			"canEnroll": false,
+			"courses": [],
+			"result": 47.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 620,
+			"canEnroll": false,
+			"courses": [],
+			"result": 47.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 621,
+			"canEnroll": false,
+			"courses": [],
+			"result": 47.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 622,
+			"canEnroll": false,
+			"courses": [],
+			"result": 47.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 623,
+			"canEnroll": false,
+			"courses": [],
+			"result": 47.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 624,
+			"canEnroll": false,
+			"courses": [],
+			"result": 47.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 625,
+			"canEnroll": false,
+			"courses": [],
+			"result": 47.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 626,
+			"canEnroll": false,
+			"courses": [],
+			"result": 47.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 627,
+			"canEnroll": false,
+			"courses": [],
+			"result": 47.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 628,
+			"canEnroll": false,
+			"courses": [],
+			"result": 47.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 629,
+			"canEnroll": false,
+			"courses": [],
+			"result": 47.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 630,
+			"canEnroll": false,
+			"courses": [],
+			"result": 47.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 631,
+			"canEnroll": false,
+			"courses": [],
+			"result": 47.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 632,
+			"canEnroll": false,
+			"courses": [],
+			"result": 47.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 633,
+			"canEnroll": false,
+			"courses": [],
+			"result": 47.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 634,
+			"canEnroll": false,
+			"courses": [],
+			"result": 47.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 635,
+			"canEnroll": false,
+			"courses": [],
+			"result": 47.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 636,
+			"canEnroll": false,
+			"courses": [],
+			"result": 46.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 637,
+			"canEnroll": false,
+			"courses": [],
+			"result": 46.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 638,
+			"canEnroll": false,
+			"courses": [],
+			"result": 46.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 639,
+			"canEnroll": false,
+			"courses": [],
+			"result": 46.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 640,
+			"canEnroll": false,
+			"courses": [],
+			"result": 46.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 673,
+			"canEnroll": false,
+			"courses": [],
+			"result": 44.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 674,
+			"canEnroll": false,
+			"courses": [],
+			"result": 44.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 675,
+			"canEnroll": false,
+			"courses": [],
+			"result": 44.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 676,
+			"canEnroll": false,
+			"courses": [],
+			"result": 44.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 677,
+			"canEnroll": false,
+			"courses": [],
+			"result": 44.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 678,
+			"canEnroll": false,
+			"courses": [],
+			"result": 44.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 679,
+			"canEnroll": false,
+			"courses": [],
+			"result": 44.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 680,
+			"canEnroll": false,
+			"courses": [],
+			"result": 44.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 681,
+			"canEnroll": false,
+			"courses": [],
+			"result": 44.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 682,
+			"canEnroll": false,
+			"courses": [],
+			"result": 43.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 683,
+			"canEnroll": false,
+			"courses": [],
+			"result": 43.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 684,
+			"canEnroll": false,
+			"courses": [],
+			"result": 43.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 685,
+			"canEnroll": false,
+			"courses": [],
+			"result": 43.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 686,
+			"canEnroll": false,
+			"courses": [],
+			"result": 43.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 687,
+			"canEnroll": false,
+			"courses": [],
+			"result": 43.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 688,
+			"canEnroll": false,
+			"courses": [],
+			"result": 43.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 689,
+			"canEnroll": false,
+			"courses": [],
+			"result": 43.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 690,
+			"canEnroll": false,
+			"courses": [],
+			"result": 43.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 691,
+			"canEnroll": false,
+			"courses": [],
+			"result": 43.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 692,
+			"canEnroll": false,
+			"courses": [],
+			"result": 43.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 693,
+			"canEnroll": false,
+			"courses": [],
+			"result": 43.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 694,
+			"canEnroll": false,
+			"courses": [],
+			"result": 43.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 695,
+			"canEnroll": false,
+			"courses": [],
+			"result": 43.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 696,
+			"canEnroll": false,
+			"courses": [],
+			"result": 43.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 697,
+			"canEnroll": false,
+			"courses": [],
+			"result": 43.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 698,
+			"canEnroll": false,
+			"courses": [],
+			"result": 43.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 699,
+			"canEnroll": false,
+			"courses": [],
+			"result": 43.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 700,
+			"canEnroll": false,
+			"courses": [],
+			"result": 42.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 701,
+			"canEnroll": false,
+			"courses": [],
+			"result": 42.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 702,
+			"canEnroll": false,
+			"courses": [],
+			"result": 42.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 703,
+			"canEnroll": false,
+			"courses": [],
+			"result": 42.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 704,
+			"canEnroll": false,
+			"courses": [],
+			"result": 42.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 705,
+			"canEnroll": false,
+			"courses": [],
+			"result": 42.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 706,
+			"canEnroll": false,
+			"courses": [],
+			"result": 42.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 707,
+			"canEnroll": false,
+			"courses": [],
+			"result": 42.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 708,
+			"canEnroll": false,
+			"courses": [],
+			"result": 42.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 709,
+			"canEnroll": false,
+			"courses": [],
+			"result": 42.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 710,
+			"canEnroll": false,
+			"courses": [],
+			"result": 42.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 711,
+			"canEnroll": false,
+			"courses": [],
+			"result": 42.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 712,
+			"canEnroll": false,
+			"courses": [],
+			"result": 42.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 713,
+			"canEnroll": false,
+			"courses": [],
+			"result": 42.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 714,
+			"canEnroll": false,
+			"courses": [],
+			"result": 42.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 715,
+			"canEnroll": false,
+			"courses": [],
+			"result": 42.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 716,
+			"canEnroll": false,
+			"courses": [],
+			"result": 42.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 717,
+			"canEnroll": false,
+			"courses": [],
+			"result": 41.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 718,
+			"canEnroll": false,
+			"courses": [],
+			"result": 41.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 719,
+			"canEnroll": false,
+			"courses": [],
+			"result": 41.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 720,
+			"canEnroll": false,
+			"courses": [],
+			"result": 41.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 721,
+			"canEnroll": false,
+			"courses": [],
+			"result": 41.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 722,
+			"canEnroll": false,
+			"courses": [],
+			"result": 41.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 723,
+			"canEnroll": false,
+			"courses": [],
+			"result": 41.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 724,
+			"canEnroll": false,
+			"courses": [],
+			"result": 41.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 725,
+			"canEnroll": false,
+			"courses": [],
+			"result": 41.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 726,
+			"canEnroll": false,
+			"courses": [],
+			"result": 41.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 727,
+			"canEnroll": false,
+			"courses": [],
+			"result": 40.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 728,
+			"canEnroll": false,
+			"courses": [],
+			"result": 40.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 729,
+			"canEnroll": false,
+			"courses": [],
+			"result": 40.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 730,
+			"canEnroll": false,
+			"courses": [],
+			"result": 40.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 731,
+			"canEnroll": false,
+			"courses": [],
+			"result": 40.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 732,
+			"canEnroll": false,
+			"courses": [],
+			"result": 40,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 733,
+			"canEnroll": false,
+			"courses": [],
+			"result": 40,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 734,
+			"canEnroll": false,
+			"courses": [],
+			"result": 40,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 735,
+			"canEnroll": false,
+			"courses": [],
+			"result": 40,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 736,
+			"canEnroll": false,
+			"courses": [],
+			"result": 40,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 737,
+			"canEnroll": false,
+			"courses": [],
+			"result": 40,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 738,
+			"canEnroll": false,
+			"courses": [],
+			"result": 40,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 739,
+			"canEnroll": false,
+			"courses": [],
+			"result": 40,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 740,
+			"canEnroll": false,
+			"courses": [],
+			"result": 39.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 741,
+			"canEnroll": false,
+			"courses": [],
+			"result": 39.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 742,
+			"canEnroll": false,
+			"courses": [],
+			"result": 39.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 743,
+			"canEnroll": false,
+			"courses": [],
+			"result": 39.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 744,
+			"canEnroll": false,
+			"courses": [],
+			"result": 39.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 745,
+			"canEnroll": false,
+			"courses": [],
+			"result": 39.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 746,
+			"canEnroll": false,
+			"courses": [],
+			"result": 39.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 747,
+			"canEnroll": false,
+			"courses": [],
+			"result": 39.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 748,
+			"canEnroll": false,
+			"courses": [],
+			"result": 39.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 749,
+			"canEnroll": false,
+			"courses": [],
+			"result": 38.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 750,
+			"canEnroll": false,
+			"courses": [],
+			"result": 38.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 751,
+			"canEnroll": false,
+			"courses": [],
+			"result": 38.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 752,
+			"canEnroll": false,
+			"courses": [],
+			"result": 38.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 753,
+			"canEnroll": false,
+			"courses": [],
+			"result": 38.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 754,
+			"canEnroll": false,
+			"courses": [],
+			"result": 38.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 755,
+			"canEnroll": false,
+			"courses": [],
+			"result": 38.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 756,
+			"canEnroll": false,
+			"courses": [],
+			"result": 37.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 757,
+			"canEnroll": false,
+			"courses": [],
+			"result": 37.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 758,
+			"canEnroll": false,
+			"courses": [],
+			"result": 37.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 759,
+			"canEnroll": false,
+			"courses": [],
+			"result": 37.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 760,
+			"canEnroll": false,
+			"courses": [],
+			"result": 37.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 761,
+			"canEnroll": false,
+			"courses": [],
+			"result": 37.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 762,
+			"canEnroll": false,
+			"courses": [],
+			"result": 37.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 763,
+			"canEnroll": false,
+			"courses": [],
+			"result": 37.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 764,
+			"canEnroll": false,
+			"courses": [],
+			"result": 37.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 765,
+			"canEnroll": false,
+			"courses": [],
+			"result": 37.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 766,
+			"canEnroll": false,
+			"courses": [],
+			"result": 37.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 767,
+			"canEnroll": false,
+			"courses": [],
+			"result": 37.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 768,
+			"canEnroll": false,
+			"courses": [],
+			"result": 37.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 801,
+			"canEnroll": false,
+			"courses": [],
+			"result": 33.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 802,
+			"canEnroll": false,
+			"courses": [],
+			"result": 33.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 803,
+			"canEnroll": false,
+			"courses": [],
+			"result": 33.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 804,
+			"canEnroll": false,
+			"courses": [],
+			"result": 33.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 805,
+			"canEnroll": false,
+			"courses": [],
+			"result": 33.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 806,
+			"canEnroll": false,
+			"courses": [],
+			"result": 33.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 807,
+			"canEnroll": false,
+			"courses": [],
+			"result": 32.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 808,
+			"canEnroll": false,
+			"courses": [],
+			"result": 32.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 809,
+			"canEnroll": false,
+			"courses": [],
+			"result": 32.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 810,
+			"canEnroll": false,
+			"courses": [],
+			"result": 32.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 811,
+			"canEnroll": false,
+			"courses": [],
+			"result": 32.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 812,
+			"canEnroll": false,
+			"courses": [],
+			"result": 32.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 813,
+			"canEnroll": false,
+			"courses": [],
+			"result": 32.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 814,
+			"canEnroll": false,
+			"courses": [],
+			"result": 32.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 815,
+			"canEnroll": false,
+			"courses": [],
+			"result": 32.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 816,
+			"canEnroll": false,
+			"courses": [],
+			"result": 32.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 817,
+			"canEnroll": false,
+			"courses": [],
+			"result": 32.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 818,
+			"canEnroll": false,
+			"courses": [],
+			"result": 32.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 819,
+			"canEnroll": false,
+			"courses": [],
+			"result": 31.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 820,
+			"canEnroll": false,
+			"courses": [],
+			"result": 31.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 821,
+			"canEnroll": false,
+			"courses": [],
+			"result": 31.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 822,
+			"canEnroll": false,
+			"courses": [],
+			"result": 31.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 823,
+			"canEnroll": false,
+			"courses": [],
+			"result": 31.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 824,
+			"canEnroll": false,
+			"courses": [],
+			"result": 30.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 825,
+			"canEnroll": false,
+			"courses": [],
+			"result": 30.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 826,
+			"canEnroll": false,
+			"courses": [],
+			"result": 30.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 827,
+			"canEnroll": false,
+			"courses": [],
+			"result": 30.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 828,
+			"canEnroll": false,
+			"courses": [],
+			"result": 30.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 829,
+			"canEnroll": false,
+			"courses": [],
+			"result": 30,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 830,
+			"canEnroll": false,
+			"courses": [],
+			"result": 30,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		}
+	]
+}

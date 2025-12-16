@@ -1,0 +1,1744 @@
+{
+	"id": "2020_20008_html",
+	"school": "Urbanistica",
+	"year": 2020,
+	"phase": {
+		"raw": "Urbanistica - Anticipata",
+		"stripped": "Anticipata",
+		"primary": 0,
+		"secondary": 1,
+		"language": "IT",
+		"isExtraEu": false
+	},
+	"courses": {},
+	"rows": [
+		{
+			"id": "",
+			"position": 1,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 95,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 2,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 95,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 3,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 94,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 4,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 94,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 5,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 94,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 6,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 93,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 7,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 93,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 8,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 92,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 9,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 91,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 10,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 91,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 11,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 91,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 12,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 90,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 13,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 90,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 14,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 90,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 15,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 90,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 16,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 89,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 17,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 88,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 18,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 87,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 19,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 87,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 20,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 87,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 21,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 87,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 22,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 86,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 23,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 85,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 24,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 85,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 25,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 84,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 26,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 84,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 27,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 84,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 28,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 84,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 29,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 84,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 30,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 84,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 31,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 83,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 32,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 80,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 33,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 79,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 34,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 79,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 35,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 78,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 36,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 78,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 37,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 78,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 38,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 77,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 39,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 77,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 40,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 76,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 41,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 76,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 42,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 75,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 43,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 75,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 44,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 75,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 45,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 75,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 46,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 75,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 47,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 74,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 48,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 74,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 49,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 74,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 50,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 74,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 51,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 73,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 52,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 73,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 53,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 73,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 54,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 73,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 55,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 72,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 56,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 72,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 57,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 72,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 58,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 71,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 59,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 71,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 60,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 71,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 61,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 71,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 62,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 70,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 63,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 69,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 64,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 68,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 65,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 68,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 66,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 68,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 67,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 67,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 68,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 67,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 69,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 66,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 70,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 66,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 71,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 66,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 72,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 66,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 73,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 66,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 74,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 65,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 75,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 65,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 76,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 64,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 77,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 63,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 78,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 63,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 79,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 80,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 61,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 81,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 61,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 82,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 61,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 83,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 61,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 84,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 60,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 85,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 60,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 86,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 60,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 87,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 60,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 88,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 59,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 89,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 58,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 90,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 58,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 91,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 57,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 92,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 56,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 93,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 55,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 94,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 55,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 95,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 54,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 96,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 53,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 97,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 50,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 98,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 50,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 99,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 49,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 100,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 48,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 101,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 48,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 102,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 47,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 103,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 44,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 104,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 43,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 105,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 41,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 106,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 39,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 107,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 38,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 108,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 36,
+			"sectionsResults": null,
+			"ofa": {}
+		}
+	]
+}

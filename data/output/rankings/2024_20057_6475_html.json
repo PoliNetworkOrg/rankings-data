@@ -1,0 +1,104 @@
+{
+	"id": "2024_20057_6475_html",
+	"school": "Ingegneria",
+	"year": 2024,
+	"phase": {
+		"raw": "Seconda Graduatoria Di Seconda Fase",
+		"stripped": "Seconda Graduatoria Di Seconda Fase",
+		"primary": 2,
+		"secondary": 2,
+		"language": "EN",
+		"isExtraEu": true
+	},
+	"courses": {
+		"INGEGNERIA CIVILE - CIVIL ENGINEERING": [
+			"MILANO LEONARDO"
+		]
+	},
+	"rows": [
+		{
+			"id": "cd92435e314fa19c40d0",
+			"birthDate": "08/08/2005",
+			"position": 1,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 48.08,
+			"sectionsResults": {
+				"Comprensione Verbale": 12.76,
+				"Fisica": 4.2,
+				"Matematica": 31.12
+			},
+			"ofa": {}
+		},
+		{
+			"id": "2a8e041e72ca35c5b984",
+			"birthDate": "14/03/2005",
+			"position": 2,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 2,
+					"canEnroll": true
+				}
+			],
+			"result": 42.13,
+			"sectionsResults": {
+				"Comprensione Verbale": 5.95,
+				"Fisica": 3.17,
+				"Matematica": 33.01
+			},
+			"ofa": {}
+		},
+		{
+			"id": "171ede8aa5602ba7c70c",
+			"birthDate": "19/09/2005",
+			"position": 3,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 3,
+					"canEnroll": true
+				}
+			],
+			"result": 42.12,
+			"sectionsResults": {
+				"Comprensione Verbale": 6.61,
+				"Fisica": 2.41,
+				"Matematica": 33.1
+			},
+			"ofa": {}
+		},
+		{
+			"id": "0bff84f2329ba3ab9011",
+			"birthDate": "01/01/2005",
+			"position": 4,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 4,
+					"canEnroll": false
+				}
+			],
+			"result": 33.32,
+			"sectionsResults": {
+				"Comprensione Verbale": 2.31,
+				"Fisica": 3.17,
+				"Matematica": 27.84
+			},
+			"ofa": {}
+		}
+	]
+}

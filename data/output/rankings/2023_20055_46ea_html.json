@@ -1,0 +1,100 @@
+{
+	"id": "2023_20055_46ea_html",
+	"school": "Ingegneria",
+	"year": 2023,
+	"phase": {
+		"raw": "Ingegneria - Extra-ue - Seconda Graduatoria Di Seconda Fase",
+		"stripped": "Seconda Graduatoria Di Seconda Fase",
+		"primary": 2,
+		"secondary": 2,
+		"language": "IT",
+		"isExtraEu": true
+	},
+	"courses": {
+		"INGEGNERIA AEROSPAZIALE": [
+			"MILANO BOVISA"
+		],
+		"INGEGNERIA BIOMEDICA": [
+			"MILANO LEONARDO"
+		],
+		"INGEGNERIA CHIMICA": [
+			"MILANO LEONARDO"
+		],
+		"INGEGNERIA CIVILE": [
+			"MILANO LEONARDO"
+		],
+		"INGEGNERIA CIVILE PER LA MITIGAZIONE DEL RISCHIO": [
+			"LECCO"
+		],
+		"INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE": [
+			"MILANO LEONARDO"
+		],
+		"INGEGNERIA DELL'AUTOMAZIONE": [
+			"MILANO LEONARDO"
+		],
+		"INGEGNERIA DELLA PRODUZIONE INDUSTRIALE": [
+			"LECCO"
+		],
+		"INGEGNERIA EDILE E DELLE COSTRUZIONI": [
+			"MILANO LEONARDO"
+		],
+		"INGEGNERIA ELETTRICA": [
+			"MILANO LEONARDO"
+		],
+		"INGEGNERIA ELETTRONICA": [
+			"MILANO LEONARDO"
+		],
+		"INGEGNERIA ENERGETICA": [
+			"MILANO BOVISA"
+		],
+		"INGEGNERIA FISICA": [
+			"MILANO LEONARDO"
+		],
+		"INGEGNERIA GESTIONALE": [
+			"CREMONA",
+			"MILANO BOVISA"
+		],
+		"INGEGNERIA INFORMATICA": [
+			"MILANO LEONARDO",
+			"CREMONA"
+		],
+		"INGEGNERIA MATEMATICA": [
+			"MILANO LEONARDO"
+		],
+		"INGEGNERIA MECCANICA": [
+			"MILANO BOVISA",
+			"PIACENZA"
+		],
+		"INGEGNERIA PER L'AMBIENTE E IL TERRITORIO": [
+			"MILANO LEONARDO"
+		]
+	},
+	"rows": [
+		{
+			"id": "77e026cc9f3cd254d6ae",
+			"birthDate": "13/06/2004",
+			"position": 1,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 39.7,
+			"englishResult": 27,
+			"sectionsResults": {
+				"Comprensione Verbale": 0.75,
+				"Fisica": 5.5,
+				"Inglese": 8.75,
+				"Matematica": 24.7
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		}
+	]
+}

@@ -1,0 +1,1977 @@
+{
+	"id": "2020_20045_html",
+	"school": "Design",
+	"year": 2020,
+	"phase": {
+		"raw": "Design - Extra-ue",
+		"stripped": "Extra-ue",
+		"primary": 0,
+		"secondary": 1,
+		"language": "IT",
+		"isExtraEu": true
+	},
+	"courses": {},
+	"rows": [
+		{
+			"id": "",
+			"position": 1,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 76.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 2,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 72.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 3,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DELLA MODA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 72.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 4,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 66.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 5,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 60.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 6,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DELLA MODA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 59.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 7,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DELLA MODA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 58.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 8,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 56.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 9,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 55.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 10,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 55.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 11,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 53.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 12,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DELLA MODA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 52.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 13,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 52.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 14,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 52.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 15,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 51.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 16,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 51.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 17,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DELLA MODA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 50.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 18,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 49.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 19,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 48.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 20,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 48.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 21,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 47.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 22,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 47.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 23,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 46.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 24,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 46.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 25,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 46.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 26,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 45,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 27,
+			"canEnroll": false,
+			"courses": [],
+			"result": 43.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 28,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 43.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 29,
+			"canEnroll": false,
+			"courses": [],
+			"result": 43.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 30,
+			"canEnroll": false,
+			"courses": [],
+			"result": 43.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 31,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 43.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 32,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 42.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 33,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 41.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 34,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 41.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 35,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 41.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 36,
+			"canEnroll": false,
+			"courses": [],
+			"result": 41.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 37,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 40.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 38,
+			"canEnroll": false,
+			"courses": [],
+			"result": 40,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 39,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 39.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 40,
+			"canEnroll": false,
+			"courses": [],
+			"result": 38.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 41,
+			"canEnroll": false,
+			"courses": [],
+			"result": 38.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 42,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 38.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 43,
+			"canEnroll": false,
+			"courses": [],
+			"result": 38.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 44,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 38.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 45,
+			"canEnroll": false,
+			"courses": [],
+			"result": 37.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 46,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 37.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 47,
+			"canEnroll": false,
+			"courses": [],
+			"result": 37.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 48,
+			"canEnroll": false,
+			"courses": [],
+			"result": 35.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 49,
+			"canEnroll": false,
+			"courses": [],
+			"result": 35.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 50,
+			"canEnroll": false,
+			"courses": [],
+			"result": 35.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 51,
+			"canEnroll": false,
+			"courses": [],
+			"result": 35.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 52,
+			"canEnroll": false,
+			"courses": [],
+			"result": 35,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 53,
+			"canEnroll": false,
+			"courses": [],
+			"result": 34.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 54,
+			"canEnroll": false,
+			"courses": [],
+			"result": 34.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 55,
+			"canEnroll": false,
+			"courses": [],
+			"result": 33.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 56,
+			"canEnroll": false,
+			"courses": [],
+			"result": 33.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 57,
+			"canEnroll": false,
+			"courses": [],
+			"result": 32.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 58,
+			"canEnroll": false,
+			"courses": [],
+			"result": 32.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 59,
+			"canEnroll": false,
+			"courses": [],
+			"result": 32.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 60,
+			"canEnroll": false,
+			"courses": [],
+			"result": 30.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 61,
+			"canEnroll": false,
+			"courses": [],
+			"result": 30.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 62,
+			"canEnroll": false,
+			"courses": [],
+			"result": 30.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 63,
+			"canEnroll": false,
+			"courses": [],
+			"result": 30.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 64,
+			"canEnroll": false,
+			"courses": [],
+			"result": 29.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 65,
+			"canEnroll": false,
+			"courses": [],
+			"result": 29.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 66,
+			"canEnroll": false,
+			"courses": [],
+			"result": 28.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 67,
+			"canEnroll": false,
+			"courses": [],
+			"result": 28.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 68,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 27.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 69,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 27.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 70,
+			"canEnroll": false,
+			"courses": [],
+			"result": 27.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 71,
+			"canEnroll": false,
+			"courses": [],
+			"result": 26.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 72,
+			"canEnroll": false,
+			"courses": [],
+			"result": 26.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 73,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 25.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 74,
+			"canEnroll": false,
+			"courses": [],
+			"result": 25.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 75,
+			"canEnroll": false,
+			"courses": [],
+			"result": 24.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 76,
+			"canEnroll": false,
+			"courses": [],
+			"result": 24.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 77,
+			"canEnroll": false,
+			"courses": [],
+			"result": 24.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 78,
+			"canEnroll": false,
+			"courses": [],
+			"result": 23.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 79,
+			"canEnroll": false,
+			"courses": [],
+			"result": 23.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 80,
+			"canEnroll": false,
+			"courses": [],
+			"result": 23.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 81,
+			"canEnroll": false,
+			"courses": [],
+			"result": 23.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 82,
+			"canEnroll": false,
+			"courses": [],
+			"result": 22.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 83,
+			"canEnroll": false,
+			"courses": [],
+			"result": 22.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 84,
+			"canEnroll": false,
+			"courses": [],
+			"result": 22.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 85,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 86,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 87,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 88,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 89,
+			"canEnroll": false,
+			"courses": [],
+			"result": 20,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 90,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 19.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 91,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 19.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 92,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 18.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 93,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 18.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 94,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 17.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 95,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 17.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 96,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 17.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 97,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 17.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 98,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 16.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 99,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 15.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 100,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 15.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 101,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 15.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 102,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 15,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 103,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 15,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 104,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 14.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 105,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 14.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 106,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 13.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 107,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 12.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 108,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 12.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 109,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 12.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 110,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 12.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 111,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 11.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 112,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 10.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 113,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 9.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 114,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 8.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 115,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 7.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 116,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 7.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 117,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 6.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 118,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 5.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 119,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 120,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 121,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 3.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 122,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 3.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 123,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 2.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 124,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 2.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 125,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 0,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 126,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": -0.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 127,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": -0.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 128,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Non idoneo / Not eligible",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": -1.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		}
+	]
+}

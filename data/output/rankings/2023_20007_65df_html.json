@@ -1,0 +1,81 @@
+{
+	"id": "2023_20007_65df_html",
+	"school": "Urbanistica",
+	"year": 2023,
+	"phase": {
+		"raw": "Urbanistica - Extra-ue",
+		"stripped": "Extra-ue",
+		"primary": 0,
+		"secondary": 1,
+		"language": "IT",
+		"isExtraEu": true
+	},
+	"courses": {
+		"URBANISTICA: CITTA' AMBIENTE PAESAGGIO": []
+	},
+	"rows": [
+		{
+			"id": "6aeb0d1bd5e5e2c1c39e",
+			"birthDate": "20/10/2003",
+			"position": 1,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 67,
+			"sectionsResults": {
+				"Colloquio": 32,
+				"Elaborato": 19,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "051fcf4f228aed3344f7",
+			"birthDate": "26/02/2004",
+			"position": 2,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 2,
+					"canEnroll": true
+				}
+			],
+			"result": 55,
+			"sectionsResults": {
+				"Colloquio": 25,
+				"Elaborato": 17,
+				"Lettera Motivazionale": 13
+			},
+			"ofa": {}
+		},
+		{
+			"id": "12ece5f71c9d515ac473",
+			"birthDate": "21/06/2004",
+			"position": 3,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 3,
+					"canEnroll": false
+				}
+			],
+			"result": 36,
+			"sectionsResults": {
+				"Colloquio": 25,
+				"Elaborato": 7,
+				"Lettera Motivazionale": 4
+			},
+			"ofa": {}
+		}
+	]
+}

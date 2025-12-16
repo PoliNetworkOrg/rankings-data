@@ -1,0 +1,1301 @@
+{
+	"id": "2021_20054_html",
+	"school": "Ingegneria",
+	"year": 2021,
+	"phase": {
+		"raw": "Ingegneria - Extra-ue - Prima Graduatoria Di Seconda Fase",
+		"stripped": "Prima Graduatoria Di Seconda Fase",
+		"primary": 2,
+		"secondary": 1,
+		"language": "IT",
+		"isExtraEu": true
+	},
+	"courses": {
+		"INGEGNERIA AEROSPAZIALE": [
+			"MILANO BOVISA"
+		],
+		"INGEGNERIA BIOMEDICA": [
+			"MILANO LEONARDO"
+		],
+		"INGEGNERIA CHIMICA": [
+			"MILANO LEONARDO"
+		],
+		"INGEGNERIA CIVILE": [
+			"MILANO LEONARDO"
+		],
+		"INGEGNERIA CIVILE PER LA MITIGAZIONE DEL RISCHIO": [
+			"LECCO"
+		],
+		"INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE": [
+			"MILANO LEONARDO"
+		],
+		"INGEGNERIA DELL'AUTOMAZIONE": [
+			"MILANO LEONARDO"
+		],
+		"INGEGNERIA DELLA PRODUZIONE INDUSTRIALE": [
+			"LECCO"
+		],
+		"INGEGNERIA EDILE E DELLE COSTRUZIONI": [
+			"MILANO LEONARDO"
+		],
+		"INGEGNERIA ELETTRICA": [
+			"MILANO LEONARDO"
+		],
+		"INGEGNERIA ELETTRONICA": [
+			"MILANO LEONARDO"
+		],
+		"INGEGNERIA ENERGETICA": [
+			"MILANO BOVISA"
+		],
+		"INGEGNERIA FISICA": [
+			"MILANO LEONARDO"
+		],
+		"INGEGNERIA GESTIONALE": [
+			"CREMONA",
+			"MILANO BOVISA"
+		],
+		"INGEGNERIA INFORMATICA": [
+			"CREMONA",
+			"MILANO LEONARDO"
+		],
+		"INGEGNERIA MATEMATICA": [
+			"MILANO LEONARDO"
+		],
+		"INGEGNERIA MECCANICA": [
+			"MILANO BOVISA",
+			"PIACENZA"
+		],
+		"INGEGNERIA PER L'AMBIENTE E IL TERRITORIO": [
+			"MILANO LEONARDO"
+		]
+	},
+	"rows": [
+		{
+			"id": "4eae524a52922528cf2f",
+			"birthDate": "25/11/1998",
+			"position": 1,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 86.58,
+			"englishResult": 29,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 10,
+				"Inglese": 9.58,
+				"Matematica": 52
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "f97a0169c4b970982210",
+			"birthDate": "07/06/1996",
+			"position": 2,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 84.33,
+			"englishResult": 20,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 5,
+				"Inglese": 5.83,
+				"Matematica": 58.5
+			},
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "dce22e08f44e6ebb162d",
+			"birthDate": "13/07/2000",
+			"position": 3,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DELL'AUTOMAZIONE",
+					"location": "MILANO LEONARDO",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 70.67,
+			"englishResult": 28,
+			"sectionsResults": {
+				"Comprensione Verbale": 1.5,
+				"Fisica": 8,
+				"Inglese": 9.17,
+				"Matematica": 52
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "8c8268c7b70b578b135b",
+			"birthDate": "20/05/2002",
+			"position": 4,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DELLA PRODUZIONE INDUSTRIALE",
+					"location": "LECCO",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 69.78,
+			"englishResult": 29,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 1,
+				"Inglese": 9.58,
+				"Matematica": 44.2
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "0bb51c50b8a5784d2f82",
+			"birthDate": "17/04/2002",
+			"position": 5,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CHIMICA",
+					"location": "MILANO LEONARDO",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 69.63,
+			"englishResult": 29,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.75,
+				"Fisica": 3,
+				"Inglese": 9.58,
+				"Matematica": 53.3
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "fe4371b1d79b7c5efd3c",
+			"birthDate": "12/02/2002",
+			"position": 6,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 65.8,
+			"englishResult": 30,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 0.5,
+				"Inglese": 10,
+				"Matematica": 40.3
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "6508bfddbd7f1097fabb",
+			"birthDate": "13/05/1995",
+			"position": 7,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ELETTRONICA",
+					"location": "MILANO LEONARDO",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 65.58,
+			"englishResult": 20,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 2.5,
+				"Inglese": 5.83,
+				"Matematica": 42.25
+			},
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "414bbdd6f535f3bba1a2",
+			"birthDate": "05/11/1989",
+			"position": 8,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 65.4,
+			"englishResult": 27,
+			"sectionsResults": {
+				"Comprensione Verbale": 3,
+				"Fisica": 7.5,
+				"Inglese": 8.75,
+				"Matematica": 46.15
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "802dfa20953aee346355",
+			"birthDate": "04/12/2002",
+			"position": 9,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 2,
+					"canEnroll": true
+				}
+			],
+			"result": 64.17,
+			"englishResult": 28,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.75,
+				"Fisica": 2.5,
+				"Inglese": 9.17,
+				"Matematica": 48.75
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "4fa107b35796afc795b9",
+			"birthDate": "08/02/2000",
+			"position": 10,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 3,
+					"canEnroll": true
+				}
+			],
+			"result": 62.73,
+			"englishResult": 29,
+			"sectionsResults": {
+				"Comprensione Verbale": 11.25,
+				"Fisica": 5.5,
+				"Inglese": 9.58,
+				"Matematica": 36.4
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "7d98ac5d5ad860b77638",
+			"birthDate": "09/06/2001",
+			"position": 11,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 4,
+					"canEnroll": true
+				}
+			],
+			"result": 62.08,
+			"englishResult": 20,
+			"sectionsResults": {
+				"Comprensione Verbale": 0,
+				"Fisica": 7.5,
+				"Inglese": 5.83,
+				"Matematica": 48.75
+			},
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "2c11ffcc69aef9c0dd7d",
+			"birthDate": "23/06/2002",
+			"position": 12,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 5,
+					"canEnroll": true
+				}
+			],
+			"result": 61.92,
+			"englishResult": 23,
+			"sectionsResults": {
+				"Comprensione Verbale": 0,
+				"Fisica": 6,
+				"Inglese": 7.17,
+				"Matematica": 48.75
+			},
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "7d559a8b7eb05fc6600c",
+			"birthDate": "11/01/2001",
+			"position": 13,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 2,
+					"canEnroll": true
+				}
+			],
+			"result": 61.78,
+			"englishResult": 29,
+			"sectionsResults": {
+				"Comprensione Verbale": 12,
+				"Fisica": 2.5,
+				"Inglese": 9.58,
+				"Matematica": 37.7
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "d08ea4d1fd1ebaecb79e",
+			"birthDate": "26/07/1998",
+			"position": 14,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 6,
+					"canEnroll": true
+				}
+			],
+			"result": 60.85,
+			"englishResult": 27,
+			"sectionsResults": {
+				"Comprensione Verbale": 1.5,
+				"Fisica": 2.5,
+				"Inglese": 8.75,
+				"Matematica": 48.1
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "c7a796173558f0f76f4a",
+			"birthDate": "16/10/2002",
+			"position": 15,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 2,
+					"canEnroll": true
+				}
+			],
+			"result": 59.38,
+			"englishResult": 23,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 3.5,
+				"Inglese": 7.08,
+				"Matematica": 33.8
+			},
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "8c167494d7bee4784737",
+			"birthDate": "03/11/2001",
+			"position": 16,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 7,
+					"canEnroll": true
+				}
+			],
+			"result": 59.1,
+			"englishResult": 25,
+			"sectionsResults": {
+				"Comprensione Verbale": 2.25,
+				"Fisica": 4,
+				"Inglese": 8,
+				"Matematica": 44.85
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "50f6eec16bb9d4c28aa2",
+			"birthDate": "29/06/2002",
+			"position": 17,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 8,
+					"canEnroll": true
+				}
+			],
+			"result": 58.82,
+			"englishResult": 28,
+			"sectionsResults": {
+				"Comprensione Verbale": 4.5,
+				"Fisica": 5.5,
+				"Inglese": 9.17,
+				"Matematica": 39.65
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "34ae0aa975aeca057170",
+			"birthDate": "16/03/1993",
+			"position": 18,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 3,
+					"canEnroll": true
+				}
+			],
+			"result": 58.75,
+			"englishResult": 24,
+			"sectionsResults": {
+				"Comprensione Verbale": 8.25,
+				"Fisica": 4,
+				"Inglese": 7.5,
+				"Matematica": 39
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "ca61b8f6900379c9a5c8",
+			"birthDate": "25/12/2003",
+			"position": 19,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MATEMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 56.15,
+			"englishResult": 27,
+			"sectionsResults": {
+				"Comprensione Verbale": 7.5,
+				"Fisica": 3.5,
+				"Inglese": 8.75,
+				"Matematica": 36.4
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "4ce3b169a3ee1f52f2ab",
+			"birthDate": "22/05/2000",
+			"position": 20,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 55.53,
+			"englishResult": 26,
+			"sectionsResults": {
+				"Comprensione Verbale": 6,
+				"Fisica": 10,
+				"Inglese": 8.33,
+				"Matematica": 31.2
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "8c1d49e8a4032998437a",
+			"birthDate": "19/11/2002",
+			"position": 21,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 2,
+					"canEnroll": true
+				}
+			],
+			"result": 54.55,
+			"englishResult": 24,
+			"sectionsResults": {
+				"Comprensione Verbale": 8.25,
+				"Fisica": 5,
+				"Inglese": 7.5,
+				"Matematica": 33.8
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "7a671c7b18ea6348ae9a",
+			"birthDate": "24/06/2003",
+			"position": 22,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 9,
+					"canEnroll": true
+				}
+			],
+			"result": 54.15,
+			"englishResult": 27,
+			"sectionsResults": {
+				"Comprensione Verbale": 11.25,
+				"Fisica": 7.5,
+				"Inglese": 8.75,
+				"Matematica": 26.65
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "4ef644e245f3afd1583d",
+			"birthDate": "22/03/2002",
+			"position": 23,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CHIMICA",
+					"location": "MILANO LEONARDO",
+					"position": 2,
+					"canEnroll": true
+				}
+			],
+			"result": 52.38,
+			"englishResult": 26,
+			"sectionsResults": {
+				"Comprensione Verbale": 3,
+				"Fisica": 4,
+				"Inglese": 8.33,
+				"Matematica": 37.05
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "beef0c3207820180cad5",
+			"birthDate": "21/02/2000",
+			"position": 24,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ELETTRONICA",
+					"location": "MILANO LEONARDO",
+					"position": 2,
+					"canEnroll": true
+				}
+			],
+			"result": 52.03,
+			"englishResult": 29,
+			"sectionsResults": {
+				"Comprensione Verbale": 9,
+				"Fisica": 5.5,
+				"Inglese": 9.58,
+				"Matematica": 27.95
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "d629f1256c12eae40749",
+			"birthDate": "27/02/1997",
+			"position": 25,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 3,
+					"canEnroll": true
+				}
+			],
+			"result": 51.42,
+			"englishResult": 22,
+			"sectionsResults": {
+				"Comprensione Verbale": 0.75,
+				"Fisica": 5,
+				"Inglese": 6.67,
+				"Matematica": 39
+			},
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "fe11dc692d2588ba9e35",
+			"birthDate": "25/09/2002",
+			"position": 26,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 3,
+					"canEnroll": true
+				}
+			],
+			"result": 48.55,
+			"englishResult": 21,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 0,
+				"Inglese": 6.25,
+				"Matematica": 27.3
+			},
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "2abdcd341d18b153a562",
+			"birthDate": "16/05/2004",
+			"position": 27,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 2,
+					"canEnroll": true
+				}
+			],
+			"result": 48.32,
+			"englishResult": 28,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.75,
+				"Fisica": 5.5,
+				"Inglese": 9.17,
+				"Matematica": 29.9
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "b026165e4e83485e96c6",
+			"birthDate": "28/11/2002",
+			"position": 28,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CHIMICA",
+					"location": "MILANO LEONARDO",
+					"position": 3,
+					"canEnroll": true
+				}
+			],
+			"result": 47.3,
+			"englishResult": 27,
+			"sectionsResults": {
+				"Comprensione Verbale": 4.5,
+				"Fisica": 3.5,
+				"Inglese": 8.75,
+				"Matematica": 30.55
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "ae0314941e3b584f61e7",
+			"birthDate": "16/12/2002",
+			"position": 29,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 3,
+					"canEnroll": true
+				}
+			],
+			"result": 46.63,
+			"englishResult": 24,
+			"sectionsResults": {
+				"Comprensione Verbale": -0.75,
+				"Fisica": -0.5,
+				"Inglese": 7.58,
+				"Matematica": 40.3
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "5fc61010c6ddd09d16a6",
+			"birthDate": "01/06/1993",
+			"position": 30,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 4,
+					"canEnroll": true
+				}
+			],
+			"result": 44.62,
+			"englishResult": 25,
+			"sectionsResults": {
+				"Comprensione Verbale": 5.25,
+				"Fisica": 3.5,
+				"Inglese": 7.92,
+				"Matematica": 27.95
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "6de1b1ab5a9d7ab55058",
+			"birthDate": "17/01/2002",
+			"position": 31,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 4,
+					"canEnroll": true
+				}
+			],
+			"result": 44.5,
+			"englishResult": 30,
+			"sectionsResults": {
+				"Comprensione Verbale": 7.5,
+				"Fisica": 7.5,
+				"Inglese": 10,
+				"Matematica": 19.5
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "25caaba0d9ab698bd5b7",
+			"birthDate": "05/06/1998",
+			"position": 32,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 10,
+					"canEnroll": true
+				}
+			],
+			"result": 43.9,
+			"englishResult": 27,
+			"sectionsResults": {
+				"Comprensione Verbale": 0,
+				"Fisica": 2,
+				"Inglese": 8.75,
+				"Matematica": 33.15
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "8dcaaf873b8bc35894b0",
+			"birthDate": "11/06/2002",
+			"position": 33,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 5,
+					"canEnroll": true
+				}
+			],
+			"result": 42.65,
+			"englishResult": 30,
+			"sectionsResults": {
+				"Comprensione Verbale": 12,
+				"Fisica": 0.5,
+				"Inglese": 10,
+				"Matematica": 20.15
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "44452940f6014abbbfdb",
+			"birthDate": "06/09/2002",
+			"position": 34,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ELETTRONICA",
+					"location": "MILANO LEONARDO",
+					"position": 3,
+					"canEnroll": true
+				}
+			],
+			"result": 39.78,
+			"englishResult": 29,
+			"sectionsResults": {
+				"Comprensione Verbale": 5.25,
+				"Fisica": 3.5,
+				"Inglese": 9.58,
+				"Matematica": 21.45
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "0db62e6f42c234e8d520",
+			"birthDate": "15/02/2002",
+			"position": 35,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 11,
+					"canEnroll": true
+				}
+			],
+			"result": 39.18,
+			"englishResult": 18,
+			"sectionsResults": {
+				"Comprensione Verbale": 4.5,
+				"Fisica": 1,
+				"Inglese": 5.08,
+				"Matematica": 28.6
+			},
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "d6e153eb2440d8a118dc",
+			"birthDate": "01/02/2000",
+			"position": 36,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 12,
+					"canEnroll": true
+				}
+			],
+			"result": 38.7,
+			"englishResult": 20,
+			"sectionsResults": {
+				"Comprensione Verbale": 0,
+				"Fisica": 1.5,
+				"Inglese": 6,
+				"Matematica": 31.2
+			},
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "5e3350ad592f304914c4",
+			"birthDate": "04/06/2002",
+			"position": 37,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 5,
+					"canEnroll": true
+				}
+			],
+			"result": 38.48,
+			"englishResult": 14,
+			"sectionsResults": {
+				"Comprensione Verbale": 0,
+				"Fisica": 5,
+				"Inglese": 3.58,
+				"Matematica": 29.9
+			},
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "34041e2e1fe1fe6b653e",
+			"birthDate": "24/11/2001",
+			"position": 38,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 13,
+					"canEnroll": true
+				}
+			],
+			"result": 36.62,
+			"englishResult": 25,
+			"sectionsResults": {
+				"Comprensione Verbale": -2.25,
+				"Fisica": 3,
+				"Inglese": 7.92,
+				"Matematica": 27.95
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "d8216b4088ad8a6ada4b",
+			"birthDate": "11/03/2003",
+			"position": 39,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 14,
+					"canEnroll": true
+				}
+			],
+			"result": 35.33,
+			"englishResult": 26,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": -1,
+				"Inglese": 8.33,
+				"Matematica": 13
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "894057a469f38767655e",
+			"birthDate": "09/05/2001",
+			"position": 40,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "CREMONA",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 35.25,
+			"sectionsResults": {
+				"Comprensione Verbale": 7.5,
+				"Fisica": 5,
+				"Inglese": 0,
+				"Matematica": 22.75
+			},
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "b07257f27df473444231",
+			"birthDate": "30/03/2003",
+			"position": 41,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 15,
+					"canEnroll": true
+				}
+			],
+			"result": 34.3,
+			"englishResult": 26,
+			"sectionsResults": {
+				"Comprensione Verbale": 3,
+				"Fisica": 2,
+				"Inglese": 8.5,
+				"Matematica": 20.8
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "4b9c7485234d1923b7af",
+			"birthDate": "31/05/2003",
+			"position": 42,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 6,
+					"canEnroll": true
+				}
+			],
+			"result": 29.55,
+			"englishResult": 27,
+			"sectionsResults": {
+				"Comprensione Verbale": 0.75,
+				"Fisica": 2.5,
+				"Inglese": 8.75,
+				"Matematica": 17.55
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "467ee57a932b3e605ad3",
+			"birthDate": "22/11/2003",
+			"position": 43,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 16,
+					"canEnroll": false
+				}
+			],
+			"result": 28,
+			"englishResult": 30,
+			"sectionsResults": {
+				"Comprensione Verbale": 4.5,
+				"Fisica": 0.5,
+				"Inglese": 10,
+				"Matematica": 13
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "8254fef8c2b57cd8cacc",
+			"birthDate": "29/01/2003",
+			"position": 44,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ENERGETICA",
+					"location": "MILANO BOVISA",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 27.58,
+			"englishResult": 17,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.75,
+				"Fisica": 3,
+				"Inglese": 4.58,
+				"Matematica": 16.25
+			},
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "2a27bd5ac3dad32126ff",
+			"birthDate": "01/01/1989",
+			"position": 45,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
+					"location": "MILANO LEONARDO",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 27.25,
+			"englishResult": 12,
+			"sectionsResults": {
+				"Comprensione Verbale": 11.25,
+				"Fisica": 0.5,
+				"Inglese": 2.5,
+				"Matematica": 13
+			},
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "77059140e95ee73d1f11",
+			"birthDate": "04/04/1999",
+			"position": 46,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DELLA PRODUZIONE INDUSTRIALE",
+					"location": "LECCO",
+					"position": 2,
+					"canEnroll": true
+				}
+			],
+			"result": 27.25,
+			"englishResult": 27,
+			"sectionsResults": {
+				"Comprensione Verbale": 4.5,
+				"Fisica": 7.5,
+				"Inglese": 8.75,
+				"Matematica": 6.5
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "84dd66c2f2f68996747d",
+			"birthDate": "12/09/2002",
+			"position": 47,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "CREMONA",
+					"position": 2,
+					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 17,
+					"canEnroll": false
+				}
+			],
+			"result": 21.98,
+			"englishResult": 29,
+			"sectionsResults": {
+				"Comprensione Verbale": -3.75,
+				"Fisica": 2.5,
+				"Inglese": 9.58,
+				"Matematica": 13.65
+			},
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		}
+	]
+}

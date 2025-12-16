@@ -1,0 +1,39 @@
+{
+	"id": "2021_20007_html",
+	"school": "Urbanistica",
+	"year": 2021,
+	"phase": {
+		"raw": "Urbanistica - Extra-ue",
+		"stripped": "Extra-ue",
+		"primary": 0,
+		"secondary": 1,
+		"language": "IT",
+		"isExtraEu": true
+	},
+	"courses": {
+		"URBANISTICA: CITTA' AMBIENTE PAESAGGIO": []
+	},
+	"rows": [
+		{
+			"id": "23992084ae666c3b76d1",
+			"birthDate": "05/02/2001",
+			"position": 1,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 41,
+			"sectionsResults": {
+				"Colloquio": 17,
+				"Elaborato": 13,
+				"Lettera Motivazionale": 11
+			},
+			"ofa": {}
+		}
+	]
+}

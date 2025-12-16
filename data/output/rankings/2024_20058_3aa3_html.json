@@ -1,0 +1,41 @@
+{
+	"id": "2024_20058_3aa3_html",
+	"school": "Ingegneria",
+	"year": 2024,
+	"phase": {
+		"raw": "Terza Graduatoria Di Seconda Fase",
+		"stripped": "Terza Graduatoria Di Seconda Fase",
+		"primary": 2,
+		"secondary": 3,
+		"language": "EN",
+		"isExtraEu": true
+	},
+	"courses": {
+		"INGEGNERIA CIVILE - CIVIL ENGINEERING": [
+			"MILANO LEONARDO"
+		]
+	},
+	"rows": [
+		{
+			"id": "0bff84f2329ba3ab9011",
+			"birthDate": "01/01/2005",
+			"position": 1,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 33.32,
+			"sectionsResults": {
+				"Comprensione Verbale": 2.31,
+				"Fisica": 3.17,
+				"Matematica": 27.84
+			},
+			"ofa": {}
+		}
+	]
+}

@@ -1,0 +1,64 @@
+{
+	"id": "2020_20007_html",
+	"school": "Urbanistica",
+	"year": 2020,
+	"phase": {
+		"raw": "Urbanistica - Extra-ue",
+		"stripped": "Extra-ue",
+		"primary": 0,
+		"secondary": 1,
+		"language": "IT",
+		"isExtraEu": true
+	},
+	"courses": {},
+	"rows": [
+		{
+			"id": "",
+			"position": 1,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 84,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 2,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 79,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "",
+			"position": 3,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 64,
+			"sectionsResults": null,
+			"ofa": {}
+		}
+	]
+}
