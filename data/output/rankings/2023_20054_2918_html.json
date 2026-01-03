@@ -62,8 +62,8 @@
 			"MILANO LEONARDO"
 		],
 		"INGEGNERIA MECCANICA": [
-			"PIACENZA",
-			"MILANO BOVISA"
+			"MILANO BOVISA",
+			"PIACENZA"
 		],
 		"INGEGNERIA PER L'AMBIENTE E IL TERRITORIO": [
 			"MILANO LEONARDO"
@@ -1762,15 +1762,15 @@
 			"courses": [
 				{
 					"title": "INGEGNERIA MECCANICA",
-					"location": "MILANO BOVISA",
-					"position": 11,
-					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA MECCANICA",
 					"location": "PIACENZA",
 					"position": 1,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 11,
+					"canEnroll": false
 				}
 			],
 			"result": 20.38,

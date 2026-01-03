@@ -62,8 +62,8 @@
 			"MILANO LEONARDO"
 		],
 		"INGEGNERIA MECCANICA": [
-			"PIACENZA",
-			"MILANO BOVISA"
+			"MILANO BOVISA",
+			"PIACENZA"
 		],
 		"INGEGNERIA PER L'AMBIENTE E IL TERRITORIO": [
 			"MILANO LEONARDO"
@@ -152,16 +152,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 4,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 1,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 4,
+					"canEnroll": false
 				}
 			],
 			"result": 88.65,
@@ -183,16 +183,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 5,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "MILANO BOVISA",
 					"position": 1,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 5,
+					"canEnroll": false
 				}
 			],
 			"result": 87.08,
@@ -214,16 +214,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 6,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA",
 					"location": "MILANO LEONARDO",
 					"position": 1,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 6,
+					"canEnroll": false
 				}
 			],
 			"result": 84.67,
@@ -245,16 +245,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 7,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CHIMICA",
 					"location": "MILANO LEONARDO",
 					"position": 1,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 7,
+					"canEnroll": false
 				}
 			],
 			"result": 83.5,
@@ -276,16 +276,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 8,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "MILANO BOVISA",
 					"position": 2,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 8,
+					"canEnroll": false
 				}
 			],
 			"result": 83.15,
@@ -307,16 +307,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 9,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "MILANO BOVISA",
 					"position": 3,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 9,
+					"canEnroll": false
 				}
 			],
 			"result": 82.75,
@@ -338,16 +338,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 10,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 2,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 10,
+					"canEnroll": false
 				}
 			],
 			"result": 80.84,
@@ -369,16 +369,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 11,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ELETTRICA",
 					"location": "MILANO LEONARDO",
 					"position": 1,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 11,
+					"canEnroll": false
 				}
 			],
 			"result": 80.82,
@@ -400,16 +400,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 12,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "MILANO BOVISA",
 					"position": 4,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 12,
+					"canEnroll": false
 				}
 			],
 			"result": 80.73,
@@ -431,16 +431,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 13,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "MILANO BOVISA",
 					"position": 5,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 13,
+					"canEnroll": false
 				}
 			],
 			"result": 79.9,
@@ -487,16 +487,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 15,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA GESTIONALE",
 					"location": "MILANO BOVISA",
 					"position": 1,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 15,
+					"canEnroll": false
 				}
 			],
 			"result": 79.25,
@@ -518,16 +518,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 16,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "MILANO BOVISA",
 					"position": 6,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 16,
+					"canEnroll": false
 				}
 			],
 			"result": 79.25,
@@ -549,16 +549,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 17,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA",
 					"location": "MILANO LEONARDO",
 					"position": 2,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 17,
+					"canEnroll": false
 				}
 			],
 			"result": 79.2,
@@ -580,16 +580,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 18,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ELETTRONICA",
 					"location": "MILANO LEONARDO",
 					"position": 1,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 18,
+					"canEnroll": false
 				}
 			],
 			"result": 77.57,
@@ -611,16 +611,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 19,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "MILANO BOVISA",
 					"position": 7,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 19,
+					"canEnroll": false
 				}
 			],
 			"result": 77.55,
@@ -642,16 +642,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 20,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 3,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 20,
+					"canEnroll": false
 				}
 			],
 			"result": 77.35,
@@ -673,16 +673,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 21,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 4,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 21,
+					"canEnroll": false
 				}
 			],
 			"result": 76.81,
@@ -704,16 +704,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 22,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "MILANO BOVISA",
 					"position": 8,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 22,
+					"canEnroll": false
 				}
 			],
 			"result": 76.48,
@@ -735,16 +735,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 23,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ENERGETICA",
 					"location": "MILANO BOVISA",
 					"position": 1,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 23,
+					"canEnroll": false
 				}
 			],
 			"result": 75.57,
@@ -766,16 +766,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 24,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA GESTIONALE",
 					"location": "MILANO BOVISA",
 					"position": 2,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 24,
+					"canEnroll": false
 				}
 			],
 			"result": 75.18,
@@ -797,16 +797,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 25,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "MILANO BOVISA",
 					"position": 9,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 25,
+					"canEnroll": false
 				}
 			],
 			"result": 73.84,
@@ -828,16 +828,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 26,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "MILANO BOVISA",
 					"position": 10,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 26,
+					"canEnroll": false
 				}
 			],
 			"result": 73.72,
@@ -859,16 +859,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 27,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "MILANO BOVISA",
 					"position": 11,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 27,
+					"canEnroll": false
 				}
 			],
 			"result": 73.45,
@@ -915,16 +915,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 29,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "MILANO BOVISA",
 					"position": 12,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 29,
+					"canEnroll": false
 				}
 			],
 			"result": 73.2,
@@ -971,16 +971,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 31,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CHIMICA",
 					"location": "MILANO LEONARDO",
 					"position": 2,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 31,
+					"canEnroll": false
 				}
 			],
 			"result": 72.68,
@@ -1002,16 +1002,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 32,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 1,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 32,
+					"canEnroll": false
 				}
 			],
 			"result": 72.55,
@@ -1033,16 +1033,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 33,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA",
 					"location": "MILANO LEONARDO",
 					"position": 3,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 33,
+					"canEnroll": false
 				}
 			],
 			"result": 72.41,
@@ -1064,16 +1064,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 34,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "MILANO BOVISA",
 					"position": 13,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 34,
+					"canEnroll": false
 				}
 			],
 			"result": 70.48,
@@ -1095,16 +1095,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 35,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ENERGETICA",
 					"location": "MILANO BOVISA",
 					"position": 2,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 35,
+					"canEnroll": false
 				}
 			],
 			"result": 69.57,
@@ -1176,16 +1176,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 36,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "MILANO BOVISA",
 					"position": 16,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 36,
+					"canEnroll": false
 				}
 			],
 			"result": 69.12,
@@ -1332,16 +1332,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 37,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 5,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 37,
+					"canEnroll": false
 				}
 			],
 			"result": 68.35,
@@ -1363,16 +1363,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 38,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "MILANO BOVISA",
 					"position": 22,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 38,
+					"canEnroll": false
 				}
 			],
 			"result": 68.27,
@@ -1394,16 +1394,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 39,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "MILANO BOVISA",
 					"position": 23,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 39,
+					"canEnroll": false
 				}
 			],
 			"result": 68.25,
@@ -1450,16 +1450,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 40,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "MILANO BOVISA",
 					"position": 25,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 40,
+					"canEnroll": false
 				}
 			],
 			"result": 67.98,
@@ -1506,16 +1506,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 41,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "MILANO BOVISA",
 					"position": 27,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 41,
+					"canEnroll": false
 				}
 			],
 			"result": 67.84,
@@ -1537,16 +1537,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 42,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA",
 					"location": "MILANO LEONARDO",
 					"position": 4,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 42,
+					"canEnroll": false
 				}
 			],
 			"result": 67.8,
@@ -1743,16 +1743,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 43,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "MILANO BOVISA",
 					"position": 35,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 43,
+					"canEnroll": false
 				}
 			],
 			"result": 66.58,
@@ -1774,16 +1774,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 44,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "MILANO BOVISA",
 					"position": 36,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 44,
+					"canEnroll": false
 				}
 			],
 			"result": 66.58,
@@ -1880,16 +1880,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 45,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA GESTIONALE",
 					"location": "MILANO BOVISA",
 					"position": 3,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 45,
+					"canEnroll": false
 				}
 			],
 			"result": 66.32,
@@ -1911,16 +1911,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 46,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "MILANO BOVISA",
 					"position": 40,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 46,
+					"canEnroll": false
 				}
 			],
 			"result": 66.15,
@@ -1942,16 +1942,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 47,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "MILANO BOVISA",
 					"position": 41,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 47,
+					"canEnroll": false
 				}
 			],
 			"result": 66.1,
@@ -2123,16 +2123,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 48,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ENERGETICA",
 					"location": "MILANO BOVISA",
 					"position": 3,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 48,
+					"canEnroll": false
 				}
 			],
 			"result": 65.28,
@@ -2154,16 +2154,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 49,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "MILANO BOVISA",
 					"position": 48,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 49,
+					"canEnroll": false
 				}
 			],
 			"result": 65.27,
@@ -2185,16 +2185,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 50,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "MILANO BOVISA",
 					"position": 49,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 50,
+					"canEnroll": false
 				}
 			],
 			"result": 65.18,
@@ -2241,16 +2241,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 51,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "MILANO BOVISA",
 					"position": 51,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 51,
+					"canEnroll": false
 				}
 			],
 			"result": 65.1,
@@ -2372,16 +2372,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 53,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "MILANO BOVISA",
 					"position": 55,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 53,
+					"canEnroll": false
 				}
 			],
 			"result": 64.52,
@@ -2434,16 +2434,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 54,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ELETTRICA",
 					"location": "MILANO LEONARDO",
 					"position": 2,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 54,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -2496,16 +2496,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 55,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ENERGETICA",
 					"location": "MILANO BOVISA",
 					"position": 4,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 55,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -2782,16 +2782,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 56,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
 					"location": "MILANO LEONARDO",
 					"position": 1,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 56,
+					"canEnroll": false
 				}
 			],
 			"result": 63.62,
@@ -2950,16 +2950,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 58,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 6,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 58,
+					"canEnroll": false
 				}
 			],
 			"result": 63.15,
@@ -2981,16 +2981,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 59,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ENERGETICA",
 					"location": "MILANO BOVISA",
 					"position": 7,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 59,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -3018,16 +3018,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 60,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 7,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 60,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -3055,16 +3055,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 61,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 1,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 61,
+					"canEnroll": false
 				}
 			],
 			"result": 63.05,
@@ -3086,16 +3086,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 62,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ENERGETICA",
 					"location": "MILANO BOVISA",
 					"position": 8,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 62,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -3123,16 +3123,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 63,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA BIOMEDICA",
 					"location": "MILANO LEONARDO",
 					"position": 2,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 63,
+					"canEnroll": false
 				}
 			],
 			"result": 62.94,
@@ -3155,15 +3155,15 @@
 			"courses": [
 				{
 					"title": "INGEGNERIA MECCANICA",
-					"location": "MILANO BOVISA",
-					"position": 69,
-					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA MECCANICA",
 					"location": "PIACENZA",
 					"position": 1,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 69,
+					"canEnroll": false
 				}
 			],
 			"result": 62.78,
@@ -3297,16 +3297,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 65,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA BIOMEDICA",
 					"location": "MILANO LEONARDO",
 					"position": 3,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 65,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -3632,16 +3632,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 68,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MATEMATICA",
 					"location": "MILANO LEONARDO",
 					"position": 10,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 68,
+					"canEnroll": false
 				}
 			],
 			"result": 60.87,
@@ -3663,16 +3663,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 69,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 9,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 69,
+					"canEnroll": false
 				}
 			],
 			"result": 60.75,
@@ -3744,16 +3744,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 70,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
 					"location": "MILANO LEONARDO",
 					"position": 4,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 70,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -3781,16 +3781,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 71,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
 					"location": "MILANO LEONARDO",
 					"position": 5,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 71,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -3818,16 +3818,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 72,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "PIACENZA",
 					"position": 2,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 72,
+					"canEnroll": false
 				}
 			],
 			"result": 60.2,
@@ -3880,6 +3880,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "PIACENZA",
+					"position": 3,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
 					"position": 73,
@@ -3890,12 +3896,6 @@
 					"location": "MILANO BOVISA",
 					"position": 86,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA MECCANICA",
-					"location": "PIACENZA",
-					"position": 3,
-					"canEnroll": true
 				}
 			],
 			"result": 60.03,
@@ -3917,16 +3917,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 74,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ENERGETICA",
 					"location": "MILANO BOVISA",
 					"position": 10,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 74,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -3954,16 +3954,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 75,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA GESTIONALE",
 					"location": "CREMONA",
 					"position": 1,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 75,
+					"canEnroll": false
 				}
 			],
 			"result": 59.95,
@@ -3985,16 +3985,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 76,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 10,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 76,
+					"canEnroll": false
 				}
 			],
 			"result": 59.9,
@@ -4103,16 +4103,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 77,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA",
 					"location": "MILANO LEONARDO",
 					"position": 6,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 77,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -4140,16 +4140,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 78,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 3,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 78,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -4177,16 +4177,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 79,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ELETTRONICA",
 					"location": "MILANO LEONARDO",
 					"position": 4,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 79,
+					"canEnroll": false
 				}
 			],
 			"result": 59.5,
@@ -4383,16 +4383,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 80,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
 					"location": "MILANO LEONARDO",
 					"position": 6,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 80,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -4445,16 +4445,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 81,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MATEMATICA",
 					"location": "MILANO LEONARDO",
 					"position": 16,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 81,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -4513,16 +4513,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 82,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 4,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 82,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -4551,15 +4551,15 @@
 			"courses": [
 				{
 					"title": "INGEGNERIA MECCANICA",
-					"location": "MILANO BOVISA",
-					"position": 96,
-					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA MECCANICA",
 					"location": "PIACENZA",
 					"position": 4,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 96,
+					"canEnroll": false
 				}
 			],
 			"result": 58.48,
@@ -4856,16 +4856,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 83,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ENERGETICA",
 					"location": "MILANO BOVISA",
 					"position": 12,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 83,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -4949,16 +4949,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 84,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ENERGETICA",
 					"location": "MILANO BOVISA",
 					"position": 13,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 84,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -5111,16 +5111,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 85,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ELETTRONICA",
 					"location": "MILANO LEONARDO",
 					"position": 5,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 85,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -5479,16 +5479,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 87,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 4,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 87,
+					"canEnroll": false
 				}
 			],
 			"result": 57.05,
@@ -5610,16 +5610,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 88,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 5,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 88,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -5722,16 +5722,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 89,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MATEMATICA",
 					"location": "MILANO LEONARDO",
 					"position": 25,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 89,
+					"canEnroll": false
 				}
 			],
 			"result": 56.77,
@@ -5959,16 +5959,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 90,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA",
 					"location": "MILANO LEONARDO",
 					"position": 9,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 90,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -6246,16 +6246,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 91,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA GESTIONALE",
 					"location": "MILANO BOVISA",
 					"position": 27,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 91,
+					"canEnroll": false
 				}
 			],
 			"result": 56.03,
@@ -6377,16 +6377,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 92,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA GESTIONALE",
 					"location": "MILANO BOVISA",
 					"position": 30,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 92,
+					"canEnroll": false
 				}
 			],
 			"result": 55.9,
@@ -6483,16 +6483,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 93,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ENERGETICA",
 					"location": "MILANO BOVISA",
 					"position": 14,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 93,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -6520,16 +6520,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 94,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA GESTIONALE",
 					"location": "MILANO BOVISA",
 					"position": 33,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 94,
+					"canEnroll": false
 				}
 			],
 			"result": 55.78,
@@ -6576,16 +6576,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 95,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 11,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 95,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -6981,16 +6981,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 97,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ENERGETICA",
 					"location": "MILANO BOVISA",
 					"position": 16,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 97,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -7199,16 +7199,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 98,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 6,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 98,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -7461,16 +7461,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 99,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 5,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 99,
+					"canEnroll": false
 				}
 			],
 			"result": 54.47,
@@ -7654,16 +7654,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 101,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 6,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 101,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -7747,16 +7747,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 102,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 14,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 102,
+					"canEnroll": false
 				}
 			],
 			"result": 54.06,
@@ -7828,16 +7828,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 103,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA",
 					"location": "CREMONA",
 					"position": 1,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 103,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -7996,16 +7996,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 104,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA",
 					"location": "MILANO LEONARDO",
 					"position": 22,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 104,
+					"canEnroll": false
 				}
 			],
 			"result": 53.79,
@@ -8177,6 +8177,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "PIACENZA",
+					"position": 5,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
 					"position": 105,
@@ -8187,12 +8193,6 @@
 					"location": "MILANO BOVISA",
 					"position": 119,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA MECCANICA",
-					"location": "PIACENZA",
-					"position": 5,
-					"canEnroll": true
 				}
 			],
 			"result": 53.43,
@@ -8495,16 +8495,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 106,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA BIOMEDICA",
 					"location": "MILANO LEONARDO",
 					"position": 43,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 106,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -8532,16 +8532,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 107,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 16,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 107,
+					"canEnroll": false
 				}
 			],
 			"result": 53.15,
@@ -8638,16 +8638,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 108,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ELETTRONICA",
 					"location": "MILANO LEONARDO",
 					"position": 6,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 108,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -8700,16 +8700,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 109,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA GESTIONALE",
 					"location": "MILANO BOVISA",
 					"position": 60,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 109,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -8818,16 +8818,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 110,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
 					"location": "MILANO LEONARDO",
 					"position": 7,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 110,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -9011,16 +9011,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 111,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CHIMICA",
 					"location": "MILANO LEONARDO",
 					"position": 4,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 111,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MATEMATICA",
@@ -9222,16 +9222,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 113,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA",
 					"location": "MILANO LEONARDO",
 					"position": 30,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 113,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -9602,16 +9602,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 115,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ENERGETICA",
 					"location": "MILANO BOVISA",
 					"position": 22,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 115,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -10070,16 +10070,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 117,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
 					"location": "MILANO LEONARDO",
 					"position": 8,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 117,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -10338,16 +10338,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 118,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA GESTIONALE",
 					"location": "MILANO BOVISA",
 					"position": 71,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 118,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -10406,16 +10406,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA GESTIONALE",
-					"location": "MILANO BOVISA",
-					"position": 73,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA",
 					"location": "MILANO LEONARDO",
 					"position": 43,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 73,
+					"canEnroll": false
 				}
 			],
 			"result": 50.92,
@@ -10462,16 +10462,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 119,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA BIOMEDICA",
 					"location": "MILANO LEONARDO",
 					"position": 55,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 119,
+					"canEnroll": false
 				}
 			],
 			"result": 50.8,
@@ -10493,16 +10493,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 120,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA BIOMEDICA",
 					"location": "MILANO LEONARDO",
 					"position": 56,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 120,
+					"canEnroll": false
 				}
 			],
 			"result": 50.8,
@@ -10630,16 +10630,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA GESTIONALE",
-					"location": "MILANO BOVISA",
-					"position": 74,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA",
 					"location": "MILANO LEONARDO",
 					"position": 45,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 74,
+					"canEnroll": false
 				}
 			],
 			"result": 50.63,
@@ -10736,16 +10736,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 122,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ENERGETICA",
 					"location": "MILANO BOVISA",
 					"position": 24,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 122,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -10879,16 +10879,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA GESTIONALE",
-					"location": "MILANO BOVISA",
-					"position": 75,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA",
 					"location": "MILANO LEONARDO",
 					"position": 48,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 75,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MATEMATICA",
@@ -11003,16 +11003,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA GESTIONALE",
-					"location": "MILANO BOVISA",
-					"position": 77,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA",
 					"location": "MILANO LEONARDO",
 					"position": 49,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 77,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -11172,15 +11172,15 @@
 			"courses": [
 				{
 					"title": "INGEGNERIA MECCANICA",
-					"location": "MILANO BOVISA",
-					"position": 146,
-					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA MECCANICA",
 					"location": "PIACENZA",
 					"position": 6,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 146,
+					"canEnroll": false
 				}
 			],
 			"result": 50.1,
@@ -11451,16 +11451,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 123,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ENERGETICA",
 					"location": "MILANO BOVISA",
 					"position": 27,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 123,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -11712,16 +11712,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 124,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 13,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 124,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA GESTIONALE",
@@ -11997,16 +11997,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA GESTIONALE",
-					"location": "MILANO BOVISA",
-					"position": 90,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
 					"location": "MILANO LEONARDO",
 					"position": 1,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 90,
+					"canEnroll": false
 				}
 			],
 			"result": 49.08,
@@ -12028,16 +12028,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 126,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 22,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 126,
+					"canEnroll": false
 				}
 			],
 			"result": 49.07,
@@ -12134,16 +12134,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 127,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
 					"location": "MILANO LEONARDO",
 					"position": 10,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 127,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -12327,16 +12327,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA GESTIONALE",
-					"location": "MILANO BOVISA",
-					"position": 93,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA",
 					"location": "MILANO LEONARDO",
 					"position": 59,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 93,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MATEMATICA",
@@ -12526,16 +12526,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 128,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 25,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 128,
+					"canEnroll": false
 				}
 			],
 			"result": 48.58,
@@ -12557,16 +12557,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 129,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ENERGETICA",
 					"location": "MILANO BOVISA",
 					"position": 30,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 129,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -12619,16 +12619,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 130,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ENERGETICA",
 					"location": "MILANO BOVISA",
 					"position": 31,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 130,
+					"canEnroll": false
 				}
 			],
 			"result": 48.5,
@@ -12731,16 +12731,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA GESTIONALE",
-					"location": "MILANO BOVISA",
-					"position": 96,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA",
 					"location": "MILANO LEONARDO",
 					"position": 61,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 96,
+					"canEnroll": false
 				}
 			],
 			"result": 48.48,
@@ -12787,6 +12787,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 2,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
 					"position": 131,
@@ -12809,12 +12815,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 40,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 2,
-					"canEnroll": true
 				}
 			],
 			"result": 48.43,
@@ -12867,6 +12867,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA ENERGETICA",
+					"location": "MILANO BOVISA",
+					"position": 32,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
 					"position": 132,
@@ -12877,12 +12883,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 16,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA ENERGETICA",
-					"location": "MILANO BOVISA",
-					"position": 32,
-					"canEnroll": true
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -12935,6 +12935,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "PIACENZA",
+					"position": 7,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
 					"position": 133,
@@ -12945,12 +12951,6 @@
 					"location": "MILANO BOVISA",
 					"position": 162,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA MECCANICA",
-					"location": "PIACENZA",
-					"position": 7,
-					"canEnroll": true
 				}
 			],
 			"result": 48.3,
@@ -13034,16 +13034,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 134,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ENERGETICA",
 					"location": "MILANO BOVISA",
 					"position": 34,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 134,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -13096,16 +13096,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 135,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 17,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 135,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -13307,16 +13307,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 136,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ENERGETICA",
 					"location": "MILANO BOVISA",
 					"position": 35,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 136,
+					"canEnroll": false
 				}
 			],
 			"result": 47.9,
@@ -13388,6 +13388,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA ENERGETICA",
+					"location": "MILANO BOVISA",
+					"position": 36,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
 					"position": 137,
@@ -13398,12 +13404,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 19,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA ENERGETICA",
-					"location": "MILANO BOVISA",
-					"position": 36,
-					"canEnroll": true
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -13518,16 +13518,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 138,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 28,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 138,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MATEMATICA",
@@ -13612,15 +13612,15 @@
 			"courses": [
 				{
 					"title": "INGEGNERIA MECCANICA",
-					"location": "MILANO BOVISA",
-					"position": 169,
-					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA MECCANICA",
 					"location": "PIACENZA",
 					"position": 8,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 169,
+					"canEnroll": false
 				}
 			],
 			"result": 47.72,
@@ -13859,16 +13859,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 139,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ENERGETICA",
 					"location": "MILANO BOVISA",
 					"position": 37,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 139,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -13927,16 +13927,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
-					"location": "MILANO LEONARDO",
-					"position": 24,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 29,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
+					"location": "MILANO LEONARDO",
+					"position": 24,
+					"canEnroll": false
 				}
 			],
 			"result": 47.45,
@@ -14064,16 +14064,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 140,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 21,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 140,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -14288,16 +14288,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA GESTIONALE",
-					"location": "MILANO BOVISA",
-					"position": 106,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
 					"location": "MILANO LEONARDO",
 					"position": 3,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 106,
+					"canEnroll": false
 				}
 			],
 			"result": 47.13,
@@ -14356,16 +14356,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA GESTIONALE",
-					"location": "MILANO BOVISA",
-					"position": 108,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA",
 					"location": "MILANO LEONARDO",
 					"position": 66,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 108,
+					"canEnroll": false
 				}
 			],
 			"result": 47.09,
@@ -14387,16 +14387,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 142,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 19,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 142,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -14449,16 +14449,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 143,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 20,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 143,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -14486,16 +14486,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 144,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 31,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 144,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -14579,16 +14579,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
-					"location": "MILANO LEONARDO",
-					"position": 26,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ELETTRONICA",
 					"location": "MILANO LEONARDO",
 					"position": 14,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
+					"location": "MILANO LEONARDO",
+					"position": 26,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA GESTIONALE",
@@ -14647,16 +14647,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 71,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 22,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 71,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
@@ -14734,16 +14734,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
-					"location": "MILANO LEONARDO",
-					"position": 28,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA",
 					"location": "MILANO LEONARDO",
 					"position": 69,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
+					"location": "MILANO LEONARDO",
+					"position": 28,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MATEMATICA",
@@ -14827,16 +14827,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 145,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ELETTRONICA",
 					"location": "MILANO LEONARDO",
 					"position": 15,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 145,
+					"canEnroll": false
 				}
 			],
 			"result": 46.47,
@@ -14858,16 +14858,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 146,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 23,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 146,
+					"canEnroll": false
 				}
 			],
 			"result": 46.47,
@@ -15095,16 +15095,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 147,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA",
 					"location": "MILANO LEONARDO",
 					"position": 72,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 147,
+					"canEnroll": false
 				}
 			],
 			"result": 46.15,
@@ -15176,6 +15176,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA CHIMICA",
+					"location": "MILANO LEONARDO",
+					"position": 6,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
 					"position": 148,
@@ -15186,12 +15192,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 73,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA CHIMICA",
-					"location": "MILANO LEONARDO",
-					"position": 6,
-					"canEnroll": true
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -15387,16 +15387,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 149,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA",
 					"location": "MILANO LEONARDO",
 					"position": 74,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 149,
+					"canEnroll": false
 				}
 			],
 			"result": 46,
@@ -15468,16 +15468,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 74,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CHIMICA",
 					"location": "MILANO LEONARDO",
 					"position": 8,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 74,
+					"canEnroll": false
 				}
 			],
 			"result": 45.93,
@@ -15711,16 +15711,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 75,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA",
 					"location": "MILANO LEONARDO",
 					"position": 78,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 75,
+					"canEnroll": false
 				}
 			],
 			"result": 45.77,
@@ -15767,16 +15767,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 76,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 29,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 76,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -15829,16 +15829,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 150,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 32,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 150,
+					"canEnroll": false
 				}
 			],
 			"result": 45.58,
@@ -15916,16 +15916,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 77,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
 					"location": "MILANO LEONARDO",
 					"position": 15,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 77,
+					"canEnroll": false
 				}
 			],
 			"result": 45.57,
@@ -16078,16 +16078,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 78,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 30,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 78,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA GESTIONALE",
@@ -16140,16 +16140,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 151,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ENERGETICA",
 					"location": "MILANO BOVISA",
 					"position": 39,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 151,
+					"canEnroll": false
 				}
 			],
 			"result": 45.5,
@@ -16196,16 +16196,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA GESTIONALE",
-					"location": "MILANO BOVISA",
-					"position": 117,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA",
 					"location": "MILANO LEONARDO",
 					"position": 82,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 117,
+					"canEnroll": false
 				}
 			],
 			"result": 45.47,
@@ -16227,16 +16227,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 152,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 31,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 152,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -16264,16 +16264,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA GESTIONALE",
-					"location": "MILANO BOVISA",
-					"position": 118,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA",
 					"location": "MILANO LEONARDO",
 					"position": 83,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 118,
+					"canEnroll": false
 				}
 			],
 			"result": 45.43,
@@ -16357,6 +16357,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 84,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA BIOMEDICA",
 					"location": "MILANO LEONARDO",
 					"position": 79,
@@ -16367,12 +16373,6 @@
 					"location": "MILANO BOVISA",
 					"position": 121,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA INFORMATICA",
-					"location": "MILANO LEONARDO",
-					"position": 84,
-					"canEnroll": true
 				}
 			],
 			"result": 45.4,
@@ -16450,16 +16450,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 80,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 32,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 80,
+					"canEnroll": false
 				}
 			],
 			"result": 45.35,
@@ -16481,6 +16481,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 85,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
 					"position": 153,
@@ -16497,12 +16503,6 @@
 					"location": "MILANO BOVISA",
 					"position": 123,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA INFORMATICA",
-					"location": "MILANO LEONARDO",
-					"position": 85,
-					"canEnroll": true
 				}
 			],
 			"result": 45.33,
@@ -16611,16 +16611,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 154,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CHIMICA",
 					"location": "MILANO LEONARDO",
 					"position": 11,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 154,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -16710,16 +16710,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA GESTIONALE",
-					"location": "MILANO BOVISA",
-					"position": 126,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA ONLINE",
 					"location": "MILANO LEONARDO",
 					"position": 1,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 126,
+					"canEnroll": false
 				}
 			],
 			"result": 45.15,
@@ -16865,16 +16865,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA GESTIONALE",
-					"location": "MILANO BOVISA",
-					"position": 128,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA",
 					"location": "MILANO LEONARDO",
 					"position": 87,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 128,
+					"canEnroll": false
 				}
 			],
 			"result": 45.05,
@@ -16927,6 +16927,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "PIACENZA",
+					"position": 9,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA BIOMEDICA",
 					"location": "MILANO LEONARDO",
 					"position": 82,
@@ -16937,12 +16943,6 @@
 					"location": "MILANO BOVISA",
 					"position": 129,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA MECCANICA",
-					"location": "PIACENZA",
-					"position": 9,
-					"canEnroll": true
 				}
 			],
 			"result": 44.98,
@@ -16989,16 +16989,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 83,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 35,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 83,
+					"canEnroll": false
 				}
 			],
 			"result": 44.93,
@@ -17045,16 +17045,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 156,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 36,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 156,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -17281,16 +17281,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 84,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CHIMICA",
 					"location": "MILANO LEONARDO",
 					"position": 13,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 84,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA GESTIONALE",
@@ -17349,6 +17349,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA FISICA",
+					"location": "MILANO LEONARDO",
+					"position": 33,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
 					"position": 157,
@@ -17359,12 +17365,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 85,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA FISICA",
-					"location": "MILANO LEONARDO",
-					"position": 33,
-					"canEnroll": true
 				},
 				{
 					"title": "INGEGNERIA GESTIONALE",
@@ -17777,6 +17777,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA ENERGETICA",
+					"location": "MILANO BOVISA",
+					"position": 44,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
 					"position": 159,
@@ -17793,12 +17799,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 39,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA ENERGETICA",
-					"location": "MILANO BOVISA",
-					"position": 44,
-					"canEnroll": true
 				}
 			],
 			"result": 44.26,
@@ -17820,16 +17820,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 160,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "PIACENZA",
 					"position": 10,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 160,
+					"canEnroll": false
 				}
 			],
 			"result": 44.25,
@@ -17944,6 +17944,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA INFORMATICA ONLINE",
+					"location": "MILANO LEONARDO",
+					"position": 2,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA GESTIONALE",
 					"location": "MILANO BOVISA",
 					"position": 138,
@@ -17954,12 +17960,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 94,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA INFORMATICA ONLINE",
-					"location": "MILANO LEONARDO",
-					"position": 2,
-					"canEnroll": true
 				}
 			],
 			"result": 44.15,
@@ -18012,6 +18012,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA ENERGETICA",
+					"location": "MILANO BOVISA",
+					"position": 46,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA BIOMEDICA",
 					"location": "MILANO LEONARDO",
 					"position": 87,
@@ -18022,12 +18028,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 43,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA ENERGETICA",
-					"location": "MILANO BOVISA",
-					"position": 46,
-					"canEnroll": true
 				},
 				{
 					"title": "INGEGNERIA GESTIONALE",
@@ -18111,16 +18111,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 161,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 34,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 161,
+					"canEnroll": false
 				}
 			],
 			"result": 43.93,
@@ -18546,16 +18546,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 90,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CHIMICA",
 					"location": "MILANO LEONARDO",
 					"position": 15,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 90,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -18633,16 +18633,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 91,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
 					"location": "MILANO LEONARDO",
 					"position": 20,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 91,
+					"canEnroll": false
 				}
 			],
 			"result": 43.63,
@@ -18689,16 +18689,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 163,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ENERGETICA",
 					"location": "MILANO BOVISA",
 					"position": 50,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 163,
+					"canEnroll": false
 				}
 			],
 			"result": 43.62,
@@ -18720,16 +18720,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 164,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 40,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 164,
+					"canEnroll": false
 				}
 			],
 			"result": 43.58,
@@ -18850,6 +18850,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 4,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 44,
@@ -18860,12 +18866,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 41,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 4,
-					"canEnroll": true
 				}
 			],
 			"result": 43.48,
@@ -18962,6 +18962,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "CREMONA",
+					"position": 10,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA BIOMEDICA",
 					"location": "MILANO LEONARDO",
 					"position": 93,
@@ -18978,12 +18984,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 42,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA GESTIONALE",
-					"location": "CREMONA",
-					"position": 10,
-					"canEnroll": true
 				}
 			],
 			"result": 43.38,
@@ -19054,6 +19054,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 6,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 47,
@@ -19064,12 +19070,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 44,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 6,
-					"canEnroll": true
 				}
 			],
 			"result": 43.32,
@@ -19147,16 +19147,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA CIVILE",
-					"location": "MILANO LEONARDO",
-					"position": 48,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 42,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA CIVILE",
+					"location": "MILANO LEONARDO",
+					"position": 48,
+					"canEnroll": false
 				}
 			],
 			"result": 43.25,
@@ -19265,16 +19265,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA GESTIONALE",
-					"location": "MILANO BOVISA",
-					"position": 150,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
 					"location": "MILANO LEONARDO",
 					"position": 8,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 150,
+					"canEnroll": false
 				}
 			],
 			"result": 43.18,
@@ -19321,16 +19321,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 166,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA MECCANICA",
 					"location": "PIACENZA",
 					"position": 12,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 166,
+					"canEnroll": false
 				}
 			],
 			"result": 43.17,
@@ -19377,6 +19377,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 9,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 49,
@@ -19387,12 +19393,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 45,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 9,
-					"canEnroll": true
 				}
 			],
 			"result": 43.13,
@@ -19439,16 +19439,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 167,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ENERGETICA",
 					"location": "MILANO BOVISA",
 					"position": 52,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 167,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -19476,16 +19476,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 168,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 36,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 168,
+					"canEnroll": false
 				}
 			],
 			"result": 43.07,
@@ -19619,6 +19619,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 11,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 50,
@@ -19629,12 +19635,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 47,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 11,
-					"canEnroll": true
 				}
 			],
 			"result": 42.95,
@@ -19656,16 +19656,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 169,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ENERGETICA",
 					"location": "MILANO BOVISA",
 					"position": 53,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 169,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -19959,16 +19959,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA CIVILE",
-					"location": "MILANO LEONARDO",
-					"position": 52,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
 					"location": "MILANO LEONARDO",
 					"position": 12,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA CIVILE",
+					"location": "MILANO LEONARDO",
+					"position": 52,
+					"canEnroll": false
 				}
 			],
 			"result": 42.58,
@@ -20053,15 +20053,15 @@
 			"courses": [
 				{
 					"title": "INGEGNERIA MECCANICA",
-					"location": "MILANO BOVISA",
-					"position": 206,
-					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA MECCANICA",
 					"location": "PIACENZA",
 					"position": 16,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 206,
+					"canEnroll": false
 				}
 			],
 			"result": 42.52,
@@ -20114,6 +20114,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA DELL'AUTOMAZIONE",
+					"location": "MILANO LEONARDO",
+					"position": 46,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
 					"position": 174,
@@ -20124,12 +20130,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 98,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA DELL'AUTOMAZIONE",
-					"location": "MILANO LEONARDO",
-					"position": 46,
-					"canEnroll": true
 				},
 				{
 					"title": "INGEGNERIA GESTIONALE",
@@ -20163,6 +20163,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 13,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 53,
@@ -20173,12 +20179,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 49,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 13,
-					"canEnroll": true
 				}
 			],
 			"result": 42.45,
@@ -20200,6 +20200,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA ELETTRONICA",
+					"location": "MILANO LEONARDO",
+					"position": 30,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
 					"position": 175,
@@ -20210,12 +20216,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 99,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA ELETTRONICA",
-					"location": "MILANO LEONARDO",
-					"position": 30,
-					"canEnroll": true
 				},
 				{
 					"title": "INGEGNERIA INFORMATICA",
@@ -20243,16 +20243,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA INFORMATICA",
-					"location": "MILANO LEONARDO",
-					"position": 109,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA ONLINE",
 					"location": "MILANO LEONARDO",
 					"position": 3,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 109,
+					"canEnroll": false
 				}
 			],
 			"result": 42.45,
@@ -20274,16 +20274,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA CIVILE",
-					"location": "MILANO LEONARDO",
-					"position": 54,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
 					"location": "MILANO LEONARDO",
 					"position": 22,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA CIVILE",
+					"location": "MILANO LEONARDO",
+					"position": 54,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
@@ -20311,16 +20311,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 100,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 37,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 100,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -20348,16 +20348,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 176,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 47,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 176,
+					"canEnroll": false
 				}
 			],
 			"result": 42.28,
@@ -20379,16 +20379,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 101,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ENERGETICA",
 					"location": "MILANO BOVISA",
 					"position": 54,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 101,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA INFORMATICA",
@@ -20515,16 +20515,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 177,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
 					"location": "MILANO LEONARDO",
 					"position": 23,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 177,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -20683,15 +20683,15 @@
 			"courses": [
 				{
 					"title": "INGEGNERIA MECCANICA",
-					"location": "MILANO BOVISA",
-					"position": 210,
-					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA MECCANICA",
 					"location": "PIACENZA",
 					"position": 17,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 210,
+					"canEnroll": false
 				}
 			],
 			"result": 42.17,
@@ -20819,16 +20819,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 179,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ENERGETICA",
 					"location": "MILANO BOVISA",
 					"position": 56,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 179,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -20856,16 +20856,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA CIVILE",
-					"location": "MILANO LEONARDO",
-					"position": 56,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 51,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA CIVILE",
+					"location": "MILANO LEONARDO",
+					"position": 56,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA INFORMATICA",
@@ -21073,16 +21073,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 180,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 39,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 180,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MATEMATICA",
@@ -21141,16 +21141,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 102,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ELETTRONICA",
 					"location": "MILANO LEONARDO",
 					"position": 34,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 102,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA GESTIONALE",
@@ -21178,6 +21178,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 14,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
 					"position": 181,
@@ -21200,12 +21206,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 118,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 14,
-					"canEnroll": true
 				}
 			],
 			"result": 41.82,
@@ -21227,6 +21227,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA CHIMICA",
+					"location": "MILANO LEONARDO",
+					"position": 18,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
 					"position": 182,
@@ -21237,12 +21243,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 104,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA CHIMICA",
-					"location": "MILANO LEONARDO",
-					"position": 18,
-					"canEnroll": true
 				},
 				{
 					"title": "INGEGNERIA INFORMATICA",
@@ -21413,16 +21413,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA GESTIONALE",
-					"location": "MILANO BOVISA",
-					"position": 159,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
 					"location": "MILANO LEONARDO",
 					"position": 15,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 159,
+					"canEnroll": false
 				}
 			],
 			"result": 41.62,
@@ -21444,6 +21444,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA INFORMATICA ONLINE",
+					"location": "MILANO LEONARDO",
+					"position": 4,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA GESTIONALE",
 					"location": "MILANO BOVISA",
 					"position": 160,
@@ -21454,12 +21460,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 120,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA INFORMATICA ONLINE",
-					"location": "MILANO LEONARDO",
-					"position": 4,
-					"canEnroll": true
 				},
 				{
 					"title": "INGEGNERIA MATEMATICA",
@@ -21512,6 +21512,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 16,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 58,
@@ -21522,12 +21528,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 55,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 16,
-					"canEnroll": true
 				}
 			],
 			"result": 41.6,
@@ -21630,6 +21630,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA CHIMICA",
+					"location": "MILANO LEONARDO",
+					"position": 20,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
 					"position": 184,
@@ -21640,12 +21646,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 106,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA CHIMICA",
-					"location": "MILANO LEONARDO",
-					"position": 20,
-					"canEnroll": true
 				},
 				{
 					"title": "INGEGNERIA GESTIONALE",
@@ -21679,6 +21679,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA INFORMATICA ONLINE",
+					"location": "MILANO LEONARDO",
+					"position": 7,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA GESTIONALE",
 					"location": "MILANO BOVISA",
 					"position": 162,
@@ -21689,12 +21695,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 122,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA INFORMATICA ONLINE",
-					"location": "MILANO LEONARDO",
-					"position": 7,
-					"canEnroll": true
 				}
 			],
 			"result": 41.45,
@@ -21715,6 +21715,12 @@
 			"position": 742,
 			"canEnroll": true,
 			"courses": [
+				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 17,
+					"canEnroll": true
+				},
 				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
@@ -21738,12 +21744,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 56,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 17,
-					"canEnroll": true
 				}
 			],
 			"result": 41.43,
@@ -21765,16 +21765,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 186,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ENERGETICA",
 					"location": "MILANO BOVISA",
 					"position": 60,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 186,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -21926,16 +21926,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 108,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CHIMICA",
 					"location": "MILANO LEONARDO",
 					"position": 21,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 108,
+					"canEnroll": false
 				}
 			],
 			"result": 41.21,
@@ -22013,16 +22013,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA CIVILE",
-					"location": "MILANO LEONARDO",
-					"position": 60,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ELETTRONICA",
 					"location": "MILANO LEONARDO",
 					"position": 36,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA CIVILE",
+					"location": "MILANO LEONARDO",
+					"position": 60,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA GESTIONALE",
@@ -22292,16 +22292,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA CIVILE",
-					"location": "MILANO LEONARDO",
-					"position": 62,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
 					"location": "MILANO LEONARDO",
 					"position": 25,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA CIVILE",
+					"location": "MILANO LEONARDO",
+					"position": 62,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
@@ -22329,6 +22329,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA ENERGETICA",
+					"location": "MILANO BOVISA",
+					"position": 62,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA BIOMEDICA",
 					"location": "MILANO LEONARDO",
 					"position": 110,
@@ -22339,12 +22345,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 63,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA ENERGETICA",
-					"location": "MILANO BOVISA",
-					"position": 62,
-					"canEnroll": true
 				}
 			],
 			"result": 40.92,
@@ -22403,16 +22403,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 111,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CHIMICA",
 					"location": "MILANO LEONARDO",
 					"position": 23,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 111,
+					"canEnroll": false
 				}
 			],
 			"result": 40.87,
@@ -22434,16 +22434,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 187,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ELETTRICA",
 					"location": "MILANO LEONARDO",
 					"position": 15,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 187,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA GESTIONALE",
@@ -22595,16 +22595,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
-					"location": "MILANO LEONARDO",
-					"position": 59,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
 					"location": "MILANO LEONARDO",
 					"position": 18,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
+					"location": "MILANO LEONARDO",
+					"position": 59,
+					"canEnroll": false
 				}
 			],
 			"result": 40.78,
@@ -22694,6 +22694,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 19,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
 					"location": "MILANO LEONARDO",
 					"position": 60,
@@ -22704,12 +22710,6 @@
 					"location": "MILANO BOVISA",
 					"position": 224,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 19,
-					"canEnroll": true
 				}
 			],
 			"result": 40.77,
@@ -22781,16 +22781,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 113,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CHIMICA",
 					"location": "MILANO LEONARDO",
 					"position": 26,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 113,
+					"canEnroll": false
 				}
 			],
 			"result": 40.72,
@@ -22843,6 +22843,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA INFORMATICA ONLINE",
+					"location": "MILANO LEONARDO",
+					"position": 9,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA BIOMEDICA",
 					"location": "MILANO LEONARDO",
 					"position": 114,
@@ -22853,12 +22859,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 129,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA INFORMATICA ONLINE",
-					"location": "MILANO LEONARDO",
-					"position": 9,
-					"canEnroll": true
 				}
 			],
 			"result": 40.68,
@@ -22962,15 +22962,15 @@
 			"courses": [
 				{
 					"title": "INGEGNERIA MECCANICA",
-					"location": "MILANO BOVISA",
-					"position": 225,
-					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA MECCANICA",
 					"location": "PIACENZA",
 					"position": 20,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 225,
+					"canEnroll": false
 				}
 			],
 			"result": 40.55,
@@ -23060,16 +23060,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 117,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 58,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 117,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA GESTIONALE",
@@ -23104,15 +23104,15 @@
 			"courses": [
 				{
 					"title": "INGEGNERIA MECCANICA",
-					"location": "MILANO BOVISA",
-					"position": 226,
-					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA MECCANICA",
 					"location": "PIACENZA",
 					"position": 21,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 226,
+					"canEnroll": false
 				}
 			],
 			"result": 40.43,
@@ -23159,16 +23159,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA CIVILE",
-					"location": "MILANO LEONARDO",
-					"position": 64,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 59,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA CIVILE",
+					"location": "MILANO LEONARDO",
+					"position": 64,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA INFORMATICA",
@@ -23264,6 +23264,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 21,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
 					"position": 188,
@@ -23280,12 +23286,6 @@
 					"location": "MILANO BOVISA",
 					"position": 229,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 21,
-					"canEnroll": true
 				}
 			],
 			"result": 40.33,
@@ -23338,16 +23338,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 119,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
 					"location": "MILANO LEONARDO",
 					"position": 22,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 119,
+					"canEnroll": false
 				}
 			],
 			"result": 40.3,
@@ -23369,16 +23369,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 189,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ELETTRONICA",
 					"location": "MILANO LEONARDO",
 					"position": 39,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 189,
+					"canEnroll": false
 				}
 			],
 			"result": 40.25,
@@ -23400,16 +23400,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 120,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 61,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 120,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA GESTIONALE",
@@ -23443,16 +23443,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 121,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
 					"location": "MILANO LEONARDO",
 					"position": 26,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 121,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
@@ -23542,16 +23542,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 190,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ELETTRICA",
 					"location": "MILANO LEONARDO",
 					"position": 18,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 190,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA GESTIONALE",
@@ -23610,16 +23610,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA INFORMATICA",
-					"location": "MILANO LEONARDO",
-					"position": 136,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA ONLINE",
 					"location": "MILANO LEONARDO",
 					"position": 11,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 136,
+					"canEnroll": false
 				}
 			],
 			"result": 40.05,
@@ -23641,16 +23641,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 122,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ELETTRONICA",
 					"location": "MILANO LEONARDO",
 					"position": 40,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 122,
+					"canEnroll": false
 				}
 			],
 			"result": 40,
@@ -23715,16 +23715,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 123,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CHIMICA",
 					"location": "MILANO LEONARDO",
 					"position": 28,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 123,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA INFORMATICA",
@@ -23808,16 +23808,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA INFORMATICA",
-					"location": "MILANO LEONARDO",
-					"position": 138,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA ONLINE",
 					"location": "MILANO LEONARDO",
 					"position": 12,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 138,
+					"canEnroll": false
 				}
 			],
 			"result": 39.93,
@@ -23895,16 +23895,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 191,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ELETTRICA",
 					"location": "MILANO LEONARDO",
 					"position": 19,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 191,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA ENERGETICA",
@@ -23963,16 +23963,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 192,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 64,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 192,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA ELETTRONICA",
@@ -24049,16 +24049,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
-					"location": "MILANO LEONARDO",
-					"position": 65,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
 					"location": "MILANO LEONARDO",
 					"position": 23,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
+					"location": "MILANO LEONARDO",
+					"position": 65,
+					"canEnroll": false
 				}
 			],
 			"result": 39.7,
@@ -24136,16 +24136,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA INFORMATICA",
-					"location": "MILANO LEONARDO",
-					"position": 139,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA ONLINE",
 					"location": "MILANO LEONARDO",
 					"position": 14,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 139,
+					"canEnroll": false
 				}
 			],
 			"result": 39.57,
@@ -24167,16 +24167,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 193,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 65,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 193,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA ENERGETICA",
@@ -24365,16 +24365,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 194,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CHIMICA",
 					"location": "MILANO LEONARDO",
 					"position": 29,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 194,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA ENERGETICA",
@@ -24408,16 +24408,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 195,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
 					"location": "MILANO LEONARDO",
 					"position": 28,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 195,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA ENERGETICA",
@@ -24494,6 +24494,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA FISICA",
+					"location": "MILANO LEONARDO",
+					"position": 41,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA ELETTRONICA",
 					"location": "MILANO LEONARDO",
 					"position": 44,
@@ -24504,12 +24510,6 @@
 					"location": "MILANO BOVISA",
 					"position": 75,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA FISICA",
-					"location": "MILANO LEONARDO",
-					"position": 41,
-					"canEnroll": true
 				},
 				{
 					"title": "INGEGNERIA INFORMATICA",
@@ -24543,6 +24543,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
+					"location": "MILANO LEONARDO",
+					"position": 30,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
 					"position": 196,
@@ -24553,12 +24559,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 67,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
-					"location": "MILANO LEONARDO",
-					"position": 30,
-					"canEnroll": true
 				},
 				{
 					"title": "INGEGNERIA GESTIONALE",
@@ -24592,16 +24592,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 124,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CHIMICA",
 					"location": "MILANO LEONARDO",
 					"position": 30,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 124,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA ELETTRONICA",
@@ -24641,16 +24641,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA INFORMATICA",
-					"location": "MILANO LEONARDO",
-					"position": 146,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA ONLINE",
 					"location": "MILANO LEONARDO",
 					"position": 17,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 146,
+					"canEnroll": false
 				}
 			],
 			"result": 39.23,
@@ -24840,6 +24840,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA INFORMATICA ONLINE",
+					"location": "MILANO LEONARDO",
+					"position": 18,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 70,
@@ -24850,12 +24856,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 149,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA INFORMATICA ONLINE",
-					"location": "MILANO LEONARDO",
-					"position": 18,
-					"canEnroll": true
 				}
 			],
 			"result": 39.07,
@@ -24939,16 +24939,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 125,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CHIMICA",
 					"location": "MILANO LEONARDO",
 					"position": 32,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 125,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA GESTIONALE",
@@ -25112,16 +25112,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA INFORMATICA",
-					"location": "MILANO LEONARDO",
-					"position": 151,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA ONLINE",
 					"location": "MILANO LEONARDO",
 					"position": 21,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 151,
+					"canEnroll": false
 				}
 			],
 			"result": 38.93,
@@ -25205,16 +25205,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 127,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CHIMICA",
 					"location": "MILANO LEONARDO",
 					"position": 33,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 127,
+					"canEnroll": false
 				}
 			],
 			"result": 38.92,
@@ -25236,16 +25236,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 128,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
 					"location": "MILANO LEONARDO",
 					"position": 31,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 128,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
@@ -25285,6 +25285,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA INFORMATICA ONLINE",
+					"location": "MILANO LEONARDO",
+					"position": 22,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
 					"position": 198,
@@ -25301,12 +25307,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 153,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA INFORMATICA ONLINE",
-					"location": "MILANO LEONARDO",
-					"position": 22,
-					"canEnroll": true
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -25408,16 +25408,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA DELL'AUTOMAZIONE",
-					"location": "MILANO LEONARDO",
-					"position": 74,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ELETTRICA",
 					"location": "MILANO LEONARDO",
 					"position": 23,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA DELL'AUTOMAZIONE",
+					"location": "MILANO LEONARDO",
+					"position": 74,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA ELETTRONICA",
@@ -25482,16 +25482,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 129,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CHIMICA",
 					"location": "MILANO LEONARDO",
 					"position": 34,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 129,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA INFORMATICA",
@@ -25587,6 +25587,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "PIACENZA",
+					"position": 24,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
 					"position": 200,
@@ -25597,12 +25603,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 131,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA MECCANICA",
-					"location": "PIACENZA",
-					"position": 24,
-					"canEnroll": true
 				}
 			],
 			"result": 38.72,
@@ -25729,16 +25729,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 201,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 43,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 201,
+					"canEnroll": false
 				}
 			],
 			"result": 38.55,
@@ -25853,16 +25853,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 203,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 44,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 203,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA INFORMATICA",
@@ -25922,15 +25922,15 @@
 			"courses": [
 				{
 					"title": "INGEGNERIA MECCANICA",
-					"location": "MILANO BOVISA",
-					"position": 251,
-					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA MECCANICA",
 					"location": "PIACENZA",
 					"position": 25,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 251,
+					"canEnroll": false
 				}
 			],
 			"result": 38.36,
@@ -25952,16 +25952,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 133,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CHIMICA",
 					"location": "MILANO LEONARDO",
 					"position": 39,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 133,
+					"canEnroll": false
 				}
 			],
 			"result": 38.35,
@@ -26008,16 +26008,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 134,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CHIMICA",
 					"location": "MILANO LEONARDO",
 					"position": 40,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 134,
+					"canEnroll": false
 				}
 			],
 			"result": 38.32,
@@ -26064,6 +26064,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 25,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 69,
@@ -26080,12 +26086,6 @@
 					"location": "MILANO BOVISA",
 					"position": 194,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 25,
-					"canEnroll": true
 				}
 			],
 			"result": 38.23,
@@ -26182,16 +26182,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 204,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
 					"location": "MILANO LEONARDO",
 					"position": 32,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 204,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA ENERGETICA",
@@ -26330,16 +26330,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA DELL'AUTOMAZIONE",
-					"location": "MILANO LEONARDO",
-					"position": 77,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ELETTRICA",
 					"location": "MILANO LEONARDO",
 					"position": 26,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA DELL'AUTOMAZIONE",
+					"location": "MILANO LEONARDO",
+					"position": 77,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA INFORMATICA",
@@ -26367,16 +26367,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 135,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
 					"location": "MILANO LEONARDO",
 					"position": 33,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 135,
+					"canEnroll": false
 				}
 			],
 			"result": 38.08,
@@ -26398,6 +26398,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 26,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 70,
@@ -26414,12 +26420,6 @@
 					"location": "MILANO BOVISA",
 					"position": 83,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 26,
-					"canEnroll": true
 				}
 			],
 			"result": 38.05,
@@ -26602,16 +26602,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 137,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CHIMICA",
 					"location": "MILANO LEONARDO",
 					"position": 43,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 137,
+					"canEnroll": false
 				}
 			],
 			"result": 37.77,
@@ -26633,6 +26633,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA FISICA",
+					"location": "MILANO LEONARDO",
+					"position": 46,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
 					"location": "MILANO LEONARDO",
 					"position": 69,
@@ -26643,12 +26649,6 @@
 					"location": "MILANO BOVISA",
 					"position": 84,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA FISICA",
-					"location": "MILANO LEONARDO",
-					"position": 46,
-					"canEnroll": true
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -26843,16 +26843,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 138,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 47,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 138,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA GESTIONALE",
@@ -26985,16 +26985,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 139,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CHIMICA",
 					"location": "MILANO LEONARDO",
 					"position": 44,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 139,
+					"canEnroll": false
 				}
 			],
 			"result": 37.32,
@@ -27090,16 +27090,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 206,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 49,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 206,
+					"canEnroll": false
 				}
 			],
 			"result": 37.18,
@@ -27121,6 +27121,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 27,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 73,
@@ -27131,12 +27137,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 72,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 27,
-					"canEnroll": true
 				}
 			],
 			"result": 37.18,
@@ -27183,6 +27183,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA FISICA",
+					"location": "MILANO LEONARDO",
+					"position": 50,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
 					"position": 207,
@@ -27193,12 +27199,6 @@
 					"location": "MILANO BOVISA",
 					"position": 88,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA FISICA",
-					"location": "MILANO LEONARDO",
-					"position": 50,
-					"canEnroll": true
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -27282,16 +27282,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 208,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
 					"location": "MILANO LEONARDO",
 					"position": 37,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 208,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
@@ -27325,16 +27325,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA DELL'AUTOMAZIONE",
-					"location": "MILANO LEONARDO",
-					"position": 82,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ELETTRICA",
 					"location": "MILANO LEONARDO",
 					"position": 29,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA DELL'AUTOMAZIONE",
+					"location": "MILANO LEONARDO",
+					"position": 82,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA ELETTRONICA",
@@ -27374,6 +27374,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "PIACENZA",
+					"position": 26,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 74,
@@ -27384,12 +27390,6 @@
 					"location": "MILANO BOVISA",
 					"position": 262,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA MECCANICA",
-					"location": "PIACENZA",
-					"position": 26,
-					"canEnroll": true
 				}
 			],
 			"result": 37.06,
@@ -27411,6 +27411,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 29,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 75,
@@ -27421,12 +27427,6 @@
 					"location": "MILANO BOVISA",
 					"position": 205,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 29,
-					"canEnroll": true
 				}
 			],
 			"result": 37.03,
@@ -27473,16 +27473,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 209,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
 					"location": "MILANO LEONARDO",
 					"position": 38,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 209,
+					"canEnroll": false
 				}
 			],
 			"result": 37,
@@ -27536,15 +27536,15 @@
 			"courses": [
 				{
 					"title": "INGEGNERIA MECCANICA",
-					"location": "MILANO BOVISA",
-					"position": 263,
-					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA MECCANICA",
 					"location": "PIACENZA",
 					"position": 27,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 263,
+					"canEnroll": false
 				}
 			],
 			"result": 36.87,
@@ -27566,6 +27566,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "CREMONA",
+					"position": 17,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA BIOMEDICA",
 					"location": "MILANO LEONARDO",
 					"position": 140,
@@ -27576,12 +27582,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 73,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA GESTIONALE",
-					"location": "CREMONA",
-					"position": 17,
-					"canEnroll": true
 				},
 				{
 					"title": "INGEGNERIA GESTIONALE",
@@ -27659,6 +27659,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 31,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA ENERGETICA",
 					"location": "MILANO BOVISA",
 					"position": 90,
@@ -27669,12 +27675,6 @@
 					"location": "MILANO BOVISA",
 					"position": 264,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 31,
-					"canEnroll": true
 				}
 			],
 			"result": 36.7,
@@ -27696,16 +27696,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 210,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
 					"location": "MILANO LEONARDO",
 					"position": 39,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 210,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -27832,16 +27832,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
-					"location": "MILANO LEONARDO",
-					"position": 75,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
 					"location": "MILANO LEONARDO",
 					"position": 32,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
+					"location": "MILANO LEONARDO",
+					"position": 75,
+					"canEnroll": false
 				}
 			],
 			"result": 36.53,
@@ -27863,6 +27863,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
+					"location": "MILANO LEONARDO",
+					"position": 40,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA BIOMEDICA",
 					"location": "MILANO LEONARDO",
 					"position": 142,
@@ -27873,12 +27879,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 77,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
-					"location": "MILANO LEONARDO",
-					"position": 40,
-					"canEnroll": true
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -27906,16 +27906,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA GESTIONALE",
-					"location": "MILANO BOVISA",
-					"position": 208,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA ONLINE",
 					"location": "MILANO LEONARDO",
 					"position": 26,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 208,
+					"canEnroll": false
 				}
 			],
 			"result": 36.48,
@@ -27937,16 +27937,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 211,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
 					"location": "MILANO LEONARDO",
 					"position": 41,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 211,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -27974,16 +27974,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 212,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 52,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 212,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -28085,16 +28085,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 213,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
 					"location": "MILANO LEONARDO",
 					"position": 42,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 213,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
@@ -28301,6 +28301,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 33,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA BIOMEDICA",
 					"location": "MILANO LEONARDO",
 					"position": 144,
@@ -28311,12 +28317,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 77,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 33,
-					"canEnroll": true
 				}
 			],
 			"result": 36.2,
@@ -28338,6 +28338,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA FISICA",
+					"location": "MILANO LEONARDO",
+					"position": 53,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
 					"position": 215,
@@ -28354,12 +28360,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 55,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA FISICA",
-					"location": "MILANO LEONARDO",
-					"position": 53,
-					"canEnroll": true
 				}
 			],
 			"result": 36.12,
@@ -28418,16 +28418,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA INFORMATICA",
-					"location": "MILANO LEONARDO",
-					"position": 168,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA ONLINE",
 					"location": "MILANO LEONARDO",
 					"position": 28,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 168,
+					"canEnroll": false
 				}
 			],
 			"result": 36.08,
@@ -28448,6 +28448,12 @@
 			"position": 941,
 			"canEnroll": true,
 			"courses": [
+				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 34,
+					"canEnroll": true
+				},
 				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
@@ -28471,12 +28477,6 @@
 					"location": "MILANO BOVISA",
 					"position": 274,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 34,
-					"canEnroll": true
 				}
 			],
 			"result": 36.07,
@@ -28554,16 +28554,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 145,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
 					"location": "MILANO LEONARDO",
 					"position": 43,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 145,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA ELETTRONICA",
@@ -28671,16 +28671,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA GESTIONALE",
-					"location": "MILANO BOVISA",
-					"position": 216,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
 					"location": "MILANO LEONARDO",
 					"position": 35,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 216,
+					"canEnroll": false
 				}
 			],
 			"result": 35.83,
@@ -28702,16 +28702,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA INFORMATICA",
-					"location": "MILANO LEONARDO",
-					"position": 171,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA ONLINE",
 					"location": "MILANO LEONARDO",
 					"position": 30,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 171,
+					"canEnroll": false
 				}
 			],
 			"result": 35.83,
@@ -28857,6 +28857,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 36,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 83,
@@ -28879,12 +28885,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 63,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 36,
-					"canEnroll": true
 				}
 			],
 			"result": 35.67,
@@ -28906,6 +28906,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 37,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA ENERGETICA",
 					"location": "MILANO BOVISA",
 					"position": 94,
@@ -28916,12 +28922,6 @@
 					"location": "MILANO BOVISA",
 					"position": 277,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 37,
-					"canEnroll": true
 				}
 			],
 			"result": 35.54,
@@ -28968,6 +28968,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA ELETTRICA",
+					"location": "MILANO LEONARDO",
+					"position": 31,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
 					"position": 218,
@@ -28978,12 +28984,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 88,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA ELETTRICA",
-					"location": "MILANO LEONARDO",
-					"position": 31,
-					"canEnroll": true
 				},
 				{
 					"title": "INGEGNERIA ELETTRONICA",
@@ -29067,6 +29067,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 38,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
 					"position": 219,
@@ -29083,12 +29089,6 @@
 					"location": "MILANO BOVISA",
 					"position": 219,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 38,
-					"canEnroll": true
 				}
 			],
 			"result": 35.4,
@@ -29141,6 +29141,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 39,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 85,
@@ -29151,12 +29157,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 80,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 39,
-					"canEnroll": true
 				}
 			],
 			"result": 35.28,
@@ -29178,16 +29178,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
-					"location": "MILANO LEONARDO",
-					"position": 81,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
 					"location": "MILANO LEONARDO",
 					"position": 40,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
+					"location": "MILANO LEONARDO",
+					"position": 81,
+					"canEnroll": false
 				}
 			],
 			"result": 35.23,
@@ -29258,16 +29258,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 221,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 55,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 221,
+					"canEnroll": false
 				}
 			],
 			"result": 35.18,
@@ -29363,16 +29363,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 148,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
 					"location": "MILANO LEONARDO",
 					"position": 44,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 148,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -29499,6 +29499,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 41,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 87,
@@ -29515,12 +29521,6 @@
 					"location": "MILANO BOVISA",
 					"position": 283,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 41,
-					"canEnroll": true
 				}
 			],
 			"result": 34.82,
@@ -29567,16 +29567,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA DELL'AUTOMAZIONE",
-					"location": "MILANO LEONARDO",
-					"position": 92,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ELETTRICA",
 					"location": "MILANO LEONARDO",
 					"position": 35,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA DELL'AUTOMAZIONE",
+					"location": "MILANO LEONARDO",
+					"position": 92,
+					"canEnroll": false
 				}
 			],
 			"result": 34.71,
@@ -29666,6 +29666,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 42,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 88,
@@ -29676,12 +29682,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 83,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 42,
-					"canEnroll": true
 				}
 			],
 			"result": 34.57,
@@ -29883,16 +29883,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA INFORMATICA",
-					"location": "MILANO LEONARDO",
-					"position": 177,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA ONLINE",
 					"location": "MILANO LEONARDO",
 					"position": 32,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 177,
+					"canEnroll": false
 				}
 			],
 			"result": 34.23,
@@ -29995,16 +29995,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA DELL'AUTOMAZIONE",
-					"location": "MILANO LEONARDO",
-					"position": 93,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ELETTRICA",
 					"location": "MILANO LEONARDO",
 					"position": 38,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA DELL'AUTOMAZIONE",
+					"location": "MILANO LEONARDO",
+					"position": 93,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA ELETTRONICA",
@@ -30038,6 +30038,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA FISICA",
+					"location": "MILANO LEONARDO",
+					"position": 56,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA BIOMEDICA",
 					"location": "MILANO LEONARDO",
 					"position": 150,
@@ -30048,12 +30054,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 84,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA FISICA",
-					"location": "MILANO LEONARDO",
-					"position": 56,
-					"canEnroll": true
 				},
 				{
 					"title": "INGEGNERIA MATEMATICA",
@@ -30204,6 +30204,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 46,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 89,
@@ -30214,12 +30220,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 85,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 46,
-					"canEnroll": true
 				}
 			],
 			"result": 33.85,
@@ -30241,16 +30241,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
-					"location": "MILANO LEONARDO",
-					"position": 86,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
 					"location": "MILANO LEONARDO",
 					"position": 47,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
+					"location": "MILANO LEONARDO",
+					"position": 86,
+					"canEnroll": false
 				}
 			],
 			"result": 33.83,
@@ -30272,16 +30272,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA INFORMATICA",
-					"location": "MILANO LEONARDO",
-					"position": 181,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA ONLINE",
 					"location": "MILANO LEONARDO",
 					"position": 34,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 181,
+					"canEnroll": false
 				}
 			],
 			"result": 33.83,
@@ -30334,6 +30334,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA FISICA",
+					"location": "MILANO LEONARDO",
+					"position": 57,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 95,
@@ -30344,12 +30350,6 @@
 					"location": "MILANO BOVISA",
 					"position": 98,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA FISICA",
-					"location": "MILANO LEONARDO",
-					"position": 57,
-					"canEnroll": true
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -30433,16 +30433,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 225,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CHIMICA",
 					"location": "MILANO LEONARDO",
 					"position": 46,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 225,
+					"canEnroll": false
 				}
 			],
 			"result": 33.57,
@@ -30489,6 +30489,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA INFORMATICA ONLINE",
+					"location": "MILANO LEONARDO",
+					"position": 35,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 96,
@@ -30499,12 +30505,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 183,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA INFORMATICA ONLINE",
-					"location": "MILANO LEONARDO",
-					"position": 35,
-					"canEnroll": true
 				},
 				{
 					"title": "INGEGNERIA MATEMATICA",
@@ -30557,6 +30557,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA ELETTRICA",
+					"location": "MILANO LEONARDO",
+					"position": 41,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 90,
@@ -30573,12 +30579,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 87,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA ELETTRICA",
-					"location": "MILANO LEONARDO",
-					"position": 41,
-					"canEnroll": true
 				},
 				{
 					"title": "INGEGNERIA GESTIONALE",
@@ -30637,6 +30637,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 48,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA BIOMEDICA",
 					"location": "MILANO LEONARDO",
 					"position": 152,
@@ -30647,12 +30653,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 91,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 48,
-					"canEnroll": true
 				}
 			],
 			"result": 33.25,
@@ -30860,6 +30860,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 49,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 92,
@@ -30870,12 +30876,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 88,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 49,
-					"canEnroll": true
 				}
 			],
 			"result": 32.98,
@@ -31003,16 +31003,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA INFORMATICA",
-					"location": "MILANO LEONARDO",
-					"position": 188,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA ONLINE",
 					"location": "MILANO LEONARDO",
 					"position": 38,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 188,
+					"canEnroll": false
 				}
 			],
 			"result": 32.88,
@@ -31096,16 +31096,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA DELL'AUTOMAZIONE",
-					"location": "MILANO LEONARDO",
-					"position": 99,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ELETTRICA",
 					"location": "MILANO LEONARDO",
 					"position": 44,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA DELL'AUTOMAZIONE",
+					"location": "MILANO LEONARDO",
+					"position": 99,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA INFORMATICA",
@@ -31238,6 +31238,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA INFORMATICA ONLINE",
+					"location": "MILANO LEONARDO",
+					"position": 40,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA BIOMEDICA",
 					"location": "MILANO LEONARDO",
 					"position": 155,
@@ -31254,12 +31260,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 89,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA INFORMATICA ONLINE",
-					"location": "MILANO LEONARDO",
-					"position": 40,
-					"canEnroll": true
 				}
 			],
 			"result": 32.55,
@@ -31330,16 +31330,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 156,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA",
 					"location": "CREMONA",
 					"position": 7,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 156,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA INFORMATICA",
@@ -31454,16 +31454,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
-					"location": "MILANO LEONARDO",
-					"position": 91,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
 					"location": "MILANO LEONARDO",
 					"position": 50,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
+					"location": "MILANO LEONARDO",
+					"position": 91,
+					"canEnroll": false
 				}
 			],
 			"result": 32.48,
@@ -31485,6 +31485,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
+					"location": "MILANO LEONARDO",
+					"position": 47,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA BIOMEDICA",
 					"location": "MILANO LEONARDO",
 					"position": 157,
@@ -31495,12 +31501,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 95,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
-					"location": "MILANO LEONARDO",
-					"position": 47,
-					"canEnroll": true
 				},
 				{
 					"title": "INGEGNERIA GESTIONALE",
@@ -31534,16 +31534,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA DELL'AUTOMAZIONE",
-					"location": "MILANO LEONARDO",
-					"position": 101,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA",
 					"location": "CREMONA",
 					"position": 8,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA DELL'AUTOMAZIONE",
+					"location": "MILANO LEONARDO",
+					"position": 101,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA INFORMATICA",
@@ -31571,6 +31571,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 51,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 96,
@@ -31581,12 +31587,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 92,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 51,
-					"canEnroll": true
 				}
 			],
 			"result": 32.4,
@@ -31608,6 +31608,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA INFORMATICA ONLINE",
+					"location": "MILANO LEONARDO",
+					"position": 42,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 102,
@@ -31618,12 +31624,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 194,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA INFORMATICA ONLINE",
-					"location": "MILANO LEONARDO",
-					"position": 42,
-					"canEnroll": true
 				}
 			],
 			"result": 32.4,
@@ -31645,16 +31645,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 158,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
 					"location": "MILANO LEONARDO",
 					"position": 52,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 158,
+					"canEnroll": false
 				}
 			],
 			"result": 32.4,
@@ -31675,6 +31675,12 @@
 			"position": 1036,
 			"canEnroll": true,
 			"courses": [
+				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 53,
+					"canEnroll": true
+				},
 				{
 					"title": "INGEGNERIA BIOMEDICA",
 					"location": "MILANO LEONARDO",
@@ -31698,12 +31704,6 @@
 					"location": "MILANO BOVISA",
 					"position": 234,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 53,
-					"canEnroll": true
 				}
 			],
 			"result": 32.38,
@@ -31768,6 +31768,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 54,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 104,
@@ -31778,12 +31784,6 @@
 					"location": "MILANO BOVISA",
 					"position": 295,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 54,
-					"canEnroll": true
 				}
 			],
 			"result": 32.21,
@@ -31867,6 +31867,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "PIACENZA",
+					"position": 30,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA GESTIONALE",
 					"location": "MILANO BOVISA",
 					"position": 236,
@@ -31877,12 +31883,6 @@
 					"location": "MILANO BOVISA",
 					"position": 297,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA MECCANICA",
-					"location": "PIACENZA",
-					"position": 30,
-					"canEnroll": true
 				}
 			],
 			"result": 32.1,
@@ -31904,16 +31904,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA GESTIONALE",
-					"location": "MILANO BOVISA",
-					"position": 237,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
 					"location": "MILANO LEONARDO",
 					"position": 55,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 237,
+					"canEnroll": false
 				}
 			],
 			"result": 32.1,
@@ -32146,6 +32146,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA DELLA PRODUZIONE INDUSTRIALE",
+					"location": "LECCO",
+					"position": 13,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
 					"position": 229,
@@ -32156,12 +32162,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 99,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA DELLA PRODUZIONE INDUSTRIALE",
-					"location": "LECCO",
-					"position": 13,
-					"canEnroll": true
 				},
 				{
 					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
@@ -32189,6 +32189,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA ELETTRICA",
+					"location": "MILANO LEONARDO",
+					"position": 45,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 100,
@@ -32199,12 +32205,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 95,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA ELETTRICA",
-					"location": "MILANO LEONARDO",
-					"position": 45,
-					"canEnroll": true
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -32232,6 +32232,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 56,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA INFORMATICA",
 					"location": "MILANO LEONARDO",
 					"position": 196,
@@ -32242,12 +32248,6 @@
 					"location": "MILANO BOVISA",
 					"position": 301,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 56,
-					"canEnroll": true
 				}
 			],
 			"result": 31.78,
@@ -32269,16 +32269,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 230,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
 					"location": "MILANO LEONARDO",
 					"position": 50,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 230,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
@@ -32590,6 +32590,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA FISICA",
+					"location": "MILANO LEONARDO",
+					"position": 59,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
 					"position": 232,
@@ -32606,12 +32612,6 @@
 					"location": "MILANO BOVISA",
 					"position": 101,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA FISICA",
-					"location": "MILANO LEONARDO",
-					"position": 59,
-					"canEnroll": true
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -32676,16 +32676,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
-					"location": "MILANO LEONARDO",
-					"position": 96,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
 					"location": "MILANO LEONARDO",
 					"position": 57,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
+					"location": "MILANO LEONARDO",
+					"position": 96,
+					"canEnroll": false
 				}
 			],
 			"result": 31.27,
@@ -32732,16 +32732,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 234,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
 					"location": "MILANO LEONARDO",
 					"position": 52,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 234,
+					"canEnroll": false
 				}
 			],
 			"result": 31.22,
@@ -32794,16 +32794,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA INFORMATICA",
-					"location": "MILANO LEONARDO",
-					"position": 199,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA INFORMATICA ONLINE",
 					"location": "MILANO LEONARDO",
 					"position": 46,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 199,
+					"canEnroll": false
 				}
 			],
 			"result": 31.17,
@@ -32825,16 +32825,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 163,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CHIMICA",
 					"location": "MILANO LEONARDO",
 					"position": 50,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 163,
+					"canEnroll": false
 				}
 			],
 			"result": 31.1,
@@ -33048,16 +33048,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA DELL'AUTOMAZIONE",
-					"location": "MILANO LEONARDO",
-					"position": 109,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ELETTRICA",
 					"location": "MILANO LEONARDO",
 					"position": 47,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA DELL'AUTOMAZIONE",
+					"location": "MILANO LEONARDO",
+					"position": 109,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA GESTIONALE",
@@ -33271,16 +33271,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 238,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
 					"location": "MILANO LEONARDO",
 					"position": 54,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 238,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA GESTIONALE",
@@ -33333,6 +33333,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA INFORMATICA ONLINE",
+					"location": "MILANO LEONARDO",
+					"position": 48,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA DELL'AUTOMAZIONE",
 					"location": "MILANO LEONARDO",
 					"position": 110,
@@ -33343,12 +33349,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 205,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA INFORMATICA ONLINE",
-					"location": "MILANO LEONARDO",
-					"position": 48,
-					"canEnroll": true
 				}
 			],
 			"result": 30.69,
@@ -33401,6 +33401,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA CHIMICA",
+					"location": "MILANO LEONARDO",
+					"position": 51,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
 					"position": 239,
@@ -33411,12 +33417,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 165,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA CHIMICA",
-					"location": "MILANO LEONARDO",
-					"position": 51,
-					"canEnroll": true
 				},
 				{
 					"title": "INGEGNERIA ENERGETICA",
@@ -33450,16 +33450,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 166,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CHIMICA",
 					"location": "MILANO LEONARDO",
 					"position": 52,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 166,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA CIVILE",
@@ -33647,16 +33647,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA BIOMEDICA",
-					"location": "MILANO LEONARDO",
-					"position": 168,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA CHIMICA",
 					"location": "MILANO LEONARDO",
 					"position": 54,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 168,
+					"canEnroll": false
 				}
 			],
 			"result": 30.32,
@@ -33783,6 +33783,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "PIACENZA",
+					"position": 32,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA CIVILE",
 					"location": "MILANO LEONARDO",
 					"position": 106,
@@ -33805,12 +33811,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 208,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA MECCANICA",
-					"location": "PIACENZA",
-					"position": 32,
-					"canEnroll": true
 				}
 			],
 			"result": 30.23,
@@ -33881,16 +33881,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA DELL'AUTOMAZIONE",
-					"location": "MILANO LEONARDO",
-					"position": 112,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ELETTRICA",
 					"location": "MILANO LEONARDO",
 					"position": 51,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA DELL'AUTOMAZIONE",
+					"location": "MILANO LEONARDO",
+					"position": 112,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA ELETTRONICA",
@@ -33924,16 +33924,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
-					"location": "MILANO LEONARDO",
-					"position": 100,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
 					"location": "MILANO LEONARDO",
 					"position": 59,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
+					"location": "MILANO LEONARDO",
+					"position": 100,
+					"canEnroll": false
 				}
 			],
 			"result": 30.02,
@@ -33955,16 +33955,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA ENERGETICA",
-					"location": "MILANO BOVISA",
-					"position": 107,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA FISICA",
 					"location": "MILANO LEONARDO",
 					"position": 60,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA ENERGETICA",
+					"location": "MILANO BOVISA",
+					"position": 107,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MATEMATICA",
@@ -34060,6 +34060,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA FISICA",
+					"location": "MILANO LEONARDO",
+					"position": 61,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA BIOMEDICA",
 					"location": "MILANO LEONARDO",
 					"position": 170,
@@ -34070,12 +34076,6 @@
 					"location": "MILANO BOVISA",
 					"position": 108,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA FISICA",
-					"location": "MILANO LEONARDO",
-					"position": 61,
-					"canEnroll": true
 				}
 			],
 			"result": 29.86,
@@ -34096,6 +34096,12 @@
 			"position": 1105,
 			"canEnroll": true,
 			"courses": [
+				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 61,
+					"canEnroll": true
+				},
 				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
@@ -34119,12 +34125,6 @@
 					"location": "MILANO BOVISA",
 					"position": 256,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 61,
-					"canEnroll": true
 				}
 			],
 			"result": 29.82,
@@ -34146,16 +34146,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 242,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ELETTRICA",
 					"location": "MILANO LEONARDO",
 					"position": 52,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 242,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA MECCANICA",
@@ -34183,16 +34183,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA AEROSPAZIALE",
-					"location": "MILANO BOVISA",
-					"position": 243,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA ELETTRICA",
 					"location": "MILANO LEONARDO",
 					"position": 53,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 243,
+					"canEnroll": false
 				},
 				{
 					"title": "INGEGNERIA ELETTRONICA",
@@ -34220,16 +34220,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
-					"location": "MILANO LEONARDO",
-					"position": 102,
-					"canEnroll": false
-				},
-				{
 					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
 					"location": "MILANO LEONARDO",
 					"position": 62,
 					"canEnroll": true
+				},
+				{
+					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
+					"location": "MILANO LEONARDO",
+					"position": 102,
+					"canEnroll": false
 				}
 			],
 			"result": 29.77,
@@ -34294,6 +34294,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
+					"location": "MILANO LEONARDO",
+					"position": 57,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA AEROSPAZIALE",
 					"location": "MILANO BOVISA",
 					"position": 245,
@@ -34304,12 +34310,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 171,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
-					"location": "MILANO LEONARDO",
-					"position": 57,
-					"canEnroll": true
 				},
 				{
 					"title": "INGEGNERIA ELETTRONICA",
@@ -34343,6 +34343,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 63,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA BIOMEDICA",
 					"location": "MILANO LEONARDO",
 					"position": 172,
@@ -34353,12 +34359,6 @@
 					"location": "MILANO BOVISA",
 					"position": 258,
 					"canEnroll": false
-				},
-				{
-					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
-					"location": "MILANO LEONARDO",
-					"position": 63,
-					"canEnroll": true
 				}
 			],
 			"result": 29.6,

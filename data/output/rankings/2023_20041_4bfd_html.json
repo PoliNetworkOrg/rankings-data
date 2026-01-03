@@ -7211,16 +7211,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "DESIGN DELLA COMUNICAZIONE",
-					"location": "MILANO BOVISA",
-					"position": 83,
-					"canEnroll": false
-				},
-				{
 					"title": "DESIGN DELLA MODA",
 					"location": "MILANO BOVISA",
 					"position": 47,
 					"canEnroll": true
+				},
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 83,
+					"canEnroll": false
 				}
 			],
 			"result": 60.83,
@@ -7553,16 +7553,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "DESIGN DELLA COMUNICAZIONE",
-					"location": "MILANO BOVISA",
-					"position": 87,
-					"canEnroll": false
-				},
-				{
 					"title": "DESIGN DELLA MODA",
 					"location": "MILANO BOVISA",
 					"position": 50,
 					"canEnroll": true
+				},
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 87,
+					"canEnroll": false
 				}
 			],
 			"result": 60.58,
@@ -7841,16 +7841,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "DESIGN DELLA COMUNICAZIONE",
-					"location": "MILANO BOVISA",
-					"position": 90,
-					"canEnroll": false
-				},
-				{
 					"title": "DESIGN DELLA MODA",
 					"location": "MILANO BOVISA",
 					"position": 52,
 					"canEnroll": true
+				},
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 90,
+					"canEnroll": false
 				}
 			],
 			"result": 60.42,

@@ -11078,16 +11078,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "DESIGN DELLA COMUNICAZIONE",
-					"location": "MILANO BOVISA",
-					"position": 125,
-					"canEnroll": false
-				},
-				{
 					"title": "DESIGN DELLA MODA",
 					"location": "MILANO BOVISA",
 					"position": 80,
 					"canEnroll": true
+				},
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 125,
+					"canEnroll": false
 				}
 			],
 			"result": 69.58,
@@ -11606,16 +11606,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "DESIGN DELLA COMUNICAZIONE",
-					"location": "MILANO BOVISA",
-					"position": 132,
-					"canEnroll": false
-				},
-				{
 					"title": "DESIGN DELLA MODA",
 					"location": "MILANO BOVISA",
 					"position": 85,
 					"canEnroll": true
+				},
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 132,
+					"canEnroll": false
 				}
 			],
 			"result": 69.25,
@@ -11921,16 +11921,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "DESIGN DELLA COMUNICAZIONE",
-					"location": "MILANO BOVISA",
-					"position": 135,
-					"canEnroll": false
-				},
-				{
 					"title": "DESIGN DELLA MODA",
 					"location": "MILANO BOVISA",
 					"position": 90,
 					"canEnroll": true
+				},
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 135,
+					"canEnroll": false
 				}
 			],
 			"result": 69.13,
@@ -19787,6 +19787,12 @@
 					"canEnroll": false
 				},
 				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 254,
+					"canEnroll": false
+				},
+				{
 					"title": "DESIGN DELLA MODA",
 					"location": "MILANO BOVISA",
 					"position": 185,
@@ -20033,6 +20039,12 @@
 					"canEnroll": false
 				},
 				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 259,
+					"canEnroll": false
+				},
+				{
 					"title": "DESIGN DELLA MODA",
 					"location": "MILANO BOVISA",
 					"position": 190,
@@ -20111,6 +20123,12 @@
 					"canEnroll": false
 				},
 				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 261,
+					"canEnroll": false
+				},
+				{
 					"title": "DESIGN DELLA MODA",
 					"location": "MILANO BOVISA",
 					"position": 192,
@@ -20141,6 +20159,12 @@
 					"title": "DESIGN DEGLI INTERNI",
 					"location": "MILANO BOVISA",
 					"position": 258,
+					"canEnroll": false
+				},
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 272,
 					"canEnroll": false
 				},
 				{
@@ -20187,6 +20211,12 @@
 					"location": "MILANO BOVISA",
 					"position": 273,
 					"canEnroll": false
+				},
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 263,
+					"canEnroll": false
 				}
 			],
 			"result": 64.71,
@@ -20219,6 +20249,12 @@
 					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
 					"location": "MILANO BOVISA",
 					"position": 274,
+					"canEnroll": false
+				},
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 264,
 					"canEnroll": false
 				},
 				{
@@ -20261,6 +20297,12 @@
 					"canEnroll": false
 				},
 				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 265,
+					"canEnroll": false
+				},
+				{
 					"title": "DESIGN DELLA MODA",
 					"location": "MILANO BOVISA",
 					"position": 195,
@@ -20297,6 +20339,12 @@
 					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
 					"location": "MILANO BOVISA",
 					"position": 276,
+					"canEnroll": false
+				},
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 266,
 					"canEnroll": false
 				},
 				{
@@ -21194,6 +21242,12 @@
 					"canEnroll": false
 				},
 				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 296,
+					"canEnroll": false
+				},
+				{
 					"title": "DESIGN DELLA COMUNICAZIONE",
 					"location": "MILANO BOVISA",
 					"position": 285,
@@ -21224,6 +21278,12 @@
 					"title": "DESIGN DEGLI INTERNI",
 					"location": "MILANO BOVISA",
 					"position": 281,
+					"canEnroll": false
+				},
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 297,
 					"canEnroll": false
 				},
 				{
@@ -21272,6 +21332,12 @@
 					"canEnroll": false
 				},
 				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 287,
+					"canEnroll": false
+				},
+				{
 					"title": "DESIGN DELLA MODA",
 					"location": "MILANO BOVISA",
 					"position": 214,
@@ -21302,6 +21368,12 @@
 					"title": "DESIGN DEGLI INTERNI",
 					"location": "MILANO BOVISA",
 					"position": 283,
+					"canEnroll": false
+				},
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 299,
 					"canEnroll": false
 				},
 				{
@@ -21344,6 +21416,12 @@
 					"canEnroll": false
 				},
 				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 300,
+					"canEnroll": false
+				},
+				{
 					"title": "DESIGN DELLA COMUNICAZIONE",
 					"location": "MILANO BOVISA",
 					"position": 289,
@@ -21383,6 +21461,12 @@
 					"canEnroll": false
 				},
 				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 301,
+					"canEnroll": false
+				},
+				{
 					"title": "DESIGN DELLA COMUNICAZIONE",
 					"location": "MILANO BOVISA",
 					"position": 290,
@@ -21413,6 +21497,12 @@
 					"title": "DESIGN DEGLI INTERNI",
 					"location": "MILANO BOVISA",
 					"position": 286,
+					"canEnroll": false
+				},
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 302,
 					"canEnroll": false
 				},
 				{
@@ -21452,6 +21542,12 @@
 					"title": "DESIGN DEGLI INTERNI",
 					"location": "MILANO BOVISA",
 					"position": 287,
+					"canEnroll": false
+				},
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 303,
 					"canEnroll": false
 				},
 				{
@@ -21965,6 +22061,12 @@
 					"canEnroll": false
 				},
 				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 314,
+					"canEnroll": false
+				},
+				{
 					"title": "DESIGN DELLA COMUNICAZIONE",
 					"location": "MILANO BOVISA",
 					"position": 303,
@@ -22001,6 +22103,12 @@
 					"title": "DESIGN DEGLI INTERNI",
 					"location": "MILANO BOVISA",
 					"position": 299,
+					"canEnroll": false
+				},
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 315,
 					"canEnroll": false
 				},
 				{
@@ -22043,6 +22151,12 @@
 					"canEnroll": false
 				},
 				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 316,
+					"canEnroll": false
+				},
+				{
 					"title": "DESIGN DELLA COMUNICAZIONE",
 					"location": "MILANO BOVISA",
 					"position": 305,
@@ -22082,6 +22196,12 @@
 					"canEnroll": false
 				},
 				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 317,
+					"canEnroll": false
+				},
+				{
 					"title": "DESIGN DELLA COMUNICAZIONE",
 					"location": "MILANO BOVISA",
 					"position": 306,
@@ -22118,6 +22238,12 @@
 					"title": "DESIGN DEGLI INTERNI",
 					"location": "MILANO BOVISA",
 					"position": 302,
+					"canEnroll": false
+				},
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 318,
 					"canEnroll": false
 				},
 				{
@@ -22166,6 +22292,12 @@
 					"canEnroll": false
 				},
 				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 308,
+					"canEnroll": false
+				},
+				{
 					"title": "DESIGN DELLA MODA",
 					"location": "MILANO BOVISA",
 					"position": 227,
@@ -22205,6 +22337,12 @@
 					"canEnroll": false
 				},
 				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 309,
+					"canEnroll": false
+				},
+				{
 					"title": "DESIGN DELLA MODA",
 					"location": "MILANO BOVISA",
 					"position": 228,
@@ -22235,6 +22373,12 @@
 					"title": "DESIGN DEGLI INTERNI",
 					"location": "MILANO BOVISA",
 					"position": 305,
+					"canEnroll": false
+				},
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 321,
 					"canEnroll": false
 				},
 				{
@@ -22283,6 +22427,12 @@
 					"canEnroll": false
 				},
 				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 311,
+					"canEnroll": false
+				},
+				{
 					"title": "DESIGN DELLA MODA",
 					"location": "MILANO BOVISA",
 					"position": 230,
@@ -22322,6 +22472,12 @@
 					"canEnroll": false
 				},
 				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 312,
+					"canEnroll": false
+				},
+				{
 					"title": "DESIGN DELLA MODA",
 					"location": "MILANO BOVISA",
 					"position": 231,
@@ -22352,6 +22508,12 @@
 					"title": "DESIGN DEGLI INTERNI",
 					"location": "MILANO BOVISA",
 					"position": 308,
+					"canEnroll": false
+				},
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 324,
 					"canEnroll": false
 				},
 				{
@@ -22391,6 +22553,12 @@
 					"title": "DESIGN DEGLI INTERNI",
 					"location": "MILANO BOVISA",
 					"position": 309,
+					"canEnroll": false
+				},
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 325,
 					"canEnroll": false
 				},
 				{
@@ -24824,6 +24992,12 @@
 					"canEnroll": false
 				},
 				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 364,
+					"canEnroll": false
+				},
+				{
 					"title": "DESIGN DELLA MODA",
 					"location": "MILANO BOVISA",
 					"position": 278,
@@ -24905,6 +25079,12 @@
 					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
 					"location": "MILANO BOVISA",
 					"position": 378,
+					"canEnroll": false
+				},
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 366,
 					"canEnroll": false
 				}
 			],
@@ -25025,6 +25205,12 @@
 					"canEnroll": false
 				},
 				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 381,
+					"canEnroll": false
+				},
+				{
 					"title": "DESIGN DELLA COMUNICAZIONE",
 					"location": "MILANO BOVISA",
 					"position": 369,
@@ -25115,6 +25301,12 @@
 					"canEnroll": false
 				},
 				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 371,
+					"canEnroll": false
+				},
+				{
 					"title": "DESIGN DELLA MODA",
 					"location": "MILANO BOVISA",
 					"position": 284,
@@ -25145,6 +25337,12 @@
 					"title": "DESIGN DEGLI INTERNI",
 					"location": "MILANO BOVISA",
 					"position": 366,
+					"canEnroll": false
+				},
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 384,
 					"canEnroll": false
 				},
 				{
@@ -25190,6 +25388,12 @@
 					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
 					"location": "MILANO BOVISA",
 					"position": 385,
+					"canEnroll": false
+				},
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 373,
 					"canEnroll": false
 				}
 			],
@@ -27977,6 +28181,12 @@
 					"canEnroll": false
 				},
 				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 444,
+					"canEnroll": false
+				},
+				{
 					"title": "DESIGN DELLA COMUNICAZIONE",
 					"location": "MILANO BOVISA",
 					"position": 429,
@@ -28013,6 +28223,12 @@
 					"title": "DESIGN DEGLI INTERNI",
 					"location": "MILANO BOVISA",
 					"position": 426,
+					"canEnroll": false
+				},
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 445,
 					"canEnroll": false
 				},
 				{
@@ -28088,6 +28304,12 @@
 					"canEnroll": false
 				},
 				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 431,
+					"canEnroll": false
+				},
+				{
 					"title": "DESIGN DELLA MODA",
 					"location": "MILANO BOVISA",
 					"position": 343,
@@ -28118,6 +28340,12 @@
 					"title": "DESIGN DEGLI INTERNI",
 					"location": "MILANO BOVISA",
 					"position": 429,
+					"canEnroll": false
+				},
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 447,
 					"canEnroll": false
 				},
 				{
@@ -28208,6 +28436,12 @@
 					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
 					"location": "MILANO BOVISA",
 					"position": 449,
+					"canEnroll": false
+				},
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 434,
 					"canEnroll": false
 				},
 				{
@@ -50066,6 +50300,12 @@
 					"canEnroll": false
 				},
 				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 912,
+					"canEnroll": false
+				},
+				{
 					"title": "DESIGN DELLA COMUNICAZIONE",
 					"location": "MILANO BOVISA",
 					"position": 882,
@@ -61549,6 +61789,12 @@
 					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
 					"location": "MILANO BOVISA",
 					"position": 1149,
+					"canEnroll": false
+				},
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 1121,
 					"canEnroll": false
 				},
 				{

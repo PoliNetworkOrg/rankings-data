@@ -1166,6 +1166,582 @@
 		},
 		{
 			"id": "",
+			"position": 65,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 40.3,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 66,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 40.3,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 67,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 40,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 68,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 40,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 69,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 40,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 70,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 40,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 71,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 40,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 72,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 39.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 73,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 39.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 74,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 39.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 75,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 39.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 76,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 39.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 77,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 39.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 78,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 39.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 79,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 39.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 80,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 39.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 81,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 39.3,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 82,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 39.2,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 83,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 39.2,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 84,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 39.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 85,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 39.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 86,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 38.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 87,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 38.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 88,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 38.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 89,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 38.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 90,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 38.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 91,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 38.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 92,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 38.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 93,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 38.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 94,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 38.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 95,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 38.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 96,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 38.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
 			"position": 97,
 			"canEnroll": true,
 			"courses": [
@@ -3470,6 +4046,582 @@
 		},
 		{
 			"id": "",
+			"position": 225,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 226,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 227,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 228,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 229,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 230,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 231,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 232,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 233,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 234,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 235,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 236,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 237,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 238,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 239,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 240,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 241,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 242,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 243,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 244,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 245,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 246,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 247,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 248,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 249,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 250,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 251,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.3,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 252,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.2,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 253,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.2,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 254,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.2,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 255,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.2,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 256,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 33.2,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
 			"position": 257,
 			"canEnroll": true,
 			"courses": [
@@ -5198,6 +6350,582 @@
 		},
 		{
 			"id": "",
+			"position": 353,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31.3,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 354,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31.3,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 355,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31.3,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 356,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31.3,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 357,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31.3,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 358,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31.3,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 359,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31.3,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 360,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31.3,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 361,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31.2,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 362,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31.2,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 363,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31.2,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 364,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31.2,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 365,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31.2,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 366,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31.2,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 367,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 368,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 369,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 370,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 371,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 372,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 373,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 374,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 375,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 376,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 377,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 378,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 379,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 380,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 381,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 382,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 383,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 31,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 384,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 30.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
 			"position": 385,
 			"canEnroll": true,
 			"courses": [
@@ -6346,6 +8074,1734 @@
 			"sectionsResults": null,
 			"ofa": {
 				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 449,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 30.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 450,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 30,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 451,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 30,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 452,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 453,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 454,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 455,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 456,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 457,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 458,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 459,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 460,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 461,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 462,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 463,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 464,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 465,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 466,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 467,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 468,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 469,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 470,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 471,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 472,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 473,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 474,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 475,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 476,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 477,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 478,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 479,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 480,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 481,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 482,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 483,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 484,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 485,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 486,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 487,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 488,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 489,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 490,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 491,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 492,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 493,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 494,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 495,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 496,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 497,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 498,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 499,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 500,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 501,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 502,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 503,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 504,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 505,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 506,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 507,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 508,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.3,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 509,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.3,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 510,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.3,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 511,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.2,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 512,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.2,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 513,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.2,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 514,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 515,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 516,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 517,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 518,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 519,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 520,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 521,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 522,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 523,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 524,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 525,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 526,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 527,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 528,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 529,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 530,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 531,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 532,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 533,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 534,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 535,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 536,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 537,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 538,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 539,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 29,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 540,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 28.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 541,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 28.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 542,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "Assegnato - PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 28.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 543,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 28.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 544,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 28.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
 			}
 		},
 		{
@@ -13255,6 +16711,568 @@
 		},
 		{
 			"id": "",
+			"position": 929,
+			"canEnroll": false,
+			"courses": [],
+			"result": 24.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 930,
+			"canEnroll": false,
+			"courses": [],
+			"result": 24.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 931,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 932,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 933,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 934,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 935,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 936,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 937,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 938,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 939,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 940,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 941,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 942,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 943,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 944,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 945,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 946,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MANTOVA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 947,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 948,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 949,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 950,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 951,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 952,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 953,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 954,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 955,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 956,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 957,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 958,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 959,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 960,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 24.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
 			"position": 961,
 			"canEnroll": true,
 			"courses": [
@@ -17025,6 +21043,358 @@
 		},
 		{
 			"id": "",
+			"position": 1249,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1250,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1251,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1252,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1253,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1254,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1255,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1256,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1257,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1258,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1259,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1260,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1261,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1262,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1263,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1264,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1265,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1266,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1267,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1268,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1269,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1270,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1271,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1272,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1273,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1274,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1275,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1276,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1277,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1278,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1279,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1280,
+			"canEnroll": false,
+			"courses": [],
+			"result": 21.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
 			"position": 1281,
 			"canEnroll": false,
 			"courses": [],
@@ -18785,6 +23155,358 @@
 		},
 		{
 			"id": "",
+			"position": 1441,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1442,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1443,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1444,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1445,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1446,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1447,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1448,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1449,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1450,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1451,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1452,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1453,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1454,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1455,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1456,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1457,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1458,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1459,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1460,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1461,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1462,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1463,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1464,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1465,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1466,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1467,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1468,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1469,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1470,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1471,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1472,
+			"canEnroll": false,
+			"courses": [],
+			"result": 19.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
 			"position": 1473,
 			"canEnroll": false,
 			"courses": [],
@@ -19841,6 +24563,358 @@
 		},
 		{
 			"id": "",
+			"position": 1569,
+			"canEnroll": false,
+			"courses": [],
+			"result": 18.2,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1570,
+			"canEnroll": false,
+			"courses": [],
+			"result": 18.2,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1571,
+			"canEnroll": false,
+			"courses": [],
+			"result": 18.2,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1572,
+			"canEnroll": false,
+			"courses": [],
+			"result": 18.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1573,
+			"canEnroll": false,
+			"courses": [],
+			"result": 18.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1574,
+			"canEnroll": false,
+			"courses": [],
+			"result": 18.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1575,
+			"canEnroll": false,
+			"courses": [],
+			"result": 18.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1576,
+			"canEnroll": false,
+			"courses": [],
+			"result": 18.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1577,
+			"canEnroll": false,
+			"courses": [],
+			"result": 18.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1578,
+			"canEnroll": false,
+			"courses": [],
+			"result": 18.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1579,
+			"canEnroll": false,
+			"courses": [],
+			"result": 18.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1580,
+			"canEnroll": false,
+			"courses": [],
+			"result": 18.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1581,
+			"canEnroll": false,
+			"courses": [],
+			"result": 18.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1582,
+			"canEnroll": false,
+			"courses": [],
+			"result": 18.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1583,
+			"canEnroll": false,
+			"courses": [],
+			"result": 18,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1584,
+			"canEnroll": false,
+			"courses": [],
+			"result": 18,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1585,
+			"canEnroll": false,
+			"courses": [],
+			"result": 18,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1586,
+			"canEnroll": false,
+			"courses": [],
+			"result": 18,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1587,
+			"canEnroll": false,
+			"courses": [],
+			"result": 18,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1588,
+			"canEnroll": false,
+			"courses": [],
+			"result": 18,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1589,
+			"canEnroll": false,
+			"courses": [],
+			"result": 18,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1590,
+			"canEnroll": false,
+			"courses": [],
+			"result": 18,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1591,
+			"canEnroll": false,
+			"courses": [],
+			"result": 18,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1592,
+			"canEnroll": false,
+			"courses": [],
+			"result": 18,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1593,
+			"canEnroll": false,
+			"courses": [],
+			"result": 18,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1594,
+			"canEnroll": false,
+			"courses": [],
+			"result": 18,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1595,
+			"canEnroll": false,
+			"courses": [],
+			"result": 18,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1596,
+			"canEnroll": false,
+			"courses": [],
+			"result": 17.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1597,
+			"canEnroll": false,
+			"courses": [],
+			"result": 17.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1598,
+			"canEnroll": false,
+			"courses": [],
+			"result": 17.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1599,
+			"canEnroll": false,
+			"courses": [],
+			"result": 17.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1600,
+			"canEnroll": false,
+			"courses": [],
+			"result": 17.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
 			"position": 1601,
 			"canEnroll": false,
 			"courses": [],
@@ -20538,6 +25612,358 @@
 			"canEnroll": false,
 			"courses": [],
 			"result": 17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1665,
+			"canEnroll": false,
+			"courses": [],
+			"result": 17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1666,
+			"canEnroll": false,
+			"courses": [],
+			"result": 17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1667,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1668,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1669,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1670,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1671,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1672,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1673,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1674,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1675,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1676,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1677,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1678,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1679,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1680,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1681,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1682,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1683,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1684,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1685,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1686,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1687,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1688,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1689,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1690,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1691,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1692,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1693,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1694,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1695,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1696,
+			"canEnroll": false,
+			"courses": [],
+			"result": 16.6,
 			"sectionsResults": null,
 			"ofa": {
 				"ENG": true
@@ -21245,6 +26671,358 @@
 			"sectionsResults": null,
 			"ofa": {
 				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1761,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1762,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1763,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1764,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1765,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1766,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1767,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1768,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1769,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1770,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1771,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1772,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1773,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1774,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1775,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1776,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1777,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1778,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1779,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1780,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1781,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1782,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1783,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1784,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1785,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1786,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1787,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1788,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1789,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1790,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1791,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1792,
+			"canEnroll": false,
+			"courses": [],
+			"result": 15.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
 			}
 		},
 		{
@@ -22298,6 +28076,358 @@
 			"canEnroll": false,
 			"courses": [],
 			"result": 13.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1889,
+			"canEnroll": false,
+			"courses": [],
+			"result": 13.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1890,
+			"canEnroll": false,
+			"courses": [],
+			"result": 13.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1891,
+			"canEnroll": false,
+			"courses": [],
+			"result": 13.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1892,
+			"canEnroll": false,
+			"courses": [],
+			"result": 13.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1893,
+			"canEnroll": false,
+			"courses": [],
+			"result": 13.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1894,
+			"canEnroll": false,
+			"courses": [],
+			"result": 13.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1895,
+			"canEnroll": false,
+			"courses": [],
+			"result": 13.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1896,
+			"canEnroll": false,
+			"courses": [],
+			"result": 13.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1897,
+			"canEnroll": false,
+			"courses": [],
+			"result": 13.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1898,
+			"canEnroll": false,
+			"courses": [],
+			"result": 13.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1899,
+			"canEnroll": false,
+			"courses": [],
+			"result": 13.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1900,
+			"canEnroll": false,
+			"courses": [],
+			"result": 13.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1901,
+			"canEnroll": false,
+			"courses": [],
+			"result": 13.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1902,
+			"canEnroll": false,
+			"courses": [],
+			"result": 13.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1903,
+			"canEnroll": false,
+			"courses": [],
+			"result": 13.3,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1904,
+			"canEnroll": false,
+			"courses": [],
+			"result": 13.3,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1905,
+			"canEnroll": false,
+			"courses": [],
+			"result": 13.3,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1906,
+			"canEnroll": false,
+			"courses": [],
+			"result": 13.3,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1907,
+			"canEnroll": false,
+			"courses": [],
+			"result": 13.3,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1908,
+			"canEnroll": false,
+			"courses": [],
+			"result": 13.2,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1909,
+			"canEnroll": false,
+			"courses": [],
+			"result": 13.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1910,
+			"canEnroll": false,
+			"courses": [],
+			"result": 13.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1911,
+			"canEnroll": false,
+			"courses": [],
+			"result": 13.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1912,
+			"canEnroll": false,
+			"courses": [],
+			"result": 13.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1913,
+			"canEnroll": false,
+			"courses": [],
+			"result": 13,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 1914,
+			"canEnroll": false,
+			"courses": [],
+			"result": 13,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1915,
+			"canEnroll": false,
+			"courses": [],
+			"result": 13,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1916,
+			"canEnroll": false,
+			"courses": [],
+			"result": 13,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1917,
+			"canEnroll": false,
+			"courses": [],
+			"result": 12.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1918,
+			"canEnroll": false,
+			"courses": [],
+			"result": 12.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1919,
+			"canEnroll": false,
+			"courses": [],
+			"result": 12.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 1920,
+			"canEnroll": false,
+			"courses": [],
+			"result": 12.8,
 			"sectionsResults": null,
 			"ofa": {
 				"ENG": true
@@ -24058,6 +30188,270 @@
 			"canEnroll": false,
 			"courses": [],
 			"result": 6.3,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 2081,
+			"canEnroll": false,
+			"courses": [],
+			"result": 6.2,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 2082,
+			"canEnroll": false,
+			"courses": [],
+			"result": 6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 2083,
+			"canEnroll": false,
+			"courses": [],
+			"result": 5.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 2084,
+			"canEnroll": false,
+			"courses": [],
+			"result": 5.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 2085,
+			"canEnroll": false,
+			"courses": [],
+			"result": 5.3,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 2086,
+			"canEnroll": false,
+			"courses": [],
+			"result": 5.3,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 2087,
+			"canEnroll": false,
+			"courses": [],
+			"result": 5.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 2088,
+			"canEnroll": false,
+			"courses": [],
+			"result": 4.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 2089,
+			"canEnroll": false,
+			"courses": [],
+			"result": 4.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "",
+			"position": 2090,
+			"canEnroll": false,
+			"courses": [],
+			"result": 4.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 2091,
+			"canEnroll": false,
+			"courses": [],
+			"result": 4.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 2092,
+			"canEnroll": false,
+			"courses": [],
+			"result": 4.4,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 2093,
+			"canEnroll": false,
+			"courses": [],
+			"result": 4.3,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 2094,
+			"canEnroll": false,
+			"courses": [],
+			"result": 3.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 2095,
+			"canEnroll": false,
+			"courses": [],
+			"result": 3.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 2096,
+			"canEnroll": false,
+			"courses": [],
+			"result": 3,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 2097,
+			"canEnroll": false,
+			"courses": [],
+			"result": 2.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 2098,
+			"canEnroll": false,
+			"courses": [],
+			"result": 2.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 2099,
+			"canEnroll": false,
+			"courses": [],
+			"result": 2.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 2100,
+			"canEnroll": false,
+			"courses": [],
+			"result": 1.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 2101,
+			"canEnroll": false,
+			"courses": [],
+			"result": 0.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 2102,
+			"canEnroll": false,
+			"courses": [],
+			"result": 0.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 2103,
+			"canEnroll": false,
+			"courses": [],
+			"result": 0.3,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "",
+			"position": 2104,
+			"canEnroll": false,
+			"courses": [],
+			"result": 0,
 			"sectionsResults": null,
 			"ofa": {
 				"ENG": true

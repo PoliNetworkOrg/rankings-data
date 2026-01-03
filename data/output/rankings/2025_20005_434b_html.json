@@ -16,8 +16,8 @@
 		],
 		"PROGETTAZIONE DELL'ARCHITETTURA": [
 			"MANTOVA",
-			"PIACENZA",
-			"MILANO LEONARDO"
+			"MILANO LEONARDO",
+			"PIACENZA"
 		]
 	},
 	"rows": [
@@ -191,15 +191,15 @@
 			"courses": [
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
-					"location": "MILANO LEONARDO",
-					"position": 7,
-					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
 					"location": "PIACENZA",
 					"position": 1,
 					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 7,
+					"canEnroll": false
 				}
 			],
 			"result": 27.5,
@@ -275,15 +275,15 @@
 			"courses": [
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
-					"location": "MILANO LEONARDO",
-					"position": 9,
-					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
 					"location": "PIACENZA",
 					"position": 2,
 					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 9,
+					"canEnroll": false
 				}
 			],
 			"result": 22.25,
@@ -307,15 +307,15 @@
 			"courses": [
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
-					"location": "MILANO LEONARDO",
-					"position": 10,
-					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
 					"location": "PIACENZA",
 					"position": 3,
 					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 10,
+					"canEnroll": false
 				}
 			],
 			"result": 21.5,
@@ -423,15 +423,15 @@
 			"courses": [
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
-					"location": "MILANO LEONARDO",
-					"position": 13,
-					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
 					"location": "PIACENZA",
 					"position": 5,
 					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 13,
+					"canEnroll": false
 				}
 			],
 			"result": 18,
@@ -533,15 +533,15 @@
 			"courses": [
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
-					"location": "MILANO LEONARDO",
-					"position": 15,
-					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
 					"location": "PIACENZA",
 					"position": 8,
 					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 15,
+					"canEnroll": false
 				}
 			],
 			"result": 13.75,
@@ -597,15 +597,15 @@
 			"courses": [
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
-					"location": "MILANO LEONARDO",
-					"position": 17,
-					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
 					"location": "PIACENZA",
 					"position": 9,
 					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 17,
+					"canEnroll": false
 				}
 			],
 			"result": 10.5,
@@ -629,15 +629,15 @@
 			"courses": [
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
-					"location": "MILANO LEONARDO",
-					"position": 18,
-					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
 					"location": "PIACENZA",
 					"position": 10,
 					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 18,
+					"canEnroll": false
 				}
 			],
 			"result": 9,

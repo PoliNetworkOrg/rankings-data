@@ -15,9 +15,9 @@
 			"LECCO"
 		],
 		"PROGETTAZIONE DELL'ARCHITETTURA": [
-			"PIACENZA",
 			"MANTOVA",
-			"MILANO LEONARDO"
+			"MILANO LEONARDO",
+			"PIACENZA"
 		]
 	},
 	"rows": [
@@ -107,15 +107,15 @@
 			"courses": [
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
-					"location": "MILANO LEONARDO",
-					"position": 4,
-					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
 					"location": "PIACENZA",
 					"position": 1,
 					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 4,
+					"canEnroll": false
 				}
 			],
 			"result": 9,

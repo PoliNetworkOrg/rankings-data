@@ -16,12 +16,12 @@
 		],
 		"PROGETTAZIONE DELL'ARCHITETTURA": [
 			"MANTOVA",
-			"PIACENZA",
-			"MILANO LEONARDO"
+			"MILANO LEONARDO",
+			"PIACENZA"
 		],
 		"PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH": [
-			"PIACENZA",
-			"MI LEONARDO"
+			"MI LEONARDO",
+			"PIACENZA"
 		]
 	},
 	"rows": [
@@ -48,7 +48,7 @@
 				"Ragionamento Logico": 6.5
 			},
 			"ofa": {
-				"ENG": true
+				"ENG": false
 			}
 		},
 		{
@@ -134,15 +134,15 @@
 			"courses": [
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
-					"location": "MI LEONARDO",
-					"position": 5,
-					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
 					"location": "PIACENZA",
 					"position": 1,
 					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 5,
+					"canEnroll": false
 				}
 			],
 			"result": 34.75,
@@ -190,15 +190,15 @@
 			"courses": [
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
-					"location": "MI LEONARDO",
-					"position": 7,
-					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
 					"location": "PIACENZA",
 					"position": 2,
 					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 7,
+					"canEnroll": false
 				}
 			],
 			"result": 34.5,
@@ -221,15 +221,15 @@
 			"courses": [
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
-					"location": "MI LEONARDO",
-					"position": 8,
-					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
 					"location": "PIACENZA",
 					"position": 3,
 					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 8,
+					"canEnroll": false
 				}
 			],
 			"result": 34.25,
@@ -252,15 +252,15 @@
 			"courses": [
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
-					"location": "MI LEONARDO",
-					"position": 9,
-					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
 					"location": "PIACENZA",
 					"position": 4,
 					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 9,
+					"canEnroll": false
 				}
 			],
 			"result": 34.25,
@@ -283,15 +283,15 @@
 			"courses": [
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
-					"location": "MI LEONARDO",
-					"position": 10,
-					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
 					"location": "PIACENZA",
 					"position": 5,
 					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 10,
+					"canEnroll": false
 				}
 			],
 			"result": 34.25,
@@ -314,15 +314,15 @@
 			"courses": [
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
-					"location": "MI LEONARDO",
-					"position": 11,
-					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
 					"location": "PIACENZA",
 					"position": 6,
 					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 11,
+					"canEnroll": false
 				}
 			],
 			"result": 34.25,
@@ -345,15 +345,15 @@
 			"courses": [
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
-					"location": "MI LEONARDO",
-					"position": 12,
-					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
 					"location": "PIACENZA",
 					"position": 7,
 					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 12,
+					"canEnroll": false
 				}
 			],
 			"result": 34.25,
@@ -408,15 +408,15 @@
 			"courses": [
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
-					"location": "MI LEONARDO",
-					"position": 14,
-					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
 					"location": "PIACENZA",
 					"position": 8,
 					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
+					"location": "MI LEONARDO",
+					"position": 14,
+					"canEnroll": false
 				}
 			],
 			"result": 33.75,
@@ -2640,7 +2640,7 @@
 				"Ragionamento Logico": 5.25
 			},
 			"ofa": {
-				"ENG": true
+				"ENG": false
 			}
 		},
 		{
@@ -7375,15 +7375,15 @@
 			"courses": [
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
-					"location": "MILANO LEONARDO",
-					"position": 159,
-					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
 					"location": "PIACENZA",
 					"position": 6,
 					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 159,
+					"canEnroll": false
 				},
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
@@ -7667,15 +7667,15 @@
 			"courses": [
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
-					"location": "MILANO LEONARDO",
-					"position": 166,
-					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
 					"location": "PIACENZA",
 					"position": 7,
 					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 166,
+					"canEnroll": false
 				}
 			],
 			"result": 25,
@@ -8069,15 +8069,15 @@
 			"courses": [
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
-					"location": "MILANO LEONARDO",
-					"position": 175,
-					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
 					"location": "PIACENZA",
 					"position": 8,
 					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 175,
+					"canEnroll": false
 				},
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
@@ -8164,15 +8164,15 @@
 			"courses": [
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
-					"location": "MILANO LEONARDO",
-					"position": 177,
-					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
 					"location": "PIACENZA",
 					"position": 9,
 					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 177,
+					"canEnroll": false
 				},
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
@@ -8556,6 +8556,12 @@
 			"courses": [
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 10,
+					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
 					"location": "MANTOVA",
 					"position": 24,
 					"canEnroll": false
@@ -8565,12 +8571,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 188,
 					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
-					"location": "PIACENZA",
-					"position": 10,
-					"canEnroll": true
 				}
 			],
 			"result": 24.75,
@@ -8662,6 +8662,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 11,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA EDILE - ARCHITETTURA",
 					"location": "LECCO",
 					"position": 29,
@@ -8672,12 +8678,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 190,
 					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
-					"location": "PIACENZA",
-					"position": 11,
-					"canEnroll": true
 				},
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
@@ -8707,6 +8707,12 @@
 			"courses": [
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 12,
+					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
 					"location": "MANTOVA",
 					"position": 25,
 					"canEnroll": false
@@ -8716,12 +8722,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 191,
 					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
-					"location": "PIACENZA",
-					"position": 12,
-					"canEnroll": true
 				}
 			],
 			"result": 24.75,
@@ -8776,6 +8776,12 @@
 			"courses": [
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 13,
+					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
 					"location": "MANTOVA",
 					"position": 26,
 					"canEnroll": false
@@ -8785,12 +8791,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 192,
 					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
-					"location": "PIACENZA",
-					"position": 13,
-					"canEnroll": true
 				},
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
@@ -8820,6 +8820,12 @@
 			"courses": [
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 14,
+					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
 					"location": "MANTOVA",
 					"position": 27,
 					"canEnroll": false
@@ -8829,12 +8835,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 193,
 					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
-					"location": "PIACENZA",
-					"position": 14,
-					"canEnroll": true
 				},
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
@@ -8864,6 +8864,12 @@
 			"courses": [
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 15,
+					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
 					"location": "MANTOVA",
 					"position": 28,
 					"canEnroll": false
@@ -8873,12 +8879,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 194,
 					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
-					"location": "PIACENZA",
-					"position": 15,
-					"canEnroll": true
 				}
 			],
 			"result": 24.75,
@@ -8902,15 +8902,15 @@
 			"courses": [
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
-					"location": "MILANO LEONARDO",
-					"position": 195,
-					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
 					"location": "PIACENZA",
 					"position": 16,
 					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "MILANO LEONARDO",
+					"position": 195,
+					"canEnroll": false
 				}
 			],
 			"result": 24.75,
@@ -8992,6 +8992,12 @@
 			"courses": [
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 17,
+					"canEnroll": true
+				},
+				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
 					"location": "MANTOVA",
 					"position": 29,
 					"canEnroll": false
@@ -9001,12 +9007,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 197,
 					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
-					"location": "PIACENZA",
-					"position": 17,
-					"canEnroll": true
 				}
 			],
 			"result": 24.5,
@@ -9055,6 +9055,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 18,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA EDILE - ARCHITETTURA",
 					"location": "LECCO",
 					"position": 32,
@@ -9071,12 +9077,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 199,
 					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
-					"location": "PIACENZA",
-					"position": 18,
-					"canEnroll": true
 				},
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA - TAUGHT IN ENGLISH",
@@ -9105,6 +9105,12 @@
 			"canEnroll": true,
 			"courses": [
 				{
+					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
+					"location": "PIACENZA",
+					"position": 19,
+					"canEnroll": true
+				},
+				{
 					"title": "INGEGNERIA EDILE - ARCHITETTURA",
 					"location": "LECCO",
 					"position": 33,
@@ -9115,12 +9121,6 @@
 					"location": "MILANO LEONARDO",
 					"position": 200,
 					"canEnroll": false
-				},
-				{
-					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
-					"location": "PIACENZA",
-					"position": 19,
-					"canEnroll": true
 				}
 			],
 			"result": 24.5,
@@ -20166,7 +20166,7 @@
 				"Ragionamento Logico": 4.5
 			},
 			"ofa": {
-				"ENG": true
+				"ENG": false
 			}
 		},
 		{
@@ -25156,6 +25156,12 @@
 			"canEnroll": false,
 			"courses": [
 				{
+					"title": "INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 229,
+					"canEnroll": false
+				},
+				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
 					"location": "MANTOVA",
 					"position": 249,
@@ -25257,6 +25263,12 @@
 			"position": 718,
 			"canEnroll": false,
 			"courses": [
+				{
+					"title": "INGEGNERIA EDILE - ARCHITETTURA",
+					"location": "LECCO",
+					"position": 230,
+					"canEnroll": false
+				},
 				{
 					"title": "PROGETTAZIONE DELL'ARCHITETTURA",
 					"location": "MANTOVA",

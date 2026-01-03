@@ -422,16 +422,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "DESIGN DELLA COMUNICAZIONE",
-					"location": "MILANO BOVISA",
-					"position": 7,
-					"canEnroll": false
-				},
-				{
 					"title": "DESIGN DELLA MODA",
 					"location": "MILANO BOVISA",
 					"position": 1,
 					"canEnroll": true
+				},
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 7,
+					"canEnroll": false
 				}
 			],
 			"result": 60.83,
@@ -24353,6 +24353,12 @@
 					"canEnroll": false
 				},
 				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 524,
+					"canEnroll": false
+				},
+				{
 					"title": "DESIGN DELLA COMUNICAZIONE",
 					"location": "MILANO BOVISA",
 					"position": 500,
@@ -24395,6 +24401,12 @@
 					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
 					"location": "MILANO BOVISA",
 					"position": 525,
+					"canEnroll": false
+				},
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 501,
 					"canEnroll": false
 				},
 				{

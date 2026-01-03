@@ -2228,16 +2228,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "DESIGN DELLA COMUNICAZIONE",
-					"location": "MILANO BOVISA",
-					"position": 33,
-					"canEnroll": false
-				},
-				{
 					"title": "DESIGN DELLA MODA",
 					"location": "MILANO BOVISA",
 					"position": 13,
 					"canEnroll": true
+				},
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 33,
+					"canEnroll": false
 				}
 			],
 			"result": 56.46,
@@ -2738,16 +2738,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "DESIGN DEGLI INTERNI",
-					"location": "MILANO BOVISA",
-					"position": 37,
-					"canEnroll": false
-				},
-				{
 					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
 					"location": "MILANO BOVISA",
 					"position": 23,
 					"canEnroll": true
+				},
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 37,
+					"canEnroll": false
 				}
 			],
 			"result": 56.21,
@@ -2825,16 +2825,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "DESIGN DEGLI INTERNI",
-					"location": "MILANO BOVISA",
-					"position": 38,
-					"canEnroll": false
-				},
-				{
 					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
 					"location": "MILANO BOVISA",
 					"position": 26,
 					"canEnroll": true
+				},
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 38,
+					"canEnroll": false
 				}
 			],
 			"result": 56.13,
@@ -2918,16 +2918,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "DESIGN DEGLI INTERNI",
-					"location": "MILANO BOVISA",
-					"position": 39,
-					"canEnroll": false
-				},
-				{
 					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
 					"location": "MILANO BOVISA",
 					"position": 29,
 					"canEnroll": true
+				},
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 39,
+					"canEnroll": false
 				}
 			],
 			"result": 56.04,
@@ -3005,16 +3005,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "DESIGN DEGLI INTERNI",
-					"location": "MILANO BOVISA",
-					"position": 40,
-					"canEnroll": false
-				},
-				{
 					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
 					"location": "MILANO BOVISA",
 					"position": 30,
 					"canEnroll": true
+				},
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 40,
+					"canEnroll": false
 				}
 			],
 			"result": 56.04,
@@ -3038,16 +3038,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "DESIGN DEGLI INTERNI",
-					"location": "MILANO BOVISA",
-					"position": 41,
-					"canEnroll": false
-				},
-				{
 					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
 					"location": "MILANO BOVISA",
 					"position": 31,
 					"canEnroll": true
+				},
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 41,
+					"canEnroll": false
 				}
 			],
 			"result": 56.04,
@@ -3071,16 +3071,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "DESIGN DEGLI INTERNI",
-					"location": "MILANO BOVISA",
-					"position": 42,
-					"canEnroll": false
-				},
-				{
 					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
 					"location": "MILANO BOVISA",
 					"position": 32,
 					"canEnroll": true
+				},
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 42,
+					"canEnroll": false
 				}
 			],
 			"result": 56,
@@ -3218,16 +3218,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "DESIGN DEGLI INTERNI",
-					"location": "MILANO BOVISA",
-					"position": 44,
-					"canEnroll": false
-				},
-				{
 					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
 					"location": "MILANO BOVISA",
 					"position": 35,
 					"canEnroll": true
+				},
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 44,
+					"canEnroll": false
 				}
 			],
 			"result": 56,
@@ -3251,16 +3251,16 @@
 			"canEnroll": true,
 			"courses": [
 				{
-					"title": "DESIGN DEGLI INTERNI",
-					"location": "MILANO BOVISA",
-					"position": 45,
-					"canEnroll": false
-				},
-				{
 					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
 					"location": "MILANO BOVISA",
 					"position": 36,
 					"canEnroll": true
+				},
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 45,
+					"canEnroll": false
 				},
 				{
 					"title": "DESIGN DELLA COMUNICAZIONE",
@@ -26111,6 +26111,12 @@
 					"canEnroll": false
 				},
 				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 507,
+					"canEnroll": false
+				},
+				{
 					"title": "DESIGN DELLA COMUNICAZIONE",
 					"location": "MILANO BOVISA",
 					"position": 496,
@@ -26180,6 +26186,12 @@
 					"title": "DESIGN DEGLI INTERNI",
 					"location": "MILANO BOVISA",
 					"position": 542,
+					"canEnroll": false
+				},
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 509,
 					"canEnroll": false
 				},
 				{

@@ -55,8 +55,8 @@
 			"MILANO BOVISA"
 		],
 		"INGEGNERIA INFORMATICA": [
-			"MILANO LEONARDO",
-			"CREMONA"
+			"CREMONA",
+			"MILANO LEONARDO"
 		],
 		"INGEGNERIA INFORMATICA ONLINE": [
 			"MILANO LEONARDO"
@@ -329,7 +329,7 @@
 				"Matematica": 40.95
 			},
 			"ofa": {
-				"ENG": true,
+				"ENG": false,
 				"TEST": false
 			}
 		},

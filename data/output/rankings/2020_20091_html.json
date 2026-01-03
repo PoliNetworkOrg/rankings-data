@@ -4605,6 +4605,607 @@
 		},
 		{
 			"id": "",
+			"position": 257,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA ONLINE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 55.3,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 258,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 55.28,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 259,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 55.24,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 260,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 55.2,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 261,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 55.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 262,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 55.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 263,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA ONLINE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 55.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 264,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA ONLINE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 55.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 265,
+			"canEnroll": false,
+			"courses": [],
+			"result": 55.15,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 266,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA ONLINE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 55.15,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 267,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 55.15,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 268,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 55.07,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 269,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "CREMONA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 55.05,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 270,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "CREMONA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 55.03,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 271,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 55.02,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 272,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "CREMONA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 55,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 273,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 54.97,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 274,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "CREMONA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 54.97,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 275,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA ONLINE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 54.97,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 276,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 54.88,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 277,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 54.88,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 278,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "CREMONA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 54.85,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 279,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DELLA PRODUZIONE INDUSTRIALE",
+					"location": "LECCO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 54.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 280,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 54.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 281,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA EDILE E DELLE COSTRUZIONI",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 54.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 282,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "CREMONA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 54.78,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 283,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "CREMONA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 54.78,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 284,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 54.77,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 285,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA ONLINE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 54.73,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 286,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 54.72,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 287,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA ONLINE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 54.68,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 288,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 54.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
 			"position": 289,
 			"canEnroll": true,
 			"courses": [
@@ -10015,6 +10616,516 @@
 			"sectionsResults": null,
 			"ofa": {
 				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 609,
+			"canEnroll": false,
+			"courses": [],
+			"result": 45.85,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 610,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 45.77,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 611,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "PIACENZA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 45.77,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 612,
+			"canEnroll": false,
+			"courses": [],
+			"result": 45.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 613,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DELLA PRODUZIONE INDUSTRIALE",
+					"location": "LECCO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 45.72,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 614,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "CREMONA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 45.62,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 615,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE PER LA MITIGAZIONE DEL RISCHIO",
+					"location": "LECCO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 45.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 616,
+			"canEnroll": false,
+			"courses": [],
+			"result": 45.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 617,
+			"canEnroll": false,
+			"courses": [],
+			"result": 45.47,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 618,
+			"canEnroll": false,
+			"courses": [],
+			"result": 45.43,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 619,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "CREMONA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 45.38,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 620,
+			"canEnroll": false,
+			"courses": [],
+			"result": 45.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 621,
+			"canEnroll": false,
+			"courses": [],
+			"result": 45.32,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 622,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 45.27,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 623,
+			"canEnroll": false,
+			"courses": [],
+			"result": 45.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 624,
+			"canEnroll": false,
+			"courses": [],
+			"result": 45.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 625,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "PIACENZA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 45.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 626,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "PIACENZA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 45.18,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 627,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "CREMONA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 45.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 628,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "PIACENZA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 45.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 629,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "CREMONA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 45.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 630,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "CREMONA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 45.02,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 631,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 44.98,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 632,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "CREMONA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 44.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 633,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "CREMONA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 44.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 634,
+			"canEnroll": false,
+			"courses": [],
+			"result": 44.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 635,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 44.77,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 636,
+			"canEnroll": false,
+			"courses": [],
+			"result": 44.63,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 637,
+			"canEnroll": false,
+			"courses": [],
+			"result": 44.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 638,
+			"canEnroll": false,
+			"courses": [],
+			"result": 44.55,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 639,
+			"canEnroll": false,
+			"courses": [],
+			"result": 44.55,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": true
+			}
+		},
+		{
+			"id": "",
+			"position": 640,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "CREMONA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 44.52,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
 				"TEST": true
 			}
 		},

@@ -14,6 +14,614 @@
 	"rows": [
 		{
 			"id": "",
+			"position": 1,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 85.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 2,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 85.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 3,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 83.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 4,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 5,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 82.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 6,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA FISICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 81.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 7,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 80.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 8,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 80.65,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 9,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 80.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 10,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 80.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 11,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 80.07,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 12,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 79.63,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 13,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 79.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 14,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 78.65,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 15,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 78.2,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 16,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 77.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 17,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA FISICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 77.48,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 18,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MATEMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 77.47,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 19,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA FISICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 77.47,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 20,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 77.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 21,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA FISICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 77.05,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 22,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 76.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 23,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA FISICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 76.57,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 24,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MATEMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 76.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 25,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA BIOMEDICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 76.15,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 26,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 76.1,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 27,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 75.63,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 28,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 75.63,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 29,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA AEROSPAZIALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 75.63,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 30,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA FISICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 75.35,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 31,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CHIMICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 75.2,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 32,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA FISICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 75.16,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
 			"position": 33,
 			"canEnroll": true,
 			"courses": [
@@ -1831,6 +2439,614 @@
 		},
 		{
 			"id": "",
+			"position": 129,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DELL'AUTOMAZIONE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 66.22,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 130,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DELL'AUTOMAZIONE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 66.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 131,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 66.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 132,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 66.13,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 133,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 66.12,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 134,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 66.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 135,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ELETTRONICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 66.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 136,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 66.07,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 137,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 66.05,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 138,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CHIMICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 66.03,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 139,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DELL'AUTOMAZIONE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 66.02,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 140,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 66.01,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 141,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 66,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 142,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 65.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 143,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ELETTRONICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 65.88,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 144,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MATEMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 65.82,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 145,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 65.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 146,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 65.78,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 147,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 65.78,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 148,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 65.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 149,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 65.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 150,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 65.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 151,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MATEMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 65.68,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 152,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DELL'AUTOMAZIONE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 65.68,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 153,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 65.65,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 154,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 65.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 155,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 65.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 156,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 65.57,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 157,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 65.55,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 158,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 65.53,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 159,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 65.52,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 160,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DELL'AUTOMAZIONE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 65.47,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
 			"position": 161,
 			"canEnroll": true,
 			"courses": [
@@ -3040,6 +4256,614 @@
 		},
 		{
 			"id": "",
+			"position": 225,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DELL'AUTOMAZIONE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 64.12,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 226,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 64.12,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 227,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DELL'AUTOMAZIONE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 64.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 228,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 64.05,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 229,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 64.05,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 230,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CHIMICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 64.04,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 231,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DELL'AUTOMAZIONE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 64.03,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 232,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 64.03,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 233,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 64.02,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 234,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 63.95,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 235,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ENERGETICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 63.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 236,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 63.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 237,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DELL'AUTOMAZIONE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 63.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 238,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 63.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 239,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 63.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 240,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 63.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 241,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ELETTRONICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 63.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 242,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ELETTRONICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 63.82,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 243,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MATEMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 63.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 244,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 63.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 245,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 63.78,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 246,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CHIMICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 63.77,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 247,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 63.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 248,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 63.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 249,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CHIMICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 63.65,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 250,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 63.65,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 251,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CHIMICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 63.65,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 252,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 63.62,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 253,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MATEMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 63.62,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 254,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 63.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 255,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ENERGETICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 63.53,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 256,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 63.53,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
 			"position": 257,
 			"canEnroll": true,
 			"courses": [
@@ -3643,6 +5467,1187 @@
 			"sectionsResults": null,
 			"ofa": {
 				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 289,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 290,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 291,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ENERGETICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.82,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 292,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.78,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 293,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.78,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 294,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 295,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CHIMICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 296,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.73,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 297,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.73,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 298,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ENERGETICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.73,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 299,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "PIACENZA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.73,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 300,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.7,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 301,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.68,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 302,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 303,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.67,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 304,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ENERGETICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.65,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 305,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MATEMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.65,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 306,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MATEMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.63,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 307,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ENERGETICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.61,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 308,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MATEMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.6,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 309,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 310,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ENERGETICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 311,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 312,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MATEMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 313,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ENERGETICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.55,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 314,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.55,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 315,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ENERGETICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.53,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 316,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CHIMICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.53,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 317,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 318,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 319,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.5,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 320,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.45,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 321,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.43,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 322,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CHIMICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.42,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 323,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DELL'AUTOMAZIONE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.38,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 324,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.38,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 325,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.37,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 326,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ENERGETICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.37,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 327,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CHIMICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.35,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 328,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.35,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 329,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "PIACENZA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.33,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 330,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.32,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 331,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.32,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 332,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.28,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 333,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CHIMICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.25,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 334,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ENERGETICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.22,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 335,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 336,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 337,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.17,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 338,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.07,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 339,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62.05,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 340,
+			"canEnroll": false,
+			"courses": [],
+			"result": 62.03,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 341,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ENERGETICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 62,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 342,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "MILANO BOVISA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 61.98,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 343,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DEI MATERIALI E DELLE NANOTECNOLOGIE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 61.93,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 344,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CHIMICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 61.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 345,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "CREMONA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 61.92,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 346,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MATEMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 61.88,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 347,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 61.88,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 348,
+			"canEnroll": false,
+			"courses": [],
+			"result": 61.83,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 349,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DELLA PRODUZIONE INDUSTRIALE",
+					"location": "LECCO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 61.82,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 350,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 61.82,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 351,
+			"canEnroll": false,
+			"courses": [],
+			"result": 61.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 352,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CHIMICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 61.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
 				"TEST": false
 			}
 		},
@@ -5299,6 +8304,537 @@
 			"sectionsResults": null,
 			"ofa": {
 				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 449,
+			"canEnroll": false,
+			"courses": [],
+			"result": 60.2,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 450,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 60.18,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 451,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 60.15,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 452,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ELETTRICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 60.08,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 453,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 60.02,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 454,
+			"canEnroll": false,
+			"courses": [],
+			"result": 60.02,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 455,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 60.02,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 456,
+			"canEnroll": false,
+			"courses": [],
+			"result": 60.02,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 457,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ELETTRICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 60,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 458,
+			"canEnroll": false,
+			"courses": [],
+			"result": 60,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 459,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 59.93,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 460,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ELETTRONICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 59.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 461,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 59.9,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 462,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ELETTRONICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 59.88,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 463,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ELETTRICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 59.87,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 464,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA MECCANICA",
+					"location": "PIACENZA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 59.85,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 465,
+			"canEnroll": false,
+			"courses": [],
+			"result": 59.82,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 466,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ELETTRONICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 59.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 467,
+			"canEnroll": false,
+			"courses": [],
+			"result": 59.8,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 468,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ELETTRICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 59.78,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 469,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA DELLA PRODUZIONE INDUSTRIALE",
+					"location": "LECCO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 59.78,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 470,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA GESTIONALE",
+					"location": "CREMONA",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 59.77,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 471,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA ONLINE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 59.75,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 472,
+			"canEnroll": false,
+			"courses": [],
+			"result": 59.72,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 473,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 59.65,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 474,
+			"canEnroll": false,
+			"courses": [],
+			"result": 59.65,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 475,
+			"canEnroll": false,
+			"courses": [],
+			"result": 59.63,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 476,
+			"canEnroll": false,
+			"courses": [],
+			"result": 59.62,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 477,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ELETTRICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 59.62,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 478,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ELETTRICA",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 59.58,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 479,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE",
+					"location": "MILANO LEONARDO",
+					"position": 0,
+					"canEnroll": true
+				}
+			],
+			"result": 59.57,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": true,
+				"TEST": false
+			}
+		},
+		{
+			"id": "",
+			"position": 480,
+			"canEnroll": false,
+			"courses": [],
+			"result": 59.55,
+			"sectionsResults": null,
+			"ofa": {
+				"ENG": false,
 				"TEST": false
 			}
 		},
