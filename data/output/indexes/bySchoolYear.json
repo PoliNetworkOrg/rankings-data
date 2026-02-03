@@ -1392,6 +1392,19 @@
 		],
 		"2025": [
 			{
+				"id": "2025_20064_5242_html",
+				"school": "Ingegneria",
+				"year": 2025,
+				"phase": {
+					"raw": "Prima Graduatoria Di Seconda Fase",
+					"stripped": "Prima Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
 				"id": "2025_20019_4084_html",
 				"school": "Ingegneria",
 				"year": 2025,
