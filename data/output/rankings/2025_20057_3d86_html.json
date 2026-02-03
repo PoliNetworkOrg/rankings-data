@@ -1,0 +1,1616 @@
+{
+	"id": "2025_20057_3d86_html",
+	"school": "Ingegneria",
+	"year": 2025,
+	"phase": {
+		"raw": "Seconda Graduatoria Di Seconda Fase",
+		"stripped": "Seconda Graduatoria Di Seconda Fase",
+		"primary": 2,
+		"secondary": 2,
+		"language": "EN",
+		"isExtraEu": true
+	},
+	"courses": {
+		"INGEGNERIA CIVILE - CIVIL ENGINEERING": [
+			"MILANO LEONARDO"
+		]
+	},
+	"rows": [
+		{
+			"id": "25307cd17410c4d73762",
+			"birthDate": "28/09/2007",
+			"position": 1,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 85.65,
+			"sectionsResults": {
+				"Comprensione Verbale": 12.76,
+				"Fisica": 10,
+				"Matematica": 62.89
+			},
+			"ofa": {}
+		},
+		{
+			"id": "65a0a3f15df525b5c80e",
+			"birthDate": "07/02/2006",
+			"position": 2,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 2,
+					"canEnroll": true
+				}
+			],
+			"result": 85.65,
+			"sectionsResults": {
+				"Comprensione Verbale": 12.76,
+				"Fisica": 10,
+				"Matematica": 62.89
+			},
+			"ofa": {}
+		},
+		{
+			"id": "7ea3ca8156c61bb6f958",
+			"birthDate": "14/04/2004",
+			"position": 3,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 3,
+					"canEnroll": true
+				}
+			],
+			"result": 85.53,
+			"sectionsResults": {
+				"Comprensione Verbale": 10.53,
+				"Fisica": 10,
+				"Matematica": 65
+			},
+			"ofa": {}
+		},
+		{
+			"id": "c72c9196fec6eb64134e",
+			"birthDate": "23/09/2007",
+			"position": 4,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 4,
+					"canEnroll": true
+				}
+			],
+			"result": 85.4,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 10,
+				"Matematica": 60.4
+			},
+			"ofa": {}
+		},
+		{
+			"id": "576235135bb3f36d3f0b",
+			"birthDate": "27/02/2007",
+			"position": 5,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 5,
+					"canEnroll": true
+				}
+			],
+			"result": 85.4,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 10,
+				"Matematica": 60.4
+			},
+			"ofa": {}
+		},
+		{
+			"id": "b7086b8e6ec445a62451",
+			"birthDate": "01/12/2006",
+			"position": 6,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 6,
+					"canEnroll": true
+				}
+			],
+			"result": 85.4,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 10,
+				"Matematica": 60.4
+			},
+			"ofa": {}
+		},
+		{
+			"id": "f64c8506a4aaef6c0835",
+			"birthDate": "14/08/2006",
+			"position": 7,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 7,
+					"canEnroll": false
+				}
+			],
+			"result": 85.4,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 10,
+				"Matematica": 60.4
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ec5001f88d29d88810b9",
+			"birthDate": "22/03/2006",
+			"position": 8,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 8,
+					"canEnroll": false
+				}
+			],
+			"result": 85.4,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 10,
+				"Matematica": 60.4
+			},
+			"ofa": {}
+		},
+		{
+			"id": "e809a39a53f0ae0907f4",
+			"birthDate": "02/06/2004",
+			"position": 9,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 9,
+					"canEnroll": false
+				}
+			],
+			"result": 85.4,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 10,
+				"Matematica": 60.4
+			},
+			"ofa": {}
+		},
+		{
+			"id": "e7ba08697404ee85a9d4",
+			"birthDate": "24/08/2006",
+			"position": 10,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 10,
+					"canEnroll": false
+				}
+			],
+			"result": 83.89,
+			"sectionsResults": {
+				"Comprensione Verbale": 12.76,
+				"Fisica": 6.13,
+				"Matematica": 65
+			},
+			"ofa": {}
+		},
+		{
+			"id": "a791232d24b164ad9592",
+			"birthDate": "12/11/2007",
+			"position": 11,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 11,
+					"canEnroll": false
+				}
+			],
+			"result": 83.47,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 8.07,
+				"Matematica": 60.4
+			},
+			"ofa": {}
+		},
+		{
+			"id": "740c44c0a739311b5a77",
+			"birthDate": "10/01/2007",
+			"position": 12,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 12,
+					"canEnroll": false
+				}
+			],
+			"result": 83.47,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 8.07,
+				"Matematica": 60.4
+			},
+			"ofa": {}
+		},
+		{
+			"id": "910ec04616ae9589a681",
+			"birthDate": "28/11/2006",
+			"position": 13,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 13,
+					"canEnroll": false
+				}
+			],
+			"result": 83.47,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 8.07,
+				"Matematica": 60.4
+			},
+			"ofa": {}
+		},
+		{
+			"id": "7fe16bb8d5d0ea698c3d",
+			"birthDate": "04/01/2006",
+			"position": 14,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 14,
+					"canEnroll": false
+				}
+			],
+			"result": 83.47,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 8.07,
+				"Matematica": 60.4
+			},
+			"ofa": {}
+		},
+		{
+			"id": "3d8036cff946b2f27f90",
+			"birthDate": "13/11/2006",
+			"position": 15,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 15,
+					"canEnroll": false
+				}
+			],
+			"result": 83.29,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 10,
+				"Matematica": 58.29
+			},
+			"ofa": {}
+		},
+		{
+			"id": "0c6bc94430ed66cedcca",
+			"birthDate": "01/01/2006",
+			"position": 16,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 16,
+					"canEnroll": false
+				}
+			],
+			"result": 83.29,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 10,
+				"Matematica": 58.29
+			},
+			"ofa": {}
+		},
+		{
+			"id": "a8cb6c95941aeadda045",
+			"birthDate": "10/07/2005",
+			"position": 17,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 17,
+					"canEnroll": false
+				}
+			],
+			"result": 83.29,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 10,
+				"Matematica": 58.29
+			},
+			"ofa": {}
+		},
+		{
+			"id": "d345fe8550b41daaf9cd",
+			"birthDate": "10/01/2007",
+			"position": 18,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 18,
+					"canEnroll": false
+				}
+			],
+			"result": 83.16,
+			"sectionsResults": {
+				"Comprensione Verbale": 12.76,
+				"Fisica": 10,
+				"Matematica": 60.4
+			},
+			"ofa": {}
+		},
+		{
+			"id": "884467ca036915ac0b0b",
+			"birthDate": "10/10/2007",
+			"position": 19,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 19,
+					"canEnroll": false
+				}
+			],
+			"result": 82.52,
+			"sectionsResults": {
+				"Comprensione Verbale": 9.63,
+				"Fisica": 10,
+				"Matematica": 62.89
+			},
+			"ofa": {}
+		},
+		{
+			"id": "12ff5928cc39a8a15f36",
+			"birthDate": "16/06/2003",
+			"position": 20,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 20,
+					"canEnroll": false
+				}
+			],
+			"result": 81.61,
+			"sectionsResults": {
+				"Comprensione Verbale": 6.61,
+				"Fisica": 10,
+				"Matematica": 65
+			},
+			"ofa": {}
+		},
+		{
+			"id": "383bab443bddefd1632d",
+			"birthDate": "17/01/2007",
+			"position": 21,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 21,
+					"canEnroll": false
+				}
+			],
+			"result": 81.18,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 10,
+				"Matematica": 56.18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "b8535e273d86d4412b17",
+			"birthDate": "29/12/2006",
+			"position": 22,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 22,
+					"canEnroll": false
+				}
+			],
+			"result": 81.18,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 10,
+				"Matematica": 56.18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "efd45db17986a7675006",
+			"birthDate": "25/06/2005",
+			"position": 23,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 23,
+					"canEnroll": false
+				}
+			],
+			"result": 81.05,
+			"sectionsResults": {
+				"Comprensione Verbale": 12.76,
+				"Fisica": 10,
+				"Matematica": 58.29
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ce3547b09b36e1abd354",
+			"birthDate": "30/01/2007",
+			"position": 24,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 24,
+					"canEnroll": false
+				}
+			],
+			"result": 79.25,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 8.07,
+				"Matematica": 56.18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "92bb7378e6de2667ffd2",
+			"birthDate": "17/02/2007",
+			"position": 25,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 25,
+					"canEnroll": false
+				}
+			],
+			"result": 78.94,
+			"sectionsResults": {
+				"Comprensione Verbale": 12.76,
+				"Fisica": 10,
+				"Matematica": 56.18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "965d6b1f99c1fd6bf455",
+			"birthDate": "01/12/2006",
+			"position": 26,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 26,
+					"canEnroll": false
+				}
+			],
+			"result": 78.86,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 8.07,
+				"Matematica": 55.79
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ace8f398a2d47b5ce585",
+			"birthDate": "07/05/2007",
+			"position": 27,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 27,
+					"canEnroll": false
+				}
+			],
+			"result": 78.03,
+			"sectionsResults": {
+				"Comprensione Verbale": 4.96,
+				"Fisica": 8.07,
+				"Matematica": 65
+			},
+			"ofa": {}
+		},
+		{
+			"id": "f7dc8823f08182c2ab26",
+			"birthDate": "31/12/2003",
+			"position": 28,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 28,
+					"canEnroll": false
+				}
+			],
+			"result": 76.99,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 10,
+				"Matematica": 51.99
+			},
+			"ofa": {}
+		},
+		{
+			"id": "cb16391eb2d0f998788e",
+			"birthDate": "06/03/2006",
+			"position": 29,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 29,
+					"canEnroll": false
+				}
+			],
+			"result": 76.82,
+			"sectionsResults": {
+				"Comprensione Verbale": 12.76,
+				"Fisica": 10,
+				"Matematica": 54.06
+			},
+			"ofa": {}
+		},
+		{
+			"id": "38f9303af7f69afcc3f1",
+			"birthDate": "20/06/2006",
+			"position": 30,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 30,
+					"canEnroll": false
+				}
+			],
+			"result": 76.76,
+			"sectionsResults": {
+				"Comprensione Verbale": 10.97,
+				"Fisica": 10,
+				"Matematica": 55.79
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ec5e563d621bf5129557",
+			"birthDate": "24/09/2006",
+			"position": 31,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 31,
+					"canEnroll": false
+				}
+			],
+			"result": 76.44,
+			"sectionsResults": {
+				"Comprensione Verbale": 12.76,
+				"Fisica": 10,
+				"Matematica": 53.68
+			},
+			"ofa": {}
+		},
+		{
+			"id": "2940dbbbc9f3eeea2200",
+			"birthDate": "08/04/2007",
+			"position": 32,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 32,
+					"canEnroll": false
+				}
+			],
+			"result": 76.17,
+			"sectionsResults": {
+				"Comprensione Verbale": 12.76,
+				"Fisica": 6.13,
+				"Matematica": 57.28
+			},
+			"ofa": {}
+		},
+		{
+			"id": "4f642b47175e14068eca",
+			"birthDate": "09/08/2006",
+			"position": 33,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 33,
+					"canEnroll": false
+				}
+			],
+			"result": 74.78,
+			"sectionsResults": {
+				"Comprensione Verbale": 10.53,
+				"Fisica": 8.07,
+				"Matematica": 56.18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "93ba659f64866bd594ca",
+			"birthDate": "20/07/2007",
+			"position": 34,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 34,
+					"canEnroll": false
+				}
+			],
+			"result": 73.65,
+			"sectionsResults": {
+				"Comprensione Verbale": 10.97,
+				"Fisica": 10,
+				"Matematica": 52.68
+			},
+			"ofa": {}
+		},
+		{
+			"id": "faccd02a29afa017c480",
+			"birthDate": "27/05/2005",
+			"position": 35,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 35,
+					"canEnroll": false
+				}
+			],
+			"result": 73.44,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 2.26,
+				"Matematica": 56.18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "5778e0d544b124bcc28f",
+			"birthDate": "14/02/2007",
+			"position": 36,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 36,
+					"canEnroll": false
+				}
+			],
+			"result": 73.02,
+			"sectionsResults": {
+				"Comprensione Verbale": 10.53,
+				"Fisica": 10,
+				"Matematica": 52.49
+			},
+			"ofa": {}
+		},
+		{
+			"id": "a442ffc0977b1d4dc4b4",
+			"birthDate": "15/01/2006",
+			"position": 37,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 37,
+					"canEnroll": false
+				}
+			],
+			"result": 72.4,
+			"sectionsResults": {
+				"Comprensione Verbale": 12.76,
+				"Fisica": 8.07,
+				"Matematica": 51.57
+			},
+			"ofa": {}
+		},
+		{
+			"id": "1586fed6573a21e3ae47",
+			"birthDate": "14/05/2005",
+			"position": 38,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 38,
+					"canEnroll": false
+				}
+			],
+			"result": 71.97,
+			"sectionsResults": {
+				"Comprensione Verbale": 8.29,
+				"Fisica": 10,
+				"Matematica": 53.68
+			},
+			"ofa": {}
+		},
+		{
+			"id": "467bb42b0e831487f730",
+			"birthDate": "11/07/2005",
+			"position": 39,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 39,
+					"canEnroll": false
+				}
+			],
+			"result": 71.58,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 10,
+				"Matematica": 46.58
+			},
+			"ofa": {}
+		},
+		{
+			"id": "e0deaec2c4dbf0ee893c",
+			"birthDate": "10/10/2007",
+			"position": 40,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 40,
+					"canEnroll": false
+				}
+			],
+			"result": 69.06,
+			"sectionsResults": {
+				"Comprensione Verbale": 10.97,
+				"Fisica": 6.52,
+				"Matematica": 51.57
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ed5ac47baba9e6f1851e",
+			"birthDate": "13/02/2003",
+			"position": 41,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 41,
+					"canEnroll": false
+				}
+			],
+			"result": 67.89,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 4.58,
+				"Matematica": 48.31
+			},
+			"ofa": {}
+		},
+		{
+			"id": "8516c53e37ca06817ca3",
+			"birthDate": "25/02/2005",
+			"position": 42,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 42,
+					"canEnroll": false
+				}
+			],
+			"result": 67.35,
+			"sectionsResults": {
+				"Comprensione Verbale": 12.76,
+				"Fisica": 6.13,
+				"Matematica": 48.46
+			},
+			"ofa": {}
+		},
+		{
+			"id": "aa1c34f0bdb708721753",
+			"birthDate": "07/12/2006",
+			"position": 43,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 43,
+					"canEnroll": false
+				}
+			],
+			"result": 67.1,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 3.02,
+				"Matematica": 49.08
+			},
+			"ofa": {}
+		},
+		{
+			"id": "c00431f0a5a93c208a37",
+			"birthDate": "27/02/2007",
+			"position": 44,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 44,
+					"canEnroll": false
+				}
+			],
+			"result": 66.59,
+			"sectionsResults": {
+				"Comprensione Verbale": 4.96,
+				"Fisica": 10,
+				"Matematica": 51.63
+			},
+			"ofa": {}
+		},
+		{
+			"id": "775d0e509a9e877306c0",
+			"birthDate": "22/11/2003",
+			"position": 45,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 45,
+					"canEnroll": false
+				}
+			],
+			"result": 66.23,
+			"sectionsResults": {
+				"Comprensione Verbale": 12.76,
+				"Fisica": 10,
+				"Matematica": 43.47
+			},
+			"ofa": {}
+		},
+		{
+			"id": "3f9ac21230e71cdbe7c8",
+			"birthDate": "22/05/2007",
+			"position": 46,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 46,
+					"canEnroll": false
+				}
+			],
+			"result": 65.22,
+			"sectionsResults": {
+				"Comprensione Verbale": 15,
+				"Fisica": 8.07,
+				"Matematica": 42.15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ad10fa41b1c13d33688e",
+			"birthDate": "02/11/2005",
+			"position": 47,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 47,
+					"canEnroll": false
+				}
+			],
+			"result": 64.64,
+			"sectionsResults": {
+				"Comprensione Verbale": 5.29,
+				"Fisica": 3.17,
+				"Matematica": 56.18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "72d6283644e2d9dbb521",
+			"birthDate": "12/07/2006",
+			"position": 48,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 48,
+					"canEnroll": false
+				}
+			],
+			"result": 64.21,
+			"sectionsResults": {
+				"Comprensione Verbale": 1.65,
+				"Fisica": 8.07,
+				"Matematica": 54.49
+			},
+			"ofa": {}
+		},
+		{
+			"id": "f8f588fcafffa2348081",
+			"birthDate": "21/12/2004",
+			"position": 49,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 49,
+					"canEnroll": false
+				}
+			],
+			"result": 63.95,
+			"sectionsResults": {
+				"Comprensione Verbale": 8.74,
+				"Fisica": 6.9,
+				"Matematica": 48.31
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ae2335eac7d1a3f253df",
+			"birthDate": "05/04/2006",
+			"position": 50,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 50,
+					"canEnroll": false
+				}
+			],
+			"result": 62.1,
+			"sectionsResults": {
+				"Comprensione Verbale": 10.97,
+				"Fisica": 8.45,
+				"Matematica": 42.68
+			},
+			"ofa": {}
+		},
+		{
+			"id": "0c066bbe837b9cb49708",
+			"birthDate": "05/12/2006",
+			"position": 51,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 51,
+					"canEnroll": false
+				}
+			],
+			"result": 58.13,
+			"sectionsResults": {
+				"Comprensione Verbale": 12.76,
+				"Fisica": 4.58,
+				"Matematica": 40.79
+			},
+			"ofa": {}
+		},
+		{
+			"id": "52dd595defa7bf071cf1",
+			"birthDate": "06/02/2006",
+			"position": 52,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 52,
+					"canEnroll": false
+				}
+			],
+			"result": 54.37,
+			"sectionsResults": {
+				"Comprensione Verbale": 6.61,
+				"Fisica": 10,
+				"Matematica": 37.76
+			},
+			"ofa": {}
+		},
+		{
+			"id": "97045861e2872748fb84",
+			"birthDate": "17/08/2006",
+			"position": 53,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 53,
+					"canEnroll": false
+				}
+			],
+			"result": 53.97,
+			"sectionsResults": {
+				"Comprensione Verbale": 12.76,
+				"Fisica": 4.58,
+				"Matematica": 36.63
+			},
+			"ofa": {}
+		},
+		{
+			"id": "2ecbc8f0ecb7e357eb0e",
+			"birthDate": "25/02/2007",
+			"position": 54,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 54,
+					"canEnroll": false
+				}
+			],
+			"result": 53.88,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.64,
+				"Fisica": 10,
+				"Matematica": 40.24
+			},
+			"ofa": {}
+		},
+		{
+			"id": "55663198f5720ee316f6",
+			"birthDate": "01/01/2007",
+			"position": 55,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 55,
+					"canEnroll": false
+				}
+			],
+			"result": 53.48,
+			"sectionsResults": {
+				"Comprensione Verbale": 2.65,
+				"Fisica": 10,
+				"Matematica": 40.83
+			},
+			"ofa": {}
+		},
+		{
+			"id": "0ec69222874632977f1c",
+			"birthDate": "09/02/2007",
+			"position": 56,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 56,
+					"canEnroll": false
+				}
+			],
+			"result": 53.47,
+			"sectionsResults": {
+				"Comprensione Verbale": 10.53,
+				"Fisica": 10,
+				"Matematica": 32.94
+			},
+			"ofa": {}
+		},
+		{
+			"id": "248b3aa1faeaf8423b72",
+			"birthDate": "17/11/2006",
+			"position": 57,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 57,
+					"canEnroll": false
+				}
+			],
+			"result": 51.62,
+			"sectionsResults": {
+				"Comprensione Verbale": 7.6,
+				"Fisica": 2.26,
+				"Matematica": 41.76
+			},
+			"ofa": {}
+		},
+		{
+			"id": "298f745a756b9086baf6",
+			"birthDate": "15/01/2007",
+			"position": 58,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 58,
+					"canEnroll": false
+				}
+			],
+			"result": 51.09,
+			"sectionsResults": {
+				"Comprensione Verbale": 10.53,
+				"Fisica": 3.02,
+				"Matematica": 37.54
+			},
+			"ofa": {}
+		},
+		{
+			"id": "6dc117594301051fe125",
+			"birthDate": "19/11/2003",
+			"position": 59,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 59,
+					"canEnroll": false
+				}
+			],
+			"result": 50.89,
+			"sectionsResults": {
+				"Comprensione Verbale": 8.29,
+				"Fisica": 1.51,
+				"Matematica": 41.09
+			},
+			"ofa": {}
+		},
+		{
+			"id": "c4cd2b00d1665113bea3",
+			"birthDate": "20/10/2005",
+			"position": 60,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 60,
+					"canEnroll": false
+				}
+			],
+			"result": 50.68,
+			"sectionsResults": {
+				"Comprensione Verbale": 5.95,
+				"Fisica": 2.87,
+				"Matematica": 41.86
+			},
+			"ofa": {}
+		},
+		{
+			"id": "8e2380c636b399f32733",
+			"birthDate": "05/06/2001",
+			"position": 61,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 61,
+					"canEnroll": false
+				}
+			],
+			"result": 49.28,
+			"sectionsResults": {
+				"Comprensione Verbale": 12.76,
+				"Fisica": 2.26,
+				"Matematica": 34.26
+			},
+			"ofa": {}
+		},
+		{
+			"id": "3d1c8a2c98ada78cebd7",
+			"birthDate": "17/01/2006",
+			"position": 62,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 62,
+					"canEnroll": false
+				}
+			],
+			"result": 48.13,
+			"sectionsResults": {
+				"Comprensione Verbale": 8.29,
+				"Fisica": 4.2,
+				"Matematica": 35.64
+			},
+			"ofa": {}
+		},
+		{
+			"id": "79bd3b32833ca857176b",
+			"birthDate": "24/04/2007",
+			"position": 63,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 63,
+					"canEnroll": false
+				}
+			],
+			"result": 47.97,
+			"sectionsResults": {
+				"Comprensione Verbale": 2.65,
+				"Fisica": 2.26,
+				"Matematica": 43.06
+			},
+			"ofa": {}
+		},
+		{
+			"id": "afcae477d5f501c299e2",
+			"birthDate": "24/05/2007",
+			"position": 64,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 64,
+					"canEnroll": false
+				}
+			],
+			"result": 47.84,
+			"sectionsResults": {
+				"Comprensione Verbale": 4.96,
+				"Fisica": 4.2,
+				"Matematica": 38.68
+			},
+			"ofa": {}
+		},
+		{
+			"id": "90ba6a08e267394080a0",
+			"birthDate": "02/09/2007",
+			"position": 65,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 65,
+					"canEnroll": false
+				}
+			],
+			"result": 47.22,
+			"sectionsResults": {
+				"Comprensione Verbale": 4.96,
+				"Fisica": 2.87,
+				"Matematica": 39.39
+			},
+			"ofa": {}
+		},
+		{
+			"id": "282a1207f33a1fe58df1",
+			"birthDate": "03/08/2002",
+			"position": 66,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 66,
+					"canEnroll": false
+				}
+			],
+			"result": 46.96,
+			"sectionsResults": {
+				"Comprensione Verbale": 1.32,
+				"Fisica": 10,
+				"Matematica": 35.64
+			},
+			"ofa": {}
+		},
+		{
+			"id": "2fe83eea780bf7c8ffcc",
+			"birthDate": "28/10/1998",
+			"position": 67,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 67,
+					"canEnroll": false
+				}
+			],
+			"result": 45.75,
+			"sectionsResults": {
+				"Comprensione Verbale": 0.99,
+				"Fisica": 4.58,
+				"Matematica": 40.18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "532d7071d17319439a96",
+			"birthDate": "31/10/2005",
+			"position": 68,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 68,
+					"canEnroll": false
+				}
+			],
+			"result": 43.65,
+			"sectionsResults": {
+				"Comprensione Verbale": 0.66,
+				"Fisica": 2.41,
+				"Matematica": 40.58
+			},
+			"ofa": {}
+		},
+		{
+			"id": "3c2718bb77d7cda072b4",
+			"birthDate": "06/06/2007",
+			"position": 69,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 69,
+					"canEnroll": false
+				}
+			],
+			"result": 42.5,
+			"sectionsResults": {
+				"Comprensione Verbale": 8.29,
+				"Fisica": 6.13,
+				"Matematica": 28.08
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ed6243515eedfc18f173",
+			"birthDate": "24/07/2004",
+			"position": 70,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 70,
+					"canEnroll": false
+				}
+			],
+			"result": 40.66,
+			"sectionsResults": {
+				"Comprensione Verbale": 8.29,
+				"Fisica": 2.41,
+				"Matematica": 29.96
+			},
+			"ofa": {}
+		},
+		{
+			"id": "d521b0205ef9050ec68e",
+			"birthDate": "08/03/2006",
+			"position": 71,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 71,
+					"canEnroll": false
+				}
+			],
+			"result": 39.42,
+			"sectionsResults": {
+				"Comprensione Verbale": 8.29,
+				"Fisica": 1.51,
+				"Matematica": 29.62
+			},
+			"ofa": {}
+		},
+		{
+			"id": "99d51e04224acc139cbc",
+			"birthDate": "14/03/2007",
+			"position": 72,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 72,
+					"canEnroll": false
+				}
+			],
+			"result": 38.16,
+			"sectionsResults": {
+				"Comprensione Verbale": 5.62,
+				"Fisica": 1.06,
+				"Matematica": 31.48
+			},
+			"ofa": {}
+		},
+		{
+			"id": "dc5d29594f49ee421b83",
+			"birthDate": "14/12/2005",
+			"position": 73,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 73,
+					"canEnroll": false
+				}
+			],
+			"result": 37.47,
+			"sectionsResults": {
+				"Comprensione Verbale": 2.31,
+				"Fisica": 0.91,
+				"Matematica": 34.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "cbd61bed17567b78ab45",
+			"birthDate": "11/10/2005",
+			"position": 74,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 74,
+					"canEnroll": false
+				}
+			],
+			"result": 30.44,
+			"sectionsResults": {
+				"Comprensione Verbale": 8.29,
+				"Fisica": 4.2,
+				"Matematica": 17.95
+			},
+			"ofa": {}
+		},
+		{
+			"id": "0c484ef747fce5817de1",
+			"birthDate": "27/01/2007",
+			"position": 75,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 75,
+					"canEnroll": false
+				}
+			],
+			"result": 30.38,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.97,
+				"Fisica": 2.72,
+				"Matematica": 23.69
+			},
+			"ofa": {}
+		},
+		{
+			"id": "cb983f1bf25fbafa974e",
+			"birthDate": "05/02/2008",
+			"position": 76,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INGEGNERIA CIVILE - CIVIL ENGINEERING",
+					"location": "MILANO LEONARDO",
+					"position": 76,
+					"canEnroll": false
+				}
+			],
+			"result": 28.41,
+			"sectionsResults": {
+				"Comprensione Verbale": 8.29,
+				"Fisica": 6.13,
+				"Matematica": 13.99
+			},
+			"ofa": {}
+		}
+	]
+}

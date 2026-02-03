@@ -1443,6 +1443,19 @@
 				}
 			},
 			{
+				"id": "2025_20060_3950_html",
+				"school": "Architettura",
+				"year": 2025,
+				"phase": {
+					"raw": "Seconda Graduatoria",
+					"stripped": "Seconda Graduatoria",
+					"primary": 0,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
 				"id": "2025_20104_4570_html",
 				"school": "Architettura",
 				"year": 2025,
@@ -1452,6 +1465,32 @@
 					"primary": 0,
 					"secondary": 2,
 					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2025_20025_4890_html",
+				"school": "Architettura",
+				"year": 2025,
+				"phase": {
+					"raw": "Seconda Graduatoria",
+					"stripped": "Seconda Graduatoria",
+					"primary": 0,
+					"secondary": 2,
+					"language": "EN",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2025_20012_4ee8_html",
+				"school": "Architettura",
+				"year": 2025,
+				"phase": {
+					"raw": "Seconda Graduatoria",
+					"stripped": "Seconda Graduatoria",
+					"primary": 0,
+					"secondary": 2,
+					"language": "EN",
 					"isExtraEu": true
 				}
 			},
@@ -1549,6 +1588,19 @@
 				}
 			},
 			{
+				"id": "2025_20041_4e77_html",
+				"school": "Design",
+				"year": 2025,
+				"phase": {
+					"raw": "Terza Graduatoria",
+					"stripped": "Terza Graduatoria",
+					"primary": 0,
+					"secondary": 3,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
 				"id": "2025_20042_5960_html",
 				"school": "Design",
 				"year": 2025,
@@ -1616,6 +1668,19 @@
 				}
 			},
 			{
+				"id": "2025_20054_5fcd_html",
+				"school": "Ingegneria",
+				"year": 2025,
+				"phase": {
+					"raw": "Prima Graduatoria Di Seconda Fase",
+					"stripped": "Prima Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
 				"id": "2025_20019_4084_html",
 				"school": "Ingegneria",
 				"year": 2025,
@@ -1626,6 +1691,19 @@
 					"secondary": 1,
 					"language": "EN",
 					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2025_20056_35f7_html",
+				"school": "Ingegneria",
+				"year": 2025,
+				"phase": {
+					"raw": "Prima Graduatoria Di Seconda Fase",
+					"stripped": "Prima Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 1,
+					"language": "EN",
+					"isExtraEu": true
 				}
 			},
 			{
@@ -1652,6 +1730,19 @@
 					"secondary": 2,
 					"language": "EN",
 					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2025_20057_3d86_html",
+				"school": "Ingegneria",
+				"year": 2025,
+				"phase": {
+					"raw": "Seconda Graduatoria Di Seconda Fase",
+					"stripped": "Seconda Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 2,
+					"language": "EN",
+					"isExtraEu": true
 				}
 			},
 			{
