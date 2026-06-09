@@ -21,18 +21,20 @@ jobs:
           gh release download --repo "PoliNetworkOrg/rankings-backend-go" --clobber -p "*linux*" --dir ./backend
 
       - name: Make scripts executable
+        working-directory: ./backend
         run: |
-          cd ./backend
           chmod +x ./parser_linux_amd64 ./scraper_linux_amd64
 
       - name: Run scraper
+        working-directory: ./backend
         run: |
           ./scraper_linux_amd64 -d ../data
 
       - name: Run parser
+        working-directory: ./backend
         run: |
+          cd ./backend
           ./parser_linux_amd64 -d ../data
-          cd ..
 
       - name: Push generated files
         uses: EndBug/add-and-commit@v10 # You can change this to use a specific version.
