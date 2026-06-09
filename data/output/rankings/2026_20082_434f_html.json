@@ -1,0 +1,1607 @@
+{
+	"id": "2026_20082_434f_html",
+	"school": "Design",
+	"year": 2026,
+	"phase": {
+		"raw": "Prima Graduatoria",
+		"stripped": "Prima Graduatoria",
+		"primary": 0,
+		"secondary": 1,
+		"language": "EN",
+		"isExtraEu": false
+	},
+	"courses": {
+		"INTERACTION DESIGN": [
+			"LECCO"
+		]
+	},
+	"rows": [
+		{
+			"id": "5fc394683b0674acf4cc",
+			"birthDate": "30/06/2007",
+			"position": 1,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 61.88,
+			"sectionsResults": {
+				"Comprensione Verbale": 4.75,
+				"Cultura Generale": 12,
+				"Geometria e Rappresentazione": 11,
+				"Logica": 5,
+				"Storia del Design, Storia dell'Arte": 8.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "3836f165eaea73f9e266",
+			"birthDate": "08/04/1994",
+			"position": 2,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 2,
+					"canEnroll": true
+				}
+			],
+			"result": 61.88,
+			"sectionsResults": {
+				"Comprensione Verbale": 6,
+				"Cultura Generale": 14,
+				"Geometria e Rappresentazione": 9.5,
+				"Logica": 2.75,
+				"Storia del Design, Storia dell'Arte": 9
+			},
+			"ofa": {}
+		},
+		{
+			"id": "65f06656c750bf3bcd69",
+			"birthDate": "19/01/2007",
+			"position": 3,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 3,
+					"canEnroll": true
+				}
+			],
+			"result": 57.75,
+			"sectionsResults": {
+				"Comprensione Verbale": 6,
+				"Cultura Generale": 11.25,
+				"Geometria e Rappresentazione": 10,
+				"Logica": 5,
+				"Storia del Design, Storia dell'Arte": 6.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "943f6fc0363dc01bb732",
+			"birthDate": "01/07/2007",
+			"position": 4,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 4,
+					"canEnroll": true
+				}
+			],
+			"result": 56.63,
+			"sectionsResults": {
+				"Comprensione Verbale": 6,
+				"Cultura Generale": 14.5,
+				"Geometria e Rappresentazione": 11,
+				"Logica": 1.5,
+				"Storia del Design, Storia dell'Arte": 4.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "b20c89d916155ce05228",
+			"birthDate": "01/10/2004",
+			"position": 5,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 5,
+					"canEnroll": true
+				}
+			],
+			"result": 56.25,
+			"sectionsResults": {
+				"Comprensione Verbale": 6,
+				"Cultura Generale": 14.75,
+				"Geometria e Rappresentazione": 10,
+				"Logica": 5,
+				"Storia del Design, Storia dell'Arte": 1.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "03c70bd2867e7060b33a",
+			"birthDate": "29/04/2007",
+			"position": 6,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 6,
+					"canEnroll": true
+				}
+			],
+			"result": 56.25,
+			"sectionsResults": {
+				"Comprensione Verbale": 6,
+				"Cultura Generale": 13,
+				"Geometria e Rappresentazione": 9.75,
+				"Logica": 5,
+				"Storia del Design, Storia dell'Arte": 3.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ca2f850b08b4097cd84d",
+			"birthDate": "30/11/2006",
+			"position": 7,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 7,
+					"canEnroll": true
+				}
+			],
+			"result": 55.13,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.5,
+				"Cultura Generale": 14,
+				"Geometria e Rappresentazione": 10,
+				"Logica": 4.75,
+				"Storia del Design, Storia dell'Arte": 4.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "13e119a501447d3dc462",
+			"birthDate": "12/04/2005",
+			"position": 8,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 8,
+					"canEnroll": true
+				}
+			],
+			"result": 54.38,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.75,
+				"Cultura Generale": 14.25,
+				"Geometria e Rappresentazione": 6.25,
+				"Logica": 3.75,
+				"Storia del Design, Storia dell'Arte": 8.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "511c674c83e6500ebf8f",
+			"birthDate": "23/05/2006",
+			"position": 9,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 9,
+					"canEnroll": true
+				}
+			],
+			"result": 53.25,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.75,
+				"Cultura Generale": 11.25,
+				"Geometria e Rappresentazione": 9,
+				"Logica": 3.75,
+				"Storia del Design, Storia dell'Arte": 7.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "c688ab082587ddad5b99",
+			"birthDate": "18/11/2005",
+			"position": 10,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 10,
+					"canEnroll": true
+				}
+			],
+			"result": 53.25,
+			"sectionsResults": {
+				"Comprensione Verbale": 4.75,
+				"Cultura Generale": 14.75,
+				"Geometria e Rappresentazione": 7.5,
+				"Logica": 1,
+				"Storia del Design, Storia dell'Arte": 7.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "e462948be7781c4794c7",
+			"birthDate": "04/03/2003",
+			"position": 11,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 11,
+					"canEnroll": true
+				}
+			],
+			"result": 52.88,
+			"sectionsResults": {
+				"Comprensione Verbale": 6,
+				"Cultura Generale": 11.5,
+				"Geometria e Rappresentazione": 10,
+				"Logica": 2.75,
+				"Storia del Design, Storia dell'Arte": 5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "fc2e58b5ccea2e90b45c",
+			"birthDate": "26/07/2007",
+			"position": 12,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 12,
+					"canEnroll": true
+				}
+			],
+			"result": 52.5,
+			"sectionsResults": {
+				"Comprensione Verbale": 2.75,
+				"Cultura Generale": 14.75,
+				"Geometria e Rappresentazione": 8,
+				"Logica": 1.5,
+				"Storia del Design, Storia dell'Arte": 8
+			},
+			"ofa": {}
+		},
+		{
+			"id": "426d6746ff000cd3901a",
+			"birthDate": "21/11/2005",
+			"position": 13,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 13,
+					"canEnroll": true
+				}
+			],
+			"result": 51.38,
+			"sectionsResults": {
+				"Comprensione Verbale": 1.5,
+				"Cultura Generale": 13.75,
+				"Geometria e Rappresentazione": 7.5,
+				"Logica": 3,
+				"Storia del Design, Storia dell'Arte": 8.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "fc04cd20741714a74763",
+			"birthDate": "05/01/1993",
+			"position": 14,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 14,
+					"canEnroll": true
+				}
+			],
+			"result": 49.5,
+			"sectionsResults": {
+				"Comprensione Verbale": 2.25,
+				"Cultura Generale": 15.25,
+				"Geometria e Rappresentazione": 7.25,
+				"Logica": 2.5,
+				"Storia del Design, Storia dell'Arte": 5.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "406f4358b821c7a7b086",
+			"birthDate": "12/07/2007",
+			"position": 15,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 15,
+					"canEnroll": true
+				}
+			],
+			"result": 49.5,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.5,
+				"Cultura Generale": 16.25,
+				"Geometria e Rappresentazione": 7,
+				"Logica": 3.75,
+				"Storia del Design, Storia dell'Arte": 2.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "d1a0fe23a5ab394769fd",
+			"birthDate": "11/08/2007",
+			"position": 16,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 16,
+					"canEnroll": true
+				}
+			],
+			"result": 49.13,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.75,
+				"Cultura Generale": 14.75,
+				"Geometria e Rappresentazione": 5.75,
+				"Logica": 2.5,
+				"Storia del Design, Storia dell'Arte": 6
+			},
+			"ofa": {}
+		},
+		{
+			"id": "e6302175fbdf57ac61fc",
+			"birthDate": "26/12/2007",
+			"position": 17,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 17,
+					"canEnroll": true
+				}
+			],
+			"result": 48.38,
+			"sectionsResults": {
+				"Comprensione Verbale": 4,
+				"Cultura Generale": 9.25,
+				"Geometria e Rappresentazione": 10,
+				"Logica": 1.25,
+				"Storia del Design, Storia dell'Arte": 7.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "fd0d975075b9cc094627",
+			"birthDate": "05/08/2007",
+			"position": 18,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 18,
+					"canEnroll": true
+				}
+			],
+			"result": 48.38,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.5,
+				"Cultura Generale": 10.5,
+				"Geometria e Rappresentazione": 5,
+				"Logica": 4.75,
+				"Storia del Design, Storia dell'Arte": 8.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "322adce82041676739f2",
+			"birthDate": "01/03/2008",
+			"position": 19,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 19,
+					"canEnroll": true
+				}
+			],
+			"result": 47.25,
+			"sectionsResults": {
+				"Comprensione Verbale": 1.25,
+				"Cultura Generale": 12,
+				"Geometria e Rappresentazione": 8.5,
+				"Logica": 5,
+				"Storia del Design, Storia dell'Arte": 4.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "6e68b65eecb669033bbb",
+			"birthDate": "30/09/2006",
+			"position": 20,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 20,
+					"canEnroll": true
+				}
+			],
+			"result": 47.25,
+			"sectionsResults": {
+				"Comprensione Verbale": 4,
+				"Cultura Generale": 12.75,
+				"Geometria e Rappresentazione": 6.5,
+				"Logica": 1.5,
+				"Storia del Design, Storia dell'Arte": 6.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "307a901598e84e6515ce",
+			"birthDate": "03/10/2007",
+			"position": 21,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 21,
+					"canEnroll": true
+				}
+			],
+			"result": 46.5,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.75,
+				"Cultura Generale": 9.75,
+				"Geometria e Rappresentazione": 9,
+				"Logica": 4.75,
+				"Storia del Design, Storia dell'Arte": 3.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "cecb2fdf9865c1d93eb4",
+			"birthDate": "15/11/2006",
+			"position": 22,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 22,
+					"canEnroll": true
+				}
+			],
+			"result": 45.75,
+			"sectionsResults": {
+				"Comprensione Verbale": 4.75,
+				"Cultura Generale": 8.5,
+				"Geometria e Rappresentazione": 6.25,
+				"Logica": 4.75,
+				"Storia del Design, Storia dell'Arte": 6.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "a920e5c9773e05fea240",
+			"birthDate": "21/06/2007",
+			"position": 23,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 23,
+					"canEnroll": true
+				}
+			],
+			"result": 45.38,
+			"sectionsResults": {
+				"Comprensione Verbale": 6,
+				"Cultura Generale": 9.5,
+				"Geometria e Rappresentazione": 8.25,
+				"Logica": 3.75,
+				"Storia del Design, Storia dell'Arte": 2.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "edb1cd467eddc4fce962",
+			"birthDate": "24/11/2006",
+			"position": 24,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 24,
+					"canEnroll": true
+				}
+			],
+			"result": 45.38,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.5,
+				"Cultura Generale": 11.5,
+				"Geometria e Rappresentazione": 7.5,
+				"Logica": 3.5,
+				"Storia del Design, Storia dell'Arte": 4.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "1e27bcaebe1b7b9cd003",
+			"birthDate": "28/12/2006",
+			"position": 25,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 25,
+					"canEnroll": true
+				}
+			],
+			"result": 45.38,
+			"sectionsResults": {
+				"Comprensione Verbale": 6,
+				"Cultura Generale": 13,
+				"Geometria e Rappresentazione": 4.5,
+				"Logica": 2.25,
+				"Storia del Design, Storia dell'Arte": 4.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "5c68a0b9a1b2cb441fed",
+			"birthDate": "16/10/2006",
+			"position": 26,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 26,
+					"canEnroll": true
+				}
+			],
+			"result": 44.63,
+			"sectionsResults": {
+				"Comprensione Verbale": 2.5,
+				"Cultura Generale": 10.75,
+				"Geometria e Rappresentazione": 4.25,
+				"Logica": 2.75,
+				"Storia del Design, Storia dell'Arte": 9.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "e67f471a7669e642c2ac",
+			"birthDate": "06/08/2007",
+			"position": 27,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 27,
+					"canEnroll": true
+				}
+			],
+			"result": 44.25,
+			"sectionsResults": {
+				"Comprensione Verbale": 3,
+				"Cultura Generale": 13,
+				"Geometria e Rappresentazione": 11,
+				"Logica": 0.5,
+				"Storia del Design, Storia dell'Arte": 2
+			},
+			"ofa": {}
+		},
+		{
+			"id": "f82f3e8bd5647ab9a6a1",
+			"birthDate": "15/11/2006",
+			"position": 28,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 28,
+					"canEnroll": true
+				}
+			],
+			"result": 43.88,
+			"sectionsResults": {
+				"Comprensione Verbale": 2.5,
+				"Cultura Generale": 9.25,
+				"Geometria e Rappresentazione": 5.75,
+				"Logica": 2.25,
+				"Storia del Design, Storia dell'Arte": 9.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "36b468b7aa9b9ba29488",
+			"birthDate": "28/05/2006",
+			"position": 29,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 29,
+					"canEnroll": true
+				}
+			],
+			"result": 43.13,
+			"sectionsResults": {
+				"Comprensione Verbale": 2.5,
+				"Cultura Generale": 11,
+				"Geometria e Rappresentazione": 6.5,
+				"Logica": 2.5,
+				"Storia del Design, Storia dell'Arte": 6.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "b2e8eca3fa81aa3c4a1d",
+			"birthDate": "14/01/2007",
+			"position": 30,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 30,
+					"canEnroll": true
+				}
+			],
+			"result": 42.38,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.5,
+				"Cultura Generale": 9.5,
+				"Geometria e Rappresentazione": 6,
+				"Logica": 3.5,
+				"Storia del Design, Storia dell'Arte": 5.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "686647a6950777167ff3",
+			"birthDate": "15/12/2008",
+			"position": 31,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 31,
+					"canEnroll": true
+				}
+			],
+			"result": 42.38,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.5,
+				"Cultura Generale": 11.25,
+				"Geometria e Rappresentazione": 5.5,
+				"Logica": 4,
+				"Storia del Design, Storia dell'Arte": 4
+			},
+			"ofa": {}
+		},
+		{
+			"id": "826845d0b35865f0743d",
+			"birthDate": "15/07/2002",
+			"position": 32,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 32,
+					"canEnroll": true
+				}
+			],
+			"result": 42,
+			"sectionsResults": {
+				"Comprensione Verbale": 2.25,
+				"Cultura Generale": 14.25,
+				"Geometria e Rappresentazione": 7.5,
+				"Logica": 1.5,
+				"Storia del Design, Storia dell'Arte": 2.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "3ba27048e22eefd5433e",
+			"birthDate": "17/03/2005",
+			"position": 33,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 33,
+					"canEnroll": true
+				}
+			],
+			"result": 41.63,
+			"sectionsResults": {
+				"Comprensione Verbale": 2.25,
+				"Cultura Generale": 10.25,
+				"Geometria e Rappresentazione": 7,
+				"Logica": 6,
+				"Storia del Design, Storia dell'Arte": 2.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "4373540a04480dc2b276",
+			"birthDate": "27/10/2007",
+			"position": 34,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 34,
+					"canEnroll": true
+				}
+			],
+			"result": 40.88,
+			"sectionsResults": {
+				"Comprensione Verbale": 1.25,
+				"Cultura Generale": 9.75,
+				"Geometria e Rappresentazione": 9.75,
+				"Logica": 2.5,
+				"Storia del Design, Storia dell'Arte": 4
+			},
+			"ofa": {}
+		},
+		{
+			"id": "0cb68a3262e700df0613",
+			"birthDate": "28/03/2007",
+			"position": 35,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 35,
+					"canEnroll": true
+				}
+			],
+			"result": 40.88,
+			"sectionsResults": {
+				"Comprensione Verbale": 4,
+				"Cultura Generale": 9,
+				"Geometria e Rappresentazione": 7.5,
+				"Logica": 3.75,
+				"Storia del Design, Storia dell'Arte": 3
+			},
+			"ofa": {}
+		},
+		{
+			"id": "7d2c7a64734ac57be122",
+			"birthDate": "24/02/2008",
+			"position": 36,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 36,
+					"canEnroll": true
+				}
+			],
+			"result": 40.88,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.5,
+				"Cultura Generale": 9.25,
+				"Geometria e Rappresentazione": 6,
+				"Logica": 2.75,
+				"Storia del Design, Storia dell'Arte": 5.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "52b0900adf9efecbf4b2",
+			"birthDate": "07/09/2007",
+			"position": 37,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 37,
+					"canEnroll": true
+				}
+			],
+			"result": 40.5,
+			"sectionsResults": {
+				"Comprensione Verbale": 6,
+				"Cultura Generale": 11.5,
+				"Geometria e Rappresentazione": 3.75,
+				"Logica": 1,
+				"Storia del Design, Storia dell'Arte": 4.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "109af862f0f6ab8ba394",
+			"birthDate": "21/03/2007",
+			"position": 38,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 38,
+					"canEnroll": true
+				}
+			],
+			"result": 39.75,
+			"sectionsResults": {
+				"Comprensione Verbale": 2.25,
+				"Cultura Generale": 13,
+				"Geometria e Rappresentazione": 4.5,
+				"Logica": 2.25,
+				"Storia del Design, Storia dell'Arte": 4.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "2b9c0596cbd48146550f",
+			"birthDate": "09/07/2007",
+			"position": 39,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 39,
+					"canEnroll": true
+				}
+			],
+			"result": 39.75,
+			"sectionsResults": {
+				"Comprensione Verbale": 2.75,
+				"Cultura Generale": 12.25,
+				"Geometria e Rappresentazione": 3.25,
+				"Logica": 5,
+				"Storia del Design, Storia dell'Arte": 3.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "e35ca1c2aa1fe9276878",
+			"birthDate": "21/10/2006",
+			"position": 40,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 40,
+					"canEnroll": true
+				}
+			],
+			"result": 39.38,
+			"sectionsResults": {
+				"Comprensione Verbale": 1,
+				"Cultura Generale": 16.5,
+				"Geometria e Rappresentazione": 5.75,
+				"Logica": 2.75,
+				"Storia del Design, Storia dell'Arte": 0.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ed7a4b078061d8298c5d",
+			"birthDate": "07/06/2006",
+			"position": 41,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 41,
+					"canEnroll": false
+				}
+			],
+			"result": 38.25,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.75,
+				"Cultura Generale": 9.5,
+				"Geometria e Rappresentazione": 7.25,
+				"Logica": 2.5,
+				"Storia del Design, Storia dell'Arte": 2.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "fdbaa5ce58c6f0612865",
+			"birthDate": "31/03/2006",
+			"position": 42,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 42,
+					"canEnroll": false
+				}
+			],
+			"result": 38.25,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.75,
+				"Cultura Generale": 8.75,
+				"Geometria e Rappresentazione": 6.25,
+				"Logica": 2.75,
+				"Storia del Design, Storia dell'Arte": 4
+			},
+			"ofa": {}
+		},
+		{
+			"id": "7d292c8da31fa115491a",
+			"birthDate": "28/09/2007",
+			"position": 43,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 43,
+					"canEnroll": false
+				}
+			],
+			"result": 37.5,
+			"sectionsResults": {
+				"Comprensione Verbale": 1.5,
+				"Cultura Generale": 10.75,
+				"Geometria e Rappresentazione": 4,
+				"Logica": 5,
+				"Storia del Design, Storia dell'Arte": 3.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ee6e364748398caf097d",
+			"birthDate": "09/05/2002",
+			"position": 44,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 44,
+					"canEnroll": false
+				}
+			],
+			"result": 36.38,
+			"sectionsResults": {
+				"Comprensione Verbale": 6,
+				"Cultura Generale": 5.25,
+				"Geometria e Rappresentazione": 6,
+				"Logica": 2.25,
+				"Storia del Design, Storia dell'Arte": 4.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "97f7cd81744bff64a2d6",
+			"birthDate": "19/04/2007",
+			"position": 45,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 45,
+					"canEnroll": false
+				}
+			],
+			"result": 36.38,
+			"sectionsResults": {
+				"Comprensione Verbale": 0.5,
+				"Cultura Generale": 6.75,
+				"Geometria e Rappresentazione": 5.5,
+				"Logica": 4,
+				"Storia del Design, Storia dell'Arte": 7.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "3d404854dbf40a2b6397",
+			"birthDate": "30/09/2007",
+			"position": 46,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 46,
+					"canEnroll": false
+				}
+			],
+			"result": 36,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.5,
+				"Cultura Generale": 8,
+				"Geometria e Rappresentazione": 4,
+				"Logica": 3,
+				"Storia del Design, Storia dell'Arte": 5.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "2f4878c287560a1950e1",
+			"birthDate": "21/04/2007",
+			"position": 47,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 47,
+					"canEnroll": false
+				}
+			],
+			"result": 35.25,
+			"sectionsResults": {
+				"Comprensione Verbale": 2.5,
+				"Cultura Generale": 9.5,
+				"Geometria e Rappresentazione": 6,
+				"Logica": 1.5,
+				"Storia del Design, Storia dell'Arte": 4
+			},
+			"ofa": {}
+		},
+		{
+			"id": "443a71f9e3cccbb4eca0",
+			"birthDate": "21/03/2008",
+			"position": 48,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 48,
+					"canEnroll": false
+				}
+			],
+			"result": 34.5,
+			"sectionsResults": {
+				"Comprensione Verbale": 2.5,
+				"Cultura Generale": 7.25,
+				"Geometria e Rappresentazione": 4.75,
+				"Logica": 4.75,
+				"Storia del Design, Storia dell'Arte": 3.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "df77368a19be4da1855a",
+			"birthDate": "21/12/2003",
+			"position": 49,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 49,
+					"canEnroll": false
+				}
+			],
+			"result": 34.13,
+			"sectionsResults": {
+				"Comprensione Verbale": 1.75,
+				"Cultura Generale": 10.5,
+				"Geometria e Rappresentazione": 5.25,
+				"Logica": 1.5,
+				"Storia del Design, Storia dell'Arte": 3.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "53cfb35635f789dcbb05",
+			"birthDate": "11/08/2007",
+			"position": 50,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 50,
+					"canEnroll": false
+				}
+			],
+			"result": 34.13,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.5,
+				"Cultura Generale": 9.5,
+				"Geometria e Rappresentazione": 5,
+				"Logica": 3.75,
+				"Storia del Design, Storia dell'Arte": 1
+			},
+			"ofa": {}
+		},
+		{
+			"id": "bbbc419710b5cb207a5a",
+			"birthDate": "31/07/2005",
+			"position": 51,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 51,
+					"canEnroll": false
+				}
+			],
+			"result": 33.75,
+			"sectionsResults": {
+				"Comprensione Verbale": 1.5,
+				"Cultura Generale": 12.75,
+				"Geometria e Rappresentazione": 6.25,
+				"Logica": 2,
+				"Storia del Design, Storia dell'Arte": 0
+			},
+			"ofa": {}
+		},
+		{
+			"id": "860d70279a1733f58ec9",
+			"birthDate": "09/11/2006",
+			"position": 52,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 52,
+					"canEnroll": false
+				}
+			],
+			"result": 33.38,
+			"sectionsResults": {
+				"Comprensione Verbale": 1.75,
+				"Cultura Generale": 5.5,
+				"Geometria e Rappresentazione": 6.5,
+				"Logica": 3,
+				"Storia del Design, Storia dell'Arte": 5.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "2d3615fcff23f53c1fa1",
+			"birthDate": "02/03/2005",
+			"position": 53,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 53,
+					"canEnroll": false
+				}
+			],
+			"result": 33.38,
+			"sectionsResults": {
+				"Comprensione Verbale": 2.5,
+				"Cultura Generale": 9.25,
+				"Geometria e Rappresentazione": 5.25,
+				"Logica": 3.75,
+				"Storia del Design, Storia dell'Arte": 1.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "d9be48fad90e33585455",
+			"birthDate": "18/12/2005",
+			"position": 54,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 54,
+					"canEnroll": false
+				}
+			],
+			"result": 33,
+			"sectionsResults": {
+				"Comprensione Verbale": 0.5,
+				"Cultura Generale": 8.5,
+				"Geometria e Rappresentazione": 4.75,
+				"Logica": 3.75,
+				"Storia del Design, Storia dell'Arte": 4.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "6c2a77588a70035bcbe0",
+			"birthDate": "14/02/2006",
+			"position": 55,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 55,
+					"canEnroll": false
+				}
+			],
+			"result": 33,
+			"sectionsResults": {
+				"Comprensione Verbale": 2.75,
+				"Cultura Generale": 11,
+				"Geometria e Rappresentazione": 4.5,
+				"Logica": 1.5,
+				"Storia del Design, Storia dell'Arte": 2.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "1a4e18ab90d4f5285f9c",
+			"birthDate": "19/05/2006",
+			"position": 56,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 56,
+					"canEnroll": false
+				}
+			],
+			"result": 33,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.75,
+				"Cultura Generale": 9.5,
+				"Geometria e Rappresentazione": 2.75,
+				"Logica": 1.5,
+				"Storia del Design, Storia dell'Arte": 4.5
+			},
+			"ofa": {}
+		},
+		{
+			"id": "2aa32b7280ad9396685a",
+			"birthDate": "20/05/2006",
+			"position": 57,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 57,
+					"canEnroll": false
+				}
+			],
+			"result": 32.25,
+			"sectionsResults": {
+				"Comprensione Verbale": 4.75,
+				"Cultura Generale": 6,
+				"Geometria e Rappresentazione": 5.25,
+				"Logica": 2.75,
+				"Storia del Design, Storia dell'Arte": 2.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "59e890bd62e06886ef2d",
+			"birthDate": "04/07/2006",
+			"position": 58,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 58,
+					"canEnroll": false
+				}
+			],
+			"result": 31.13,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.75,
+				"Cultura Generale": 8.5,
+				"Geometria e Rappresentazione": 7.5,
+				"Logica": 0.25,
+				"Storia del Design, Storia dell'Arte": 0.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "39ce9061464388109960",
+			"birthDate": "10/07/2003",
+			"position": 59,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 59,
+					"canEnroll": false
+				}
+			],
+			"result": 30.75,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.75,
+				"Cultura Generale": 6.75,
+				"Geometria e Rappresentazione": 7.5,
+				"Logica": 2.25,
+				"Storia del Design, Storia dell'Arte": 0.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "76d068e3e93847a3cd81",
+			"birthDate": "15/11/2007",
+			"position": 60,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 60,
+					"canEnroll": false
+				}
+			],
+			"result": 30.38,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.5,
+				"Cultura Generale": 5,
+				"Geometria e Rappresentazione": 5.25,
+				"Logica": 2.5,
+				"Storia del Design, Storia dell'Arte": 4
+			},
+			"ofa": {}
+		},
+		{
+			"id": "dbbfd2cb8a405c01ab75",
+			"birthDate": "15/04/2003",
+			"position": 61,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 61,
+					"canEnroll": false
+				}
+			],
+			"result": 30.38,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.5,
+				"Cultura Generale": 10.25,
+				"Geometria e Rappresentazione": 3.25,
+				"Logica": 0.5,
+				"Storia del Design, Storia dell'Arte": 2.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "e06d235a4d99a8d5534f",
+			"birthDate": "15/10/2005",
+			"position": 62,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 62,
+					"canEnroll": false
+				}
+			],
+			"result": 30,
+			"sectionsResults": {
+				"Comprensione Verbale": 1.5,
+				"Cultura Generale": 7.5,
+				"Geometria e Rappresentazione": 3.25,
+				"Logica": 5,
+				"Storia del Design, Storia dell'Arte": 2.75
+			},
+			"ofa": {}
+		},
+		{
+			"id": "89cec293794bd55dae97",
+			"birthDate": "21/09/2007",
+			"position": 63,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 63,
+					"canEnroll": false
+				}
+			],
+			"result": 29.25,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.75,
+				"Cultura Generale": 5.75,
+				"Geometria e Rappresentazione": 5,
+				"Logica": 3.75,
+				"Storia del Design, Storia dell'Arte": 1.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "075e5dc192d6ca2ace25",
+			"birthDate": "12/10/2007",
+			"position": 64,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 64,
+					"canEnroll": false
+				}
+			],
+			"result": 28.88,
+			"sectionsResults": {
+				"Comprensione Verbale": 4.75,
+				"Cultura Generale": 4,
+				"Geometria e Rappresentazione": 3.5,
+				"Logica": 4,
+				"Storia del Design, Storia dell'Arte": 3
+			},
+			"ofa": {}
+		},
+		{
+			"id": "fbf62e12801656a282bf",
+			"birthDate": "16/10/2007",
+			"position": 65,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 65,
+					"canEnroll": false
+				}
+			],
+			"result": 28.5,
+			"sectionsResults": {
+				"Comprensione Verbale": 2.5,
+				"Cultura Generale": 5.25,
+				"Geometria e Rappresentazione": 4,
+				"Logica": 4,
+				"Storia del Design, Storia dell'Arte": 3.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "cfcf74bed8832d6080b5",
+			"birthDate": "30/06/2003",
+			"position": 66,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 66,
+					"canEnroll": false
+				}
+			],
+			"result": 28.13,
+			"sectionsResults": {
+				"Comprensione Verbale": 4.75,
+				"Cultura Generale": 6.25,
+				"Geometria e Rappresentazione": 3.5,
+				"Logica": 1,
+				"Storia del Design, Storia dell'Arte": 3.25
+			},
+			"ofa": {}
+		},
+		{
+			"id": "6873008f891a0b64d99d",
+			"birthDate": "15/04/2005",
+			"position": 67,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 67,
+					"canEnroll": false
+				}
+			],
+			"result": 27.75,
+			"sectionsResults": {
+				"Comprensione Verbale": 2,
+				"Cultura Generale": 8.5,
+				"Geometria e Rappresentazione": 2.25,
+				"Logica": 2.75,
+				"Storia del Design, Storia dell'Arte": 3
+			},
+			"ofa": {}
+		},
+		{
+			"id": "47a6135011b37179135f",
+			"birthDate": "01/06/2006",
+			"position": 68,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 68,
+					"canEnroll": false
+				}
+			],
+			"result": 27,
+			"sectionsResults": {
+				"Comprensione Verbale": 3,
+				"Cultura Generale": 5.25,
+				"Geometria e Rappresentazione": 6.25,
+				"Logica": 1.5,
+				"Storia del Design, Storia dell'Arte": 2
+			},
+			"ofa": {}
+		},
+		{
+			"id": "d5fc91293312360c4ed4",
+			"birthDate": "18/05/2005",
+			"position": 69,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "INTERACTION DESIGN",
+					"location": "LECCO",
+					"position": 69,
+					"canEnroll": false
+				}
+			],
+			"result": 27,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.5,
+				"Cultura Generale": 8.5,
+				"Geometria e Rappresentazione": 4.75,
+				"Logica": 0,
+				"Storia del Design, Storia dell'Arte": 1.25
+			},
+			"ofa": {}
+		}
+	]
+}

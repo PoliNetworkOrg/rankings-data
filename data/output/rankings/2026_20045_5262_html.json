@@ -1,0 +1,1061 @@
+{
+	"id": "2026_20045_5262_html",
+	"school": "Design",
+	"year": 2026,
+	"phase": {
+		"raw": "Prima Graduatoria",
+		"stripped": "Prima Graduatoria",
+		"primary": 0,
+		"secondary": 1,
+		"language": "IT",
+		"isExtraEu": true
+	},
+	"courses": {
+		"DESIGN DEGLI INTERNI": [
+			"MILANO BOVISA"
+		],
+		"DESIGN DEL PRODOTTO INDUSTRIALE": [
+			"MILANO BOVISA"
+		],
+		"DESIGN DELLA COMUNICAZIONE": [
+			"MILANO BOVISA"
+		],
+		"DESIGN DELLA MODA": [
+			"MILANO BOVISA"
+		]
+	},
+	"rows": [
+		{
+			"id": "055f1ca7d1a6de7fcc70",
+			"birthDate": "11/03/1999",
+			"position": 1,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 51.63,
+			"englishResult": 21,
+			"sectionsResults": {
+				"Comprensione Verbale": -0.25,
+				"Cultura Generale": 8,
+				"Geometria e Rappresentazione": 9.5,
+				"Inglese": 18.75,
+				"Logica": 3.5,
+				"Storia del Design, Storia dell'Arte": 9.5
+			},
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "e628278db2d993c7ddfb",
+			"birthDate": "09/03/2005",
+			"position": 2,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 51.63,
+			"englishResult": 12,
+			"sectionsResults": {
+				"Comprensione Verbale": 4,
+				"Cultura Generale": 17.25,
+				"Geometria e Rappresentazione": 5,
+				"Inglese": 7.5,
+				"Logica": 1.25,
+				"Storia del Design, Storia dell'Arte": 5.25
+			},
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "43bcac8fef4e24433cc8",
+			"birthDate": "23/10/2007",
+			"position": 3,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 2,
+					"canEnroll": true
+				}
+			],
+			"result": 44.42,
+			"englishResult": 28,
+			"sectionsResults": {
+				"Comprensione Verbale": 3.75,
+				"Cultura Generale": 9.75,
+				"Geometria e Rappresentazione": 1.25,
+				"Inglese": 27.5,
+				"Logica": 2.75,
+				"Storia del Design, Storia dell'Arte": 6
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "52e4db633773e734b566",
+			"birthDate": "29/06/2005",
+			"position": 4,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 3,
+					"canEnroll": true
+				}
+			],
+			"result": 43.33,
+			"englishResult": 27,
+			"sectionsResults": {
+				"Comprensione Verbale": 2,
+				"Cultura Generale": 8.25,
+				"Geometria e Rappresentazione": 6,
+				"Inglese": 26.5,
+				"Logica": 4,
+				"Storia del Design, Storia dell'Arte": 2.75
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "deb4fa67f961ca21bfef",
+			"birthDate": "29/04/2006",
+			"position": 5,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DELLA MODA",
+					"location": "MILANO BOVISA",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 39.83,
+			"englishResult": 26,
+			"sectionsResults": {
+				"Comprensione Verbale": -0.25,
+				"Cultura Generale": 5,
+				"Geometria e Rappresentazione": 5.75,
+				"Inglese": 25,
+				"Logica": 3.5,
+				"Storia del Design, Storia dell'Arte": 7
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "56376e8f2953b601c083",
+			"birthDate": "22/02/2008",
+			"position": 6,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 4,
+					"canEnroll": true
+				}
+			],
+			"result": 39.21,
+			"englishResult": 29,
+			"sectionsResults": {
+				"Comprensione Verbale": 2.5,
+				"Cultura Generale": 6.75,
+				"Geometria e Rappresentazione": 2.5,
+				"Inglese": 28.75,
+				"Logica": 2.75,
+				"Storia del Design, Storia dell'Arte": 5.25
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "489c31e261f8dfe64086",
+			"birthDate": "09/09/2006",
+			"position": 7,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DELLA MODA",
+					"location": "MILANO BOVISA",
+					"position": 2,
+					"canEnroll": true
+				}
+			],
+			"result": 38.38,
+			"englishResult": 27,
+			"sectionsResults": {
+				"Comprensione Verbale": -0.25,
+				"Cultura Generale": 7.25,
+				"Geometria e Rappresentazione": 7.5,
+				"Inglese": 26.25,
+				"Logica": 3.75,
+				"Storia del Design, Storia dell'Arte": 1.5
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "f515a0292344ba27b78a",
+			"birthDate": "16/08/2005",
+			"position": 8,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 38.04,
+			"englishResult": 28,
+			"sectionsResults": {
+				"Comprensione Verbale": 0,
+				"Cultura Generale": 4,
+				"Geometria e Rappresentazione": 7.5,
+				"Inglese": 27.5,
+				"Logica": 3.75,
+				"Storia del Design, Storia dell'Arte": 4
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "b0a93f19d1901e8b93de",
+			"birthDate": "11/07/2007",
+			"position": 9,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 5,
+					"canEnroll": true
+				}
+			],
+			"result": 37.88,
+			"englishResult": 24,
+			"sectionsResults": {
+				"Comprensione Verbale": 0,
+				"Cultura Generale": 3,
+				"Geometria e Rappresentazione": 8.5,
+				"Inglese": 22.5,
+				"Logica": 5,
+				"Storia del Design, Storia dell'Arte": 3.75
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "1969ddd59f9e7b016a46",
+			"birthDate": "05/09/2002",
+			"position": 10,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 6,
+					"canEnroll": true
+				}
+			],
+			"result": 37.83,
+			"englishResult": 23,
+			"sectionsResults": {
+				"Comprensione Verbale": 0,
+				"Cultura Generale": 7.5,
+				"Geometria e Rappresentazione": 5.75,
+				"Inglese": 21.25,
+				"Logica": 4.75,
+				"Storia del Design, Storia dell'Arte": 2.5
+			},
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "228b1ffe221585389b03",
+			"birthDate": "20/09/2006",
+			"position": 11,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DELLA MODA",
+					"location": "MILANO BOVISA",
+					"position": 3,
+					"canEnroll": true
+				}
+			],
+			"result": 37.63,
+			"englishResult": 27,
+			"sectionsResults": {
+				"Comprensione Verbale": 1.25,
+				"Cultura Generale": 5.25,
+				"Geometria e Rappresentazione": 4.5,
+				"Inglese": 26.25,
+				"Logica": 1.75,
+				"Storia del Design, Storia dell'Arte": 6.5
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "71c56fbb569ffbfb101a",
+			"birthDate": "05/03/2006",
+			"position": 12,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 7,
+					"canEnroll": true
+				}
+			],
+			"result": 36.29,
+			"englishResult": 22,
+			"sectionsResults": {
+				"Comprensione Verbale": -0.25,
+				"Cultura Generale": 4.75,
+				"Geometria e Rappresentazione": 4.25,
+				"Inglese": 20,
+				"Logica": 3,
+				"Storia del Design, Storia dell'Arte": 8
+			},
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "2adf994ed3cb442aa61d",
+			"birthDate": "24/03/2007",
+			"position": 13,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 8,
+					"canEnroll": true
+				}
+			],
+			"result": 36.04,
+			"englishResult": 25,
+			"sectionsResults": {
+				"Comprensione Verbale": -0.25,
+				"Cultura Generale": 2.75,
+				"Geometria e Rappresentazione": 6.25,
+				"Inglese": 23.75,
+				"Logica": 3.75,
+				"Storia del Design, Storia dell'Arte": 6.25
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "230af1fcfc6a26c8dba9",
+			"birthDate": "18/11/2006",
+			"position": 14,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 2,
+					"canEnroll": true
+				}
+			],
+			"result": 35.88,
+			"englishResult": 21,
+			"sectionsResults": {
+				"Comprensione Verbale": -0.25,
+				"Cultura Generale": 3.5,
+				"Geometria e Rappresentazione": 7,
+				"Inglese": 18.75,
+				"Logica": 1.25,
+				"Storia del Design, Storia dell'Arte": 8.25
+			},
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "94adb8370facd3bf965c",
+			"birthDate": "23/02/2007",
+			"position": 15,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 2,
+					"canEnroll": true
+				}
+			],
+			"result": 35.75,
+			"englishResult": 18,
+			"sectionsResults": {
+				"Comprensione Verbale": 1,
+				"Cultura Generale": 4,
+				"Geometria e Rappresentazione": 9.75,
+				"Inglese": 15,
+				"Logica": 2.75,
+				"Storia del Design, Storia dell'Arte": 3
+			},
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "524007f37a88233692f4",
+			"birthDate": "22/10/2006",
+			"position": 16,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 3,
+					"canEnroll": true
+				}
+			],
+			"result": 35.75,
+			"englishResult": 27,
+			"sectionsResults": {
+				"Comprensione Verbale": 1,
+				"Cultura Generale": 1.75,
+				"Geometria e Rappresentazione": 5.75,
+				"Inglese": 26.25,
+				"Logica": 4.75,
+				"Storia del Design, Storia dell'Arte": 4.75
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "28fd826dbd2f0af9739d",
+			"birthDate": "27/01/2007",
+			"position": 17,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DELLA MODA",
+					"location": "MILANO BOVISA",
+					"position": 4,
+					"canEnroll": true
+				}
+			],
+			"result": 35.17,
+			"englishResult": 22,
+			"sectionsResults": {
+				"Comprensione Verbale": 0,
+				"Cultura Generale": 8,
+				"Geometria e Rappresentazione": 7,
+				"Inglese": 20,
+				"Logica": 1.5,
+				"Storia del Design, Storia dell'Arte": 2.5
+			},
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "8b74a347506a834e8d05",
+			"birthDate": "10/06/2004",
+			"position": 18,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 9,
+					"canEnroll": true
+				}
+			],
+			"result": 34.71,
+			"englishResult": 11,
+			"sectionsResults": {
+				"Comprensione Verbale": -0.25,
+				"Cultura Generale": 6.75,
+				"Geometria e Rappresentazione": 5.75,
+				"Inglese": 6.25,
+				"Logica": 2.25,
+				"Storia del Design, Storia dell'Arte": 7.25
+			},
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "bedc019882384d4b81ab",
+			"birthDate": "07/09/2007",
+			"position": 19,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 4,
+					"canEnroll": true
+				}
+			],
+			"result": 34.54,
+			"englishResult": 25,
+			"sectionsResults": {
+				"Comprensione Verbale": 4.75,
+				"Cultura Generale": 4.25,
+				"Geometria e Rappresentazione": 3.25,
+				"Inglese": 23.75,
+				"Logica": 2.25,
+				"Storia del Design, Storia dell'Arte": 3.25
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "b3abc6921a62088d0569",
+			"birthDate": "28/06/1999",
+			"position": 20,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DELLA MODA",
+					"location": "MILANO BOVISA",
+					"position": 5,
+					"canEnroll": true
+				}
+			],
+			"result": 33.54,
+			"englishResult": 28,
+			"sectionsResults": {
+				"Comprensione Verbale": 2.25,
+				"Cultura Generale": 5,
+				"Geometria e Rappresentazione": -0.5,
+				"Inglese": 27.5,
+				"Logica": 1.25,
+				"Storia del Design, Storia dell'Arte": 8.25
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "700623010a88e28b69c5",
+			"birthDate": "17/08/2007",
+			"position": 21,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 10,
+					"canEnroll": true
+				}
+			],
+			"result": 33.5,
+			"englishResult": 27,
+			"sectionsResults": {
+				"Comprensione Verbale": -0.25,
+				"Cultura Generale": 6.75,
+				"Geometria e Rappresentazione": 7,
+				"Inglese": 26.25,
+				"Logica": 1,
+				"Storia del Design, Storia dell'Arte": 2
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "a3ab8d4818b9c7484b87",
+			"birthDate": "29/11/2006",
+			"position": 22,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 11,
+					"canEnroll": true
+				}
+			],
+			"result": 33.46,
+			"englishResult": 26,
+			"sectionsResults": {
+				"Comprensione Verbale": -0.25,
+				"Cultura Generale": 3,
+				"Geometria e Rappresentazione": 6.25,
+				"Inglese": 25,
+				"Logica": 1.5,
+				"Storia del Design, Storia dell'Arte": 6.25
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "fc039a7cb978b54aa638",
+			"birthDate": "26/07/2007",
+			"position": 23,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 3,
+					"canEnroll": true
+				}
+			],
+			"result": 32.67,
+			"englishResult": 25,
+			"sectionsResults": {
+				"Comprensione Verbale": -0.25,
+				"Cultura Generale": 4.25,
+				"Geometria e Rappresentazione": 4.5,
+				"Inglese": 23.75,
+				"Logica": 3.5,
+				"Storia del Design, Storia dell'Arte": 4.5
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "865d5fdfff5fbe8826f0",
+			"birthDate": "25/08/2008",
+			"position": 24,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 4,
+					"canEnroll": true
+				}
+			],
+			"result": 32.04,
+			"englishResult": 28,
+			"sectionsResults": {
+				"Comprensione Verbale": 1.5,
+				"Cultura Generale": 1,
+				"Geometria e Rappresentazione": 7.25,
+				"Inglese": 27.5,
+				"Logica": 3.5,
+				"Storia del Design, Storia dell'Arte": 2
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "1523bdfdff0b92085f04",
+			"birthDate": "15/04/2007",
+			"position": 25,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 5,
+					"canEnroll": true
+				},
+				{
+					"title": "DESIGN DELLA MODA",
+					"location": "MILANO BOVISA",
+					"position": 6,
+					"canEnroll": false
+				}
+			],
+			"result": 31.25,
+			"englishResult": 27,
+			"sectionsResults": {
+				"Comprensione Verbale": 2.25,
+				"Cultura Generale": 1.5,
+				"Geometria e Rappresentazione": 4.5,
+				"Inglese": 26.25,
+				"Logica": 3.5,
+				"Storia del Design, Storia dell'Arte": 3.25
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "7d64cd42603fb8685180",
+			"birthDate": "16/10/2004",
+			"position": 26,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 12,
+					"canEnroll": true
+				}
+			],
+			"result": 31.21,
+			"englishResult": 17,
+			"sectionsResults": {
+				"Comprensione Verbale": 0,
+				"Cultura Generale": 5.75,
+				"Geometria e Rappresentazione": 6,
+				"Inglese": 13.75,
+				"Logica": 4.75,
+				"Storia del Design, Storia dell'Arte": 1.25
+			},
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "995809e79a93b61f78df",
+			"birthDate": "06/04/2007",
+			"position": 27,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 13,
+					"canEnroll": true
+				},
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 6,
+					"canEnroll": false
+				},
+				{
+					"title": "DESIGN DELLA MODA",
+					"location": "MILANO BOVISA",
+					"position": 7,
+					"canEnroll": false
+				}
+			],
+			"result": 29.46,
+			"englishResult": 11,
+			"sectionsResults": {
+				"Comprensione Verbale": 1,
+				"Cultura Generale": 6,
+				"Geometria e Rappresentazione": 3.25,
+				"Inglese": 6.25,
+				"Logica": 3.5,
+				"Storia del Design, Storia dell'Arte": 4.5
+			},
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "c64433fee33270adc604",
+			"birthDate": "08/08/2007",
+			"position": 28,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 5,
+					"canEnroll": true
+				}
+			],
+			"result": 28.92,
+			"englishResult": 25,
+			"sectionsResults": {
+				"Comprensione Verbale": 1.75,
+				"Cultura Generale": 3.25,
+				"Geometria e Rappresentazione": 4.25,
+				"Inglese": 23.75,
+				"Logica": 2.75,
+				"Storia del Design, Storia dell'Arte": 2
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "7ae44ad258d3b4fd1852",
+			"birthDate": "01/05/2007",
+			"position": 29,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 14,
+					"canEnroll": true
+				},
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 7,
+					"canEnroll": false
+				}
+			],
+			"result": 28.88,
+			"englishResult": 24,
+			"sectionsResults": {
+				"Comprensione Verbale": 1.5,
+				"Cultura Generale": 5,
+				"Geometria e Rappresentazione": 4,
+				"Inglese": 22.5,
+				"Logica": 1.75,
+				"Storia del Design, Storia dell'Arte": 2
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "fdb34b8b8c425b1b44b7",
+			"birthDate": "30/06/2008",
+			"position": 30,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 15,
+					"canEnroll": true
+				},
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 8,
+					"canEnroll": false
+				}
+			],
+			"result": 28.67,
+			"englishResult": 28,
+			"sectionsResults": {
+				"Comprensione Verbale": -0.25,
+				"Cultura Generale": 0.25,
+				"Geometria e Rappresentazione": 7.5,
+				"Inglese": 27.5,
+				"Logica": 3.5,
+				"Storia del Design, Storia dell'Arte": 2
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "00aab54fc2ea681532a0",
+			"birthDate": "17/11/2006",
+			"position": 31,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 6,
+					"canEnroll": true
+				},
+				{
+					"title": "DESIGN DELLA MODA",
+					"location": "MILANO BOVISA",
+					"position": 8,
+					"canEnroll": false
+				}
+			],
+			"result": 27,
+			"englishResult": 15,
+			"sectionsResults": {
+				"Comprensione Verbale": 0,
+				"Cultura Generale": 1.75,
+				"Geometria e Rappresentazione": 8.25,
+				"Inglese": 11.25,
+				"Logica": 2.25,
+				"Storia del Design, Storia dell'Arte": 3.25
+			},
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "001df821ed905182a82b",
+			"birthDate": "25/01/2005",
+			"position": 32,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEGLI INTERNI",
+					"location": "MILANO BOVISA",
+					"position": 7,
+					"canEnroll": true
+				},
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 9,
+					"canEnroll": false
+				},
+				{
+					"title": "DESIGN DELLA MODA",
+					"location": "MILANO BOVISA",
+					"position": 9,
+					"canEnroll": false
+				}
+			],
+			"result": 26.04,
+			"englishResult": 19,
+			"sectionsResults": {
+				"Comprensione Verbale": 1,
+				"Cultura Generale": 2.75,
+				"Geometria e Rappresentazione": 8.25,
+				"Inglese": 16.25,
+				"Logica": 1,
+				"Storia del Design, Storia dell'Arte": 0.75
+			},
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "ccd519007760e1c55ede",
+			"birthDate": "06/06/2003",
+			"position": 33,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 16,
+					"canEnroll": true
+				},
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 10,
+					"canEnroll": false
+				},
+				{
+					"title": "DESIGN DELLA MODA",
+					"location": "MILANO BOVISA",
+					"position": 10,
+					"canEnroll": false
+				}
+			],
+			"result": 25.79,
+			"englishResult": 22,
+			"sectionsResults": {
+				"Comprensione Verbale": 0,
+				"Cultura Generale": 3.5,
+				"Geometria e Rappresentazione": 2,
+				"Inglese": 20,
+				"Logica": 2.5,
+				"Storia del Design, Storia dell'Arte": 4.75
+			},
+			"ofa": {
+				"ENG": true
+			}
+		},
+		{
+			"id": "c80a28b40c35292705a1",
+			"birthDate": "18/03/2007",
+			"position": 34,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 17,
+					"canEnroll": true
+				}
+			],
+			"result": 24.79,
+			"englishResult": 25,
+			"sectionsResults": {
+				"Comprensione Verbale": 1,
+				"Cultura Generale": 1.5,
+				"Geometria e Rappresentazione": 9.5,
+				"Inglese": 23.75,
+				"Logica": -0.25,
+				"Storia del Design, Storia dell'Arte": -0.5
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "eba3aef3d4bfe55f3912",
+			"birthDate": "01/02/1991",
+			"position": 35,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DEL PRODOTTO INDUSTRIALE",
+					"location": "MILANO BOVISA",
+					"position": 18,
+					"canEnroll": true
+				}
+			],
+			"result": 22.92,
+			"englishResult": 25,
+			"sectionsResults": {
+				"Comprensione Verbale": 0.75,
+				"Cultura Generale": 4.25,
+				"Geometria e Rappresentazione": 0.75,
+				"Inglese": 23.75,
+				"Logica": 2.5,
+				"Storia del Design, Storia dell'Arte": 1.75
+			},
+			"ofa": {
+				"ENG": false
+			}
+		},
+		{
+			"id": "01d9dafc547a31520f9c",
+			"birthDate": "16/02/1999",
+			"position": 36,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "DESIGN DELLA COMUNICAZIONE",
+					"location": "MILANO BOVISA",
+					"position": 11,
+					"canEnroll": false
+				}
+			],
+			"result": 22,
+			"englishResult": 21,
+			"sectionsResults": {
+				"Comprensione Verbale": 0,
+				"Cultura Generale": 6.5,
+				"Geometria e Rappresentazione": 1.75,
+				"Inglese": 18.75,
+				"Logica": 1.25,
+				"Storia del Design, Storia dell'Arte": 1
+			},
+			"ofa": {
+				"ENG": true
+			}
+		}
+	]
+}

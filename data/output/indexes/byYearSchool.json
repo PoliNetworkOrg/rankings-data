@@ -1917,5 +1917,61 @@
 				}
 			}
 		]
+	},
+	"2026": {
+		"Design": [
+			{
+				"id": "2026_20039_3d8a_html",
+				"school": "Design",
+				"year": 2026,
+				"phase": {
+					"raw": "Prima Graduatoria",
+					"stripped": "Prima Graduatoria",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2026_20045_5262_html",
+				"school": "Design",
+				"year": 2026,
+				"phase": {
+					"raw": "Prima Graduatoria",
+					"stripped": "Prima Graduatoria",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2026_20082_434f_html",
+				"school": "Design",
+				"year": 2026,
+				"phase": {
+					"raw": "Prima Graduatoria",
+					"stripped": "Prima Graduatoria",
+					"primary": 0,
+					"secondary": 1,
+					"language": "EN",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2026_20047_629b_html",
+				"school": "Design",
+				"year": 2026,
+				"phase": {
+					"raw": "Prima Graduatoria",
+					"stripped": "Prima Graduatoria",
+					"primary": 0,
+					"secondary": 1,
+					"language": "EN",
+					"isExtraEu": true
+				}
+			}
+		]
 	}
 }
