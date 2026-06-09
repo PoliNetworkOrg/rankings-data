@@ -33,7 +33,6 @@ jobs:
       - name: Run parser
         working-directory: ./backend
         run: |
-          cd ./backend
           ./parser_linux_amd64 -d ../data
 
       - name: Push generated files
