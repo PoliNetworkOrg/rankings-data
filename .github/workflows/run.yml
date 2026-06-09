@@ -1,0 +1,43 @@
+name: run
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: "0 16 * 6-9 *"
+
+jobs:
+  run:
+    name: Run backend
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout current repository
+        uses: actions/checkout@v6
+
+      - name: Download latest backend release assets
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OWNER: ${{ github.repository_owner }}
+          REPO: "rankings-backend-go"
+        run: |
+          gh release download --repo "PoliNetworkOrg/rankings-backend-go" --clobber -p "*linux*" --dir ./backend
+
+      - name: Make scripts executable
+        run: |
+          cd ./backend
+          chmod +x ./parser_linux_amd64 ./scraper_linux_amd64
+
+      - name: Run scraper
+        run: |
+          ./scraper_linux_amd64 -d ../data
+
+      - name: Run parser
+        run: |
+          ./parser_linux_amd64 -d ../data
+          cd ..
+
+      - name: Push generated files
+        uses: EndBug/add-and-commit@v10 # You can change this to use a specific version.
+        with:
+          add: "data"
+          message: "[auto] update data"
+          default_author: github_actions
+          pathspec_error_handling: exitImmediately
