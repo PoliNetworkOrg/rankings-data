@@ -1971,6 +1971,58 @@
 					"language": "EN",
 					"isExtraEu": true
 				}
+			},
+			{
+				"id": "2026_20040_608d_html",
+				"school": "Design",
+				"year": 2026,
+				"phase": {
+					"raw": "Seconda Graduatoria",
+					"stripped": "Seconda Graduatoria",
+					"primary": 0,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2026_20046_5342_html",
+				"school": "Design",
+				"year": 2026,
+				"phase": {
+					"raw": "Seconda Graduatoria",
+					"stripped": "Seconda Graduatoria",
+					"primary": 0,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2026_20083_4ab7_html",
+				"school": "Design",
+				"year": 2026,
+				"phase": {
+					"raw": "Seconda Graduatoria",
+					"stripped": "Seconda Graduatoria",
+					"primary": 0,
+					"secondary": 2,
+					"language": "EN",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2026_20048_2b82_html",
+				"school": "Design",
+				"year": 2026,
+				"phase": {
+					"raw": "Seconda Graduatoria",
+					"stripped": "Seconda Graduatoria",
+					"primary": 0,
+					"secondary": 2,
+					"language": "EN",
+					"isExtraEu": true
+				}
 			}
 		]
 	}

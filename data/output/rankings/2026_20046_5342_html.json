@@ -1,0 +1,47 @@
+{
+	"id": "2026_20046_5342_html",
+	"school": "Design",
+	"year": 2026,
+	"phase": {
+		"raw": "Seconda Graduatoria",
+		"stripped": "Seconda Graduatoria",
+		"primary": 0,
+		"secondary": 2,
+		"language": "IT",
+		"isExtraEu": true
+	},
+	"courses": {
+		"DESIGN DELLA MODA": [
+			"MILANO BOVISA"
+		]
+	},
+	"rows": [
+		{
+			"id": "ccd519007760e1c55ede",
+			"birthDate": "06/06/2003",
+			"position": 1,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "DESIGN DELLA MODA",
+					"location": "MILANO BOVISA",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 25.79,
+			"englishResult": 22,
+			"sectionsResults": {
+				"Comprensione Verbale": 0,
+				"Cultura Generale": 3.5,
+				"Geometria e Rappresentazione": 2,
+				"Inglese": 20,
+				"Logica": 2.5,
+				"Storia del Design, Storia dell'Arte": 4.75
+			},
+			"ofa": {
+				"ENG": true
+			}
+		}
+	]
+}
