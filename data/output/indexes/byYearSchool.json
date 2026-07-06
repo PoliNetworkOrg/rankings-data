@@ -2168,6 +2168,19 @@
 					"language": "IT",
 					"isExtraEu": false
 				}
+			},
+			{
+				"id": "2026_20031_2ee3_html",
+				"school": "Ingegneria",
+				"year": 2026,
+				"phase": {
+					"raw": "Terza Graduatoria Di Seconda Fase",
+					"stripped": "Terza Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 3,
+					"language": "IT",
+					"isExtraEu": true
+				}
 			}
 		]
 	}
