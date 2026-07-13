@@ -1,0 +1,3317 @@
+{
+	"id": "2026_20006_4e54_html",
+	"school": "Urbanistica",
+	"year": 2026,
+	"phase": {
+		"raw": "Prima Graduatoria Di Prima Fase",
+		"stripped": "Prima Graduatoria Di Prima Fase",
+		"primary": 1,
+		"secondary": 1,
+		"language": "IT",
+		"isExtraEu": false
+	},
+	"courses": {
+		"URBANISTICA: CITTA' AMBIENTE PAESAGGIO": [
+			"MILANO LEONARDO"
+		]
+	},
+	"rows": [
+		{
+			"id": "2578c35590dad16526a0",
+			"birthDate": "25/01/2007",
+			"position": 1,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 97,
+			"sectionsResults": {
+				"Colloquio": 49,
+				"Elaborato": 29,
+				"Lettera Motivazionale": 19
+			},
+			"ofa": {}
+		},
+		{
+			"id": "1d57eea1b238c72548a0",
+			"birthDate": "23/12/2007",
+			"position": 2,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 2,
+					"canEnroll": true
+				}
+			],
+			"result": 96,
+			"sectionsResults": {
+				"Colloquio": 47,
+				"Elaborato": 30,
+				"Lettera Motivazionale": 19
+			},
+			"ofa": {}
+		},
+		{
+			"id": "3605d0a53d58096bbf83",
+			"birthDate": "28/12/2007",
+			"position": 3,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 3,
+					"canEnroll": true
+				}
+			],
+			"result": 94,
+			"sectionsResults": {
+				"Colloquio": 47,
+				"Elaborato": 28,
+				"Lettera Motivazionale": 19
+			},
+			"ofa": {}
+		},
+		{
+			"id": "f55a1bf4cbafccb96cb8",
+			"birthDate": "28/12/2007",
+			"position": 4,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 4,
+					"canEnroll": true
+				}
+			],
+			"result": 93,
+			"sectionsResults": {
+				"Colloquio": 49,
+				"Elaborato": 26,
+				"Lettera Motivazionale": 18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "f22719a7b4069e543302",
+			"birthDate": "26/12/2007",
+			"position": 5,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 5,
+					"canEnroll": true
+				}
+			],
+			"result": 91,
+			"sectionsResults": {
+				"Colloquio": 50,
+				"Elaborato": 26,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "b03cf53e673a72b67ba1",
+			"birthDate": "11/11/2007",
+			"position": 6,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 6,
+					"canEnroll": true
+				}
+			],
+			"result": 91,
+			"sectionsResults": {
+				"Colloquio": 50,
+				"Elaborato": 24,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "d50778884f80efed6f23",
+			"birthDate": "29/01/2007",
+			"position": 7,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 7,
+					"canEnroll": true
+				}
+			],
+			"result": 91,
+			"sectionsResults": {
+				"Colloquio": 48,
+				"Elaborato": 25,
+				"Lettera Motivazionale": 18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "7dea49f7db63b3479f1a",
+			"birthDate": "04/09/2007",
+			"position": 8,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 8,
+					"canEnroll": true
+				}
+			],
+			"result": 90,
+			"sectionsResults": {
+				"Colloquio": 50,
+				"Elaborato": 26,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "5fe076f7d9039af15b9b",
+			"birthDate": "23/01/2007",
+			"position": 9,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 9,
+					"canEnroll": true
+				}
+			],
+			"result": 90,
+			"sectionsResults": {
+				"Colloquio": 49,
+				"Elaborato": 25,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "77422c22d01cec5f0a02",
+			"birthDate": "17/04/2007",
+			"position": 10,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 10,
+					"canEnroll": true
+				}
+			],
+			"result": 90,
+			"sectionsResults": {
+				"Colloquio": 49,
+				"Elaborato": 24,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "6af6f7adec36aa99ab15",
+			"birthDate": "16/01/2008",
+			"position": 11,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 11,
+					"canEnroll": true
+				}
+			],
+			"result": 90,
+			"sectionsResults": {
+				"Colloquio": 48,
+				"Elaborato": 25,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "257d9928101852bfbf6c",
+			"birthDate": "14/08/2007",
+			"position": 12,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 12,
+					"canEnroll": true
+				}
+			],
+			"result": 90,
+			"sectionsResults": {
+				"Colloquio": 44,
+				"Elaborato": 26,
+				"Lettera Motivazionale": 20
+			},
+			"ofa": {}
+		},
+		{
+			"id": "3921f2fa28d58d078296",
+			"birthDate": "14/12/2006",
+			"position": 13,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 13,
+					"canEnroll": true
+				}
+			],
+			"result": 88,
+			"sectionsResults": {
+				"Colloquio": 47,
+				"Elaborato": 25,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "d2a2973b0111f8164dbc",
+			"birthDate": "28/03/2007",
+			"position": 14,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 14,
+					"canEnroll": true
+				}
+			],
+			"result": 87,
+			"sectionsResults": {
+				"Colloquio": 46,
+				"Elaborato": 25,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "9ebd31208763481ff666",
+			"birthDate": "10/09/1999",
+			"position": 15,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 15,
+					"canEnroll": true
+				}
+			],
+			"result": 87,
+			"sectionsResults": {
+				"Colloquio": 46,
+				"Elaborato": 24,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "4526c82274daeb233e4a",
+			"birthDate": "17/04/2007",
+			"position": 16,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 16,
+					"canEnroll": true
+				}
+			],
+			"result": 87,
+			"sectionsResults": {
+				"Colloquio": 45,
+				"Elaborato": 26,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ad0fb25b1305ec8034e8",
+			"birthDate": "05/05/2007",
+			"position": 17,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 17,
+					"canEnroll": true
+				}
+			],
+			"result": 87,
+			"sectionsResults": {
+				"Colloquio": 45,
+				"Elaborato": 24,
+				"Lettera Motivazionale": 18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "531a32b68abacca53f09",
+			"birthDate": "05/03/2007",
+			"position": 18,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 18,
+					"canEnroll": true
+				}
+			],
+			"result": 86,
+			"sectionsResults": {
+				"Colloquio": 46,
+				"Elaborato": 25,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "d5705633f84f9cd935ae",
+			"birthDate": "21/03/2006",
+			"position": 19,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 19,
+					"canEnroll": true
+				}
+			],
+			"result": 86,
+			"sectionsResults": {
+				"Colloquio": 45,
+				"Elaborato": 23,
+				"Lettera Motivazionale": 18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "f7b6cc76fe0d99b349b1",
+			"birthDate": "03/06/2007",
+			"position": 20,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 20,
+					"canEnroll": true
+				}
+			],
+			"result": 86,
+			"sectionsResults": {
+				"Colloquio": 43,
+				"Elaborato": 27,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "749f54c93d7fff279ae9",
+			"birthDate": "09/07/2007",
+			"position": 21,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 21,
+					"canEnroll": true
+				}
+			],
+			"result": 86,
+			"sectionsResults": {
+				"Colloquio": 43,
+				"Elaborato": 25,
+				"Lettera Motivazionale": 18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "3011ab5af028999fae71",
+			"birthDate": "30/03/2007",
+			"position": 22,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 22,
+					"canEnroll": true
+				}
+			],
+			"result": 86,
+			"sectionsResults": {
+				"Colloquio": 40,
+				"Elaborato": 29,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "266d0ca35623afe07780",
+			"birthDate": "08/02/2007",
+			"position": 23,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 23,
+					"canEnroll": true
+				}
+			],
+			"result": 84,
+			"sectionsResults": {
+				"Colloquio": 46,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "43bc29eafe57330010e6",
+			"birthDate": "21/02/2008",
+			"position": 24,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 24,
+					"canEnroll": true
+				}
+			],
+			"result": 84,
+			"sectionsResults": {
+				"Colloquio": 45,
+				"Elaborato": 23,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "a1a1b91f7a644db574d5",
+			"birthDate": "05/12/2006",
+			"position": 25,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 25,
+					"canEnroll": true
+				}
+			],
+			"result": 84,
+			"sectionsResults": {
+				"Colloquio": 44,
+				"Elaborato": 23,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "5da8b6278a19b8446325",
+			"birthDate": "28/07/2006",
+			"position": 26,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 26,
+					"canEnroll": true
+				}
+			],
+			"result": 84,
+			"sectionsResults": {
+				"Colloquio": 44,
+				"Elaborato": 22,
+				"Lettera Motivazionale": 18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "d1fe194cd99691cceebd",
+			"birthDate": "02/04/1996",
+			"position": 27,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 27,
+					"canEnroll": true
+				}
+			],
+			"result": 84,
+			"sectionsResults": {
+				"Colloquio": 42,
+				"Elaborato": 24,
+				"Lettera Motivazionale": 18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "2552d7a1ef2ab41d026c",
+			"birthDate": "09/11/2005",
+			"position": 28,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 28,
+					"canEnroll": true
+				}
+			],
+			"result": 83,
+			"sectionsResults": {
+				"Colloquio": 45,
+				"Elaborato": 23,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "a5b9380d736c7f378dd6",
+			"birthDate": "02/09/2007",
+			"position": 29,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 29,
+					"canEnroll": true
+				}
+			],
+			"result": 83,
+			"sectionsResults": {
+				"Colloquio": 40,
+				"Elaborato": 25,
+				"Lettera Motivazionale": 18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "1276c0a6fc93046b1e55",
+			"birthDate": "11/06/2006",
+			"position": 30,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 30,
+					"canEnroll": true
+				}
+			],
+			"result": 82,
+			"sectionsResults": {
+				"Colloquio": 45,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "15499e28607db7c3bc11",
+			"birthDate": "11/05/2007",
+			"position": 31,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 31,
+					"canEnroll": true
+				}
+			],
+			"result": 82,
+			"sectionsResults": {
+				"Colloquio": 43,
+				"Elaborato": 25,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "6b6827c6ca873009a208",
+			"birthDate": "03/04/2007",
+			"position": 32,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 32,
+					"canEnroll": true
+				}
+			],
+			"result": 82,
+			"sectionsResults": {
+				"Colloquio": 43,
+				"Elaborato": 23,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "174446bc7b5400b31bb9",
+			"birthDate": "09/11/2007",
+			"position": 33,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 33,
+					"canEnroll": true
+				}
+			],
+			"result": 82,
+			"sectionsResults": {
+				"Colloquio": 42,
+				"Elaborato": 24,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "73ff6f4ec20d9575d8f1",
+			"birthDate": "25/11/2007",
+			"position": 34,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 34,
+					"canEnroll": true
+				}
+			],
+			"result": 82,
+			"sectionsResults": {
+				"Colloquio": 39,
+				"Elaborato": 25,
+				"Lettera Motivazionale": 18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "c5195645f18878f42954",
+			"birthDate": "18/07/2007",
+			"position": 35,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 35,
+					"canEnroll": true
+				}
+			],
+			"result": 82,
+			"sectionsResults": {
+				"Colloquio": 39,
+				"Elaborato": 25,
+				"Lettera Motivazionale": 18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "6f7d0c72d3dc09f46278",
+			"birthDate": "03/07/2005",
+			"position": 36,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 36,
+					"canEnroll": true
+				}
+			],
+			"result": 81,
+			"sectionsResults": {
+				"Colloquio": 44,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "a037c08ef9f1f6929b62",
+			"birthDate": "16/03/2007",
+			"position": 37,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 37,
+					"canEnroll": true
+				}
+			],
+			"result": 81,
+			"sectionsResults": {
+				"Colloquio": 41,
+				"Elaborato": 23,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "4197841ca71e4d2a5472",
+			"birthDate": "23/10/1993",
+			"position": 38,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 38,
+					"canEnroll": true
+				}
+			],
+			"result": 81,
+			"sectionsResults": {
+				"Colloquio": 40,
+				"Elaborato": 22,
+				"Lettera Motivazionale": 19
+			},
+			"ofa": {}
+		},
+		{
+			"id": "9ea2fd2b2aceb011fa57",
+			"birthDate": "20/03/2007",
+			"position": 39,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 39,
+					"canEnroll": true
+				}
+			],
+			"result": 80,
+			"sectionsResults": {
+				"Colloquio": 43,
+				"Elaborato": 22,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "dfd1d675e5b4a70eae29",
+			"birthDate": "10/02/2007",
+			"position": 40,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 40,
+					"canEnroll": true
+				}
+			],
+			"result": 80,
+			"sectionsResults": {
+				"Colloquio": 43,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "5240366dfab486713720",
+			"birthDate": "02/08/2007",
+			"position": 41,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 41,
+					"canEnroll": true
+				}
+			],
+			"result": 80,
+			"sectionsResults": {
+				"Colloquio": 43,
+				"Elaborato": 19,
+				"Lettera Motivazionale": 18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "11166739d08c4ad857f2",
+			"birthDate": "19/10/2003",
+			"position": 42,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 42,
+					"canEnroll": true
+				}
+			],
+			"result": 80,
+			"sectionsResults": {
+				"Colloquio": 43,
+				"Elaborato": 19,
+				"Lettera Motivazionale": 18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "5380b50230b8cc4d8f0a",
+			"birthDate": "01/06/2007",
+			"position": 43,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 43,
+					"canEnroll": true
+				}
+			],
+			"result": 80,
+			"sectionsResults": {
+				"Colloquio": 42,
+				"Elaborato": 24,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "fc369114582155324eef",
+			"birthDate": "16/02/2007",
+			"position": 44,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 44,
+					"canEnroll": true
+				}
+			],
+			"result": 80,
+			"sectionsResults": {
+				"Colloquio": 42,
+				"Elaborato": 24,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "aa12e4f436e1aae5fd3e",
+			"birthDate": "04/05/2007",
+			"position": 45,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 45,
+					"canEnroll": true
+				}
+			],
+			"result": 80,
+			"sectionsResults": {
+				"Colloquio": 42,
+				"Elaborato": 22,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "7c20312f3b0b78042fa3",
+			"birthDate": "10/04/2007",
+			"position": 46,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 46,
+					"canEnroll": true
+				}
+			],
+			"result": 80,
+			"sectionsResults": {
+				"Colloquio": 41,
+				"Elaborato": 24,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "31bc87a42aac78f94725",
+			"birthDate": "19/11/2007",
+			"position": 47,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 47,
+					"canEnroll": true
+				}
+			],
+			"result": 80,
+			"sectionsResults": {
+				"Colloquio": 41,
+				"Elaborato": 23,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "2403bd654687c056ce8a",
+			"birthDate": "04/04/2002",
+			"position": 48,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 48,
+					"canEnroll": true
+				}
+			],
+			"result": 80,
+			"sectionsResults": {
+				"Colloquio": 41,
+				"Elaborato": 22,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "36f4cf3d0ffca88efd11",
+			"birthDate": "27/08/2005",
+			"position": 49,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 49,
+					"canEnroll": true
+				}
+			],
+			"result": 80,
+			"sectionsResults": {
+				"Colloquio": 40,
+				"Elaborato": 24,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "2f42d4c35a33f2dad369",
+			"birthDate": "01/12/2004",
+			"position": 50,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 50,
+					"canEnroll": true
+				}
+			],
+			"result": 80,
+			"sectionsResults": {
+				"Colloquio": 38,
+				"Elaborato": 25,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "70b003cfa80947f757d5",
+			"birthDate": "15/06/2007",
+			"position": 51,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 51,
+					"canEnroll": true
+				}
+			],
+			"result": 79,
+			"sectionsResults": {
+				"Colloquio": 42,
+				"Elaborato": 22,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "f987dd87add55effa993",
+			"birthDate": "22/08/2006",
+			"position": 52,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 52,
+					"canEnroll": true
+				}
+			],
+			"result": 79,
+			"sectionsResults": {
+				"Colloquio": 41,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "a4f8abdfe70e667318fa",
+			"birthDate": "25/05/2007",
+			"position": 53,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 53,
+					"canEnroll": true
+				}
+			],
+			"result": 79,
+			"sectionsResults": {
+				"Colloquio": 37,
+				"Elaborato": 24,
+				"Lettera Motivazionale": 18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "aff1234fbed5fc150a20",
+			"birthDate": "25/10/2006",
+			"position": 54,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 54,
+					"canEnroll": true
+				}
+			],
+			"result": 78,
+			"sectionsResults": {
+				"Colloquio": 42,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "13fac9910603ffccd6ab",
+			"birthDate": "06/02/2007",
+			"position": 55,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 55,
+					"canEnroll": true
+				}
+			],
+			"result": 78,
+			"sectionsResults": {
+				"Colloquio": 41,
+				"Elaborato": 22,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "79609839bb27e78adc1d",
+			"birthDate": "02/11/2006",
+			"position": 56,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 56,
+					"canEnroll": true
+				}
+			],
+			"result": 78,
+			"sectionsResults": {
+				"Colloquio": 41,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "dc79bdda7463bfb4a361",
+			"birthDate": "10/05/2007",
+			"position": 57,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 57,
+					"canEnroll": true
+				}
+			],
+			"result": 78,
+			"sectionsResults": {
+				"Colloquio": 39,
+				"Elaborato": 23,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "1e967570d96bb65fb532",
+			"birthDate": "01/04/2007",
+			"position": 58,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 58,
+					"canEnroll": true
+				}
+			],
+			"result": 78,
+			"sectionsResults": {
+				"Colloquio": 36,
+				"Elaborato": 26,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "175fb23fcf5598ccd1d8",
+			"birthDate": "04/09/2007",
+			"position": 59,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 59,
+					"canEnroll": true
+				}
+			],
+			"result": 77,
+			"sectionsResults": {
+				"Colloquio": 42,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "d5e687d2d075b3df20f2",
+			"birthDate": "16/03/2007",
+			"position": 60,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 60,
+					"canEnroll": true
+				}
+			],
+			"result": 77,
+			"sectionsResults": {
+				"Colloquio": 40,
+				"Elaborato": 22,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "6af73af2a11bdc06f0d0",
+			"birthDate": "23/09/2007",
+			"position": 61,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 61,
+					"canEnroll": true
+				}
+			],
+			"result": 77,
+			"sectionsResults": {
+				"Colloquio": 40,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "a3dbd41ec662173894f5",
+			"birthDate": "07/03/2007",
+			"position": 62,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 62,
+					"canEnroll": true
+				}
+			],
+			"result": 77,
+			"sectionsResults": {
+				"Colloquio": 40,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "4523dbd2c5e27f76f6b3",
+			"birthDate": "17/07/1998",
+			"position": 63,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 63,
+					"canEnroll": true
+				}
+			],
+			"result": 77,
+			"sectionsResults": {
+				"Colloquio": 38,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "23c682c91aa0853e545a",
+			"birthDate": "23/03/2006",
+			"position": 64,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 64,
+					"canEnroll": true
+				}
+			],
+			"result": 77,
+			"sectionsResults": {
+				"Colloquio": 37,
+				"Elaborato": 24,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "7214b13c936908c094a9",
+			"birthDate": "20/07/2007",
+			"position": 65,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 65,
+					"canEnroll": true
+				}
+			],
+			"result": 77,
+			"sectionsResults": {
+				"Colloquio": 35,
+				"Elaborato": 25,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "e7de41dc9e4ece38f11c",
+			"birthDate": "05/08/2007",
+			"position": 66,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 66,
+					"canEnroll": true
+				}
+			],
+			"result": 76,
+			"sectionsResults": {
+				"Colloquio": 43,
+				"Elaborato": 17,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "a28abd57ec81a9b93bfb",
+			"birthDate": "10/08/2007",
+			"position": 67,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 67,
+					"canEnroll": true
+				}
+			],
+			"result": 76,
+			"sectionsResults": {
+				"Colloquio": 40,
+				"Elaborato": 22,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "1c6bd5b9cb4e87124279",
+			"birthDate": "12/04/2007",
+			"position": 68,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 68,
+					"canEnroll": true
+				}
+			],
+			"result": 76,
+			"sectionsResults": {
+				"Colloquio": 40,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "da4978fd7c3122ff1dc8",
+			"birthDate": "30/05/2006",
+			"position": 69,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 69,
+					"canEnroll": true
+				}
+			],
+			"result": 76,
+			"sectionsResults": {
+				"Colloquio": 39,
+				"Elaborato": 22,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "59a3c4162274bebffe39",
+			"birthDate": "28/09/2007",
+			"position": 70,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 70,
+					"canEnroll": true
+				}
+			],
+			"result": 76,
+			"sectionsResults": {
+				"Colloquio": 39,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "b84ed6c50bbfdac5629d",
+			"birthDate": "29/05/2007",
+			"position": 71,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 71,
+					"canEnroll": true
+				}
+			],
+			"result": 76,
+			"sectionsResults": {
+				"Colloquio": 39,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "b4d5585840c8daaca80c",
+			"birthDate": "31/10/2006",
+			"position": 72,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 72,
+					"canEnroll": true
+				}
+			],
+			"result": 76,
+			"sectionsResults": {
+				"Colloquio": 39,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "a6b8e7836c91708c827f",
+			"birthDate": "06/07/2006",
+			"position": 73,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 73,
+					"canEnroll": true
+				}
+			],
+			"result": 76,
+			"sectionsResults": {
+				"Colloquio": 39,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "d8ec7a9ae0ec2414b528",
+			"birthDate": "20/10/2007",
+			"position": 74,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 74,
+					"canEnroll": true
+				}
+			],
+			"result": 76,
+			"sectionsResults": {
+				"Colloquio": 38,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "627f29990f1aafcc0dcb",
+			"birthDate": "25/07/2007",
+			"position": 75,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 75,
+					"canEnroll": true
+				}
+			],
+			"result": 76,
+			"sectionsResults": {
+				"Colloquio": 37,
+				"Elaborato": 22,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "e1a63e4746661516c0f5",
+			"birthDate": "31/10/2006",
+			"position": 76,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 76,
+					"canEnroll": true
+				}
+			],
+			"result": 76,
+			"sectionsResults": {
+				"Colloquio": 35,
+				"Elaborato": 24,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "4c1771a5b7686585cf7e",
+			"birthDate": "29/11/2007",
+			"position": 77,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 77,
+					"canEnroll": true
+				}
+			],
+			"result": 76,
+			"sectionsResults": {
+				"Colloquio": 32,
+				"Elaborato": 27,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "47db4d202cba431a9a18",
+			"birthDate": "24/01/2007",
+			"position": 78,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 78,
+					"canEnroll": true
+				}
+			],
+			"result": 75,
+			"sectionsResults": {
+				"Colloquio": 40,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "9131336af2dd95cfb568",
+			"birthDate": "14/03/1997",
+			"position": 79,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 79,
+					"canEnroll": true
+				}
+			],
+			"result": 75,
+			"sectionsResults": {
+				"Colloquio": 40,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "5d20b1a400035b49f1f9",
+			"birthDate": "03/07/2005",
+			"position": 80,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 80,
+					"canEnroll": true
+				}
+			],
+			"result": 75,
+			"sectionsResults": {
+				"Colloquio": 39,
+				"Elaborato": 22,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "581acc329f7b15ad0655",
+			"birthDate": "26/03/2007",
+			"position": 81,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 81,
+					"canEnroll": true
+				}
+			],
+			"result": 75,
+			"sectionsResults": {
+				"Colloquio": 39,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "8bb2ec55e278edb6ac90",
+			"birthDate": "01/11/2007",
+			"position": 82,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 82,
+					"canEnroll": true
+				}
+			],
+			"result": 75,
+			"sectionsResults": {
+				"Colloquio": 38,
+				"Elaborato": 22,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "009b06c74dec4066d5f6",
+			"birthDate": "28/02/2007",
+			"position": 83,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 83,
+					"canEnroll": true
+				}
+			],
+			"result": 75,
+			"sectionsResults": {
+				"Colloquio": 37,
+				"Elaborato": 23,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "b835f2333de1c1aad257",
+			"birthDate": "31/05/2007",
+			"position": 84,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 84,
+					"canEnroll": true
+				}
+			],
+			"result": 74,
+			"sectionsResults": {
+				"Colloquio": 45,
+				"Elaborato": 16,
+				"Lettera Motivazionale": 13
+			},
+			"ofa": {}
+		},
+		{
+			"id": "4010c2574b13aa8b1508",
+			"birthDate": "10/02/2006",
+			"position": 85,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 85,
+					"canEnroll": true
+				}
+			],
+			"result": 74,
+			"sectionsResults": {
+				"Colloquio": 40,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "e43d024ac01391c6f362",
+			"birthDate": "31/07/2007",
+			"position": 86,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 86,
+					"canEnroll": true
+				}
+			],
+			"result": 74,
+			"sectionsResults": {
+				"Colloquio": 38,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "5de969aceea2c1d69e3c",
+			"birthDate": "23/03/2008",
+			"position": 87,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 87,
+					"canEnroll": true
+				}
+			],
+			"result": 74,
+			"sectionsResults": {
+				"Colloquio": 38,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "1088a04d221fdfc6ab66",
+			"birthDate": "10/06/2007",
+			"position": 88,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 88,
+					"canEnroll": true
+				}
+			],
+			"result": 74,
+			"sectionsResults": {
+				"Colloquio": 35,
+				"Elaborato": 24,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "4586375b204bd0861082",
+			"birthDate": "11/08/2006",
+			"position": 89,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 89,
+					"canEnroll": true
+				}
+			],
+			"result": 73,
+			"sectionsResults": {
+				"Colloquio": 37,
+				"Elaborato": 22,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "1da2b86e9a1e98380770",
+			"birthDate": "19/03/2006",
+			"position": 90,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 90,
+					"canEnroll": true
+				}
+			],
+			"result": 73,
+			"sectionsResults": {
+				"Colloquio": 36,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "a3331343215cd2596340",
+			"birthDate": "07/03/2005",
+			"position": 91,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 91,
+					"canEnroll": true
+				}
+			],
+			"result": 73,
+			"sectionsResults": {
+				"Colloquio": 36,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "6c3acb260f748b1aaa37",
+			"birthDate": "04/02/2006",
+			"position": 92,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 92,
+					"canEnroll": true
+				}
+			],
+			"result": 73,
+			"sectionsResults": {
+				"Colloquio": 35,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "5fdcd6843606da1b259c",
+			"birthDate": "06/08/2007",
+			"position": 93,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 93,
+					"canEnroll": true
+				}
+			],
+			"result": 73,
+			"sectionsResults": {
+				"Colloquio": 32,
+				"Elaborato": 24,
+				"Lettera Motivazionale": 17
+			},
+			"ofa": {}
+		},
+		{
+			"id": "78de1d848b41bd991048",
+			"birthDate": "22/01/2007",
+			"position": 94,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 94,
+					"canEnroll": true
+				}
+			],
+			"result": 73,
+			"sectionsResults": {
+				"Colloquio": 32,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 20
+			},
+			"ofa": {}
+		},
+		{
+			"id": "85eda1e838abce32c931",
+			"birthDate": "24/11/2007",
+			"position": 95,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 95,
+					"canEnroll": true
+				}
+			],
+			"result": 72,
+			"sectionsResults": {
+				"Colloquio": 38,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "a094b0ba0e4e1d0d93ff",
+			"birthDate": "17/06/2007",
+			"position": 96,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 96,
+					"canEnroll": true
+				}
+			],
+			"result": 72,
+			"sectionsResults": {
+				"Colloquio": 38,
+				"Elaborato": 19,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "0a875f857d2d8a9eacf5",
+			"birthDate": "10/10/2007",
+			"position": 97,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 97,
+					"canEnroll": true
+				}
+			],
+			"result": 72,
+			"sectionsResults": {
+				"Colloquio": 36,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "65f2fa09df787b687df5",
+			"birthDate": "23/11/2006",
+			"position": 98,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 98,
+					"canEnroll": true
+				}
+			],
+			"result": 72,
+			"sectionsResults": {
+				"Colloquio": 36,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "2d337e54da2b1037cc06",
+			"birthDate": "04/10/2007",
+			"position": 99,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 99,
+					"canEnroll": true
+				}
+			],
+			"result": 72,
+			"sectionsResults": {
+				"Colloquio": 29,
+				"Elaborato": 25,
+				"Lettera Motivazionale": 18
+			},
+			"ofa": {}
+		},
+		{
+			"id": "c576f589f6b143bc184a",
+			"birthDate": "23/01/2007",
+			"position": 100,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 100,
+					"canEnroll": true
+				}
+			],
+			"result": 71,
+			"sectionsResults": {
+				"Colloquio": 38,
+				"Elaborato": 18,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "1e90e10728a5e02661c5",
+			"birthDate": "09/11/2007",
+			"position": 101,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 101,
+					"canEnroll": true
+				}
+			],
+			"result": 70,
+			"sectionsResults": {
+				"Colloquio": 40,
+				"Elaborato": 17,
+				"Lettera Motivazionale": 13
+			},
+			"ofa": {}
+		},
+		{
+			"id": "9924e116c7cc1ca61a1f",
+			"birthDate": "11/08/2006",
+			"position": 102,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 102,
+					"canEnroll": true
+				}
+			],
+			"result": 70,
+			"sectionsResults": {
+				"Colloquio": 40,
+				"Elaborato": 15,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "1eb280f626eebee0d170",
+			"birthDate": "05/06/2007",
+			"position": 103,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 103,
+					"canEnroll": true
+				}
+			],
+			"result": 70,
+			"sectionsResults": {
+				"Colloquio": 37,
+				"Elaborato": 19,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "31b7e51610a0728d2d48",
+			"birthDate": "21/05/2007",
+			"position": 104,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 104,
+					"canEnroll": true
+				}
+			],
+			"result": 70,
+			"sectionsResults": {
+				"Colloquio": 36,
+				"Elaborato": 19,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "bcfac04faf20e7997b42",
+			"birthDate": "19/11/2007",
+			"position": 105,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 105,
+					"canEnroll": true
+				}
+			],
+			"result": 70,
+			"sectionsResults": {
+				"Colloquio": 35,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "7fe6fd76595424101b8f",
+			"birthDate": "09/05/2007",
+			"position": 106,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 106,
+					"canEnroll": true
+				}
+			],
+			"result": 70,
+			"sectionsResults": {
+				"Colloquio": 33,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ff232cb4f8b5ee9eb1f3",
+			"birthDate": "18/09/2007",
+			"position": 107,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 107,
+					"canEnroll": true
+				}
+			],
+			"result": 70,
+			"sectionsResults": {
+				"Colloquio": 31,
+				"Elaborato": 24,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "a3ebb10ff135e1e9d0d9",
+			"birthDate": "08/05/2007",
+			"position": 108,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 108,
+					"canEnroll": true
+				}
+			],
+			"result": 69,
+			"sectionsResults": {
+				"Colloquio": 36,
+				"Elaborato": 18,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "cf177ccf5c8a86a0db74",
+			"birthDate": "29/08/2007",
+			"position": 109,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 109,
+					"canEnroll": true
+				}
+			],
+			"result": 69,
+			"sectionsResults": {
+				"Colloquio": 35,
+				"Elaborato": 18,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "fba483f49b7adeb4f62b",
+			"birthDate": "07/04/2007",
+			"position": 110,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 110,
+					"canEnroll": true
+				}
+			],
+			"result": 68,
+			"sectionsResults": {
+				"Colloquio": 36,
+				"Elaborato": 18,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "f7a8abb6143849cbade5",
+			"birthDate": "08/01/2007",
+			"position": 111,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 111,
+					"canEnroll": true
+				}
+			],
+			"result": 68,
+			"sectionsResults": {
+				"Colloquio": 34,
+				"Elaborato": 22,
+				"Lettera Motivazionale": 12
+			},
+			"ofa": {}
+		},
+		{
+			"id": "9dbba6657c9917bcba29",
+			"birthDate": "28/11/2007",
+			"position": 112,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 112,
+					"canEnroll": true
+				}
+			],
+			"result": 68,
+			"sectionsResults": {
+				"Colloquio": 33,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "e88cf86945f9a7e1b3c2",
+			"birthDate": "16/03/2007",
+			"position": 113,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 113,
+					"canEnroll": true
+				}
+			],
+			"result": 68,
+			"sectionsResults": {
+				"Colloquio": 32,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "d6a684126b8f14d86ea4",
+			"birthDate": "14/02/2007",
+			"position": 114,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 114,
+					"canEnroll": true
+				}
+			],
+			"result": 67,
+			"sectionsResults": {
+				"Colloquio": 40,
+				"Elaborato": 15,
+				"Lettera Motivazionale": 12
+			},
+			"ofa": {}
+		},
+		{
+			"id": "14839e67d0c097a5a1dd",
+			"birthDate": "10/06/2007",
+			"position": 115,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 115,
+					"canEnroll": true
+				}
+			],
+			"result": 67,
+			"sectionsResults": {
+				"Colloquio": 34,
+				"Elaborato": 19,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ebc171129f78c66c9ed2",
+			"birthDate": "07/08/2005",
+			"position": 116,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 116,
+					"canEnroll": true
+				}
+			],
+			"result": 67,
+			"sectionsResults": {
+				"Colloquio": 33,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 13
+			},
+			"ofa": {}
+		},
+		{
+			"id": "b409325b84780655a556",
+			"birthDate": "20/03/2007",
+			"position": 117,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 117,
+					"canEnroll": true
+				}
+			],
+			"result": 67,
+			"sectionsResults": {
+				"Colloquio": 33,
+				"Elaborato": 19,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "0a1df09cf8501d0f5ebf",
+			"birthDate": "20/07/2000",
+			"position": 118,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 118,
+					"canEnroll": true
+				}
+			],
+			"result": 66,
+			"sectionsResults": {
+				"Colloquio": 39,
+				"Elaborato": 16,
+				"Lettera Motivazionale": 11
+			},
+			"ofa": {}
+		},
+		{
+			"id": "e5d1036b274d045d370e",
+			"birthDate": "22/01/2008",
+			"position": 119,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 119,
+					"canEnroll": true
+				}
+			],
+			"result": 66,
+			"sectionsResults": {
+				"Colloquio": 36,
+				"Elaborato": 18,
+				"Lettera Motivazionale": 12
+			},
+			"ofa": {}
+		},
+		{
+			"id": "6799f5deac36549a606c",
+			"birthDate": "30/05/2007",
+			"position": 120,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 120,
+					"canEnroll": true
+				}
+			],
+			"result": 66,
+			"sectionsResults": {
+				"Colloquio": 35,
+				"Elaborato": 17,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "0c672d0adf2c3bf83b23",
+			"birthDate": "11/05/2007",
+			"position": 121,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 121,
+					"canEnroll": true
+				}
+			],
+			"result": 66,
+			"sectionsResults": {
+				"Colloquio": 34,
+				"Elaborato": 18,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "3be75d7585b687680b0e",
+			"birthDate": "21/02/2007",
+			"position": 122,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 122,
+					"canEnroll": true
+				}
+			],
+			"result": 66,
+			"sectionsResults": {
+				"Colloquio": 34,
+				"Elaborato": 18,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "322adce82041676739f2",
+			"birthDate": "01/03/2008",
+			"position": 123,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 123,
+					"canEnroll": true
+				}
+			],
+			"result": 66,
+			"sectionsResults": {
+				"Colloquio": 31,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "74c69f88ad96331eedbf",
+			"birthDate": "19/05/2007",
+			"position": 124,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 124,
+					"canEnroll": true
+				}
+			],
+			"result": 66,
+			"sectionsResults": {
+				"Colloquio": 29,
+				"Elaborato": 23,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ae6c5b1be80920f4796e",
+			"birthDate": "24/03/2007",
+			"position": 125,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 125,
+					"canEnroll": true
+				}
+			],
+			"result": 65,
+			"sectionsResults": {
+				"Colloquio": 34,
+				"Elaborato": 18,
+				"Lettera Motivazionale": 13
+			},
+			"ofa": {}
+		},
+		{
+			"id": "d2fb1593241700ab5a1a",
+			"birthDate": "08/09/2007",
+			"position": 126,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 126,
+					"canEnroll": false
+				}
+			],
+			"result": 65,
+			"sectionsResults": {
+				"Colloquio": 33,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 12
+			},
+			"ofa": {}
+		},
+		{
+			"id": "46d088db93ffcefca02e",
+			"birthDate": "29/03/2007",
+			"position": 127,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 127,
+					"canEnroll": false
+				}
+			],
+			"result": 65,
+			"sectionsResults": {
+				"Colloquio": 32,
+				"Elaborato": 19,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "77141b64985710904bb0",
+			"birthDate": "12/11/2007",
+			"position": 128,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 128,
+					"canEnroll": false
+				}
+			],
+			"result": 65,
+			"sectionsResults": {
+				"Colloquio": 30,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "4641ec6d6fba69583dd8",
+			"birthDate": "21/04/2007",
+			"position": 129,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 129,
+					"canEnroll": false
+				}
+			],
+			"result": 65,
+			"sectionsResults": {
+				"Colloquio": 29,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "a020b515090881c3f080",
+			"birthDate": "07/06/2007",
+			"position": 130,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 130,
+					"canEnroll": false
+				}
+			],
+			"result": 64,
+			"sectionsResults": {
+				"Colloquio": 34,
+				"Elaborato": 16,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "7a17aba8ffc162d7f568",
+			"birthDate": "05/06/2007",
+			"position": 131,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 131,
+					"canEnroll": false
+				}
+			],
+			"result": 64,
+			"sectionsResults": {
+				"Colloquio": 32,
+				"Elaborato": 19,
+				"Lettera Motivazionale": 13
+			},
+			"ofa": {}
+		},
+		{
+			"id": "4921a06257ac913b91cc",
+			"birthDate": "01/03/2007",
+			"position": 132,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 132,
+					"canEnroll": false
+				}
+			],
+			"result": 64,
+			"sectionsResults": {
+				"Colloquio": 31,
+				"Elaborato": 18,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "97250ccea18229805790",
+			"birthDate": "03/10/2005",
+			"position": 133,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 133,
+					"canEnroll": false
+				}
+			],
+			"result": 64,
+			"sectionsResults": {
+				"Colloquio": 30,
+				"Elaborato": 18,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "e1e76cacbedc35c9849a",
+			"birthDate": "23/01/2006",
+			"position": 134,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 134,
+					"canEnroll": false
+				}
+			],
+			"result": 63,
+			"sectionsResults": {
+				"Colloquio": 34,
+				"Elaborato": 16,
+				"Lettera Motivazionale": 13
+			},
+			"ofa": {}
+		},
+		{
+			"id": "f94c95bd06ff8370d063",
+			"birthDate": "25/10/2007",
+			"position": 135,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 135,
+					"canEnroll": false
+				}
+			],
+			"result": 63,
+			"sectionsResults": {
+				"Colloquio": 32,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 11
+			},
+			"ofa": {}
+		},
+		{
+			"id": "b3f3083ed28e85e46b88",
+			"birthDate": "20/05/2002",
+			"position": 136,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 136,
+					"canEnroll": false
+				}
+			],
+			"result": 63,
+			"sectionsResults": {
+				"Colloquio": 29,
+				"Elaborato": 22,
+				"Lettera Motivazionale": 12
+			},
+			"ofa": {}
+		},
+		{
+			"id": "015adf5ec33753a41d88",
+			"birthDate": "13/06/2005",
+			"position": 137,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 137,
+					"canEnroll": false
+				}
+			],
+			"result": 62,
+			"sectionsResults": {
+				"Colloquio": 35,
+				"Elaborato": 14,
+				"Lettera Motivazionale": 13
+			},
+			"ofa": {}
+		},
+		{
+			"id": "a9d135273e1b11517ccb",
+			"birthDate": "05/12/2006",
+			"position": 138,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 138,
+					"canEnroll": false
+				}
+			],
+			"result": 62,
+			"sectionsResults": {
+				"Colloquio": 31,
+				"Elaborato": 17,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "ae7d956485ae2031e4bf",
+			"birthDate": "09/08/2007",
+			"position": 139,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 139,
+					"canEnroll": false
+				}
+			],
+			"result": 62,
+			"sectionsResults": {
+				"Colloquio": 30,
+				"Elaborato": 17,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "2ba61bfb841789cbecaf",
+			"birthDate": "17/11/2004",
+			"position": 140,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 140,
+					"canEnroll": false
+				}
+			],
+			"result": 62,
+			"sectionsResults": {
+				"Colloquio": 28,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 13
+			},
+			"ofa": {}
+		},
+		{
+			"id": "18c658991d772f364b20",
+			"birthDate": "08/07/2006",
+			"position": 141,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 141,
+					"canEnroll": false
+				}
+			],
+			"result": 62,
+			"sectionsResults": {
+				"Colloquio": 28,
+				"Elaborato": 18,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "3e734d6c60021c9d94ba",
+			"birthDate": "20/12/2007",
+			"position": 142,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 142,
+					"canEnroll": false
+				}
+			],
+			"result": 61,
+			"sectionsResults": {
+				"Colloquio": 33,
+				"Elaborato": 16,
+				"Lettera Motivazionale": 12
+			},
+			"ofa": {}
+		},
+		{
+			"id": "23c45261f414cb5da7ff",
+			"birthDate": "15/07/2007",
+			"position": 143,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 143,
+					"canEnroll": false
+				}
+			],
+			"result": 61,
+			"sectionsResults": {
+				"Colloquio": 32,
+				"Elaborato": 17,
+				"Lettera Motivazionale": 12
+			},
+			"ofa": {}
+		},
+		{
+			"id": "4f65a4ca83432bfa9002",
+			"birthDate": "08/08/2006",
+			"position": 144,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 144,
+					"canEnroll": false
+				}
+			],
+			"result": 61,
+			"sectionsResults": {
+				"Colloquio": 32,
+				"Elaborato": 13,
+				"Lettera Motivazionale": 16
+			},
+			"ofa": {}
+		},
+		{
+			"id": "bad21f55ecccf2ce5337",
+			"birthDate": "22/03/2006",
+			"position": 145,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 145,
+					"canEnroll": false
+				}
+			],
+			"result": 61,
+			"sectionsResults": {
+				"Colloquio": 30,
+				"Elaborato": 18,
+				"Lettera Motivazionale": 13
+			},
+			"ofa": {}
+		},
+		{
+			"id": "71078f2133fdeb50493a",
+			"birthDate": "15/12/2007",
+			"position": 146,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 146,
+					"canEnroll": false
+				}
+			],
+			"result": 61,
+			"sectionsResults": {
+				"Colloquio": 29,
+				"Elaborato": 19,
+				"Lettera Motivazionale": 13
+			},
+			"ofa": {}
+		},
+		{
+			"id": "f49cd882e6ad4c492dc0",
+			"birthDate": "23/04/2006",
+			"position": 147,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 147,
+					"canEnroll": false
+				}
+			],
+			"result": 61,
+			"sectionsResults": {
+				"Colloquio": 29,
+				"Elaborato": 18,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "6559aa1886226344e29d",
+			"birthDate": "15/11/2004",
+			"position": 148,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 148,
+					"canEnroll": false
+				}
+			],
+			"result": 61,
+			"sectionsResults": {
+				"Colloquio": 28,
+				"Elaborato": 19,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "6f37731535803c2ab25e",
+			"birthDate": "11/09/2007",
+			"position": 149,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 149,
+					"canEnroll": false
+				}
+			],
+			"result": 60,
+			"sectionsResults": {
+				"Colloquio": 32,
+				"Elaborato": 15,
+				"Lettera Motivazionale": 13
+			},
+			"ofa": {}
+		},
+		{
+			"id": "1f8233da13786ba1808f",
+			"birthDate": "22/06/2006",
+			"position": 150,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 150,
+					"canEnroll": false
+				}
+			],
+			"result": 60,
+			"sectionsResults": {
+				"Colloquio": 31,
+				"Elaborato": 16,
+				"Lettera Motivazionale": 13
+			},
+			"ofa": {}
+		},
+		{
+			"id": "a85a68b2d50cd77c8a0f",
+			"birthDate": "26/06/2006",
+			"position": 151,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 151,
+					"canEnroll": false
+				}
+			],
+			"result": 60,
+			"sectionsResults": {
+				"Colloquio": 30,
+				"Elaborato": 15,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "c726f0a9480612b0fd08",
+			"birthDate": "14/06/2006",
+			"position": 152,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 152,
+					"canEnroll": false
+				}
+			],
+			"result": 60,
+			"sectionsResults": {
+				"Colloquio": 29,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 10
+			},
+			"ofa": {}
+		},
+		{
+			"id": "7d95738102ac881b93c6",
+			"birthDate": "17/11/2006",
+			"position": 153,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 153,
+					"canEnroll": false
+				}
+			],
+			"result": 60,
+			"sectionsResults": {
+				"Colloquio": 29,
+				"Elaborato": 18,
+				"Lettera Motivazionale": 13
+			},
+			"ofa": {}
+		},
+		{
+			"id": "3a4977df7ea4dcb255af",
+			"birthDate": "12/12/2007",
+			"position": 154,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 154,
+					"canEnroll": false
+				}
+			],
+			"result": 60,
+			"sectionsResults": {
+				"Colloquio": 28,
+				"Elaborato": 20,
+				"Lettera Motivazionale": 12
+			},
+			"ofa": {}
+		},
+		{
+			"id": "e3f662e05fca4920a5c8",
+			"birthDate": "31/07/2005",
+			"position": 155,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 155,
+					"canEnroll": false
+				}
+			],
+			"result": 60,
+			"sectionsResults": {
+				"Colloquio": 28,
+				"Elaborato": 18,
+				"Lettera Motivazionale": 14
+			},
+			"ofa": {}
+		},
+		{
+			"id": "77ebbe4b06b4c9abf084",
+			"birthDate": "14/06/2007",
+			"position": 156,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 156,
+					"canEnroll": false
+				}
+			],
+			"result": 60,
+			"sectionsResults": {
+				"Colloquio": 28,
+				"Elaborato": 17,
+				"Lettera Motivazionale": 15
+			},
+			"ofa": {}
+		},
+		{
+			"id": "3dc66d7b70c00022e7ce",
+			"birthDate": "12/06/2007",
+			"position": 157,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "URBANISTICA: CITTA' AMBIENTE PAESAGGIO",
+					"location": "MILANO LEONARDO",
+					"position": 157,
+					"canEnroll": false
+				}
+			],
+			"result": 60,
+			"sectionsResults": {
+				"Colloquio": 26,
+				"Elaborato": 21,
+				"Lettera Motivazionale": 13
+			},
+			"ofa": {}
+		}
+	]
+}
