@@ -2216,6 +2216,19 @@
 					"language": "IT",
 					"isExtraEu": false
 				}
+			},
+			{
+				"id": "2026_20010_4cf1_html",
+				"school": "Urbanistica",
+				"year": 2026,
+				"phase": {
+					"raw": "Seconda Graduatoria Di Prima Fase",
+					"stripped": "Seconda Graduatoria Di Prima Fase",
+					"primary": 1,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
 			}
 		]
 	}
