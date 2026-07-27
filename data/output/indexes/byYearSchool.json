@@ -2207,6 +2207,32 @@
 					"language": "IT",
 					"isExtraEu": true
 				}
+			},
+			{
+				"id": "2026_20094_3edd_html",
+				"school": "Ingegneria",
+				"year": 2026,
+				"phase": {
+					"raw": "Prima Graduatoria Di Terza Fase",
+					"stripped": "Prima Graduatoria Di Terza Fase",
+					"primary": 3,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2026_20033_59b3_html",
+				"school": "Ingegneria",
+				"year": 2026,
+				"phase": {
+					"raw": "Prima Graduatoria Di Terza Fase",
+					"stripped": "Prima Graduatoria Di Terza Fase",
+					"primary": 3,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": true
+				}
 			}
 		],
 		"Urbanistica": [
