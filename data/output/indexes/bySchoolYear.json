@@ -596,6 +596,60 @@
 					"isExtraEu": true
 				}
 			}
+		],
+		"2026": [
+			{
+				"id": "2026_20002_53dd_html",
+				"school": "Architettura",
+				"year": 2026,
+				"phase": {
+					"raw": "Prima Graduatoria",
+					"stripped": "Prima Graduatoria",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2026_20005_482e_html",
+				"school": "Architettura",
+				"year": 2026,
+				"phase": {
+					"raw": "Prima Graduatoria",
+					"stripped": "Prima Graduatoria",
+					"primary": 0,
+					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2026_20024_614c_html",
+				"school": "Architettura",
+				"year": 2026,
+				"phase": {
+					"raw": "Prima Graduatoria",
+					"stripped": "Prima Graduatoria",
+					"primary": 0,
+					"secondary": 1,
+					"language": "EN",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2026_20011_5aa3_html",
+				"school": "Architettura",
+				"year": 2026,
+				"phase": {
+					"raw": "Prima Graduatoria",
+					"stripped": "Prima Graduatoria",
+					"primary": 0,
+					"secondary": 1,
+					"language": "EN",
+					"isExtraEu": true
+				}
+			}
 		]
 	},
 	"Design": {
@@ -1963,6 +2017,32 @@
 					"stripped": "Prima Graduatoria Di Terza Fase",
 					"primary": 3,
 					"secondary": 1,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2026_20095_45c7_html",
+				"school": "Ingegneria",
+				"year": 2026,
+				"phase": {
+					"raw": "Seconda Graduatoria Di Terza Fase",
+					"stripped": "Seconda Graduatoria Di Terza Fase",
+					"primary": 3,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2026_20034_3eaa_html",
+				"school": "Ingegneria",
+				"year": 2026,
+				"phase": {
+					"raw": "Seconda Graduatoria Di Terza Fase",
+					"stripped": "Seconda Graduatoria Di Terza Fase",
+					"primary": 3,
+					"secondary": 2,
 					"language": "IT",
 					"isExtraEu": true
 				}
