@@ -649,6 +649,58 @@
 					"language": "EN",
 					"isExtraEu": true
 				}
+			},
+			{
+				"id": "2026_20060_47a1_html",
+				"school": "Architettura",
+				"year": 2026,
+				"phase": {
+					"raw": "Seconda Graduatoria",
+					"stripped": "Seconda Graduatoria",
+					"primary": 0,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2026_20104_383b_html",
+				"school": "Architettura",
+				"year": 2026,
+				"phase": {
+					"raw": "Seconda Graduatoria",
+					"stripped": "Seconda Graduatoria",
+					"primary": 0,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": true
+				}
+			},
+			{
+				"id": "2026_20025_3b41_html",
+				"school": "Architettura",
+				"year": 2026,
+				"phase": {
+					"raw": "Seconda Graduatoria",
+					"stripped": "Seconda Graduatoria",
+					"primary": 0,
+					"secondary": 2,
+					"language": "EN",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2026_20012_317f_html",
+				"school": "Architettura",
+				"year": 2026,
+				"phase": {
+					"raw": "Seconda Graduatoria",
+					"stripped": "Seconda Graduatoria",
+					"primary": 0,
+					"secondary": 2,
+					"language": "EN",
+					"isExtraEu": true
+				}
 			}
 		]
 	},
