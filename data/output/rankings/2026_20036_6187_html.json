@@ -1,0 +1,956 @@
+{
+	"id": "2026_20036_6187_html",
+	"school": "Ingegneria",
+	"year": 2026,
+	"phase": {
+		"raw": "Seconda Graduatoria Di Quarta Fase",
+		"stripped": "Seconda Graduatoria Di Quarta Fase",
+		"primary": 4,
+		"secondary": 2,
+		"language": "IT",
+		"isExtraEu": true
+	},
+	"courses": {
+		"INGEGNERIA ELETTRONICA": [
+			"MILANO LEONARDO"
+		],
+		"INGEGNERIA INFORMATICA": [
+			"MILANO LEONARDO"
+		],
+		"PROCESS ENGINEERING": [
+			"CREMONA"
+		]
+	},
+	"rows": [
+		{
+			"id": "82d78e5a9fe77212278d",
+			"birthDate": "04/07/2008",
+			"position": 1,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 1,
+					"canEnroll": true
+				}
+			],
+			"result": 91.69,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "da192e1931a4f0637d5f",
+			"birthDate": "01/03/2004",
+			"position": 2,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 2,
+					"canEnroll": true
+				}
+			],
+			"result": 91.36,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "e9496257ec24be96ab8f",
+			"birthDate": "27/09/2007",
+			"position": 3,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 3,
+					"canEnroll": true
+				}
+			],
+			"result": 91.36,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "76f77b8b6238adef5cdb",
+			"birthDate": "15/03/2008",
+			"position": 4,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 4,
+					"canEnroll": false
+				}
+			],
+			"result": 91.02,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "0bba445c30643f8998b6",
+			"birthDate": "08/08/2008",
+			"position": 5,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 5,
+					"canEnroll": false
+				}
+			],
+			"result": 90.36,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "656f473f9c27a0cb3a69",
+			"birthDate": "18/11/2008",
+			"position": 6,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 6,
+					"canEnroll": false
+				}
+			],
+			"result": 90.03,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "75a867180fd7fa8ba25f",
+			"birthDate": "09/06/2007",
+			"position": 7,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 7,
+					"canEnroll": false
+				}
+			],
+			"result": 90.03,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "78cf7c417cffd6bdd30c",
+			"birthDate": "17/03/2008",
+			"position": 8,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 8,
+					"canEnroll": false
+				}
+			],
+			"result": 89.69,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "c66147a15267032df1f1",
+			"birthDate": "30/03/2001",
+			"position": 9,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 9,
+					"canEnroll": false
+				}
+			],
+			"result": 89.69,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "c46718beb0c47d5a7afc",
+			"birthDate": "04/08/2008",
+			"position": 10,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 10,
+					"canEnroll": false
+				}
+			],
+			"result": 89.36,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "870407bdffbd0f956131",
+			"birthDate": "24/03/2008",
+			"position": 11,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 11,
+					"canEnroll": false
+				}
+			],
+			"result": 89.36,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "c989f7e64e7c083ee559",
+			"birthDate": "24/05/2007",
+			"position": 12,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA ELETTRONICA",
+					"location": "MILANO LEONARDO",
+					"position": 1,
+					"canEnroll": true
+				},
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 12,
+					"canEnroll": false
+				}
+			],
+			"result": 89.36,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "96a5f89d051bd19ce29f",
+			"birthDate": "25/01/2006",
+			"position": 13,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 13,
+					"canEnroll": false
+				}
+			],
+			"result": 88.7,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "b007315cb332d1445420",
+			"birthDate": "16/10/2008",
+			"position": 14,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 14,
+					"canEnroll": false
+				}
+			],
+			"result": 88.7,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "0f4caf8ea05849258577",
+			"birthDate": "18/07/2008",
+			"position": 15,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 15,
+					"canEnroll": false
+				}
+			],
+			"result": 88.36,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "9dee74c775c168540974",
+			"birthDate": "17/09/2007",
+			"position": 16,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 16,
+					"canEnroll": false
+				}
+			],
+			"result": 88.36,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "a4cb2e15c81d6b06c09a",
+			"birthDate": "01/01/2004",
+			"position": 17,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 17,
+					"canEnroll": false
+				}
+			],
+			"result": 87.03,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "7f1fd8091adec2e01998",
+			"birthDate": "27/07/2006",
+			"position": 18,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 18,
+					"canEnroll": false
+				}
+			],
+			"result": 86.37,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "f0a5b987529a4d9bf146",
+			"birthDate": "24/09/2007",
+			"position": 19,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 19,
+					"canEnroll": false
+				}
+			],
+			"result": 86.04,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "2aa60d369d16bd1c6495",
+			"birthDate": "30/12/2005",
+			"position": 20,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 20,
+					"canEnroll": false
+				}
+			],
+			"result": 85.83,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "8ab042e49e8474d4bd62",
+			"birthDate": "22/11/2007",
+			"position": 21,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 21,
+					"canEnroll": false
+				}
+			],
+			"result": 85.37,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "ac72482c05fb57502b10",
+			"birthDate": "05/05/2004",
+			"position": 22,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 22,
+					"canEnroll": false
+				}
+			],
+			"result": 84.71,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "ca46377d2a966b909002",
+			"birthDate": "26/03/2006",
+			"position": 23,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 23,
+					"canEnroll": false
+				}
+			],
+			"result": 84.37,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "4df6d7aad55e8ed807d1",
+			"birthDate": "23/04/2007",
+			"position": 24,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 24,
+					"canEnroll": false
+				}
+			],
+			"result": 83.38,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "37782f874fde1e0ef045",
+			"birthDate": "23/04/2008",
+			"position": 25,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 25,
+					"canEnroll": false
+				}
+			],
+			"result": 82.05,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "604e29bc1f7d39482164",
+			"birthDate": "17/08/2008",
+			"position": 26,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 26,
+					"canEnroll": false
+				}
+			],
+			"result": 80.95,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "891bd56b2856d24e4cb3",
+			"birthDate": "23/05/2005",
+			"position": 27,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 27,
+					"canEnroll": false
+				}
+			],
+			"result": 80.84,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "a5d26335ba515940ef3e",
+			"birthDate": "09/12/2007",
+			"position": 28,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 28,
+					"canEnroll": false
+				}
+			],
+			"result": 80.55,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "1ad254d3827f63eb5a40",
+			"birthDate": "16/09/2007",
+			"position": 29,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 29,
+					"canEnroll": false
+				}
+			],
+			"result": 78.97,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "f0b1f29049f4a3722e97",
+			"birthDate": "02/05/2002",
+			"position": 30,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 30,
+					"canEnroll": false
+				}
+			],
+			"result": 78.57,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "04909ffd9090a5cbaf2d",
+			"birthDate": "22/06/2008",
+			"position": 31,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 31,
+					"canEnroll": false
+				}
+			],
+			"result": 78.17,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "b55b055681aa0aaae754",
+			"birthDate": "31/10/2006",
+			"position": 32,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 32,
+					"canEnroll": false
+				}
+			],
+			"result": 77.78,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "9de8e26f740c73223b75",
+			"birthDate": "22/03/2008",
+			"position": 33,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 33,
+					"canEnroll": false
+				}
+			],
+			"result": 77.78,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "2d09028a97bcf51a8e9c",
+			"birthDate": "15/07/2006",
+			"position": 34,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 34,
+					"canEnroll": false
+				}
+			],
+			"result": 77.38,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "60e7776fbc78114b204d",
+			"birthDate": "16/09/2004",
+			"position": 35,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 35,
+					"canEnroll": false
+				}
+			],
+			"result": 76.99,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "8eb875f68117adde8a9d",
+			"birthDate": "26/06/2006",
+			"position": 36,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 36,
+					"canEnroll": false
+				}
+			],
+			"result": 76.25,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "f850fdd400e38add41f3",
+			"birthDate": "11/04/2008",
+			"position": 37,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 37,
+					"canEnroll": false
+				}
+			],
+			"result": 75.17,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "79831d09ac277970ce72",
+			"birthDate": "28/05/2007",
+			"position": 38,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 38,
+					"canEnroll": false
+				}
+			],
+			"result": 75,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "46e87366bcc2adfcc096",
+			"birthDate": "18/10/2008",
+			"position": 39,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 39,
+					"canEnroll": false
+				}
+			],
+			"result": 74.17,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "7abfaac58a2e8f9f89a9",
+			"birthDate": "20/10/2005",
+			"position": 40,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 40,
+					"canEnroll": false
+				}
+			],
+			"result": 73.82,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "3025df2643363f277440",
+			"birthDate": "31/08/2008",
+			"position": 41,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 41,
+					"canEnroll": false
+				}
+			],
+			"result": 70.65,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "4dd89664c15b38b58483",
+			"birthDate": "23/08/2003",
+			"position": 42,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "INGEGNERIA INFORMATICA",
+					"location": "MILANO LEONARDO",
+					"position": 1,
+					"canEnroll": true
+				},
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 42,
+					"canEnroll": false
+				}
+			],
+			"result": 70.65,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "3fc734471fd224807276",
+			"birthDate": "17/02/2009",
+			"position": 43,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 43,
+					"canEnroll": false
+				}
+			],
+			"result": 70.25,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "d450dfcfa3243aa8db83",
+			"birthDate": "14/09/2007",
+			"position": 44,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 44,
+					"canEnroll": false
+				}
+			],
+			"result": 69.17,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "a51205998ad305a7a659",
+			"birthDate": "02/01/2006",
+			"position": 45,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 45,
+					"canEnroll": false
+				}
+			],
+			"result": 68.83,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "ff2e76729cf19b302693",
+			"birthDate": "08/10/2008",
+			"position": 46,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 46,
+					"canEnroll": false
+				}
+			],
+			"result": 66.29,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "383ee58f15fe0680f8db",
+			"birthDate": "22/04/2004",
+			"position": 47,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 47,
+					"canEnroll": false
+				}
+			],
+			"result": 63.12,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "b8293268084eb6a61255",
+			"birthDate": "20/02/2006",
+			"position": 48,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 48,
+					"canEnroll": false
+				}
+			],
+			"result": 60.16,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "5d8db608db542350718b",
+			"birthDate": "04/01/2007",
+			"position": 49,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 49,
+					"canEnroll": false
+				}
+			],
+			"result": 56.67,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "8b543b0aa8d1a5a9e289",
+			"birthDate": "07/05/2001",
+			"position": 50,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 50,
+					"canEnroll": false
+				}
+			],
+			"result": 53.61,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "7b1bb56360b194a1015b",
+			"birthDate": "22/06/2007",
+			"position": 51,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 51,
+					"canEnroll": false
+				}
+			],
+			"result": 43.5,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "10bb6570ebf6b7c6b135",
+			"birthDate": "01/01/2009",
+			"position": 52,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 52,
+					"canEnroll": false
+				}
+			],
+			"result": 41.33,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "7d30338ac1a404c52ba1",
+			"birthDate": "26/11/2006",
+			"position": 53,
+			"canEnroll": true,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 53,
+					"canEnroll": false
+				}
+			],
+			"result": 39.5,
+			"sectionsResults": null,
+			"ofa": {}
+		},
+		{
+			"id": "8167781980306e370989",
+			"birthDate": "07/07/2000",
+			"position": 54,
+			"canEnroll": false,
+			"courses": [
+				{
+					"title": "PROCESS ENGINEERING",
+					"location": "CREMONA",
+					"position": 54,
+					"canEnroll": false
+				}
+			],
+			"result": 33.63,
+			"sectionsResults": null,
+			"ofa": {}
+		}
+	]
+}

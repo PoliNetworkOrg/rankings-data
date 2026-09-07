@@ -2443,6 +2443,32 @@
 					"language": "IT",
 					"isExtraEu": true
 				}
+			},
+			{
+				"id": "2026_20097_4e85_html",
+				"school": "Ingegneria",
+				"year": 2026,
+				"phase": {
+					"raw": "Seconda Graduatoria Di Quarta Fase",
+					"stripped": "Seconda Graduatoria Di Quarta Fase",
+					"primary": 4,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2026_20036_6187_html",
+				"school": "Ingegneria",
+				"year": 2026,
+				"phase": {
+					"raw": "Seconda Graduatoria Di Quarta Fase",
+					"stripped": "Seconda Graduatoria Di Quarta Fase",
+					"primary": 4,
+					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": true
+				}
 			}
 		],
 		"Urbanistica": [
@@ -2468,6 +2494,19 @@
 					"stripped": "Seconda Graduatoria Di Prima Fase",
 					"primary": 1,
 					"secondary": 2,
+					"language": "IT",
+					"isExtraEu": false
+				}
+			},
+			{
+				"id": "2026_20009_2eb8_html",
+				"school": "Urbanistica",
+				"year": 2026,
+				"phase": {
+					"raw": "Prima Graduatoria Di Seconda Fase",
+					"stripped": "Prima Graduatoria Di Seconda Fase",
+					"primary": 2,
+					"secondary": 1,
 					"language": "IT",
 					"isExtraEu": false
 				}
